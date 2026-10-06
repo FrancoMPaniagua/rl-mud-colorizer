@@ -19,7 +19,7 @@ const MUDLET_HEADER = `<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 4.01//EN' 'http:/
   <meta http-equiv='content-type' content='text/html; charset=utf-8'>  <meta name='generator' content='Mudlet MUD Client version: 4.19.1'>
   <title>Mudlet, main console extract from Reinos de Leyenda profile</title>
   <style type='text/css'>
-   <!-- body { font-family: 'Bitstream Vera Sans Mono', 'Courier New', 'Monospace', 'Courier'; font-size: 100%; line-height: 1.125em; white-space: nowrap; color:rgb(255,255,255); background-color:rgb(0,0,0);}
+   <!-- body { font-family: 'Bitstream Vera Sans Mono', 'Courier New', 'Monospace', 'Courier'; font-size: 100%; line-height: 1.125em; white-space: pre-wrap; color:rgb(255,255,255); background-color:rgb(0,0,0);}
         span { white-space: pre-wrap; } -->
   </style>
   </head>
@@ -582,7 +582,7 @@ class RLColorizerJS {
 
         const lines = normalized.split('\n');
         const renderedLines = lines.map(line => this.colorizeLine(line));
-        const bodyContent = renderedLines.map(r => r + '<br>').join('\n');
+        const bodyContent = renderedLines.join('\n');
 
         return `${MUDLET_HEADER}${bodyContent}\n </div></body>\n</html>`;
     }

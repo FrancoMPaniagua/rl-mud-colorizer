@@ -18,7 +18,7 @@ MUDLET_HEADER = (
     "  <meta http-equiv='content-type' content='text/html; charset=utf-8'>  <meta name='generator' content='Mudlet MUD Client version: 4.19.1'>\n"
     "  <title>Mudlet, main console extract from Reinos de Leyenda profile</title>\n"
     "  <style type='text/css'>\n"
-    "   <!-- body { font-family: 'Bitstream Vera Sans Mono', 'Courier New', 'Monospace', 'Courier'; font-size: 100%; line-height: 1.125em; white-space: nowrap; color:rgb(255,255,255); background-color:rgb(0,0,0);}\n"
+    "   <!-- body { font-family: 'Bitstream Vera Sans Mono', 'Courier New', 'Monospace', 'Courier'; font-size: 100%; line-height: 1.125em; white-space: pre-wrap; color:rgb(255,255,255); background-color:rgb(0,0,0);}\n"
     "        span { white-space: pre-wrap; } -->\n"
     "  </style>\n"
     "  </head>\n"
@@ -475,7 +475,7 @@ class RLColorizer:
 
         lines = normalized.split('\n')
         rendered_lines = [self.colorize_line(line) for line in lines]
-        body_content = "\n".join(r + "<br>" for r in rendered_lines)
+        body_content = "\n".join(rendered_lines)
 
         return f"{MUDLET_HEADER}{body_content}\n </div></body>\n</html>"
 

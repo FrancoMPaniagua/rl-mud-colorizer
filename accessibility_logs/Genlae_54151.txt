@@ -1,0 +1,375 @@
+
+-Kahan (Hum)- llega desde el noreste.
+
+Kahan saca algo de su Bolsita.
+
+Kahan saca algo de su Bolsita.
+
+Kahan empieza a formular un hechizo.
+
+so
+
+Cartel.
+Camino de Ëarmen- Bosque de Orgoth [oeste,sudeste,sur,noreste] 
+
+Pv:2145 Pe:457 Xp:1921710
+SL: [o,se,s,ne]
+NM:
+LD:
+Imágenes:0
+Pieles:0
+> 
+se
+[Tiradas] Tirada de salvación de conjuro(desintegrar) % de éxito: 18 (34-16). Tirada: 77 (Fallo).
+* Una de tus Espadas Guardianas bloquea el impacto de Kahan mientras parpadea absorviendo el daño y desaparece.
+
+Una de las espadas que rodeaban a Genlae bloquea el ataque de Kahan mientras parpadea absorviendo el daño y desaparece.
+7 Espadas Guardianas giran ahora a tu alrededor.
+
+Charco de sangre
+Loro está aquí.
+Márgenes del Iaurduin [sudeste,noroeste] 
+
+Pv:2145 Pe:457 Xp:1921710
+SL: [se,no]
+NM:
+LD:
+Imágenes:0
+Pieles:0
+] 
+se
+
+Pv:2145 Pe:457 Xp:1921710
+SL: [se,no]
+NM:
+LD:
+Imágenes:0
+Pieles:0
+] 
+se
+
+Márgenes del Iaurduin [sudeste,este,noroeste] 
+
+Pv:2145 Pe:457 Xp:1921710
+SL: [se,e,no]
+NM:
+LD:
+Imágenes:0
+Pieles:0
+] 
+st
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+no
+
+Charco de sangre
+Loro está aquí.
+Márgenes del Iaurduin [sudeste,noroeste] 
+
+Pv:2145 Pe:457 Xp:1921710
+SL: [se,no]
+NM:
+LD:
+Imágenes:0
+Pieles:0
+] 
+no
+
+Cartel.
+Camino de Ëarmen- Bosque de Orgoth [oeste,sudeste,sur,noreste] 
+
+Pv:2145 Pe:457 Xp:1921710
+SL: [o,se,s,ne]
+NM:
+LD:
+Imágenes:0
+Pieles:0
+> 
+ne
+
+Charco de sangre
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+
+Pv:2145 Pe:457 Xp:1921710
+SL: [so,ne]
+NM:
+LD:
+Imágenes:0
+Pieles:0
+] 
+ne
+
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+
+Pv:2145 Pe:457 Xp:1921710
+SL: [so,ne]
+NM:
+LD:
+Imágenes:0
+Pieles:0
+> 
+ne
+
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+
+Pv:2145 Pe:457 Xp:1921710
+SL: [so,ne]
+NM:
+LD:
+Imágenes:0
+Pieles:0
+] 
+ne
+
+Kahan (Hum) está aquí.
+Poste.
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [oeste,sudoeste,este,noroeste] 
+
+Pv:2145 Pe:457 Xp:1921710
+SL: [o,so,e,no]
+NM:Kahan (Hum)
+LD:Kahan (Hum)
+Imágenes:0
+Pieles:0
+> 
+car
+Comienzas a formular el hechizo 'Piedra a carne'.
+
+Pv:2145 Pe:457 Xp:1921710
+SL: [o,so,e,no]
+NM:Kahan (Hum)
+LD:Kahan (Hum)
+Imágenes:0
+Pieles:0
+] 
+Pronuncias el cántico: 'past carnale'
+Mueves tu mano al frente señalando Kahan con cuatro dedos y una luz carnosa empieza a cubrirle.
+
+La piel de piedra de Kahan se resquebraja de repente.
+
+[Obtienes 89 puntos de experiencia]
+
+4
+No hay ningún oponente ante ti.
+
+Pv:2145 Pe:436 Xp:1921799
+SL: [o,so,e,no]
+NM:Kahan (Hum)
+LD:Kahan (Hum)
+Imágenes:0
+Pieles:0
+] 
+matar x
+Te encaras contra Kahan en posición de combate.
+
+Pv:2145 Pe:436 Xp:1921799
+SL: [o,so,e,no]
+PL:Kahan (Hum)
+NM:Kahan (Hum)
+LD:Kahan (Hum)
+Imágenes:0
+Pieles:0
+> 
+# Una de tus Espadas Guardianas golpea a Kahan mientras gira a tu alrededor.
+# Una de tus Espadas Guardianas golpea a Kahan mientras gira a tu alrededor.
+* Una de tus Espadas Guardianas bloquea el impacto de Kahan mientras parpadea absorviendo el daño y desaparece.
+
+Una de las espadas que rodeaban a Genlae bloquea el ataque de Kahan mientras parpadea absorviendo el daño y desaparece.
+6 Espadas Guardianas giran ahora a tu alrededor.
+
+4
+Pasas tu mano sobre tu Espada Azul mientras te concentras intentando despertar su magia.
+
+Pv:2145 Pe:429 Xp:1921799
+SL: [o,so,e,no]
+PL:Kahan (Hum)
+NM:Kahan (Hum)
+LD:Kahan (Hum)
+Imágenes:0
+Pieles:0
+] 
+# Tu ataque rebota en la piel de piedra de Kahan.
+# Mojas a Kahan.
+
+[Obtienes 9 puntos de experiencia]
+# Tu ataque rebota en la piel de piedra de Kahan.
+# Mojas a Kahan.
+# Pronuncias unas palabras mágicas y tu Espada Azul empieza a vibrar y se ilumina deshaciendo los tejidos de Kahan.
+
+[Obtienes 326 puntos de experiencia]
+
+-Kahan (Hum)- se va hacia sudoeste.
+
+e
+No puedes avanzar de nivel sin un Registro de Nivel I. Consulta ayuda registrarse para más información.
+
+Pv:2145 Pe:429 Xp:1922134
+SL: [o,so,e,no]
+PL:
+NM:
+LD:
+Imágenes:0
+Pieles:0
+] 
+
+Linde Este del Bosque de Orgoth- Dinmen [oeste,este] 
+
+Pv:2145 Pe:429 Xp:1922134
+SL: [o,e]
+PL:
+NM:
+LD:
+Imágenes:0
+Pieles:0
+> 
+o
+
+Poste.
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [oeste,sudoeste,este,noroeste] 
+
+Pv:2145 Pe:429 Xp:1922134
+SL: [o,so,e,no]
+PL:
+NM:
+LD:
+Imágenes:0
+Pieles:0
+> 
+Estás persiguiendo a Kahan.
+
+so
+
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+
+Pv:2145 Pe:429 Xp:1922134
+SL: [so,ne]
+NM:
+LD:
+Imágenes:0
+Pieles:0
+> 
+so
+
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+
+Pv:2145 Pe:429 Xp:1922134
+SL: [so,ne]
+NM:
+LD:
+Imágenes:0
+Pieles:0
+] 
+car
+-Kahan (Hum)- llega desde el sudoeste.
+
+Has agotado la energía necesaria para formular 'Piedra a carne' y debes descansar antes de poder usar ese tipo de energía.
+
+Pv:2145 Pe:430 Xp:1922134
+SL: [so,ne]
+PL:Kahan (Hum)
+NM:Kahan (Hum)
+LD:Kahan (Hum)
+Imágenes:0
+Pieles:0
+> 
+# Una de tus Espadas Guardianas golpea a Kahan mientras gira a tu alrededor.
+# Una de tus Espadas Guardianas golpea a Kahan mientras gira a tu alrededor.
+
+Una runa inscrita en la espada de Kahan se ilumina tenuemente.
+* Una de tus Espadas Guardianas bloquea el impacto de Kahan mientras parpadea absorviendo el daño y desaparece.
+
+Una de las espadas que rodeaban a Genlae bloquea el ataque de Kahan mientras parpadea absorviendo el daño y desaparece.
+5 Espadas Guardianas giran ahora a tu alrededor.
+
+-Kahan (Hum)- se va hacia noreste.
+so
+
+
+Charco de sangre
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+
+Pv:2145 Pe:430 Xp:1922134
+SL: [so,ne]
+NM:
+LD:
+Imágenes:0
+Pieles:0
+] 
+ne
+
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+
+Pv:2145 Pe:430 Xp:1922134
+SL: [so,ne]
+NM:
+LD:
+Imágenes:0
+Pieles:0
+> 
+ne
+
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+
+Pv:2145 Pe:430 Xp:1922134
+SL: [so,ne]
+NM:
+LD:
+Imágenes:0
+Pieles:0
+> 
+-Kahan (Hum)- llega desde el noreste.
+
+# Una de tus Espadas Guardianas golpea a Kahan mientras gira a tu alrededor.
+# Una de tus Espadas Guardianas golpea a Kahan mientras gira a tu alrededor.
+* Una de tus Espadas Guardianas bloquea el impacto de Kahan mientras parpadea absorviendo el daño y desaparece.
+
+Una de las espadas que rodeaban a Genlae bloquea el ataque de Kahan mientras parpadea absorviendo el daño y desaparece.
+4 Espadas Guardianas giran ahora a tu alrededor.
+
+La piel de Kahan vuelve a su estado normal.
+
+4
+Kahan saca algo de su Bolsita.
+
+Kahan saca algo de su Bolsita.
+
+Kahan empieza a formular un hechizo.
+
+Pasas tu mano sobre tu Espada Azul mientras te concentras intentando despertar su magia.
+
+Pv:2145 Pe:423 Xp:1922134
+SL: [so,ne]
+PL:Kahan (Hum)
+NM:Kahan (Hum)
+LD:Kahan (Hum)
+Imágenes:0
+Pieles:0
+] 
+# Rajas con mucha fuerza a Kahan.
+Tu ataque sorbe parte de la resistencia contra fuego de Kahan.
+¡Tu Espada Azul te entrega la energía de Kahan!
+# Mojas a Kahan.
+
+[Obtienes 27 puntos de experiencia]
+
+¡Kahan pierde la concentración!
+# Rajas violentamente a Kahan.
+Tu ataque sorbe parte de la resistencia contra frio de Kahan.
+# Mojas a Kahan.
+# Pronuncias unas palabras mágicas y tu Espada Azul empieza a vibrar y se ilumina deshaciendo los tejidos de Kahan.
+
+[Obtienes 367 puntos de experiencia]
+[El bloqueo 'Piedra a carne' termina]
+[Tu estatus con Dendra, Shaunt, Ar'Kaindia y Grimoszk ha aumentado]
+[Tu alineamiento ha disminuído]
+
+[Obtienes 189550 puntos de experiencia]
+Propinas el golpe mortal a Kahan.
+
+Kahan ha muerto.
+
+Kahan cae al suelo sin vida.
+
+Kahan da un grito desgarrador antes de que su espíritu abandone Eirea.
+[Obtienes 20 puntos de gloria]
+

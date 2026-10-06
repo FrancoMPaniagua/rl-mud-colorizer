@@ -1,0 +1,423 @@
+Preparas los componentes del hechizo.
+Pronuncias el cántico: 'bellum destruct corpore'
+# Extiendes las palmas de tus manos formando un triángulo hacia Sphynx y un mortal rayo de energía le golpea de lleno, disgregando sus átomos y esparciéndolos en el aire.
+[Obtienes 235 puntos de experiencia]
+Mano espectral está aquí.
+Linde Este del Bosque de Orgoth- Dinmen [oeste,este] 
+Esqueleto Calcinado
+Esqueleto Calcinado te sigue.
+> 
+Sphynx (Hlag) llega desde el este.
+Tres Bandidos y Mano espectral están aquí.
+Bolsa de monedas (treinta y seis oros, siete elystras, seiscientos veintiseis maizs, doscientos noventa y seis sesioms, cuarenta y dos belas, cuatro safrios, veinte platinos y dos
+monedas de cobre).
+Senda del Alba [oeste,norte,este] 
+Esqueleto Calcinado
+Esqueleto Calcinado te sigue.
+] 
+No hay ningún oponente ante ti.
+] 
+Sphynx (Hlag) llega desde el oeste.
+] 
+# Sphynx consigue parar críticamente tu ataque.
+Sphynx (Hlag) se va hacia oeste.
+Estás persiguiendo a Sphynx.
+No hay ningún oponente ante ti.
+] 
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+No hay ningún oponente ante ti.
+] 
+[Glauck Girlhim orbita a Eirea (Jugador Novel)]
+Mano espectral está aquí.
+Sphynx (Hlag) está aquí.
+Linde Este del Bosque de Orgoth- Dinmen [oeste,este] 
+Esqueleto Calcinado
+Esqueleto Calcinado te sigue.
+> 
+Sphynx (Hlag) se va hacia este.
+No hay ningún oponente ante ti.
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+Sphynx (Hlag) llega desde el este.
+] 
+Sphynx (Hlag) se va hacia oeste.
+No hay ningún oponente ante ti.
+] 
+] 
+[El bloqueo 'Desintegrar' termina]
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+Mano espectral está aquí.
+Linde Este del Bosque de Orgoth- Dinmen [oeste,este] 
+Esqueleto Calcinado
+Esqueleto Calcinado te sigue.
+> 
+No hay ningún oponente ante ti.
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+Sangre putrefacta
+Mano espectral está aquí.
+Sphynx (Hlag) está aquí.
+Poste.
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [oeste,sudoeste,este,noroeste] 
+Esqueleto Calcinado
+Esqueleto Calcinado te sigue.
+> 
+Pasas tu mano sobre tu Espada Azul mientras te concentras intentando despertar su magia.
+] 
+! Sphynx se prepara para ejecutar destripar sobre ti.
+# Rajas con fuerza a Sphynx.
+Tu ataque sorbe parte de la resistencia contra fuego de Sphynx.
+¡Tu Espada Azul te entrega la energía de Sphynx!
+# Congelas a Sphynx.
+[Obtienes 21 puntos de experiencia]
+# Rajas con mucha fuerza a Sphynx.
+Tu ataque sorbe parte de la resistencia contra magico de Sphynx.
+# Congelas a Sphynx.
+# Pronuncias unas palabras mágicas y tu Espada Azul empieza a vibrar y se ilumina deshaciendo los tejidos de Sphynx.
+[Obtienes 303 puntos de experiencia]
+Pvs: 26112611 Pe: 612706
+Comienzas a formular el hechizo 'Desintegrar'.
+> 
+Esqueleto Calcinado te protege valientemente.
+* El ataque de Sphynx rebota en tu piel de piedra.
+Sphynx (Hlag) se va hacia este.
+Estás persiguiendo a Sphynx.
+Preparas los componentes del hechizo.
+Pronuncias el cántico: 'bellum destruct corpore'
+# Extiendes las palmas de tus manos formando un triángulo hacia Sphynx y un mortal rayo de energía le golpea de lleno, disgregando sus átomos y esparciéndolos en el aire.
+[Obtienes 235 puntos de experiencia]
+Mano espectral está aquí.
+Linde Este del Bosque de Orgoth- Dinmen [oeste,este] 
+Esqueleto Calcinado
+Esqueleto Calcinado te sigue.
+> 
+Mano espectral está aquí.
+Linde Este del Bosque de Orgoth- Dinmen [oeste,este] 
+Esqueleto Calcinado
+Esqueleto Calcinado te sigue.
+] 
+] 
+Bandido y Mano espectral están aquí.
+Sphynx (Hlag) está aquí.
+Bolsa de monedas (treinta y seis oros, siete elystras, seiscientos veintiseis maizs, doscientos noventa y seis sesioms, cuarenta y dos belas, cuatro safrios, veinte platinos y dos
+monedas de cobre).
+Senda del Alba [oeste,norte,este] 
+Esqueleto Calcinado
+Esqueleto Calcinado te sigue.
+] 
+Sphynx (Hlag) se va hacia este.
+Dos Bandidos, Mano espectral y Lancero de Takome están aquí.
+Senda del Alba [noreste,oeste] 
+Esqueleto Calcinado
+Esqueleto Calcinado te sigue.
+] # Rajas violentamente a Lancero de Takome.
+# Congelas a Lancero de Takome.
+[Obtienes 36 puntos de experiencia]
+Esqueleto Calcinado te protege valientemente.
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> * El ataque de Lancero de Takome rebota en tu piel de piedra.
+Sphynx (Hlag) llega desde el noreste.
+Mano espectral está aquí.
+Dos Dagas y restos putrefactos de Humano.
+Senda del Alba [sudoeste,noreste] 
+Esqueleto Calcinado
+Esqueleto Calcinado te sigue.
+> 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+Dos Bandidos, Mano espectral y Lancero de Takome están aquí.
+Sphynx (Hlag) está aquí.
+Senda del Alba [noreste,oeste] 
+Esqueleto Calcinado
+Esqueleto Calcinado te sigue.
+> 
+Bandido llega desde el oeste.
+Sphynx (Hlag) se va hacia oeste.
+No hay nadie aquí reconocible como greys,erwf,seowen,zazme,sphynx,sirix.
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+] # Rajas violentamente a Lancero de Takome.
+# Congelas a Lancero de Takome.
+[Obtienes 33 puntos de experiencia]
+Mano espectral está aquí.
+Bolsa de monedas (treinta y seis oros, siete elystras, seiscientos veintiseis maizs, doscientos noventa y seis sesioms, cuarenta y dos belas, cuatro safrios, veinte platinos y dos
+monedas de cobre).
+Senda del Alba [oeste,norte,este] 
+Esqueleto Calcinado
+Esqueleto Calcinado te sigue.
+] 
+Mano espectral está aquí.
+Sphynx (Hlag) está aquí.
+Linde Este del Bosque de Orgoth- Dinmen [oeste,este] 
+Esqueleto Calcinado
+Esqueleto Calcinado te sigue.
+] 
+] * El ataque de Sphynx rebota en tu piel de piedra.
+* El ataque de Sphynx rebota en tu piel de piedra.
+Las heridas de Sphynx, se cierran y la sangre deja de manar cuando su piel va cubriendo las heridas de su cuerpo.
+Sphynx (Hlag) se va hacia oeste.
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+Mano espectral está aquí.
+Sphynx (Hlag) está aquí.
+Linde Este del Bosque de Orgoth- Dinmen [oeste,este] 
+Esqueleto Calcinado
+Esqueleto Calcinado te sigue.
+> 
+Sphynx (Hlag) se va hacia oeste.
+Sangre putrefacta
+Mano espectral está aquí.
+Sphynx (Hlag) está aquí.
+Poste.
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [oeste,sudoeste,este,noroeste] 
+Esqueleto Calcinado
+Esqueleto Calcinado te sigue.
+] 
+Sphynx (Hlag) se va hacia oeste.
+] 
+Estás persiguiendo a Lancero de Takome.
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+Sphynx (Hlag) llega desde el oeste.
+* El ataque de Sphynx rebota en tu piel de piedra.
+* El ataque de Sphynx rebota en tu piel de piedra.
+Las heridas de Sphynx, se cierran y la sangre deja de manar cuando su piel va cubriendo las heridas de su cuerpo.
+Trazas con ágiles movimientos en tus dedos la representación rúnica de azuneu y clavas tu mirada en Sphynx.
+] 
+Sphynx (Hlag) se va hacia este.
+Estás persiguiendo a Sphynx.
+La Mano espectral que has convocado toma parte de tu vida para prolongar su existencia.
+Alzas tu mano, y alrededor de la misma comienzan a formarse 4 esferas que crepitan energía arcana y las lanzas contra Sphynx.
+# Una esfera de energía golpea a Sphynx con violencia mágica.
+# Una esfera de energía golpea a Sphynx con violencia mágica.
+# Una esfera de energía golpea a Sphynx con violencia mágica.
+# Una esfera de energía golpea a Sphynx con violencia mágica.
+[Obtienes 24 puntos de experiencia]
+Pvs: 26002611 Pe: 580706
+[El bloqueo 'Desintegrar' termina]
+Mano espectral está aquí.
+Linde Este del Bosque de Orgoth- Dinmen [oeste,este] 
+Esqueleto Calcinado
+Esqueleto Calcinado te sigue.
+> 
+Mano espectral está aquí.
+Linde Este del Bosque de Orgoth- Dinmen [oeste,este] 
+Esqueleto Calcinado
+Esqueleto Calcinado te sigue.
+] 
+[Tu alineamiento ha disminuído]
+[Obtienes 793 puntos de experiencia]
+Paras de perseguir a Lancero de Takome.
+] 
+] 
+Mano espectral está aquí.
+Bolsa de monedas (treinta y seis oros, siete elystras, seiscientos veintiseis maizs, doscientos noventa y seis sesioms, cuarenta y dos belas, cuatro safrios, veinte platinos y dos
+monedas de cobre).
+Senda del Alba [oeste,norte,este] 
+Esqueleto Calcinado
+Esqueleto Calcinado te sigue.
+] 
+Tres Bandidos y Mano espectral están aquí.
+Sphynx (Hlag) está aquí.
+Cuerpo de Lancero y Lanza.
+Senda del Alba [noreste,oeste] 
+Esqueleto Calcinado
+Esqueleto Calcinado te sigue.
+] 
+Sphynx (Hlag) se va hacia oeste.
+Bandido se limpia las uñas con su daga.
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+] 
+Mano espectral está aquí.
+Bolsa de monedas (treinta y seis oros, siete elystras, seiscientos veintiseis maizs, doscientos noventa y seis sesioms, cuarenta y dos belas, cuatro safrios, veinte platinos y dos
+monedas de cobre).
+Senda del Alba [oeste,norte,este] 
+Esqueleto Calcinado
+Esqueleto Calcinado te sigue.
+] 
+Mano espectral está aquí.
+Sphynx (Hlag) está aquí.
+Linde Este del Bosque de Orgoth- Dinmen [oeste,este] 
+Esqueleto Calcinado
+Esqueleto Calcinado te sigue.
+] 
+* El ataque de Sphynx rebota en tu piel de piedra.
+* El ataque de Sphynx rebota en tu piel de piedra.
+Las heridas de Sphynx, se cierran y la sangre deja de manar cuando su piel va cubriendo las heridas de su cuerpo.
+! Sphynx se prepara para ejecutar destripar sobre ti.
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+Alzas tu Anillo Topacio al frente mientras susurras la palabra de mando.
+] 
+# Rajas violentamente a Sphynx.
+Tu ataque sorbe parte de la resistencia contra bien de Sphynx.
+¡Tu Espada Azul te entrega la energía de Sphynx!
+# Congelas a Sphynx.
+[Obtienes 31 puntos de experiencia]
+El Anillo Topacio empieza a brillar con fuertes destellos mágicos.
+# 11 misiles mágicos surgen de tus dedos e impactan infaliblemente sobre Sphynx.
+[Obtienes 136 puntos de experiencia]
+Pvs: 26112611 Pe: 579706
+Pasas tu mano sobre tu Espada Azul mientras te concentras intentando despertar su magia.
+] 
+* El ataque de Sphynx rebota en tu piel de piedra.
+* El ataque de Sphynx rebota en tu piel de piedra.
+Tu piel vuelve a su estado normal.
+Las heridas de Sphynx, se cierran y la sangre deja de manar cuando su piel va cubriendo las heridas de su cuerpo.
+destripar!
+* ¡Sphynx te alcanza con su maniobra de destripar!
+[Tiradas] Tirada de salvación de aliento(descarga) % de éxito: 50. Tirada: 50 (Éxito).
+Un enorme boquete se te abre en una pierna y comienza a sangrar de forma incontrolada, dejando un rastro de sangre tras de ti.
+¡El golpe de Sphynx te eviscera una pierna!
+Sphynx (Hlag) se va hacia este.
+Pvs: 16492611 Pe: 572706
+Mano espectral está aquí.
+Sphynx (Hlag) está aquí.
+Bolsa de monedas (treinta y seis oros, siete elystras, seiscientos veintiseis maizs, doscientos noventa y seis sesioms, cuarenta y dos belas, cuatro safrios, veinte platinos y dos
+monedas de cobre).
+Senda del Alba [oeste,norte,este] 
+Esqueleto Calcinado
+Esqueleto Calcinado te sigue.
+> 
+Sphynx (Hlag) se va hacia oeste.
+Tres Bandidos y Mano espectral están aquí.
+Cuerpo de Lancero y Lanza.
+Senda del Alba [noreste,oeste] 
+Esqueleto Calcinado
+Esqueleto Calcinado te sigue.
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+] 
+Estás persiguiendo a Sphynx.
+Has perdido de vista a tu objetivo.
+[El bloqueo 'Descarga' termina]
+Rastro de Restos de vísceras. en dirección este.
+Mano espectral está aquí.
+Bolsa de monedas (treinta y seis oros, siete elystras, seiscientos veintiseis maizs, doscientos noventa y seis sesioms, cuarenta y dos belas, cuatro safrios, veinte platinos y dos
+monedas de cobre).
+Senda del Alba [oeste,norte,este] 
+Esqueleto Calcinado
+Esqueleto Calcinado te sigue.
+] 
+Mano espectral está aquí.
+Sphynx (Hlag) está aquí.
+Linde Este del Bosque de Orgoth- Dinmen [oeste,este] 
+Esqueleto Calcinado
+Esqueleto Calcinado te sigue.
+] 
+Sphynx empieza a centrar sus golpes sobre ti.
+Sphynx comienza a serpentear a tu alrededor mientras se relame, buscando puntos ciegos en tus defensas.
+Esqueleto Calcinado te protege valientemente.
+* Sphynx se abalanza sobre ti y te muerde el pecho, envenenándote con su saliva tóxica.
+Las heridas de Sphynx, se cierran y la sangre deja de manar cuando su piel va cubriendo las heridas de su cuerpo.
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+] 
+Pvs: 11812611 Pe: 572706
+[Tiradas] Tirada de salvación de fuerza bruta(zafarse del mordisco) % de éxito: 10 (30-20). Tirada: 60 (Fallo).
+Forcejeas, en vano, tratando de librarte del mordisco de Sphynx.
+] 
+No has conseguido romper el mordisco de Sphynx y estás muy cansada para volver a probar.
+] 
+Eres incapaz de realizar ataques armados cuando estás siendo mordida.
+No has conseguido romper el mordisco de Sphynx y estás muy cansada para volver a probar.
+] 
+Esqueleto Calcinado te protege valientemente.
+* Sphynx continúa mordiéndote con fuerza, inoculando veneno a medida que forcejeas.
+Sphynx abandona su estado de trance mucho más descansado.
+Coges la lágrima del collar y te pinchas la yugular con la aguja. La lágrima comienza a vaciarse y te sientes revitalizado. Sacas la aguja de tu cuerpo cuando se vacía la lágrima.
+> Pvs: 15102611 Pe: 572706
+El botón de tu Guante Espectral ya está abrochado.
+> 
+Ordenas a tus criaturas matar sobre x.
+> 
+Trazas con ágiles movimientos en tus dedos la representación rúnica de azuneu y clavas tu mirada en Sphynx.
+] 
+# Rajas con mucha fuerza a Sphynx.
+Tu ataque sorbe parte de la resistencia contra electrico de Sphynx.
+¡Tu Espada Azul te entrega la energía de Sphynx!
+# Congelas a Sphynx.
+[Obtienes 30 puntos de experiencia]
+Alzas tu mano, y alrededor de la misma comienzan a formarse 5 esferas que crepitan energía arcana y las lanzas contra Sphynx.
+# Una esfera de energía golpea a Sphynx con violencia mágica.
+# Una esfera de energía golpea a Sphynx con violencia mágica.
+# Una esfera de energía golpea a Sphynx con violencia mágica.
+# Una esfera de energía golpea a Sphynx con violencia mágica.
+# Una esfera de energía golpea a Sphynx con violencia mágica.
+[Obtienes 20 puntos de experiencia]
+Pvs: 15702611 Pe: 566706
+Esqueleto Calcinado dice: No existe el objetivo greys,erwf,seowen,zazme,sphynx,sirix o ya estás luchando con él.
+   
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Esqueleto Calcinado está herido de gravedad.
+Mano espectral está en perfecto estado.
+Sphynx está lleno de heridas.
+> 
+* Sphynx te raja con mucha fuerza.
+* Sphynx te raja violentamente.
+[Tiradas] Tirada de salvación de aliento(descarga) % de éxito: 50. Tirada: 18 (Éxito).
+* Sphynx continúa mordiéndote con fuerza, inoculando veneno a medida que forcejeas.
+No puedes ejecutar esa habilidad mientras formulas.
+] 
+Pvs: 8452611 Pe: 567706
+[El bloqueo 'Proyectil magico mayor' termina]
+Parece que 14 no produjo efecto alguno.
+> 
+# Rajas con mucha fuerza a Sphynx.
+Tu ataque sorbe parte de la resistencia contra veneno de Sphynx.
+# Congelas a Sphynx.
+[Obtienes 27 puntos de experiencia]
+Pvs: 9052611 Pe: 569706
+[El bloqueo 'Descarga' termina]
+Esqueleto Calcinado te protege valientemente.
+* Sphynx continúa mordiéndote con fuerza, inoculando veneno a medida que forcejeas.
+Pasas tu mano sobre tu Espada Azul mientras te concentras intentando despertar su magia.
+] Esqueleto Calcinado te protege valientemente.
+Sphynx se echa hacia atrás y mira fijamente a Esqueleto Calcinado mientras sus Garras óseas comienzan a rezumar veneno.
+Debes recuperar tus energías mágicas antes de poder volver a ejecutar un golpe arcano.
+] 
+] 
+# Rajas con fuerza a Sphynx.
+Tu ataque sorbe parte de la resistencia contra fuego de Sphynx.
+# Congelas a Sphynx.
+[Obtienes 25 puntos de experiencia]
+# Rajas con mucha fuerza a Sphynx.
+Tu ataque sorbe parte de la resistencia contra frio de Sphynx.
+# Congelas a Sphynx.
+# Pronuncias unas palabras mágicas y tu Espada Azul empieza a vibrar y se ilumina deshaciendo los tejidos de Sphynx.
+[Obtienes 368 puntos de experiencia]
+Pvs: 10252611 Pe: 562706
+Comienzas a formular el hechizo 'Desintegrar'.
+] 
+Esqueleto Calcinado te protege valientemente.
+Sphynx propina el golpe mortal a Esqueleto Calcinado.
+Esqueleto Calcinado cae al suelo sin vida.
+No puedes formular otro hechizo hasta que transcurra algún tiempo.
+] 
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Mano espectral está en perfecto estado.
+Sphynx está herido críticamente.
+> # Rajas con mucha fuerza a Sphynx.
+# Congelas a Sphynx.
+[Obtienes 27 puntos de experiencia]
+Preparas los componentes del hechizo.
+Pronuncias el cántico: 'bellum destruct corpore'
+# Extiendes las palmas de tus manos bruscamente hacia adelante y lanzas una ráfaga de energía mágica que desintegra por completo el cuerpo de Sphynx, arrancándole la carne de los
+músculos, los músculos de los huesos y reduciéndolo todo a un montón de sangre que pronto estalla en llamaradas verdosas y se convierten en cenizas.
+[Obtienes 235 puntos de experiencia]
+Pvs: 10932611 Pe: 562706
+[Tu estatus con Mor Groddûr, Hithrim, Poldarn, Veleiron, Thorin, Ak'Anon, Kheleb, Agnur, Eldor, Eloras, Takome, Ancarak y Kattak ha aumentado]
+[Obtienes 275599 puntos de experiencia]
+Propinas el golpe mortal a Sphynx.
+Sphynx ha muerto.
+Sphynx cae al suelo sin vida.
+Sphynx da un grito desgarrador antes de que su espíritu abandone Eirea.
+[Obtienes 7 puntos de gloria]

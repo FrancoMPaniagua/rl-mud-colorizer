@@ -1,0 +1,393 @@
+Selmaer (Hlag) llega desde el sudeste.
+Selmaer (Hlag) llega desde el sudeste seguido de Szyecko (Hlag).
+Selmaer empieza a inspeccionar la zona detenidamente.
+Estás siendo atacada por Szyecko.
+Selmaer detiene su búsqueda.
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+> 
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+] 
+] 
+Estás persiguiendo a Szyecko.
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+] 
+Charco de sangre
+Poste.
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [oeste,sudoeste,este,noroeste] 
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+Camino de Amonmen [sudeste,noroeste] 
+> 
+[Renegado] Genlae: dios
+> 
+[Renegado] Meliam Afortunador: TOTAL: 51 muertes y 7990593 puntos de experiencia.
+[Renegado] Genlae: selmaer sceco
+> 
+[Renegado] Meliam Afortunador: ya tengo unos pocos XD
+Reinos de Leyenda                                                                                                                                                                   
+Mortales                                                                                                                                                                            
+  Esheit Amrok Benedict el Alto Inquisidor de Seldar                                                                                                                              
+  Szyecko la Señora de las Hordas Lagartas                                                                                                                                        
+  Nayth el Miembro de Dendra                                                                                                                                                      
+  Yrant el Oficial Condecorado de Ejército de Dendra: Caminó entre los 1024                                                                                                       
+  Agbaz el Oficial Condecorado de Ejército de Dendra                                                                                                                              
+  Selmaer Albinez'Rak Ragnarok el Gran Patriarca Exterminador de Hordas Enemigas                                                                                                  
+Hay seis mortales en Eirea                                                                                                                                                          
+> 
+El nick x no tiene el nombre szyecko incluido.
+> 
+Nombre corto x cambiado de agbaz,cruseth,virdamer,aplexius,ylzhiam,bylider,rahlaer,siky,atzok,aldamare,thronto,vertor,reoi,athelbald,stalmarr,margull,laymerisa,selmaer,arkhram a
+szyecko,nayth,selmaer,esheit,agbaz,yrant.
+> 
+El nick x no tiene el nombre sceco incluido.
+> 
+Nombre corto agbaz movido al principio de x quedando agbaz,szyecko,nayth,selmaer,esheit,yrant.
+> 
+Selmaer (Hlag) llega desde el sudeste.
+Selmaer (Hlag) llega desde el sudeste seguido de Szyecko (Hlag).
+Selmaer empieza a inspeccionar la zona detenidamente.
+# Rajas con mucha fuerza a Selmaer.
+Tu ataque sorbe parte de la resistencia contra fuego de Selmaer.
+# Mojas a Selmaer.
+[Obtienes 28 puntos de experiencia]
+Charco de sangre
+Poste.
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [oeste,sudoeste,este,noroeste] 
+> 
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+] 
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+> 
+Estás persiguiendo a Szyecko y Selmaer.
+Selmaer (Hlag) llega desde el noreste.
+Selmaer (Hlag) llega desde el noreste seguido de Szyecko (Hlag).
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+> 
+Selmaer (Hlag) llega desde el noreste.
+Selmaer (Hlag) llega desde el noreste seguido de Szyecko (Hlag).
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+> 
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+] 
+Charco de sangre
+Poste.
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [oeste,sudoeste,este,noroeste] 
+> 
+Camino de Amonmen [sudeste,noroeste] 
+] 
+Tu Espada Azul no soportaría que de su interior brotara más poder rúnico.
+] 
+Charco de sangre
+Selmaer (Hlag) y Szyecko (Hlag) están aquí.
+Poste.
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [oeste,sudoeste,este,noroeste] 
+> 
+Pasas tu mano sobre tu Espada Azul mientras te concentras intentando despertar su magia.
+] ! Szyecko se prepara para ejecutar destripar sobre ti.
+* El ataque de Szyecko rebota en tu piel de piedra.
+* El ataque de Szyecko rebota en tu piel de piedra.
+* El ataque de Szyecko rebota en tu piel de piedra.
+* El ataque de Selmaer rebota en tu piel de piedra.
+* El ataque de Selmaer rebota en tu piel de piedra.
+! Selmaer se prepara para ejecutar destripar sobre ti.
+# Rajas con mucha fuerza a Selmaer.
+Tu ataque sorbe parte de la resistencia contra bien de Selmaer.
+¡Tu Espada Azul te entrega la energía de Selmaer!
+# Mojas a Selmaer.
+[Obtienes 27 puntos de experiencia]
+# Rajas críticamente a Szyecko.
+Tu ataque sorbe parte de la resistencia contra aire de Szyecko.
+¡Tu golpe causa una profunda herida a Szyecko en la cabeza!
+# Mojas a Szyecko.
+# Pronuncias unas palabras mágicas y tu Espada Azul empieza a vibrar y se ilumina deshaciendo los tejidos de Szyecko.
+[Obtienes 187 puntos de experiencia]
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+> 
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+] 
+] 
+Selmaer (Hlag) llega desde el noreste.
+Selmaer (Hlag) llega desde el noreste seguido de Szyecko (Hlag).
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+Selmaer (Hlag) y Szyecko (Hlag) están aquí.
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+] 
+Selmaer (Hlag) se va hacia sudoeste.
+Selmaer (Hlag) se va en dirección sudoeste seguido de Szyecko (Hlag).
+Estás persiguiendo a Szyecko y Selmaer.
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+> 
+Charco de sangre
+Poste.
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [oeste,sudoeste,este,noroeste] 
+] 
+Selmaer (Hlag) llega desde el sudoeste.
+Selmaer (Hlag) llega desde el sudoeste seguido de Szyecko (Hlag).
+Alzas tu Anillo Topacio al frente mientras susurras la palabra de mando.
+] 
+# Rajas violentamente a Szyecko.
+Tu ataque sorbe parte de la resistencia contra electrico de Szyecko.
+# Mojas a Szyecko.
+[Obtienes 31 puntos de experiencia]
+El Anillo Topacio empieza a brillar con fuertes destellos mágicos.
+# 11 misiles mágicos surgen de tus dedos e impactan infaliblemente sobre Szyecko.
+[Obtienes 186 puntos de experiencia]
+Selmaer empieza a inspeccionar la zona detenidamente.
+Selmaer dice en lagarto: Ssh bobrerss irnrernradogss...
+Camino de Amonmen [sudeste,noroeste] 
+> 
+Camino de Amonmen [noreste,sudeste,noroeste] 
+] 
+Estás persiguiendo a Szyecko y Selmaer.
+Camino de Amonmen [sudeste,noroeste] 
+> 
+Charco de sangre
+Selmaer (Hlag) y Szyecko (Hlag) están aquí.
+Poste.
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [oeste,sudoeste,este,noroeste] 
+> 
+Szyecko se calma, cierra los ojos, junta las manos, y su semblante adquiere un tono de concentracion. Sus venas y músculos se hinchan y deshinchan mientras se introduce en un
+trance.
+Comienzas a formular el hechizo 'Desintegrar'.
+] 
+Selmaer dice en lagarto: Wss bobrerss irnrernradogss...
+Selmaer comienza a serpentear a tu alrededor mientras se relame, buscando puntos ciegos en tus defensas.
+# Rajas violentamente a Szyecko.
+Tu ataque sorbe parte de la resistencia contra bien de Szyecko.
+¡Tu Espada Azul te entrega la energía de Szyecko!
+# Mojas a Szyecko.
+[Obtienes 33 puntos de experiencia]
+Preparas los componentes del hechizo.
+Pronuncias el cántico: 'bellum destruct corpore'
+# Extiendes las palmas de tus manos formando un triángulo hacia Szyecko y un mortal rayo de energía le golpea de lleno, disgregando sus átomos y esparciéndolos en el aire.
+[Obtienes 239 puntos de experiencia]
+Linde Este del Bosque de Orgoth- Dinmen [oeste,este] 
+> 
+Linde Este del Bosque de Orgoth- Dinmen [oeste,este] 
+] 
+] 
+Senda del Alba [oeste,norte,este] 
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+Linde Este del Bosque de Orgoth- Dinmen [oeste,este] 
+] Estás persiguiendo a Szyecko y Selmaer.
+No hay ningún oponente ante ti.
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+] 
+] [El bloqueo 'Proyectil magico mayor' termina]
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+Linde Este del Bosque de Orgoth- Dinmen [oeste,este] 
+> 
+Charco de sangre
+Selmaer (Hlag) y Szyecko (Hlag) están aquí.
+Poste.
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [oeste,sudoeste,este,noroeste] 
+> 
+Trazas con ágiles movimientos en tus dedos la representación rúnica de azuneu y clavas tu mirada en Szyecko.
+] 
+Selmaer detiene su búsqueda.
+* El ataque de Szyecko rebota en tu piel de piedra.
+* El ataque de Szyecko rebota en tu piel de piedra.
+Las heridas de Szyecko, se cierran y la sangre deja de manar cuando su piel va cubriendo las heridas de su cuerpo.
+Selmaer (Hlag) se va hacia sudoeste.
+Selmaer (Hlag) se va en dirección sudoeste seguido de Szyecko (Hlag).
+Estás persiguiendo a Szyecko y Selmaer.
+Alzas tu mano, y alrededor de la misma comienzan a formarse 4 esferas que crepitan energía arcana y las lanzas contra Szyecko.
+# Una esfera de energía golpea a Szyecko con violencia mágica.
+# Una esfera de energía golpea a Szyecko con violencia mágica.
+# Una esfera de energía golpea a Szyecko con violencia mágica.
+# Una esfera de energía golpea a Szyecko con violencia mágica.
+[Obtienes 24 puntos de experiencia]
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+> 
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+] 
+] 
+[Renegado] Ylzhiam NeCrO: voy a ducharme
+] [El bloqueo 'Desintegrar' termina]
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+] 
+Szyecko (Hlag) llega desde el sudoeste.
+Szyecko (Hlag) se va hacia noreste.
+Selmaer (Hlag) está aquí.
+Cartel.
+Camino de Ëarmen- Bosque de Orgoth [oeste,sudeste,sur,noreste] 
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+Selmaer empieza a inspeccionar la zona detenidamente.
+] # Rajas con fuerza a Selmaer.
+Tu ataque sorbe parte de la resistencia contra electrico de Selmaer.
+¡Tu Espada Azul te entrega la energía de Selmaer!
+# Mojas a Selmaer.
+[Obtienes 26 puntos de experiencia]
+Selmaer detiene su búsqueda.
+Selmaer dice en lagarto: Wss bobrerss irnrernradogss...
+! Selmaer se prepara para ejecutar destripar sobre ti.
+* El ataque de Selmaer rebota en tu piel de piedra.
+* El ataque de Selmaer rebota en tu piel de piedra.
+Tu piel vuelve a su estado normal.
+* ¡Selmaer te alcanza criticamente con su maniobra de destripar!
+[Tiradas] Tirada de salvación de aliento(descarga) % de éxito: 47. Tirada: 63 (Fallo).
+El rezumante limo de las garras de Selmaer te envenena.
+Un enorme boquete se te abre en el pecho y comienza a sangrar de forma incontrolada, dejando un rastro de sangre tras de ti.
+¡El golpe de Selmaer te eviscera el pecho!
+[Marguleitor orbita al Limbo]
+Pasas tu mano sobre tu Espada Azul mientras te concentras intentando despertar su magia.
+] 
+Pvs: 13412551 Pe: 598640
+No estás suficientemente calmada.
+] 
+] 
+] 
+] 
+# Rajas con fuerza a Selmaer.
+Tu ataque sorbe parte de la resistencia contra magico de Selmaer.
+# Mojas a Selmaer.
+[Obtienes 25 puntos de experiencia]
+# Rajas con fuerza a Selmaer.
+Tu ataque sorbe parte de la resistencia contra veneno de Selmaer.
+# Mojas críticamente a Selmaer.
+# Pronuncias unas palabras mágicas y tu Espada Azul vibra mientras brotan de ella poderosos haces de luz que desmembran los tejidos externos de Selmaer alcanzando órganos internos.
+[Obtienes 397 puntos de experiencia]
+Pvs: 14612551 Pe: 591640
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+] 
+Szyecko (Hlag) está aquí.
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+] 
+Selmaer (Hlag) llega desde el sudoeste.
+¡El boquete que tienes en el pecho deja caer un chorro de sangre y carne triturada en el suelo!
+Pvs: 14052551 Pe: 591640
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+Restos de vísceras.
+Selmaer (Hlag) y Agbaz (Hum) están aquí.
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+] 
+Selmaer (Hlag) se va hacia noreste.
+Agbaz (Hum) se va hacia noreste.
+] 
+Estás persiguiendo a Selmaer.
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+] 
+[Zirax orbita al Limbo]
+[Atzok orbita al Limbo]
+Rastro de Restos de vísceras. en dirección noreste.
+Cartel.
+Camino de Ëarmen- Bosque de Orgoth [oeste,sudeste,sur,noreste] 
+] 
+Parece que sudoeste no produjo efecto alguno.
+] 
+Márgenes del Iaurduin [sudeste,noroeste] 
+] 
+Serpiente y Loro están aquí.
+Márgenes del Iaurduin [sudeste,este,noroeste] 
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+Cocodrilo y Serpiente están aquí.
+Puente sobre el Iaurduin [este,oeste] 
+> 
+Hombre-Lagarto desertor y Loro están aquí.
+Szyecko (Hlag) está aquí.
+Puente sobre el Iaurduin [este,oeste] 
+Observas algunas pequeñas ramas ser arrastradas rio abajo por la corriente.
+] 
+Hombre-Lagarto desertor está aquí.
+Márgenes del Iaurduin [sudeste,oeste] 
+> 
+[Renegado] Meliam Afortunador: me cruce al nibbla
+Rastro de Restos de vísceras. en dirección este.
+Hombre-Lagarto desertor y Loro están aquí.
+Szyecko (Hlag) está aquí.
+Puente sobre el Iaurduin [este,oeste] 
+] 
+] # Rajas críticamente a Szyecko.
+Tu ataque sorbe parte de la resistencia contra fuego de Szyecko.
+¡Tu golpe causa una profunda herida a Szyecko en un brazo!
+¡Tu Espada Azul te entrega la energía de Szyecko!
+# Mojas a Szyecko.
+[Obtienes 47 puntos de experiencia]
+Pvs: 14652551 Pe: 591640
+Szyecko (Hlag) se va hacia este.
+El objetivo agbaz,szyecko,nayth,selmaer,esheit,yrant no está aquí ahora mismo.
+] 
+El objetivo agbaz,szyecko,nayth,selmaer,esheit,yrant no está aquí ahora mismo.
+] 
+Hombre-Lagarto desertor está aquí.
+Márgenes del Iaurduin [sudeste,oeste] 
+> 
+Márgenes del Iaurduin [este,noroeste] 
+] 
+Estás persiguiendo a Szyecko.
+Tu capa derrama parte de la sangre que la recubre sobre el suelo.
+Hombre-Lagarto desertor está aquí.
+Márgenes del Iaurduin [sudeste,oeste] 
+> 
+[Margull orbita a Eirea]
+Serpiente y Loro están aquí.
+Márgenes del Iaurduin [este,noroeste] 
+] 
+] 
+Hembra de caimán, Serpiente y Loro están aquí.
+Márgenes del Iaurduin [sudeste,este,oeste] 
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+[Renegado] Margull:  mmm
+Hembra de caimán está aquí.
+Márgenes del Iaurduin [este,noroeste] 
+] 
+Márgenes del Iaurduin [sudeste,oeste] 
+> 
+Szyecko (Hlag) está aquí.
+Márgenes del Iaurduin [este,noreste,noroeste] 
+] 
+Szyecko (Hlag) se va hacia este.
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+[Ylzhiam orbita al Limbo]
+Hembra de caimán está aquí.
+Márgenes del Iaurduin [sudeste,oeste] 
+> 
+Márgenes del Iaurduin [sudeste,noroeste] 
+] 
+Serpiente está aquí.
+Szyecko (Hlag) está aquí.
+Márgenes del Iaurduin [este,noroeste] 
+> 
+Szyecko (Hlag) se va hacia noroeste.
+Szyecko (Hlag) llega desde el noroeste.
+* Szyecko te raja con fuerza.
+* Szyecko te raja con mucha fuerza.
+[Tiradas] Tirada de salvación de aliento(descarga) % de éxito: 47. Tirada: 45 (Éxito).
+Trazas con ágiles movimientos en tus dedos la representación rúnica de azuneu y clavas tu mirada en Szyecko.
+] 
+Pvs: 11482551 Pe: 592640
+Szyecko (Hlag) se va hacia este.
+No puedes ejecutar esa habilidad mientras formulas.
+] 
+Estás persiguiendo a Szyecko.
+Alzas tu mano, y alrededor de la misma comienzan a formarse 4 esferas que crepitan energía arcana y las lanzas contra Szyecko.
+# Una esfera de energía golpea a Szyecko con violencia mágica.
+# Una esfera de energía golpea a Szyecko con violencia mágica.
+# Una esfera de energía es esquivada por Szyecko antes del impacto.
+# Una esfera de energía golpea a Szyecko con violencia mágica.
+[Obtienes 24 puntos de experiencia]
+[El bloqueo 'Descarga' termina]
+[Tu estatus con Agnur ha aumentado]
+[Obtienes 392197 puntos de experiencia]
+Propinas el golpe mortal a Szyecko.
+[Obtienes 30 puntos de gloria]

@@ -1,0 +1,49 @@
+Charco de sangre.
+Caballero Cruzado de Élite, Sacerdote Cruzado de Élite, Soldado Cruzado de Élite y Oso de Eralie están aquí.
+Bylider (Melf) está aquí.
+Puerta Sur de Takome [sur,norte] 
+Esqueleto
+Esqueleto te sigue.
+> 
+Camino Empedrado de Takome [norte,sur] 
+Esqueleto
+Esqueleto te sigue.
+] 
+-|Stalos|/- llega desde el norte.
+Comienzas a formular el hechizo 'Desintegrar'.
+> Estás persiguiendo a Caballero Cruzado de Élite, Sacerdote Cruzado de Élite y Soldado Cruzado de Élite.
+Preparas los componentes del hechizo.
+Pronuncias el cántico: 'bellum destruct corpore'
+# Extiendes las palmas de tus manos formando un triángulo hacia Stalos y un mortal rayo de energía le golpea de lleno, disgregando sus átomos y esparciéndolos en el aire.
+[Obtienes 239 puntos de experiencia]
+Stalos saca algo de su BolsitaGnómicaConAlarmaIncorporada.
+Stalos empieza a formular un hechizo.
+Trazas con ágiles movimientos en tus dedos la representación rúnica de azuneu y clavas tu mirada en Stalos.
+] 
+Stalos pronuncia el cántico: 'bellum destruct corpore'
+[Info] Has fallado una tirada de salvación automáticamente porque tienes el consentir hechizos on.
+Escribe consentir ? y ayuda consentir.
+Tu aura brilla castigando a Stalos con el mismo dolor.
+¡Stalos pierde la concentración!
+Estás siendo atacada por Stalos.
+Stalos extiende las palmas de sus manos, formando un triángulo, hacia ti y un mortal rayo de energía te golpea de lleno, desintegrando parte de tu cuerpo y causándote un dolor
+inimaginable.
+# Tu ataque rebota en la piel de piedra de Stalos.
+Alzas tu mano, y alrededor de la misma comienzan a formarse 5 esferas que crepitan energía arcana y las lanzas contra Stalos.
+# Una esfera de energía golpea a Stalos con violencia mágica.
+# Una esfera de energía golpea a Stalos con violencia mágica.
+# Una esfera de energía golpea a Stalos con violencia mágica.
+# Una esfera de energía golpea a Stalos con violencia mágica.
+# Una esfera de energía golpea a Stalos con violencia mágica.
+[Obtienes 20 puntos de experiencia]
+Pvs: 5872531 Pe: 276618
+La piel de Stalos vuelve a su estado normal.
+El aura blanquecina que envolvía a Stalos desaparece.
+[Tu estatus con Dendra, Mor Groddûr, Agnur, Golthur Orod, Ar'Kaindia y Grimoszk ha aumentado]
+[Tu alineamiento ha disminuído]
+[Obtienes 609732 puntos de experiencia]
+Propinas el golpe mortal a Stalos.
+Stalos ha muerto.
+Stalos cae al suelo sin vida.
+Stalos da un grito desgarrador antes de que su espíritu abandone Eirea.
+[Obtienes 30 puntos de gloria]

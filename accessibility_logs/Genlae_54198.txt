@@ -1,0 +1,181 @@
+Esheit (Hum) llega desde el sur.
+Esheit
+Esheit te sigue.
+Nombre corto x cambiado de
+jrakuf,trulhim,zzusho,omadon,yrant,egmer,vertor,foskslhyr,xeroxs,norken,gorey,linara,addranick,siky,virak,maelmoor,bhalder,esheit,aplexius,gtyarya,sirix,kahan,greys a
+reoi,esheit,xeroxs,zzusho.
+> 
+Esheit empieza a formular un hechizo.
+Esheit te toca con su Mano espectral mientras formula un hechizo.
+* Esheit te toca, causándote heridas mayores.
+Estás siendo atacada por Esheit.
+Ruinas de la Muralla Este de Anduar [sur,norte] 
+Esheit (Hum)
+Esheit (Hum) te sigue.
+> 
+Dos Cruzados de Anduar están aquí.
+Exterior de Anduar: Puerta Este [oeste,sur,este,norte] 
+Esheit (Hum)
+Esheit (Hum) te sigue.
+] 
+Pvs: 21672581 Pe: 541673
+Esheit empieza a formular un hechizo.
+Agricultora, Granjero y Viajero están aquí.
+Campos de Cultivo [oeste,este] 
+Esheit deja de formular.
+Esheit (Hum)
+Esheit (Hum) te sigue.
+> 
+Dos Lechuzas y dos Viajeros están aquí.
+Campos de Cultivo [sudeste,noreste,oeste] 
+Esheit (Hum)
+Esheit (Hum) te sigue.
+] # Rajas con fuerza a Esheit.
+Tu ataque sorbe parte de la resistencia contra frio de Esheit.
+¡Tu Espada Azul te entrega la energía de Esheit!
+# Mojas a Esheit.
+[Obtienes 22 puntos de experiencia]
+Pvs: 22572581 Pe: 543673
+* El ataque de Esheit rebota en tu piel de piedra.
+Granjero está aquí.
+Cartel de madera.
+Campos de Cultivo [sudoeste,norte,este] 
+Esheit (Hum)
+Esheit (Hum) te sigue.
+> 
+Parece que 14 no produjo efecto alguno.
+> 
+Esheit empieza a formular un hechizo.
+Camino al Cementerio de Anduar [norte,sur] 
+Esheit deja de formular.
+Esheit (Hum)
+Esheit (Hum) te sigue.
+> 
+# Rajas con mucha fuerza a Esheit.
+Tu ataque sorbe parte de la resistencia contra mental de Esheit.
+# Mojas con poca intensidad a Esheit.
+[Obtienes 24 puntos de experiencia]
+Pvs: 23172581 Pe: 544673
+Pasas tu mano sobre tu Espada Azul mientras te concentras intentando despertar su magia.
+] 
+Esheit empieza a formular un hechizo.
+* Esheit intenta tocarte con su Mano espectral pero logras esquivar su movimiento.
+] 
+] 
+Esheit (Hum) se va hacia norte.
+Granjero está aquí.
+Cartel de madera.
+Campos de Cultivo [sudoeste,norte,este] 
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+Esheit (Hum) llega desde el norte.
+# Rajas con mucha fuerza a Esheit.
+Tu ataque sorbe parte de la resistencia contra fuego de Esheit.
+# Mojas a Esheit.
+[Obtienes 26 puntos de experiencia]
+# Rajas con mucha fuerza a Esheit.
+Tu ataque sorbe parte de la resistencia contra mal de Esheit.
+# Mojas con poca intensidad a Esheit.
+# Pronuncias unas palabras mágicas y tu Espada Azul empieza a vibrar y se ilumina deshaciendo los tejidos de Esheit.
+[Obtienes 217 puntos de experiencia]
+Pvs: 24672581 Pe: 538673
+* El ataque de Esheit rebota en tu piel de piedra.
+Camino al Cementerio de Anduar [norte,sur] 
+Esheit (Hum)
+Esheit (Hum) te sigue.
+> 
+Camino al Cementerio de Anduar [norte,sur] 
+Esheit (Hum)
+Esheit (Hum) te sigue.
+] 
+Dejas de sostener tu Grimorio del Séptimo Círculo.
+Dejas de sostener tu Espada Azul.
+Empuñas tu Espada Azul.
+Empuñas tu Grimorio del Séptimo Círculo.
+} 
+Esheit empieza a formular un hechizo.
+Estás intentando equilibrar Grimorio del Séptimo Círculo y Espada Azul.
+Usa el comando abortar para finalizar la acción prematuramente.
+} 
+Finalmente equilibras Grimorio del Séptimo Círculo y Espada Azul.
+Camino al Cementerio de Anduar [norte,sur] 
+Esheit deja de formular.
+Esheit (Hum)
+Esheit (Hum) te sigue.
+> # Rajas con fuerza a Esheit.
+Tu ataque sorbe parte de la resistencia contra divino de Esheit.
+# Mojas críticamente a Esheit.
+[Obtienes 30 puntos de experiencia]
+Pvs: 25272581 Pe: 538673
+Granjero está aquí.
+Cartel de madera.
+Campos de Cultivo [sudoeste,norte,este] 
+Esheit (Hum)
+Esheit (Hum) te sigue.
+> 
+* El ataque de Esheit rebota en tu piel de piedra.
+Comienzas a formular el hechizo 'Desintegrar'.
+] 
+Esheit empieza a formular un hechizo.
+# Rajas con mucha fuerza a Esheit.
+Tu ataque sorbe parte de la resistencia contra enfermedad de Esheit.
+¡Tu Espada Azul te entrega la energía de Esheit!
+# Mojas a Esheit.
+[Obtienes 26 puntos de experiencia]
+Preparas los componentes del hechizo.
+Pronuncias el cántico: 'bellum destruct corpore'
+# Extiendes las palmas de tus manos formando un triángulo hacia Esheit y un mortal rayo de energía le golpea de lleno, disgregando sus átomos y esparciéndolos en el aire.
+[Obtienes 239 puntos de experiencia]
+Pvs: 25812581 Pe: 539673
+Esheit te toca con su Mano espectral mientras formula un hechizo.
+* Esheit te toca, causándote heridas mayores.
+Dos Lechuzas y dos Viajeros están aquí.
+Campos de Cultivo [sudeste,noreste,oeste] 
+Esheit (Hum)
+Esheit (Hum) te sigue.
+> 
+Trazas con ágiles movimientos en tus dedos la representación rúnica de azuneu y clavas tu mirada en Esheit.
+] 
+Pvs: 21032581 Pe: 511673
+Esheit (Hum) se va hacia noreste.
+Estás persiguiendo a Esheit.
+Alzas tu mano, y alrededor de la misma comienzan a formarse 4 esferas que crepitan energía arcana y las lanzas contra Esheit.
+# Una esfera de energía golpea a Esheit con violencia mágica.
+# Una esfera de energía golpea a Esheit con violencia mágica.
+# Una esfera de energía golpea a Esheit con violencia mágica.
+# Una esfera de energía golpea a Esheit con violencia mágica.
+[Obtienes 24 puntos de experiencia]
+Viajero pasea por las calles de la ciudad con el rostro ceñudo.
+Granjero está aquí.
+Cartel de madera.
+Campos de Cultivo [sudoeste,norte,este] 
+> 
+Camino al Cementerio de Anduar [norte,sur] 
+] 
+Tu capa derrama parte de la sangre que la recubre sobre el suelo.
+Mano espectral está aquí.
+Esheit (Hum) está aquí.
+Camino al Cementerio de Anduar [norte,sur] 
+> 
+Esheit empieza a formular un hechizo.
+Alzas tu Anillo Topacio al frente mientras susurras la palabra de mando.
+] 
+# Rajas con fuerza a Esheit.
+Tu ataque sorbe parte de la resistencia contra magico de Esheit.
+# Mojas con poca intensidad a Esheit.
+[Obtienes 21 puntos de experiencia]
+El Anillo Topacio empieza a brillar con fuertes destellos mágicos.
+# 11 misiles mágicos surgen de tus dedos e impactan infaliblemente sobre Esheit.
+¡Esheit pierde la concentración!
+[Obtienes 113 puntos de experiencia]
+Pvs: 21632581 Pe: 505673
+[Tu estatus con Hithrim, Poldarn, Veleiron, Thorin, Ak'Anon, Kheleb, Nalaghar, Golthur Orod, Eldor, Eloras, Takome y Kattak ha aumentado]
+[Tu alineamiento ha aumentado]
+[Obtienes 356934 puntos de experiencia]
+Propinas el golpe mortal a Esheit.
+Esheit ha muerto.
+Esheit cae al suelo sin vida.
+Esheit da un grito desgarrador antes de que su espíritu abandone Eirea.
+[Obtienes 34 puntos de gloria]
+

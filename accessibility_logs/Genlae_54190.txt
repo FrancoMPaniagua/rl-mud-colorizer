@@ -1,0 +1,512 @@
+|| Sinafae (Melf) ||||| llega desde el norte.
+# Rajas con fuerza a Sinafae.
+Tu ataque sorbe parte de la resistencia contra mal de Sinafae.
+# Mojas a Sinafae.
+[Obtienes 23 puntos de experiencia]
+Senda del Alba [sur,norte] 
+] 
+Senda del Alba [sur,norte] 
+Caminas con cuidado con tal de no tropezar con alguna piedra.
+] 
+] 
+||||| Sinafae (Melf) ||||| llega desde el norte.
+Senda del Alba [sur,norte] 
+] 
+||||| Sinafae (Melf) ||||| llega desde el sur.
+Senda del Alba [sur,norte] 
+Caminas inseguro por si hay algún bandido cerca.
+] Estás persiguiendo a Sinafae.
+||||| Sinafae (Melf) ||||| llega desde el sur.
+Cartel.
+Viejo Puesto Fronterizo del Sur de Takome [sur,norte] 
+] 
+Camino Empedrado de Takome [sur,norte] 
+El aire puro en tus pulmones te produce una sensación momentánea de bienestar.
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+Lanza.
+Camino Empedrado de Takome [sur,norte] 
+> 
+[Renegado] Egmer: no lo veo el rastro
+Camino Empedrado de Takome [sur,norte] 
+] 
+Charco de sangre
+Camino Empedrado de Takome [sur,norte] 
+Caminas con cuidado con tal de no tropezar con alguna piedra.
+> 
+Camino Empedrado de Takome [sur,norte] 
+El aire puro en tus pulmones te produce una sensación momentánea de bienestar.
+] 
+Camino Empedrado de Takome [sur,norte] 
+> 
+Camino Empedrado de Takome [sur,norte] 
+] 
+Tu capa derrama parte de la sangre que la recubre sobre el suelo.
+Cartel de madera.
+Camino Empedrado de Takome [este,sur,oeste,norte] 
+El aire puro en tus pulmones te produce una sensación momentánea de bienestar.
+> 
+Camino Empedrado: Antiguos Arrabales [noreste,oeste] 
+] 
+[Renegado] Gtyarya LaQueIlusiona: sal por puerta este xD
+Lancero de Takome grita: ¡Por Takome!
+Estás siendo atacada por Lancero de Takome.
+Lancero de Takome está aquí.
+Camino Empedrado: Antiguos Arrabales [sudoeste,este] 
+> 
+Camino Empedrado: Antiguos Arrabales [sudeste,oeste] 
+] 
+Estás persiguiendo a Lancero de Takome.
+Tu resistencia de mental se desvanece.
+Comienzas a formular el hechizo 'Proteccion bien'.
+> 
+Tu resistencia de mal se desvanece.
+Pronuncias el cántico: 'major benevola rissas'
+Eres cubierta por un aura blanca pura.
+[Obtienes 40 puntos de experiencia]
+Coges Cinturón Robacuraciones de Mochila sin Fondo.
+Aún estás ocupada intentando cargar Cinturón Robacuraciones.
+Usa el comando abortar para finalizar la acción prematuramente.
+Aún estás ocupada intentando cargar Cinturón Robacuraciones.
+Usa el comando abortar para finalizar la acción prematuramente.
+} 
+Finalmente logras cargar Cinturón Robacuraciones.
+Te quitas el Cinturón de Cirdan.
+Pones Cinturón de Cirdan en Mochila sin Fondo.
+] Comienzas a ponerte tu Cinturón Robacuraciones.
+> Pvs: 23012301 Pe: 495651
+Terminas de ponerte tu Cinturón Robacuraciones
+Tu resistencia de enfermedad se desvanece.
+Lancero de Takome está aquí.
+Camino Empedrado: Antiguos Arrabales [sudoeste,este] 
+Caminas con cuidado con tal de no tropezar con alguna piedra.
+> 
+Camino Empedrado: Antiguos Arrabales [noreste,oeste] 
+El aire puro en tus pulmones te produce una sensación momentánea de bienestar.
+] 
+||||| Sinafae (Melf) ||||| llega desde el oeste.
+Cartel de madera.
+Camino Empedrado de Takome [este,sur,oeste,norte] 
+Caminas con cuidado con tal de no tropezar con alguna piedra.
+> 
+Charco de sangre
+Camino Empedrado de Takome [sur,norte] 
+El aire puro en tus pulmones te produce una sensación momentánea de bienestar.
+] 
+Tu resistencia de veneno se desvanece.
+Camino Empedrado de Takome [sur,norte] 
+> 
+Camino Empedrado de Takome [sur,norte] 
+Caminas con cuidado con tal de no tropezar con alguna piedra.
+] 
+Comienzas a formular el hechizo 'Globo mayor de invulnerabilidad'.
+> 
+Tu resistencia de mental se desvanece.
+Pronuncias el cántico: 'maior secry sphyre'
+Eres rodeada por un globo de protección.
+[Obtienes 107 puntos de experiencia]
+[El bloqueo 'Proteccion bien' termina]
+[Renegado] Gtyarya LaQueIlusiona: comedor
+[Renegado] Gtyarya LaQueIlusiona: comedor
+Camino Empedrado de Takome [sur,norte] 
+> 
+[Renegado] Gtyarya LaQueIlusiona: posada
+Tu resistencia de mal se desvanece.
+Charco de sangre
+Camino Empedrado de Takome [sur,norte] 
+> 
+[Renegado] Gtyarya LaQueIlusiona: ven corre
+[Renegado] Gtyarya LaQueIlusiona: ven corre
+Sinafae (Melf) está aquí.
+Cartel de madera.
+Camino Empedrado de Takome [este,sur,oeste,norte] 
+El aire puro en tus pulmones te produce una sensación momentánea de bienestar.
+] 
+¡Te envuelve una dañina tormenta de luz!
+[Tiradas] Tirada de salvación de conjuro(bien) % de éxito: 53 (39+14). Tirada: 33 (Éxito).
+Pvs: 22052301 Pe: 467651
+Charco de sangre
+Camino Empedrado de Takome [sur,norte] 
+> 
+||||| Sinafae (Melf) ||||| llega desde el norte.
+||||| Sinafae (Melf) ||||| se va hacia sur.
+Sinafae (Melf) está aquí.
+Camino Empedrado de Takome [sur,norte] 
+Caminas con cuidado con tal de no tropezar con alguna piedra.
+] 
+] 
+# Rajas con fuerza a Sinafae.
+Tu ataque sorbe parte de la resistencia contra electrico de Sinafae.
+¡Tu Espada Azul te entrega la energía de Sinafae!
+# Mojas a Sinafae.
+[Obtienes 23 puntos de experiencia]
+Pvs: 22652301 Pe: 467651
+Camino Empedrado de Takome [sur,norte] 
+] 
+Camino Empedrado de Takome [sur,norte] 
+Caminas con cuidado con tal de no tropezar con alguna piedra.
+] 
+] 
+||||| Sinafae (Melf) ||||| llega desde el norte.
+] 
+Camino Empedrado de Takome [sur,norte] 
+] 
+[Renegado] Egmer: voy
+Lanza.
+Camino Empedrado de Takome [sur,norte] 
+El aire puro en tus pulmones te produce una sensación momentánea de bienestar.
+] 
+] 
+Estás persiguiendo a Sinafae.
+||||| Sinafae (Melf) ||||| llega desde el norte.
+Camino Empedrado de Takome [sur,norte] 
+] 
+||||| Sinafae (Melf) ||||| llega desde el norte.
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+* El ataque de Sinafae rebota en tu piel de piedra.
+* Sinafae te castiga intensamente.
+Pasas tu mano sobre tu Espada Azul mientras te concentras intentando despertar su magia.
+] 
+Pvs: 21242301 Pe: 469651
+||||| Sinafae (Melf) ||||| se va hacia sur.
+Cartel.
+Viejo Puesto Fronterizo del Sur de Takome [sur,norte] 
+> 
+Sinafae (Melf) está aquí.
+Senda del Alba [sur,norte] 
+] # Rajas con fuerza a Sinafae.
+Tu ataque sorbe parte de la resistencia contra fuego de Sinafae.
+# Mojas a Sinafae.
+[Obtienes 22 puntos de experiencia]
+# Rajas a Sinafae.
+Tu ataque sorbe parte de la resistencia contra mal de Sinafae.
+# Mojas a Sinafae.
+# Lresisah se interpone para detener parte del ataque a Sinafae.
+# Pronuncias unas palabras mágicas y tu Espada Azul empieza a vibrar y se ilumina deshaciendo los tejidos de Sinafae.
+[Obtienes 259 puntos de experiencia]
+Pvs: 22442301 Pe: 463651
+||||| Sinafae (Melf) ||||| se va hacia sur.
+[Chat] Greys: saben como se carga el martillo del trueno? es decir, una vez llegado a los alcantilados del trueno, que hay que hacer?
+||||| Sinafae (Melf) ||||| llega desde el sur.
+[Renegado] Gtyarya LaQueIlusiona: cierra al entrar y le damos
+# Rajas con fuerza a Sinafae.
+Tu ataque sorbe parte de la resistencia contra electrico de Sinafae.
+# Mojas a Sinafae.
+[Obtienes 22 puntos de experiencia]
+Pvs: 23012301 Pe: 463651
+Comienzas a formular el hechizo 'Desintegrar'.
+> 
+Sinafae te mira.
+[Renegado] Egmer: estoy
+* El ataque de Sinafae rebota en tu piel de piedra.
+* Sinafae te castiga críticamente.
+Pvs: 19032301 Pe: 463651
+Sinafae empieza a formular un hechizo.
+# Rajas con fuerza a Sinafae.
+Tu ataque sorbe parte de la resistencia contra magico de Sinafae.
+¡Tu Espada Azul te entrega la energía de Sinafae!
+# Mojas con poca intensidad a Sinafae.
+[Obtienes 20 puntos de experiencia]
+Preparas los componentes del hechizo.
+Pronuncias el cántico: 'bellum destruct corpore'
+# Cathedal se interpone para detener parte del ataque a Sinafae.
+¡Sinafae pierde la concentración!
+# Extiendes las palmas de tus manos formando un triángulo hacia Sinafae y un mortal rayo de energía le golpea de lleno, disgregando sus átomos y esparciéndolos en el aire.
+[Obtienes 239 puntos de experiencia]
+Pvs: 19632301 Pe: 463651
+[Renegado] Gtyarya LaQueIlusiona: cierra y go
+Tu mente no podría soportar activar de esta manera tu Anillo Topacio tan pronto.
+> 
+||||| Sinafae (Melf) ||||| se va hacia norte.
+Estás persiguiendo a Sinafae.
+Parece que el objetivo no existe o no es válido para esta runa. Son objetos válidos para esta runa, otros jugadores o personajes no jugadores.
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+Cartel.
+Viejo Puesto Fronterizo del Sur de Takome [sur,norte] 
+> 
+Parece que cure no produjo efecto alguno.
+> 
+Sinafae (Melf) está aquí.
+Camino Empedrado de Takome [sur,norte] 
+> 
+Parece que s1 no produjo efecto alguno.
+> 
+||||| Sinafae (Melf) ||||| se va hacia norte.
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+Cartel.
+Viejo Puesto Fronterizo del Sur de Takome [sur,norte] 
+> 
+Parece que el objetivo no existe o no es válido para esta runa. Son objetos válidos para esta runa, otros jugadores o personajes no jugadores.
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+Senda del Alba [sur,norte] 
+> 
+Senda del Alba [sur,norte] 
+El aire puro en tus pulmones te produce una sensación momentánea de bienestar.
+] 
+Senda del Alba [sur,norte] 
+Caminas inseguro por si hay algún bandido cerca.
+> 
+Columna de Piedra.
+Senda del Alba [sur,norte,oeste] 
+] 
+Senda del Alba [sur,norte] 
+> 
+Columna de Piedra.
+Senda del Alba [sur,norte,oeste] 
+] 
+[El bloqueo 'Desintegrar' termina]
+Lancero de Takome grita: ¡Por Takome!
+Lancero de Takome está aquí.
+Senda del Alba [este,oeste] 
+Caminas inseguro por si hay algún bandido cerca.
+> 
+Lancero de Takome grita: ¡Por Takome!
+Lancero de Takome está aquí.
+Senda del Alba [este,noroeste] 
+Caminas inseguro por si hay algún bandido cerca.
+] 
+] # Rajas violentamente a Lancero de Takome.
+¡Tu Espada Azul te entrega la energía de Lancero de Takome!
+# Mojas a Lancero de Takome.
+[Obtienes 36 puntos de experiencia]
+Pvs: 20232301 Pe: 436651
+* Logras esquivar el ataque de Lancero de Takome.
+[Renegado] Egmer: xD
+Lancero de Takome está aquí.
+Senda del Alba [este,oeste] 
+] 
+Sinafae (Melf) está aquí.
+Columna de Piedra.
+Senda del Alba [sur,norte,oeste] 
+Caminas con cuidado con tal de no tropezar con alguna piedra.
+] 
+Sinafae empieza a formular un hechizo.
+[Chat] Gyaotha   sintaxis martillo
+Senda del Alba [sur,norte] 
+> 
+Estás persiguiendo a Lancero de Takome.
+Tu resistencia de electrico se desvanece.
+Senda del Alba [sur,norte] 
+> 
+Senda del Alba [sur,norte] 
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+¡El hechizo de Sinafae no tiene ningún efecto en ti!
+Sinafae (Melf) está aquí.
+Senda del Alba [sur,norte] 
+> 
+[Chat] Gyaotha   o no sÃ© xd
+Pasas tu mano sobre tu Espada Azul mientras te concentras intentando despertar su magia.
+] # Rajas a Sinafae.
+Tu ataque sorbe parte de la resistencia contra electrico de Sinafae.
+# Mojas a Sinafae.
+[Obtienes 20 puntos de experiencia]
+# Rajas con fuerza a Sinafae.
+Tu ataque sorbe parte de la resistencia contra fuego de Sinafae.
+# Mojas con poca intensidad a Sinafae.
+# Pronuncias unas palabras mágicas y tu Espada Azul vibra mientras brotan de ella poderosos haces de luz que desmembran los tejidos externos de Sinafae alcanzando órganos internos.
+[Obtienes 242 puntos de experiencia]
+Pvs: 21432301 Pe: 431651
+Comienzas a formular el hechizo 'Desintegrar'.
+> 
+* El ataque de Sinafae rebota en tu piel de piedra.
+* Sinafae te castiga intensamente.
+Pvs: 20172301 Pe: 431651
+||||| Sinafae (Melf) ||||| se va hacia norte.
+Estás persiguiendo a Sinafae.
+Preparas los componentes del hechizo.
+Tu hechizo se ha quedado sin objetivo.
+Senda del Alba [sur,norte] 
+> 
+Cartel.
+Viejo Puesto Fronterizo del Sur de Takome [sur,norte] 
+] 
+Tocas la aquamarina de tu Cinturón Robacuraciones mientras pronuncias la palabra de poder. Un aura mágica te envuelve durante unos segundos.
+> 
+Sinafae (Melf) está aquí.
+Camino Empedrado de Takome [sur,norte] 
+> 
+# Rajas con fuerza a Sinafae.
+Tu ataque sorbe parte de la resistencia contra mal de Sinafae.
+¡Tu Espada Azul te entrega la energía de Sinafae!
+# Mojas a Sinafae.
+[Obtienes 22 puntos de experiencia]
+Tu resistencia de mal se desvanece.
+Pvs: 21372301 Pe: 431651
+Trazas con ágiles movimientos en tus dedos la representación rúnica de azuneu y clavas tu mirada en Sinafae.
+] 
+[Chat] Greys: xD
+* El ataque de Sinafae rebota en tu piel de piedra.
+* Sinafae te castiga muy intensamente.
+Pvs: 19752301 Pe: 426651
+Sinafae te examina.
+||||| Sinafae (Melf) ||||| se va hacia sur.
+Estás persiguiendo a Sinafae.
+Alzas tu mano, y alrededor de la misma comienzan a formarse 5 esferas que crepitan energía arcana y las lanzas contra Sinafae.
+# Una esfera de energía golpea a Sinafae con violencia mágica.
+# Una esfera de energía es esquivada por Sinafae antes del impacto.
+# Una esfera de energía golpea a Sinafae con violencia mágica.
+# Una esfera de energía golpea a Sinafae con violencia mágica.
+# Una esfera de energía golpea a Sinafae con violencia mágica.
+[Obtienes 20 puntos de experiencia]
+Cartel.
+Viejo Puesto Fronterizo del Sur de Takome [sur,norte] 
+> 
+Sinafae (Melf) está aquí.
+Senda del Alba [sur,norte] 
+Caminas inseguro por si hay algún bandido cerca.
+] 
+* El ataque de Sinafae rebota en tu piel de piedra.
+* Sinafae te castiga muy intensamente.
+Sinafae empieza a formular un hechizo.
+Pvs: 17682301 Pe: 426651
+Has agotado la energía necesaria para formular 'Desintegrar' y debes descansar antes de poder usar ese tipo de energía.
+> 
+Has agotado la energía necesaria para formular 'Desintegrar' y debes descansar antes de poder usar ese tipo de energía.
+] 
+] 
+# Rajas con fuerza a Sinafae.
+Tu ataque sorbe parte de la resistencia contra mal de Sinafae.
+# Mojas a Sinafae.
+[Obtienes 24 puntos de experiencia]
+Pvs: 18282301 Pe: 427651
+Comienzas a formular el hechizo 'Golpe de rayo'.
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+Sinafae pronuncia el cántico: 'ken olatid sancrit'
+¡Te envuelve una dañina tormenta de luz!
+[Tiradas] Tirada de salvación de conjuro(bien) % de éxito: 53 (39+14). Tirada: 4 (Éxito).
+Pvs: 16292301 Pe: 428651
+[El bloqueo 'Desintegrar' termina]
+Sinafae te examina.
+# Rajas con fuerza a Sinafae.
+Tu ataque sorbe parte de la resistencia contra frio de Sinafae.
+¡Tu Espada Azul te entrega la energía de Sinafae!
+# Mojas a Sinafae.
+[Obtienes 22 puntos de experiencia]
+Pronuncias el cántico: 'xilyx de gadrum'
+# Un rayo surge de tus manos impactando sobre Sinafae electrocutándola.
+[Obtienes 114 puntos de experiencia]
+Pvs: 16892301 Pe: 428651
+Pasas tu mano sobre tu Espada Azul mientras te concentras intentando despertar su magia.
+] 
+] 
+[Chat] Bradila:  Un martillo del trueno y un prisma? pero eres dueño de telecinco greys? o como haces para comprar cosas tan caras xDD
+¡Te envuelve una dañina tormenta de luz!
+[Tiradas] Tirada de salvación de conjuro(bien) % de éxito: 53 (39+14). Tirada: 2 (Éxito).
+Pvs: 15482301 Pe: 408651
+Debes recuperar tus energías mágicas antes de poder volver a ejecutar un golpe arcano.
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+||||| Sinafae (Melf) ||||| se va hacia norte.
+] 
+Estás persiguiendo a Sinafae.
+Has perdido de vista a tu objetivo.
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+[Chat] Bradila:  dime tu secreto
+Cartel.
+Viejo Puesto Fronterizo del Sur de Takome [sur,norte] 
+> 
+Sinafae (Melf) está aquí.
+Camino Empedrado de Takome [sur,norte] 
+] 
+¡El hechizo de Sinafae cambia de objetivo hacia ti!
+Sinafae pronuncia el cántico: 'magius modus curis'
+Sinafae te toca, curándote algunas de tus heridas más moderadas.
+Pvs: 23012301 Pe: 409651
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+||||| Sinafae (Melf) ||||| se va hacia norte.
+Parece que el objetivo no existe o no es válido para esta runa. Son objetos válidos para esta runa, otros jugadores o personajes no jugadores.
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+] 
+Sinafae (Melf) está aquí.
+Lanza.
+Camino Empedrado de Takome [sur,norte] 
+] 
+||||| Sinafae (Melf) ||||| se va hacia sur.
+Camino Empedrado de Takome [sur,norte] 
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+] 
+Lanza.
+Camino Empedrado de Takome [sur,norte] 
+] 
+Sinafae (Melf) está aquí.
+Camino Empedrado de Takome [sur,norte] 
+] 
+||||| Sinafae (Melf) ||||| se va hacia norte.
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] [El bloqueo 'Golpe de rayo' termina]
+Sinafae (Melf) está aquí.
+Lanza.
+Camino Empedrado de Takome [sur,norte] 
+> 
+Trazas con ágiles movimientos en tus dedos la representación rúnica de azuneu y clavas tu mirada en Sinafae.
+] 
+Sinafae empieza a formular un hechizo.
+Sinafae pronuncia el cántico: 'maleus benevola rissas'
+Tu aura blanca pura es destruída por el hechizo.
+Tu resistencia de bien se desvanece.
+||||| Sinafae (Melf) ||||| se va hacia sur.
+Estás persiguiendo a Sinafae.
+Alzas tu mano, y alrededor de la misma comienzan a formarse 5 esferas que crepitan energía arcana y las lanzas contra Sinafae.
+# Una esfera de energía golpea a Sinafae con violencia mágica.
+# Una esfera de energía golpea a Sinafae con violencia mágica.
+# Una esfera de energía golpea a Sinafae con violencia mágica.
+# Una esfera de energía golpea a Sinafae con violencia mágica.
+# Una esfera de energía es esquivada por Sinafae antes del impacto.
+[Obtienes 20 puntos de experiencia]
+||||| Sinafae (Melf) ||||| llega desde el sur.
+Camino Empedrado de Takome [sur,norte] 
+> 
+Sinafae (Melf) está aquí.
+Lanza.
+Camino Empedrado de Takome [sur,norte] 
+El aire puro en tus pulmones te produce una sensación momentánea de bienestar.
+] 
+] * El ataque de Sinafae rebota en tu piel de piedra.
+* Sinafae te castiga muy intensamente.
+Pvs: 21262301 Pe: 404651
+Sinafae empieza a formular un hechizo.
+Comienzas a formular el hechizo 'Desintegrar'.
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+# Rajas con fuerza a Sinafae.
+Tu ataque sorbe parte de la resistencia contra mental de Sinafae.
+¡Tu Espada Azul te entrega la energía de Sinafae!
+# Mojas a Sinafae.
+[Obtienes 21 puntos de experiencia]
+Preparas los componentes del hechizo.
+Pronuncias el cántico: 'bellum destruct corpore'
+# Extiendes las palmas de tus manos bruscamente hacia adelante y lanzas una ráfaga de energía mágica que desintegra por completo el cuerpo de Sinafae, arrancándole la carne de los
+músculos, los músculos de los huesos y reduciéndolo todo a un montón de sangre que pronto estalla en llamaradas verdosas y se convierten en cenizas.
+[Obtienes 239 puntos de experiencia]
+Pvs: 21862301 Pe: 405651
+El campo de luz que rodeaba al Anillo del Héroe de la Luz se desvanece.
+La guardia angelical que defendía a Sinafae se disuelve.
+¡Sinafae pierde la concentración!
+[Tu estatus con Mor Groddûr, Dendra y Agnur ha aumentado]
+[Tu alineamiento ha disminuído]
+[Obtienes 625627 puntos de experiencia]
+Propinas el golpe mortal a Sinafae.
+Sinafae ha muerto.
+Sinafae cae al suelo sin vida.
+Sinafae da un grito desgarrador antes de que su espíritu abandone Eirea.
+[Obtienes 26 puntos de gloria]

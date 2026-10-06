@@ -1,0 +1,2474 @@
+no
+
+] 
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [o,so,e,no] 
+Poste.
+
+] Camino de Amonmen [se,no] 
+
+formular vigor natural
+Comienzas a formular el hechizo 'Vigor natural'.
+
+cobardia 0
+Estás en modo valiente, ¡Dispuesto a enfrentarte a cualquier reto hasta la muerte!
+
+Reúnes las fuerzas del animal de tu interior para formular el hechizo 'Vigor natural'.
+[Tu fe en Eralie ha disminuido en 3 puntos]
+
+nick yy
+Ese nombre corto no existe.
+
+nickear x matar
+Nombre corto x cambiado de zeh,sowy,ghuv,grorgh,rength,suka a zeh,bladarro,rength,sowy,grorgh,ghuv.
+
+Reúnes las fuerzas del animal de tu interior para formular el hechizo 'Vigor natural'.
+
+mnick x zeh
+El nombre zeh ya es el primero del nick x.
+
+nick yy zeh
+Añadiendo nombre corto yy como zeh.
+
+nick yy zeh
+Nombre corto yy cambiado de zeh a zeh.
+
+Reúnes las fuerzas del animal de tu interior para formular el hechizo 'Vigor natural'.
+
+Dices en adurn: 'raalander natura temporis'
+Terminas tu hechizo 'Vigor natural' y te sientes lleno de una energía inagotable. Crees que podrías correr hasta el fin del mundo sin cansarte.
+
+Pvs: 4791/4791 (0) Pe: 1405/1408 (-3)
+
+formular sutileza del metamorfo
+Comienzas a formular el hechizo 'Sutileza del metamorfo'.
+
+Reúnes las fuerzas del animal de tu interior para formular el hechizo 'Sutileza del metamorfo'.
+
+Dices en adurn: 'maxima corpuus inmander natura'
+Tu hechizo de 'Sutileza del metamorfo' termina y sientes al instante todas las sensaciones que recorren cada nervio, cada centímetro interno o externo de tu ser. Tanta
+información te abruma por unos momentos, pero pronto eres capaz de dominarla.
+
+[Grorgh orbita al Limbo]
+
+gra
+Comienzas a formular el hechizo 'Gracia felina'.
+
+Pronuncias el cántico: 'felinus est gratia'
+Sólo acabar tu cántico inicias una serie de rápidos y fugaces movimientos de tus brazos, intentando atraer la gracia de Eralie.
+Cuando finalizas tu cántico, notas como el divino Don de la gracia divina invade tu cuerpo.
+De repente, tus músculos pierden masa muscular pero se vuelven fibrosos y más elásticos. Tienes la sensación de sentirte más ligero, pero a la vez, más letal y ágil que
+nunca. ¡Te sientes estupendamente bien!
+
+[Obtienes 87 puntos de experiencia]
+
+ben
+Comienzas a formular el hechizo 'Bendicion'.
+
+Pronuncias el cántico: 'bleiso umanos'
+Rezas una plegaria a Eralie y sientes como este te otorga su bendición.
+
+[Obtienes 28 puntos de experiencia]
+[El bloqueo 'Vigor natural' termina]
+
+formular canto:enorthus
+Comienzas a formular el hechizo 'Canto'.
+
+Pronuncias el cántico: 'acerbace unos baletis'
+Elevas tus rezos a Eralie entonando tu nombre para atraer su favor, mientras una aura azul empieza a envolverte de pies a cabeza.
+
+[Obtienes 27 puntos de experiencia]
+
+pfu
+Comienzas a formular el hechizo 'Proteccion fuego'.
+
+Pronuncias el cántico: 'major fogos rissas'
+Eres cubierto por un aura roja brillante.
+
+[Obtienes 54 puntos de experiencia]
+
+pel
+Comienzas a formular el hechizo 'Proteccion electrico'.
+
+[El bloqueo 'Sutileza del metamorfo' termina]
+
+Pronuncias el cántico: 'major relampagum rissas'
+Eres cubierto por un aura cian.
+
+[Obtienes 67 puntos de experiencia]
+
+[El bloqueo 'Bendicion' termina]
+
+rac
+Comienzas a formular el hechizo 'Resistir acido'.
+
+[El bloqueo 'Canto' termina]
+
+Pronuncias el cántico: 'minor acid resit'
+Eres cubierto por un aura amarilla.
+
+[Obtienes 13 puntos de experiencia]
+
+rve
+Comienzas a formular el hechizo 'Resistir veneno'.
+
+Pronuncias el cántico: 'minor posonae resit'
+Eres cubierto por un aura verde brillante.
+
+[Obtienes 13 puntos de experiencia]
+
+pfr
+Comienzas a formular el hechizo 'Proteccion frio'.
+
+Pronuncias el cántico: 'major hielum rissas'
+Eres cubierto por un aura cian brillante.
+
+[Obtienes 54 puntos de experiencia]
+
+se
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [o,so,e,no] 
+Poste.
+
+ac
+Murmullas unas palabras de poder y acaricias tu Anillo del Héroe de la Luz, que responde a tus palabras emitiendo una luz blanquecina y palpitando con energía.
+
+[El bloqueo 'Proteccion fuego' termina]
+e
+
+Linde Este del Bosque de Orgoth- Dinmen [o,e] 
+
+e
+Linde Este del Bosque de Orgoth- Dinmen [o,e] 
+
+e
+
+] 
+Senda del Alba [o,n,e] 
+
+e
+Senda del Alba [ne,o] 
+
+ne
+
+] 
+El poder de tu Anillo del Héroe de la Luz inunda tu cuerpo y te sientes mucho más fuerte.
+Senda del Alba [so,ne] 
+Lanza.
+
+> Pvs: 5191/5191 (+400) Pe: 1332/1408 (-76)
+[El bloqueo 'Proteccion electrico' termina]
+
+ne
+Lancero de Takome está aquí.
+Senda del Alba [so,e] 
+
+pa
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Pantera.
+
+ge
+
+] Zeh (Mdro) y Sowy (Melf) están aquí.
+Un muro de fuego en dirección noreste.
+Mano espectral está aquí.
+Un muro de fuego en dirección noreste.
+Senda del Alba [se,ne,o] 
+Poste de madera.
+Un muro de fuego en dirección noreste.
+
+> Pvs: 5061/5061 (-130) Pe: 1332/1408 (0)
+[El bloqueo 'Resistir acido' termina]
+[El bloqueo 'Resistir veneno' termina]
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Zeh  99%
+Sowy 90%
+
+a
++ Te mueves en silencio alrededor de Zeh, tensando los músculos de tus cuartos traseros para abalanzarte sobre él.
+
+# Tu ataque rebota en la piel de piedra de Zeh.
+# Tu ataque rebota en la piel de piedra de Zeh.
+# Tu ataque rebota en la piel de piedra de Zeh.
+# ¡Descargas una furia de golpes contra Zeh, pero éste consigue protegerse mágicamente de tres!
+
+os
+z
+z
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+> + Te preparas para ejecutar zarpazo.
+
+> Ignorando 'zarpazo x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+z
+> Ignorando 'zarpazo x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+z
+Ignorando 'zarpazo x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+> Pvs: 5861/5861 (+800) Pe: 1322/1408 (-10)
+
+z
+No estás suficientemente calmado.
+
+ac
+Has usado el poder del anillo recientemente y has de descansar antes de someterte de nuevo a sus influjos.
+
+# Tu ataque rebota en la piel de piedra de Zeh.
+
+o
+Lancero de Takome está aquí.
+Senda del Alba [so,e] 
+
+Estás persiguiendo a Zeh.
+[El bloqueo 'Proteccion frio' termina]
+
+e
+Zeh (Mdro) y Sowy (Melf) están aquí.
+Un muro de fuego en dirección noreste.
+Mano espectral está aquí.
+Un muro de fuego en dirección noreste.
+Senda del Alba [se,ne,o] 
+Poste de madera.
+Un muro de fuego en dirección noreste.
+
+* Logras esquivar el ataque de Zeh.
+hi
+
+Sowy empieza a inspeccionar la zona detenidamente.
+
+dn
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Hiena.
+
+> + Te preparas para ejecutar dentellada.
+
+¡Zeh te empapa con Aceite pegajoso e inflamable!
+
+# Tu ataque rebota en la piel de piedra de Zeh.
+
+! Sowy se prepara para ejecutar estocada sobre ti.
+
+Sowy detiene su búsqueda.
+se
+
+Tierras Húmedas [no,e] 
+
+Pvs: 5781/5781 (-80) Pe: 1316/1408 (+1)
+
+e
+Tierras Húmedas [se,o] 
+
+o
+Tierras Húmedas [no,e] 
+
+Zeh (Mdro) llega desde el noroeste seguido de Mano espectral.
+
+Zeh empieza a formular un hechizo.
+
+Sowy (Melf) llega desde el noroeste.
+no
+
+] Un muro de fuego en dirección noreste.
+Un muro de fuego en dirección noreste.
+Senda del Alba [se,ne,o] 
+Poste de madera.
+Un muro de fuego en dirección noreste.
+
+> Estás persiguiendo a Zeh.
+
+o
+Lancero de Takome está aquí.
+Senda del Alba [so,e] 
+
+so
+
+] 
+Senda del Alba [so,ne] 
+Lanza.
+
+pa
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Pantera.
+
+gne
+> 
+Zeh (Mdro) está aquí.
+Mano espectral y Lancero de Takome están aquí.
+Senda del Alba [so,e] 
+
+Zeh empieza a inspeccionar la zona detenidamente.
+
+La piel de piedra de Zeh se endurece y fortalece mágicamente, haciendo que su total de capas de piedra suba a 8.
+
+¡Has quedado al descubierto!
+
+Zeh detiene su búsqueda.
+# Tu ataque rebota en la piel de piedra de Zeh.
+# Tu ataque rebota en la piel de piedra de Zeh.
+# Enfermas con poca intensidad a Zeh.
+
+[Obtienes 6 puntos de experiencia]
+Pvs: 5061/5061 (-720) Pe: 1306/1408 (0)
+
+Zeh (Mdro) se va en dirección este seguido de Mano espectral.
+
+e
+Zeh (Mdro) y Sowy (Melf) están aquí.
+Un muro de fuego en dirección noreste.
+Mano espectral está aquí.
+Un muro de fuego en dirección noreste.
+Senda del Alba [se,ne,o] 
+Poste de madera.
+Un muro de fuego en dirección noreste.
+
+Sowy (Melf) se va hacia oeste.
+
+Zeh (Mdro) se va en dirección sudeste seguido de Mano espectral.
+
+Sowy (Melf) llega desde el oeste.
+
+! Sowy se prepara para ejecutar ataque doble sobre ti.
+o
+
+Lancero de Takome está aquí.
+Senda del Alba [so,e] 
+
+[El bloqueo 'zarpazo' termina]
+
+soz
+Parece que soz no produjo efecto alguno.
+
+so
+Senda del Alba [so,ne] 
+Lanza.
+
+ne
+Lancero de Takome está aquí.
+Senda del Alba [so,e] 
+
+Estás persiguiendo a Zeh.
+[El bloqueo 'abalanzarse' termina]
+[El bloqueo 'sigilar' termina]
+
+ge
+Zeh (Mdro) y Sowy (Melf) están aquí.
+Un muro de fuego en dirección noreste.
+Mano espectral está aquí.
+Un muro de fuego en dirección noreste.
+Senda del Alba [se,ne,o] 
+Poste de madera.
+Un muro de fuego en dirección noreste.
+
+a
+> 
++ Te mueves en silencio alrededor de Zeh, tensando los músculos de tus cuartos traseros para abalanzarte sobre él.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Zeh  97%
+Sowy 90%
+
+Sowy empieza a inspeccionar la zona detenidamente.
+
+Eludes la búsqueda de Zeh.
+
+Zeh detiene su búsqueda.
+
+Eludes la búsqueda de Sowy.
+
+Sowy detiene su búsqueda.
+
+# Tu ataque rebota en la piel de piedra de Zeh.
+# Tu ataque rebota en la piel de piedra de Zeh.
+# Tu ataque rebota en la piel de piedra de Zeh.
+# ¡Descargas una furia de golpes contra Zeh, pero éste consigue protegerse mágicamente de tres!
+
+Zeh (Mdro) se va en dirección sudeste seguido de Mano espectral.
+
+Sowy empieza a inspeccionar la zona detenidamente.
+o
+
+Lancero de Takome está aquí.
+Senda del Alba [so,e] 
+
+so
+Senda del Alba [so,ne] 
+Lanza.
+
+so
+
+] 
+Senda del Alba [ne,o] 
+
+> [El bloqueo 'dentellada' termina]
+
+e
+Parece que este no produjo efecto alguno.
+
+oe
+Parece que oe no produjo efecto alguno.
+
+os
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+ne
+> 
+Senda del Alba [so,ne] 
+Lanza.
+
+z
+> 
+No hay nadie aquí reconocible como zeh,bladarro,rength,sowy,grorgh,ghuv.
+
+z
+No hay nadie aquí reconocible como zeh,bladarro,rength,sowy,grorgh,ghuv.
+
+ne
+Lancero de Takome está aquí.
+Senda del Alba [so,e] 
+
+Pvs: 5861/5861 (+800) Pe: 1298/1408 (-7)
+e
+
+z
+Zeh (Mdro) y Sowy (Melf) están aquí.
+Un muro de fuego en dirección noreste.
+Mano espectral está aquí.
+Un muro de fuego en dirección noreste.
+Senda del Alba [se,ne,o] 
+Poste de madera.
+Un muro de fuego en dirección noreste.
+
+> + Te preparas para ejecutar zarpazo.
+
+Zeh (Mdro) se va en dirección oeste seguido de Mano espectral.
+
+cn
+Estás persiguiendo a Zeh.
+No estás luchando contra Sowy.
+
+Estás siendo atacado por Sowy.
+
+¡Tus objetivos ya no están al alcance de tu zarpazo!
+
+! Sowy se prepara para ejecutar ataque doble sobre ti.
+o
+
+* Sowy te lacera con poca fuerza.
+* Sowy te purifica con poca intensidad.
+* Sowy te perfora críticamente.
+Zeh (Mdro) está aquí.
+Mano espectral y Lancero de Takome están aquí.
+Senda del Alba [so,e] 
+
+Zeh (Mdro) se va en dirección este seguido de Mano espectral.
+so
+
+Senda del Alba [so,ne] 
+Lanza.
+
+so
+
+] 
+Sowy (Melf) llega desde el noreste.
+
+Senda del Alba [ne,o] 
+
+> Estás persiguiendo a Sowy.
+Pvs: 5497/5861 (-364) Pe: 1292/1408 (-6)
+Tu capa derrama parte de la sangre que la recubre sobre el suelo.
+
+o
+Senda del Alba [o,n,e] 
+
+pc
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+cle
+> 
+Comienzas a formular el hechizo 'Curar heridas ligeras'.
+
+Sowy (Melf) llega desde el este.
+
+! Sowy se prepara para ejecutar tajar sobre ti.
+
+Pvs: 4827/5191 (-670) Pe: 1292/1408 (0)
+
+¡Sowy te golpea con cólera de verdugo!
+* Sowy te raja con fuerza.
+* Sowy te corrompe.
+
+Pronuncias el cántico: 'magius elis curis'
+Curas algunas de tus heridas más ligeras.
+
+[Obtienes 175 puntos de experiencia]
+
+e
+Sowy (Melf) se va hacia este.
+Sowy (Melf) está aquí.
+Senda del Alba [ne,o] 
+Charco de sangre
+
+ne
+Senda del Alba [so,ne] 
+Lanza.
+
+Sowy (Melf) llega desde el sudoeste.
+
+Zeh (Mdro) llega desde el noreste seguido de Mano espectral.
+
+¡Sowy te golpea con cólera de verdugo!
+* ¡Sowy te alcanza con su maniobra de tajar!
+
+# Zeh consigue esquivar tu ataque.
+Pvs: 3961/5191 (-866) Pe: 1291/1408 (-1)
+
+! Sowy se prepara para ejecutar golpecertero sobre ti.
+
+Zeh empieza a formular un hechizo.
+so
+
+Senda del Alba [ne,o] 
+Charco de sangre
+
+o
+Senda del Alba [o,n,e] 
+
+n
+
+] 
+cme
+Templo de la Luz: Entrada [|de|,s] 
+
+> [El bloqueo 'abalanzarse' termina]
+Comienzas a formular el hechizo 'Curar heridas moderadas'.
+
+Pronuncias el cántico: 'magius modus curis'
+Curas algunas de tus heridas más moderadas.
+
+[Obtienes 341 puntos de experiencia]
+Estás persiguiendo a Sowy y Zeh.
+Pvs: 5145/5191 (+1184) Pe: 1291/1408 (0)
+
+cse
+Comienzas a formular el hechizo 'Curar heridas serias'.
+
+Sowy (Melf) llega desde el sur.
+! Sowy se prepara para ejecutar aplastar sobre ti.
+* Sowy te aplasta con mucha fuerza.
+
+vendar pie
+No tienes ninguna herida en pie.
+
+Sowy (Melf) se va hacia sur.
+
+Pronuncias el cántico: 'magius selirs curis'
+Curas algunas de tus heridas más serias.
+
+[Obtienes 99 puntos de experiencia]
+
+Pvs: 5191/5191 (+46) Pe: 1288/1408 (0)
+[El bloqueo 'Curar heridas ligeras' termina]
+
+s
+Zeh (Mdro) y Sowy (Melf) están aquí.
+Mano espectral está aquí.
+Senda del Alba [o,n,e] 
+
+> * Zeh te aplasta.
+* Zeh te fulmina con poca intensidad.
+El ambiente está bastante frío aquí fuera.
+
+Zeh detiene su búsqueda.
+
+Sowy empieza a inspeccionar la zona detenidamente.
+
+> ! Sowy se prepara para ejecutar aplastar sobre ti.
+
+Zeh empieza a inspeccionar la zona detenidamente.
+
+Sowy detiene su búsqueda.
+o
+
+Linde Este del Bosque de Orgoth- Dinmen [o,e] 
+
+> Pvs: 5011/5191 (-180) Pe: 1277/1408 (0)
+
+o
+Linde Este del Bosque de Orgoth- Dinmen [o,e] 
+
+o
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [o,so,e,no] 
+Poste.
+
+so
+
+] 
+so
+
+] 
+Camino de Ëarmen- Puente sobre el Iaurduin [so,ne] 
+
+] Camino de Ëarmen- Puente sobre el Iaurduin [so,ne] 
+
+cle
+Comienzas a formular el hechizo 'Curar heridas ligeras'.
+
+so
+
+] 
+¡Tu movimiento rompe tu concentración y tu hechizo de Curar heridas ligeras queda arruinado!
+Camino de Ëarmen- Puente sobre el Iaurduin [so,ne] 
+
+> [El bloqueo 'Curar heridas moderadas' termina]
+
+so
+Camino de Ëarmen- Bosque de Orgoth [o,se,s,ne] 
+Cartel.
+
+o
+
+] 
+vendar pie
+
+] Te desvias del camino del puente para llegar a un pequeño camino semi-paralelo al mismo.
+Desvío hacia el Iaurduin [ab,e] 
+
+] No tienes ninguna herida en pie.
+
+vendar pierna
+No tienes ninguna herida en pierna.
+
+vendar pecho
+No tienes ninguna herida en pecho.
+
+[El bloqueo 'Curar heridas serias' termina]
+
+vendar patas
+No tienes ninguna herida en patas.
+
+vender cab
+Parece que vender cab no produjo efecto alguno.
+
+vendar cabeza
+No tienes ninguna herida en cabeza.
+
+vendar mano
+No tienes ninguna herida en mano.
+
+vendar pecho
+No tienes ninguna herida en pecho.
+
+vendar hocico
+No tienes ninguna herida en hocico.
+
+vendar cola
+No tienes ninguna herida en cola.
+
+ojear
+Desvío hacia el Iaurduin [ab,e] 
+
+nick fau sowy
+Añadiendo nombre corto fau como sowy.
+
+ojear
+Desvío hacia el Iaurduin [ab,e] 
+
+pa
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Pantera.
+
+e
+Camino de Ëarmen- Bosque de Orgoth [o,se,s,ne] 
+Cartel.
+
+ne
+Camino de Ëarmen- Puente sobre el Iaurduin [so,ne] 
+
+ne
+
+] 
+Camino de Ëarmen- Puente sobre el Iaurduin [so,ne] 
+
+> Pvs: 4885/5061 (-126) Pe: 1277/1408 (0)
+
+ne
+Camino de Ëarmen- Puente sobre el Iaurduin [so,ne] 
+
+pc
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+cle
+> 
+Comienzas a formular el hechizo 'Curar heridas ligeras'.
+
+Pvs: 5015/5191 (+130) Pe: 1278/1408 (+1)
+
+Pronuncias el cántico: 'magius elis curis'
+Curas algunas de tus heridas más ligeras.
+
+[Obtienes 60 puntos de experiencia]
+
+pa
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Pantera.
+
+gne
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [o,so,e,no] 
+Sangre putrefacta
+Poste.
+
+> Pvs: 5061/5061 (+46) Pe: 1277/1408 (-1)
+
+e
+Linde Este del Bosque de Orgoth- Dinmen [o,e] 
+
+e
+Linde Este del Bosque de Orgoth- Dinmen [o,e] 
+
+e
+
+] 
+Senda del Alba [o,n,e] 
+
+e
+Senda del Alba [ne,o] 
+Charco de sangre
+
+ne
+
+] 
+Senda del Alba [so,ne] 
+Lanza.
+
+ne
+Sowy (Melf) está aquí.
+Lancero de Takome está aquí.
+Senda del Alba [so,e] 
+
+Sowy detiene su búsqueda.
+
+a
+Sowy logra esquivar el ataque de Lancero de Takome.
++ Comienzas a moverte tentativamente alrededor de Sowy, buscando un flanco vulnerable para abalanzarte sobre él.
+
+Sowy (Melf) se va hacia sudoeste.
+
+e
+
+] Senda del Alba [se,ne,o] 
+Poste de madera.
+
+> Estás persiguiendo a Sowy.
+
+se
+Tierras Húmedas [no,e] 
+
+¡Tus objetivos ya no están al alcance de tu abalanzarse!
+
+e
+
+] 
+Tierras Húmedas [se,o] 
+
+> [El bloqueo 'Curar heridas ligeras' termina]
+
+se
+Tierras Húmedas [no,e] 
+
+e
+
+] 
+Tierras Húmedas [se,o] 
+
+o
+Tierras Húmedas [no,e] 
+
+no
+
+] 
+Tierras Húmedas [se,o] 
+
+pc
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+o
+Tierras Húmedas [no,e] 
+
+no
+
+re
+] 
+
+] 
+Senda del Alba [se,ne,o] 
+Poste de madera.
+
+] El objetivo zeh,bladarro,rength,sowy,grorgh,ghuv no está aquí ahora mismo.
+
+> Pvs: 5191/5191 (+130) Pe: 1267/1408 (-9)
+
+ne
+Senda del Alba [so,n] 
+
+so
+Senda del Alba [se,ne,o] 
+Poste de madera.
+
+o
+
+] 
+Lancero de Takome está aquí.
+Senda del Alba [so,e] 
+
+so
+Senda del Alba [so,ne] 
+Lanza.
+
+so
+
+] 
+Sowy (Melf) está aquí.
+Senda del Alba [ne,o] 
+Charco de sangre
+
+Sowy (Melf) se va hacia noreste.
+
+Sowy (Melf) llega desde el noreste.
+
+! Sowy se prepara para ejecutar aplastar sobre ti.
+
+# Sowy consigue esquivar tu ataque.
+
+Sowy (Melf) se va hacia noreste.
+
+Sowy (Melf) llega desde el noreste.
+
+! Sowy se prepara para ejecutar aplastar sobre ti.
+cl
+
+No estás afectado por el polimorfismo para necesitar terminarlo.
+
+Comienzas a formular el hechizo 'Columna de fuego'.
+
+> Salvando...
+
+* Sowy te aplasta violentamente.
+
+* ¡Sowy te alcanza con su maniobra de aplastar!
+¡Sowy machaca tu armadura con sus ataques!
+Sowy es invulnerable a tu hechizo.
+Tu hechizo se ha quedado sin objetivo.
+
+Sowy (Melf) se va hacia oeste.
+
+Estás persiguiendo a Sowy.
+Pvs: 3998/5191 (-1193) Pe: 1268/1408 (+1)
+
+ne
+Lancero de Takome está aquí.
+Senda del Alba [so,ne] 
+Lanza.
+
+ne
+Senda del Alba [so,e] 
+
+e
+
+] 
+cle
+
+] 
+Senda del Alba [se,ne,o] 
+Poste de madera.
+
+] Comienzas a formular el hechizo 'Curar heridas ligeras'.
+
+Pronuncias el cántico: 'magius elis curis'
+Curas algunas de tus heridas más ligeras.
+
+[Obtienes 252 puntos de experiencia]
+
+ne
+Senda del Alba [so,n] 
+
+> Pvs: 4887/5191 (+889) Pe: 1269/1408 (+1)
+
+cme
+Comienzas a formular el hechizo 'Curar heridas moderadas'.
+
+Pronuncias el cántico: 'magius modus curis'
+Curas algunas de tus heridas más moderadas.
+
+[Obtienes 103 puntos de experiencia]
+
+so
+Senda del Alba [se,ne,o] 
+Poste de madera.
+
+o
+Sowy (Melf) está aquí.
+Senda del Alba [so,e] 
+
+Sowy detiene su búsqueda.
+
+# Aplastas a Sowy.
+
+[Obtienes 14 puntos de experiencia]
+Pvs: 5191/5191 (+304) Pe: 1270/1408 (+2)
+
+Sowy (Melf) se va hacia sudoeste.
+
+re
+El objetivo zeh,bladarro,rength,sowy,grorgh,ghuv no está aquí ahora mismo.
+
+so
+Sowy (Melf) está aquí.
+Lancero de Takome está aquí.
+Senda del Alba [so,ne] 
+Lanza.
+
+li
+Ignorando 'formular limo toxico:x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+Sowy se prepara para ejecutar golpecertero sobre Lancero de Takome.
+
+[El bloqueo 'Columna de fuego' termina]
+
+Sowy logra parar críticamente el ataque de Lancero de Takome.
+
+¡Sowy alcanza a Lancero de Takome con su maniobra de golpecertero!
+
+Sowy perfora con fuerza a Lancero de Takome.
+
+Sowy raja con fuerza a Lancero de Takome.
+li
+
+Comienzas a formular el hechizo 'Limo toxico'.
+
+Sowy (Melf) se va hacia sudoeste.
+
+so
+Sowy (Melf) está aquí.
+Senda del Alba [ne,o] 
+Charco de sangre
+
+Sowy (Melf) se va hacia oeste.
+
+o
+Sowy (Melf) está aquí.
+Senda del Alba [o,n,e] 
+
+Pronuncias el cántico: 'toxika flagrat'
+# ¡Juntas tus manos y expulsas un chorro de limo tóxico a los pies de Sowy, envolviéndola en vapores venenosos!
+
+[Obtienes 176 puntos de experiencia]
+
+# Sowy consigue esquivar tu ataque.
+
+re
+Sowy (Melf) se va hacia oeste.
+El objetivo zeh,bladarro,rength,sowy,grorgh,ghuv no está aquí ahora mismo.
+
+o
+Sowy (Melf) está aquí.
+Linde Este del Bosque de Orgoth- Dinmen [o,e] 
+
+Sowy (Melf) se va hacia oeste.
+
+re
+Ignorando 'formular relampago:x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+o
+Sowy (Melf) está aquí.
+Linde Este del Bosque de Orgoth- Dinmen [o,e] 
+
+re
+[El bloqueo 'Curar heridas ligeras' termina]
+Comienzas a formular el hechizo 'Relámpago'.
+
+Sowy (Melf) se va hacia oeste.
+
+o
+¡Tu movimiento rompe tu concentración y tu hechizo de Relámpago queda arruinado!
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [o,so,e,no] 
+Sangre putrefacta
+Poste.
+
+so
+Sowy (Melf) está aquí.
+Camino de Ëarmen- Puente sobre el Iaurduin [so,ne] 
+
+re
+> 
+Ignorando 'formular relampago:x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+# Sowy consigue esquivar tu ataque.
+[El bloqueo 'Curar heridas moderadas' termina]
+
+Sowy (Melf) se va hacia sudoeste.
+
+so
+Camino de Ëarmen- Puente sobre el Iaurduin [so,ne] 
+
+so
+Sowy (Melf) está aquí.
+Camino de Ëarmen- Puente sobre el Iaurduin [so,ne] 
+
+gl
+Comienzas a formular el hechizo 'Disipar magia'.
+
+* Sowy te perfora con poca fuerza.
+* Sowy te raja con fuerza.
+El ataque de Sowy te roba parte de tu resistencia contra electrico.
+
+Sowy (Melf) se va hacia sudoeste.
+
+Tu hechizo contra zeh,bladarro,rength,sowy,grorgh,ghuv falla.
+
+so
+Camino de Ëarmen- Bosque de Orgoth [o,se,s,ne] 
+Cartel.
+
+> Estás persiguiendo a Sowy.
+Pvs: 4955/5191 (-236) Pe: 1241/1408 (-26)
+
+se
+Loro está aquí.
+Márgenes del Iaurduin [se,no] 
+
+cle
+Comienzas a formular el hechizo 'Curar heridas ligeras'.
+
+[Bladarro orbita al Limbo]
+
+Pronuncias el cántico: 'magius elis curis'
+Curas algunas de tus heridas más ligeras.
+
+[Obtienes 76 puntos de experiencia]
+
+no
+Camino de Ëarmen- Bosque de Orgoth [o,se,s,ne] 
+Cartel.
+
+s
+Sowy (Melf) está aquí.
+Camino de Ëarmen [so,n] 
+
+# Aplastas a Sowy.
+
+[Obtienes 14 puntos de experiencia]
+Pvs: 5191/5191 (+236) Pe: 1241/1408 (0)
+c
+
+Parece que zarandear no produjo efecto alguno.
+
+Sowy (Melf) se va hacia norte.
+
+co
+Estás persiguiendo a Sowy.
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Cocodrilo.
+
+n
+> 
+Camino de Ëarmen- Bosque de Orgoth [o,se,s,ne] 
+Cartel.
+
+se
+Loro está aquí.
+Márgenes del Iaurduin [se,no] 
+
+> Pvs: 5961/5961 (+770) Pe: 1240/1408 (0)
+
+g
+No hay nadie aquí reconocible como zeh,bladarro,rength,sowy,grorgh,ghuv.
+
+no
+Camino de Ëarmen- Bosque de Orgoth [o,se,s,ne] 
+Cartel.
+
+Sowy (Melf) llega desde el oeste.
+
+! Sowy se prepara para ejecutar tajar sobre ti.
+
+# Perforas con increíble potencia a Sowy.
+# Enfermas con poca intensidad a Sowy.
+
+[Obtienes 51 puntos de experiencia]
+
+Sowy intenta seguirte pero le das esquinazo.
+
+s
+Camino de Ëarmen [so,n] 
+
+so
+Camino de Ëarmen [s,ne] 
+
+[El bloqueo 'Disipar magia' termina]
+
+ne
+Sowy (Melf) está aquí.
+Camino de Ëarmen [so,n] 
+
+Sowy (Melf) se va hacia sudoeste.
+
+so
+Sowy (Melf) está aquí.
+Camino de Ëarmen [s,ne] 
+
+Sowy (Melf) se va hacia noreste.
+
+g
+Estás persiguiendo a Sowy.
+No hay nadie aquí reconocible como zeh,bladarro,rength,sowy,grorgh,ghuv.
+
+ne
+[El bloqueo 'Curar heridas ligeras' termina]
+Sowy (Melf) está aquí.
+Camino de Ëarmen [so,n] 
+
+Sowy (Melf) se va hacia norte.
+
+n
+Sowy (Melf) está aquí.
+Camino de Ëarmen- Bosque de Orgoth [o,se,s,ne] 
+Cartel.
+
+Sowy (Melf) se va hacia sudeste.
+g
+
+No hay nadie aquí reconocible como zeh,bladarro,rength,sowy,grorgh,ghuv.
+
+se
+
+] 
+Sowy (Melf) está aquí.
+Loro está aquí.
+Márgenes del Iaurduin [se,no] 
+
+¡Sowy te golpea con cólera de verdugo!
+* Sowy te raja con poca fuerza y de forma superficial.
+* Sowy te corrompe con poca intensidad.
+! Sowy se prepara para ejecutar tajar sobre ti.
+
+Sowy (Melf) se va hacia noroeste.
+
+se
+Márgenes del Iaurduin [se,e,no] 
+
+e
+
+] 
+Serpiente y Loro están aquí.
+Puente sobre el Iaurduin [e,o] 
+Observas algunas pequeñas ramas ser arrastradas rio abajo por la corriente.
+
+> Pvs: 5854/5961 (-107) Pe: 1242/1408 (+2)
+
+o
+Sowy (Melf) está aquí.
+Márgenes del Iaurduin [se,e,no] 
+
+g
+> 
+Comienzas a serpentear alrededor de Sowy, buscando puntos ciegos por donde puedas agarrarle con tus temibles fauces.
+
+> ! Sowy se prepara para ejecutar golpecertero sobre ti.
+
+¡Sowy te golpea con cólera de verdugo!
+* ¡Sowy te alcanza con su maniobra de golpecertero!
+
+Sowy (Melf) se va hacia este.
+
+Pvs: 5535/5961 (-319) Pe: 1240/1408 (-2)
+
+e
+Sowy (Melf) está aquí.
+Serpiente y Loro están aquí.
+Puente sobre el Iaurduin [e,o] 
+
+> ¡Sowy te golpea con cólera de verdugo!
+* Sowy te raja con fuerza.
+* Sowy te corrompe con poca intensidad.
+
+Sowy (Melf) se va hacia este.
+
+e
+Puente sobre el Iaurduin [e,o] 
+Observas algunas pequeñas ramas ser arrastradas rio abajo por la corriente.
+
+> Chasqueas los dientes en el aire cuando Sowy escapa al alcance de tus mandíbulas.
+
+e
+
+] 
+Sowy (Melf) está aquí.
+Márgenes del Iaurduin [se,o] 
+
+> # Perforas con increíble potencia a Sowy.
+# Enfermas con poca intensidad a Sowy.
+
+[Obtienes 51 puntos de experiencia]
+Pvs: 5309/5961 (-226) Pe: 1240/1408 (0)
+[El bloqueo 'Iluminacion (sufrido)' termina]
+
+pc
+! Sowy se prepara para ejecutar tajar sobre ti.
+
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+cle
+> 
+Comienzas a formular el hechizo 'Curar heridas ligeras'.
+
+Está lloviendo.
+
+Sowy (Melf) se va hacia oeste.
+
+Pronuncias el cántico: 'magius elis curis'
+Curas algunas de tus heridas más ligeras.
+
+[Obtienes 189 puntos de experiencia]
+
+se
+Márgenes del Iaurduin [e,no] 
+
+> Pvs: 5191/5191 (-118) Pe: 1240/1408 (0)
+
+e
+Cocodrilo está aquí.
+Márgenes del Iaurduin [se,o] 
+
+no
+Parece que noroeste no produjo efecto alguno.
+
+Estás persiguiendo a Sowy.
+o
+
+Sowy (Melf) está aquí.
+Márgenes del Iaurduin [e,no] 
+
+Sowy (Melf) se va hacia noroeste.
+
+no
+Márgenes del Iaurduin [se,o] 
+
+re
+> 
+El objetivo zeh,bladarro,rength,sowy,grorgh,ghuv no está aquí ahora mismo.
+
+o
+
+] 
+Sowy (Melf) está aquí.
+Puente sobre el Iaurduin [e,o] 
+Observas algunas pequeñas ramas ser arrastradas rio abajo por la corriente.
+
+re
+> 
+Comienzas a formular el hechizo 'Relámpago'.
+
+Sowy (Melf) se va hacia oeste.
+
+El destino de tu hechizo está fuera de alcance.
+
+o
+Serpiente y Loro están aquí.
+Puente sobre el Iaurduin [e,o] 
+
+o
+Márgenes del Iaurduin [se,e,no] 
+
+lr
+Comienzas a formular el hechizo 'Llamar rayos'.
+
+no
+
+] 
+Loro está aquí.
+Márgenes del Iaurduin [se,no] 
+
+no
+Camino de Ëarmen- Bosque de Orgoth [o,se,s,ne] 
+Cartel.
+
+Nubes negras de tormenta se ciernen sobre el área.
+
+ne
+
+] 
+Camino de Ëarmen- Puente sobre el Iaurduin [so,ne] 
+
+> [El bloqueo 'Curar heridas ligeras' termina]
+[El bloqueo 'Limo toxico' termina]
+
+ne
+Camino de Ëarmen- Puente sobre el Iaurduin [so,ne] 
+
+ne
+
+] 
+Camino de Ëarmen- Puente sobre el Iaurduin [so,ne] 
+
+ne
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [o,so,e,no] 
+Poste.
+
+Alzas el puño hacia el cielo, y este retumba y relampaguea como respuesta.
+Ningún rayo parece acudir a tu llamada.
+
+so
+Camino de Ëarmen- Puente sobre el Iaurduin [so,ne] 
+
+ne
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [o,so,e,no] 
+Poste.
+
+no
+
+] 
+Camino de Amonmen [se,no] 
+
+pa
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Pantera.
+
+no
+Camino de Amonmen [ne,se,no] 
+
+l ar
+Árbol: Entre las ramas
+
+ Te encuentras entre las ramas de un árbol, si miras atentamente abajo, podrás ver quien está en la base del árbol.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Ves 3 ramas accesibles en dirección: noreste, sudeste y noroeste.
+Zeh (Mdro) está allí.
+
+Tu armadura deja de estar expuesta.
+Pvs: 5061/5061 (-130) Pe: 1235/1408 (-4)
+[El bloqueo 'Relámpago' termina]
+
+sacudir arbol
+Sacudes el árbol con tus manos desnudas.
+
+l ar
+Árbol: Entre las ramas
+
+ Te encuentras entre las ramas de un árbol, si miras atentamente abajo, podrás ver quien está en la base del árbol.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Ves 3 ramas accesibles en dirección: noreste, sudeste y noroeste.
+
+se
+Camino de Amonmen [se,no] 
+
+l ar
+Árbol: Entre las ramas
+
+ Te encuentras entre las ramas de un árbol, si miras atentamente abajo, podrás ver quien está en la base del árbol.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Ves 2 ramas accesibles en dirección: sudeste y noroeste.
+
+se
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [o,so,e,no] 
+Poste.
+
+l ar
+Árbol: Entre las ramas
+
+ Te encuentras entre las ramas de un árbol, si miras atentamente abajo, podrás ver quien está en la base del árbol.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Ves 4 ramas accesibles en dirección: oeste, sudoeste, este y noroeste.
+Zeh (Mdro) está allí.
+
+l ar
+Árbol: Entre las ramas
+
+ Te encuentras entre las ramas de un árbol, si miras atentamente abajo, podrás ver quien está en la base del árbol.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Ves 4 ramas accesibles en dirección: oeste, sudoeste, este y noroeste.
+
+mo
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Mono.
+
+Sowy te dice:  em cur oalg oxdd
+Pvs: 5201/5201 (+140) Pe: 1233/1408 (-2)
+[El bloqueo 'mordisco' termina]
+[El bloqueo 'Llamar rayos' termina]
+
+trepar arbol
+No puedes trepar teniendo las manos ocupadas.
+
+des todo
+Dejas de sostener tu Efigie del Impedimento.
+Dejas de sostener tu Espolón enmohecido de Constructo.
+
+trepar arbol
+Empiezas a trepar el árbol perdiéndote entre las ramas.
+
+} 
+Terminas de encaramarte a las ramas superiores del árbol.
+Bajo el árbol:
+Poste.
+Bajo el árbol:
+Poste.
+Árbol: Entre las ramas (o,so,e,no) 
+Bajo el árbol:
+Poste.
+
+saltar so
+Saltas a una rama en dirección sudoeste.
+Árbol: Entre las ramas (so,ne) 
+
+saltar so
+Saltas a una rama en dirección sudoeste.
+Árbol: Entre las ramas (so,ne) 
+
+saltar so
+
+] 
+Saltas a una rama en dirección sudoeste.
+Árbol: Entre las ramas (so,ne) 
+
+saltar so
+
+] 
+d
+
+] 
+Saltas a una rama en dirección sudoeste.
+Estás siendo atacado por Das'shuz.
+Bajo el árbol:
+Cartel.
+Das'shuz está aquí.
+Bajo el árbol:
+Cartel.
+Árbol: Entre las ramas (se,ne) 
+Bajo el árbol:
+Cartel.
+
+] En tu estado polimorfado te es imposible formular el hechizo Retener persona.
+
+> # Das'shuz consigue parar tu ataque.
+
+Das'shuz comienza a serpentear a tu alrededor mientras se relame, buscando puntos ciegos en tus defensas.
+* Das'shuz te raja críticamente.
+¡La Espada Azul de Das'shuz absorbe parte de tu energía!
+El ataque de Das'shuz te roba parte de tu resistencia contra frio.
+¡El golpe de Das'shuz te causa una profunda herida en pies!
+* Logras esquivar el ataque de Das'shuz.
+
+saltar ab
+
+] 
+Saltas a la base del árbol con un gran impulso.
+
+> Pvs: 5143/5201 (-58) Pe: 1233/1408 (0)
+Aterrizas sobre el suelo sin ningún percance.
+Camino de Ëarmen- Bosque de Orgoth [o,se,s,ne] 
+Cartel.
+
+ne
+
+] 
+ne
+
+] 
+cle
+
+] 
+Camino de Ëarmen- Puente sobre el Iaurduin [so,ne] 
+
+] Camino de Ëarmen- Puente sobre el Iaurduin [so,ne] 
+
+] En tu estado polimorfado te es imposible formular el hechizo Curar heridas ligeras.
+
+> Estás persiguiendo a Das'shuz.
+[El bloqueo 'Gracia felina' termina]
+
+l ar
+Árbol: Entre las ramas
+
+ Te encuentras entre las ramas de un árbol, si miras atentamente abajo, podrás ver quien está en la base del árbol.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Ves 2 ramas accesibles en dirección: sudoeste y noreste.
+
+ne
+Camino de Ëarmen- Puente sobre el Iaurduin [so,ne] 
+
+l ar
+Árbol: Entre las ramas
+
+ Te encuentras entre las ramas de un árbol, si miras atentamente abajo, podrás ver quien está en la base del árbol.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Ves 2 ramas accesibles en dirección: sudoeste y noreste.
+
+ne
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [o,so,e,no] 
+Poste.
+
+l ar
+Árbol: Entre las ramas
+
+ Te encuentras entre las ramas de un árbol, si miras atentamente abajo, podrás ver quien está en la base del árbol.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Ves 4 ramas accesibles en dirección: oeste, sudoeste, este y noroeste.
+
+pc
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+cle
+> 
+Comienzas a formular el hechizo 'Curar heridas ligeras'.
+
+l ar
+Está tan oscuro que no logras ver nada.
+
+ Está oscuro.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Pvs: 5139/5191 (-4) Pe: 1232/1408 (0)
+
+Pronuncias el cántico: 'magius elis curis'
+Curas algunas de tus heridas más ligeras.
+
+[Obtienes 27 puntos de experiencia]
+
+e
+Linde Este del Bosque de Orgoth- Dinmen [o,e] 
+
+l ar
+Está tan oscuro que no logras ver nada.
+
+ Está oscuro.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+co
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Cocodrilo.
+
+l ar
+Árbol: Entre las ramas
+
+ Te encuentras entre las ramas de un árbol, si miras atentamente abajo, podrás ver quien está en la base del árbol.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Ves 2 ramas accesibles en dirección: oeste y este.
+
+> Pvs: 5961/5961 (+822) Pe: 1231/1408 (-1)
+
+o
+Sowy (Melf) está aquí.
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [o,so,e,no] 
+Poste.
+
+l ar
+Sowy (Melf) se va hacia noroeste.
+Árbol: Entre las ramas
+
+ Te encuentras entre las ramas de un árbol, si miras atentamente abajo, podrás ver quien está en la base del árbol.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Ves 4 ramas accesibles en dirección: oeste, sudoeste, este y noroeste.
+
+no
+Camino de Amonmen [se,no] 
+
+pc
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+no
+Camino de Amonmen [ne,se,no] 
+
+ne
+
+] Tres Conejos de monte están aquí.
+Bosque de Orgoth: Linde Noreste [so,se,e,ne] 
+
+> Pvs: 5191/5191 (-770) Pe: 1231/1408 (0)
+
+se
+Dos Conejos de monte están aquí.
+Bosque de Orgoth: Linde Noreste [ne,n,no] 
+Tocón de árbol talado.
+
+ne
+
+] 
+Bosque de Orgoth: Linde Noreste [so,o] 
+Formación Rocosa y Cornamenta.
+
+o
+Tres Conejos de monte están aquí.
+Bosque de Orgoth: Linde Noreste [e,s,o,n] 
+
+n
+
+] 
+ne
+
+] 
+Bosque de Orgoth: Linde Noreste [s,so,ne] 
+Cornamenta.
+
+] Ardilla está aquí.
+Bosque de Orgoth: Linde Noreste [so,no,n] 
+Formación Rocosa.
+
+> [El bloqueo 'Curar heridas ligeras' termina]
+
+cic enorthus
+Comienzas a formular el hechizo 'Cicatrizar'.
+
+l ar
+Está tan oscuro que no logras ver nada.
+
+ Es un árbol de tipo roble.
+ Está oscuro.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Empiezas a formular una tranquila plegaria.
+
+ojear
+Ardilla está aquí.
+Bosque de Orgoth: Linde Noreste [so,no,n] 
+Formación Rocosa.
+
+Pronuncias el cántico: 'sagnat curis'
+Tu cuerpo responde y finalmente logra contener tu herida que queda cicatrizada.
+Pones tu mano sobre la herida y esta cicatriza al instante envuelta por una cálida aureola azul.
+
+[Obtienes 47 puntos de experiencia]
+
+co
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Cocodrilo.
+
+n
+Dos Ciervos están aquí.
+Bosque de Orgoth: Linde Noreste [s,e,n,no,o] 
+
+e
+Bosque de Orgoth: Linde Noreste [n,no,o] 
+Formación Rocosa.
+
+Pvs: 5961/5961 (+770) Pe: 1228/1408 (-3)
+l ar
+Árbol: Entre las ramas
+
+ Es un árbol de tipo roble.
+ Te encuentras entre las ramas de un árbol, si miras atentamente abajo, podrás ver quien está en la base del árbol.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Ves 2 ramas accesibles en dirección: noroeste y oeste.
+
+n
+Bosque de Orgoth: Linde Noreste [s,o] 
+Tocón de árbol talado.
+
+l ar
+Esta parte del bosque no tiene árboles.
+
+o
+Dos Conejos de monte están aquí.
+Bosque de Orgoth: Linde Noreste [e,se,s,o] 
+
+l ar
+Árbol: Entre las ramas
+
+ Es un árbol de tipo roble.
+ Te encuentras entre las ramas de un árbol, si miras atentamente abajo, podrás ver quien está en la base del árbol.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Ves 3 ramas accesibles en dirección: sudeste, sur y oeste.
+
+o
+Cinco Ardillas están aquí.
+Bosque de Orgoth: Linde Noreste [so,s,se,e,n,no] 
+
+l ar
+Árbol: Entre las ramas
+
+ Es un árbol de tipo roble.
+ Te encuentras entre las ramas de un árbol, si miras atentamente abajo, podrás ver quien está en la base del árbol.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Ves 6 ramas accesibles en dirección: sudoeste, sur, sudeste, este, norte y noroeste.
+
+n
+Cuatro Ardillas están aquí.
+Bosque de Orgoth: Linde Noreste [s,o] 
+
+l ar
+Árbol: Entre las ramas
+
+ Es un árbol de tipo roble.
+ Te encuentras entre las ramas de un árbol, si miras atentamente abajo, podrás ver quien está en la base del árbol.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Ves 2 ramas accesibles en dirección: sur y oeste.
+
+Tu resistencia de veneno se desvanece.
+Tu debilidad de electrico se desvanece.
+o
+
+Bosque de Orgoth: Linde Noreste [se,e] 
+
+l ar
+Árbol: Entre las ramas
+
+ Es un árbol de tipo roble.
+ Te encuentras entre las ramas de un árbol, si miras atentamente abajo, podrás ver quien está en la base del árbol.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Ves 2 ramas accesibles en dirección: sudeste y este.
+
+se
+Cinco Ardillas están aquí.
+Bosque de Orgoth: Linde Noreste [so,s,se,e,n,no] 
+
+l ar
+Árbol: Entre las ramas
+
+ Es un árbol de tipo roble.
+ Te encuentras entre las ramas de un árbol, si miras atentamente abajo, podrás ver quien está en la base del árbol.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Ves 6 ramas accesibles en dirección: sudoeste, sur, sudeste, este, norte y noroeste.
+
+so
+
+] 
+Ardilla se muerde la cola.
+
+Sowy (Melf) está aquí.
+Cierva está aquí.
+Bosque de Orgoth: Linde Noreste [e,ne,so] 
+
+* Sowy te aplasta con fuerza.
+
+g
+Sowy logra esquivar el ataque de Cierva.
+Comienzas a serpentear alrededor de Sowy, buscando puntos ciegos por donde puedas agarrarle con tus temibles fauces.
+
+Sowy (Melf) se va hacia este.
+
+e
+Tres Ardillas están aquí.
+Bosque de Orgoth: Linde Noreste [se,e,n,o] 
+
+se
+
+] Ardilla está aquí.
+Bosque de Orgoth: Linde Noreste [so,no,n] 
+Formación Rocosa.
+
+> Estás persiguiendo a Sowy.
+Pvs: 5834/5961 (-127) Pe: 1229/1408 (+1)
+[El bloqueo 'Cicatrizar' termina]
+
+Chasqueas los dientes en el aire cuando Sowy escapa al alcance de tus mandíbulas.
+
+eo
+Parece que eo no produjo efecto alguno.
+
+so
+Bosque de Orgoth: Linde Noreste [s,so,ne] 
+Cornamenta.
+
+so
+Tres Conejos de monte están aquí.
+Bosque de Orgoth: Linde Noreste [so,se,e,ne] 
+
+s
+Parece que sur no produjo efecto alguno.
+
+so
+Camino de Amonmen [ne,se,no] 
+
+l ar
+Árbol: Entre las ramas
+
+ Te encuentras entre las ramas de un árbol, si miras atentamente abajo, podrás ver quien está en la base del árbol.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Ves 3 ramas accesibles en dirección: noreste, sudeste y noroeste.
+
+se
+Camino de Amonmen [se,no] 
+
+l ar
+Árbol: Entre las ramas
+
+ Te encuentras entre las ramas de un árbol, si miras atentamente abajo, podrás ver quien está en la base del árbol.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Ves 2 ramas accesibles en dirección: sudeste y noroeste.
+
+se
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [o,so,e,no] 
+Poste.
+
+l ar
+Árbol: Entre las ramas
+
+ Te encuentras entre las ramas de un árbol, si miras atentamente abajo, podrás ver quien está en la base del árbol.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Ves 4 ramas accesibles en dirección: oeste, sudoeste, este y noroeste.
+
+e
+
+] 
+Linde Este del Bosque de Orgoth- Dinmen [o,e] 
+
+l ar
+Árbol: Entre las ramas
+
+ Te encuentras entre las ramas de un árbol, si miras atentamente abajo, podrás ver quien está en la base del árbol.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Ves 2 ramas accesibles en dirección: oeste y este.
+
+e
+Linde Este del Bosque de Orgoth- Dinmen [o,e] 
+
+l ar
+Árbol: Entre las ramas
+
+ Te encuentras entre las ramas de un árbol, si miras atentamente abajo, podrás ver quien está en la base del árbol.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Ves una rama accesible en dirección: oeste.
+Zeh (Mdro) está allí.
+
+l ar
+Árbol: Entre las ramas
+
+ Te encuentras entre las ramas de un árbol, si miras atentamente abajo, podrás ver quien está en la base del árbol.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Ves una rama accesible en dirección: oeste.
+Zeh (Mdro) está allí.
+
+l ar
+Árbol: Entre las ramas
+
+ Te encuentras entre las ramas de un árbol, si miras atentamente abajo, podrás ver quien está en la base del árbol.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Ves una rama accesible en dirección: oeste.
+Zeh (Mdro) está allí.
+
+l ar
+Árbol: Entre las ramas
+
+ Te encuentras entre las ramas de un árbol, si miras atentamente abajo, podrás ver quien está en la base del árbol.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Ves una rama accesible en dirección: oeste.
+
+l ar
+Árbol: Entre las ramas
+
+ Te encuentras entre las ramas de un árbol, si miras atentamente abajo, podrás ver quien está en la base del árbol.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Ves una rama accesible en dirección: oeste.
+
+o
+Linde Este del Bosque de Orgoth- Dinmen [o,e] 
+
+o
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [o,so,e,no] 
+Poste.
+
+l ar
+Árbol: Entre las ramas
+
+ Te encuentras entre las ramas de un árbol, si miras atentamente abajo, podrás ver quien está en la base del árbol.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Ves 4 ramas accesibles en dirección: oeste, sudoeste, este y noroeste.
+Zeh (Mdro) está allí.
+
+l ar
+Árbol: Entre las ramas
+
+ Te encuentras entre las ramas de un árbol, si miras atentamente abajo, podrás ver quien está en la base del árbol.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Ves 4 ramas accesibles en dirección: oeste, sudoeste, este y noroeste.
+
+l ar
+Árbol: Entre las ramas
+
+ Te encuentras entre las ramas de un árbol, si miras atentamente abajo, podrás ver quien está en la base del árbol.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Ves 4 ramas accesibles en dirección: oeste, sudoeste, este y noroeste.
+
+e
+Linde Este del Bosque de Orgoth- Dinmen [o,e] 
+
+l ar
+Árbol: Entre las ramas
+
+ Te encuentras entre las ramas de un árbol, si miras atentamente abajo, podrás ver quien está en la base del árbol.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Ves 2 ramas accesibles en dirección: oeste y este.
+
+e
+Linde Este del Bosque de Orgoth- Dinmen [o,e] 
+
+l ar
+Árbol: Entre las ramas
+
+ Te encuentras entre las ramas de un árbol, si miras atentamente abajo, podrás ver quien está en la base del árbol.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Ves una rama accesible en dirección: oeste.
+
+o
+
+] 
+o
+
+] 
+Linde Este del Bosque de Orgoth- Dinmen [o,e] 
+
+] Linde Este del Bosque de Orgoth- Cruce de Ëarmen [o,so,e,no] 
+Poste.
+
+l ar
+Árbol: Entre las ramas
+
+ Te encuentras entre las ramas de un árbol, si miras atentamente abajo, podrás ver quien está en la base del árbol.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Ves 4 ramas accesibles en dirección: oeste, sudoeste, este y noroeste.
+
+no
+
+] 
+Camino de Amonmen [se,no] 
+
+l ar
+Árbol: Entre las ramas
+
+ Te encuentras entre las ramas de un árbol, si miras atentamente abajo, podrás ver quien está en la base del árbol.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Ves 2 ramas accesibles en dirección: sudeste y noroeste.
+
+no
+Camino de Amonmen [ne,se,no] 
+
+l ar
+Árbol: Entre las ramas
+
+ Te encuentras entre las ramas de un árbol, si miras atentamente abajo, podrás ver quien está en la base del árbol.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Ves 3 ramas accesibles en dirección: noreste, sudeste y noroeste.
+
+[El bloqueo 'trepar' termina]
+
+se
+Camino de Amonmen [se,no] 
+
+se
+> 
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [o,so,e,no] 
+Poste.
+
+l ar
+Árbol: Entre las ramas
+
+ Te encuentras entre las ramas de un árbol, si miras atentamente abajo, podrás ver quien está en la base del árbol.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Ves 4 ramas accesibles en dirección: oeste, sudoeste, este y noroeste.
+Zeh (Mdro) está allí.
+
+so
+
+] 
+Camino de Ëarmen- Puente sobre el Iaurduin [so,ne] 
+
+l ar
+Árbol: Entre las ramas
+
+ Te encuentras entre las ramas de un árbol, si miras atentamente abajo, podrás ver quien está en la base del árbol.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Una fina capa de lluvia cae sobre los alrededores, refrescando el ambiente.
+
+Ves 2 ramas accesibles en dirección: sudoeste y noreste.
+
+mo
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Mono.
+
+Pvs: 5155/5201 (-679) Pe: 1229/1408 (+3)
+
+des todo
+Dejas de sostener tu Efigie del Impedimento.
+Dejas de sostener tu Espolón enmohecido de Constructo.
+
+trepar arbol
+Empiezas a trepar el árbol perdiéndote entre las ramas.
+
+} 
+Terminas de encaramarte a las ramas superiores del árbol.
+Árbol: Entre las ramas (so,ne) 
+
+saltar ne
+Saltas a una rama en dirección noreste.
+Zeh (Mdro) está aquí.
+Bajo el árbol:
+Poste.
+Bajo el árbol:
+Poste.
+Árbol: Entre las ramas (o,so,e,no) 
+Bajo el árbol:
+Poste.
+
+d
+> 
+En tu estado polimorfado te es imposible formular el hechizo Retener persona.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Zeh 68%
+
+pc
+d
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+> Comienzas a formular el hechizo 'Retener persona'.
+
+d
+Ignorando 'formular retener persona:x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+d
+Ignorando 'formular retener persona:x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+d
+> 
+Ignorando 'formular retener persona:x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+Pronuncias el cántico: 'amri xeno haltem'
+Paralizas a Zeh mediante una fuerza divina que le rodea.
+
+[Obtienes 87 puntos de experiencia]
+d
+
+Zeh salta a la base del árbol.
+
+Ignorando 'formular retener persona:x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+Zeh intenta escapar de una fuerza que le retiene, pero no lo consigue.
+
+# Tu ataque rebota en la piel de piedra de Zeh.
+Pvs: 5147/5191 (-8) Pe: 1231/1408 (+2)
+[El bloqueo 'mordisco' termina]
+
+re
+Comienzas a formular el hechizo 'Relámpago'.
+
+Zeh no puede atacar a nadie ya que algo le retiene.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Zeh 65%
+
+Pronuncias el cántico: 'elect xen cefit'
+# ¡El cielo ruge cuando invocas un relámpago que cae sobre Zeh!
+¡Las fuerzas naturales que se están desatando en tu entorno potencian tu hechizo!
+
+[Obtienes 176 puntos de experiencia]
+
+lr
+Comienzas a formular el hechizo 'Llamar rayos'.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Zeh 48%
+
+Zeh salta a la base del árbol.
+
+Zeh intenta escapar de una fuerza que le retiene, pero no lo consigue.
+
+Estás realizando los movimientos de un hechizo, tus manos están ocupadas.
+
+Nubes negras de tormenta se ciernen sobre el área.
+
+Zeh no puede atacar a nadie ya que algo le retiene.
+
+nick yy zeh
+Nombre corto yy cambiado de zeh a zeh.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Zeh 45%
+
+ba
+Ves a Sowy llegar al pie del árbol.
+
+Ves a Esqueleto del Túmulo llegar al pie del árbol.
+Dejas de sostener tu Cetro del Presbítero.
+
+Empuñas tu Báculo de los tres elementos.
+
+} 
+Alzas el puño hacia el cielo, y este retumba y relampaguea como respuesta.
+
+2 rayos caen desde el cielo envolviéndolo todo en un caos.
+
+Un rayo impacta sobre Zeh.
+
+Un rayo impacta junto a Zeh.
+
+[Obtienes 117 puntos de experiencia]
+Finalmente equilibras la Báculo de los tres elementos.
+# Tu ataque rebota en la piel de piedra de Zeh.
+
+cl
+No estás afectado por el polimorfismo para necesitar terminarlo.
+
+Comienzas a formular el hechizo 'Columna de fuego'.
+
+Zeh no puede atacar a nadie ya que algo le retiene.
+
+Zeh queda liberado de la fuerza que le retenía.
+
+cl
+No puedes ejecutar esa habilidad mientras formulas.
+
+Ignorando 'formular columna de fuego:x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Zeh 28%
+
+Pronuncias el cántico: 'flamious os colus'
+¡Invocas una columna de fuego sobre Zeh que le alcanza parcialmente!
+
+[Obtienes 87 puntos de experiencia]
+
+Zeh salta a la base del árbol.
+
+Zeh (Mdro) salta hacia abajo
+
+Ves a Zeh llegar al pie del árbol.
+
+saltar ab
+Saltas a la base del árbol con un gran impulso.
+
+> Saltas al suelo dándote un buen porrazo.
+Zeh (Mdro) y Sowy (Melf) están aquí.
+Esqueleto del Túmulo está aquí.
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [o,so,e,no] 
+Poste.
+
+La caída te ha dejado aturdido.
+No puedes devolver los golpes.
+Pvs: 5071/5191 (-76) Pe: 1194/1408 (-27)
+
+li
+Comienzas a formular el hechizo 'Limo toxico'.
+
+Zeh (Mdro) se va hacia este.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Sowy 93%
+
+e
+Linde Este del Bosque de Orgoth- Dinmen [o,e] 
+
+Sowy (Melf) llega desde el oeste seguido de Esqueleto del Túmulo.
+
+e
+Zeh (Mdro) está aquí.
+Linde Este del Bosque de Orgoth- Dinmen [o,e] 
+
+Pronuncias el cántico: 'toxika flagrat'
+# ¡Juntas tus manos y expulsas un chorro de limo tóxico a los pies de Zeh, envolviéndolo en vapores venenosos!
+¡Sowy ha escapado al alcance de tu hechizo!
+
+[Obtienes 176 puntos de experiencia]
+
+Zeh (Mdro) se va hacia este.
+
+e
+Sowy (Melf) llega desde el oeste seguido de Esqueleto del Túmulo.
+Zeh (Mdro) está aquí.
+Mercader está aquí.
+Senda del Alba [o,n,e] 
+
+Zeh (Mdro) se va hacia oeste.
+
+Estás persiguiendo a Sowy y Zeh.
+o
+
+Zeh (Mdro) y Sowy (Melf) están aquí.
+Esqueleto del Túmulo está aquí.
+Linde Este del Bosque de Orgoth- Dinmen [o,e] 
+
+Sowy (Melf) se va en dirección este seguido de Esqueleto del Túmulo.
+
+Zeh (Mdro) se va hacia oeste.
+
+Sowy (Melf) llega desde el este seguido de Esqueleto del Túmulo.
+
+o
+Linde Este del Bosque de Orgoth- Dinmen [o,e] 
+
+o
+
+] 
+Zeh (Mdro) está aquí.
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [o,so,e,no] 
+Poste.
+
+> [El bloqueo 'Llamar rayos' termina]
+[El bloqueo 'Relámpago' termina]
+
+Zeh (Mdro) se va hacia sudoeste.
+nick yy zeh
+Nombre corto yy cambiado de zeh a zeh.
+
+Sowy (Melf) llega desde el este seguido de Esqueleto del Túmulo.
+
+Sowy intenta seguirte pero le das esquinazo.
+so
+
+Camino de Ëarmen- Puente sobre el Iaurduin [so,ne] 
+
+so
+
+] 
+cl
+
+] 
+Zeh (Mdro) está aquí.
+Camino de Ëarmen- Puente sobre el Iaurduin [so,ne] 
+
+] No estás afectado por el polimorfismo para necesitar terminarlo.
+
+] [El bloqueo 'Columna de fuego' termina]
+Comienzas a formular el hechizo 'Columna de fuego'.
+
+> Estás realizando los movimientos de un hechizo, tus manos están ocupadas.
+
+Zeh (Mdro) se va hacia sudoeste.
+
+Sowy (Melf) llega desde el noreste seguido de Esqueleto del Túmulo.
+
+Pronuncias el cántico: 'flamious os colus'
+¡Invocas una columna de fuego sobre Zeh que le alcanza parcialmente!
+
+[Obtienes 87 puntos de experiencia]
+
+[Cruzada_eralie] Palafrenero de la Cruzada: ¡Enorthus ha asesinado a zeh!
+
+[Obtienes 227311 puntos de experiencia]
+Propinas el golpe mortal a Zeh.
+[Obtienes 37 puntos de gloria]
+so
+
+Camino de Ëarmen- Puente sobre el Iaurduin [so,ne] 
+
+so
+
+] Camino de Ëarmen- Bosque de Orgoth [o,se,s,ne] 
+Cuerpo de Zeh y Cartel.
+
+cmc
+Coges Bolsa de monedas (doscientos ochenta y ocho sesioms, dos cobres, tres olotas y diez monedas de platino) de cuerpo de Zeh.
+
+} 
+Sowy (Melf) llega desde el noreste seguido de Esqueleto del Túmulo.
+
+! Sowy se prepara para ejecutar tajar sobre ti.
+
+Finalmente logras cargar Bolsa de monedas (doscientos ochenta y ocho sesioms, dos cobres, tres olotas y diez monedas de platino).
+# Sowy consigue esquivar tu ataque.
+Tu debilidad de frio se desvanece.
+
+co
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Cocodrilo.
+
+se
+Loro está aquí.
+Márgenes del Iaurduin [se,no] 
+
+se
+Márgenes del Iaurduin [se,e,no] 

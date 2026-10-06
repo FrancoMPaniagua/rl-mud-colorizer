@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RL Log Colorizer - Reinos de Leyenda & Deathlogs (Accesible)</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220%22%20width=%22100%22%20height=%22100%22><text y=%22.9em%22 font-size=%2290%22>⚔️</text></svg>">
+</head>
+<body>
+
+    <!-- Skip Link for Keyboard / Screen Reader Navigation (WCAG 2.4.1) -->
+    <a href="#input-text" class="skip-link">Saltar directamente al cuadro de edición de texto</a>
+
+    <!-- Live Region for Screen Reader Announcements (WCAG 4.1.3) -->
+    <div id="status-announcer" class="sr-only" aria-live="polite" aria-atomic="true"></div>
+
+    <!-- Header -->
+    <header role="banner">
+        <div class="logo-group">
+            <div class="logo-badge" aria-hidden="true">RL</div>
+            <div class="title-wrap">
+                <h1>Reinos de Leyenda — Log Colorizer</h1>
+                <p>Herramienta accesible para convertir logs de texto plano en formato HTML nativo para Deathlogs</p>
+            </div>
+        </div>
+        <div class="header-badges" aria-label="Estado del sistema">
+            <span class="badge active" role="status">● Motor de colorizado activo</span>
+            <span class="badge">100% Local y privado</span>
+            <span class="badge">Formato Deathlogs 1:1</span>
+        </div>
+    </header>
+
+    <!-- Main Content Area -->
+    <main id="main-content" role="main">
+
+        <!-- Toolbar Navigation Actions -->
+        <nav class="toolbar" aria-label="Herramientas y acciones del colorizador">
+            <div class="toolbar-group">
+                <button id="btn-colorize" class="btn btn-primary" aria-keyshortcuts="Control+Enter" aria-label="Colorizar log manualmente o presiona Control más Enter">
+                    <svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
+                    Colorizar <span class="kbd-shortcut" aria-hidden="true">Ctrl+Enter</span>
+                </button>
+                <button id="btn-copy" class="btn btn-blue" aria-label="Copiar código HTML generado al portapapeles para pegar en Deathlogs">
+                    <svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+                    Copiar HTML para Deathlog
+                </button>
+                <button id="btn-download" class="btn btn-secondary" aria-label="Descargar log colorizado como archivo HTML independiente">
+                    <svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
+                    Descargar .html
+                </button>
+            </div>
+            <div class="toolbar-group">
+                <input type="file" id="file-input" accept=".txt,.log" style="display: none;" aria-hidden="true">
+                <button id="btn-upload" class="btn btn-outline" aria-label="Cargar archivo de texto plano .txt desde tu disco">
+                    <svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="17 8 12 3 7 8"></polyline><line x1="12" y1="3" x2="12" y2="15"></line></svg>
+                    Cargar Archivo .txt
+                </button>
+                <button id="btn-example" class="btn btn-outline" aria-label="Cargar un log de ejemplo con combate, hechizos y movimiento">
+                    Cargar Ejemplo RL
+                </button>
+                <button id="btn-clear" class="btn btn-outline" aria-label="Limpiar todo el texto del editor">
+                    Limpiar
+                </button>
+            </div>
+        </nav>
+
+        <!-- Instructions for Screen Readers -->
+        <section class="accessibility-guide" aria-labelledby="acc-guide-title">
+            <h2 id="acc-guide-title" class="acc-title">Guía rápida de uso para personas ciegas (Lectores NVDA / JAWS / VoiceOver)</h2>
+            <ol class="acc-steps">
+                <li><strong>1. Ingresar log:</strong> Pega tu log en el cuadro de texto a continuación (o carga un archivo <code>.txt</code>).</li>
+                <li><strong>2. Procesamiento automático:</strong> El log se coloriza automáticamente mientras escribes o pegas.</li>
+                <li><strong>3. Copiar para Deathlogs:</strong> Haz clic en el botón <strong>"Copiar HTML para Deathlog"</strong>.</li>
+                <li><strong>4. Publicar:</strong> Ve al formulario de envío en <a href="https://deathlogs.com" target="_blank" rel="noopener noreferrer">Deathlogs.com</a> y pega con <kbd>Ctrl+V</kbd>. El formato ya contiene las etiquetas y saltos de línea exactos.</li>
+            </ol>
+        </section>
+
+        <!-- Split Editor Panels -->
+        <div class="workspace">
+            <!-- Left: Plain Text Input -->
+            <section class="panel" id="input-panel" aria-labelledby="input-panel-title">
+                <div class="drag-overlay" aria-hidden="true">Suelta tu archivo .txt aquí</div>
+                <div class="panel-header">
+                    <h2 id="input-panel-title" class="panel-title">
+                        <svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
+                        Log Original (Texto Plano)
+                    </h2>
+                    <span class="panel-hint" aria-hidden="true">Pega tu log o arrastra un .txt</span>
+                </div>
+                <div class="panel-body">
+                    <label for="input-text" class="sr-only">Cuadro de entrada del log original en texto plano. Pega aquí el contenido sin colores.</label>
+                    <textarea id="input-text" class="editor" placeholder="Pega aquí tu log en texto plano sin colores..."></textarea>
+                </div>
+                <div class="panel-footer" aria-label="Estadísticas de entrada">
+                    <div class="stats-group">
+                        <span class="stat-item">Líneas de entrada: <strong id="stat-input-lines">0</strong></span>
+                        <span class="stat-item">Caracteres: <strong id="stat-input-chars">0</strong></span>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Right: Rendered Preview & Raw HTML -->
+            <section class="panel" aria-labelledby="output-panel-title">
+                <div class="panel-header">
+                    <h2 id="output-panel-title" class="panel-title">
+                        <svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect><line x1="8" y1="21" x2="16" y2="21"></line><line x1="12" y1="17" x2="12" y2="21"></line></svg>
+                        Resultado Deathlog
+                    </h2>
+                    <div class="panel-tabs" role="tablist" aria-label="Formato de vista previa de salida">
+                        <button id="tab-preview" role="tab" aria-selected="true" aria-controls="preview-container" class="tab-btn active">
+                            Terminal visual
+                        </button>
+                        <button id="tab-html" role="tab" aria-selected="false" aria-controls="raw-html-text" class="tab-btn" tabindex="-1">
+                            Código HTML fuente
+                        </button>
+                    </div>
+                </div>
+                <div class="panel-body">
+                    <div id="preview-container" role="tabpanel" aria-labelledby="tab-preview" class="preview-container" tabindex="0" aria-label="Área de vista previa del log colorizado. Usa las flechas para desplazarte por el contenido."></div>
+                    <label for="raw-html-text" class="sr-only">Código fuente HTML generado. Solo lectura.</label>
+                    <textarea id="raw-html-text" role="tabpanel" aria-labelledby="tab-html" class="raw-html-container" readonly aria-label="Código fuente HTML generado para Deathlogs" style="display: none;"></textarea>
+                </div>
+                <div class="panel-footer" aria-label="Estadísticas de salida">
+                    <div class="stats-group">
+                        <span class="stat-item">Líneas generadas: <strong id="stat-output-lines">0</strong></span>
+                        <span class="stat-item">Etiquetas HTML: <strong id="stat-output-tags">0</strong></span>
+                    </div>
+                </div>
+            </section>
+        </div>
+
+        <!-- Paleta Semántica / Legend (Accessible Table) -->
+        <section class="legend-card" aria-labelledby="legend-title">
+            <div class="legend-header">
+                <h2 id="legend-title" class="legend-main-title">Paleta de Colores de Razas y Combate (Referencia Oficial)</h2>
+            </div>
+            
+            <div class="legend-table-wrap">
+                <table class="legend-table" aria-label="Tabla de correspondencia de colores por raza y combate">
+                    <thead>
+                        <tr>
+                            <th scope="col">Elemento / Raza</th>
+                            <th scope="col">Etiquetas en log</th>
+                            <th scope="col">Color Asignado</th>
+                            <th scope="col">Código Hex</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">Ataques propios</th>
+                            <td><code>#</code>, <code>Tu ataque</code>, Golpes mortales</td>
+                            <td>Verde brillante</td>
+                            <td><code>#00ff00</code></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Elfo / Semi-Elfo</th>
+                            <td><code>(Elf)</code>, <code>(Melf)</code>, <code>(S-e)</code></td>
+                            <td>Verde</td>
+                            <td><code>#008000</code></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Goblin</th>
+                            <td><code>(Gob)</code></td>
+                            <td>Verde lima</td>
+                            <td><code>#00ff00</code></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Enano</th>
+                            <td><code>(Ena)</code>, <code>(Enano)</code></td>
+                            <td>Oliva</td>
+                            <td><code>#808000</code></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Drow / Semi-Drow</th>
+                            <td><code>(Drow)</code>, <code>(Mdro)</code>, <code>(S-d)</code></td>
+                            <td>Gris</td>
+                            <td><code>#808080</code></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Duergar</th>
+                            <td><code>(Duer)</code>, <code>(Drg)</code></td>
+                            <td>Púrpura</td>
+                            <td><code>#800080</code></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Gnomo</th>
+                            <td><code>(Gno)</code></td>
+                            <td>Cian</td>
+                            <td><code>#00ffff</code></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Humano</th>
+                            <td><code>(Hum)</code></td>
+                            <td>Amarillo</td>
+                            <td><code>#ffff00</code></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Gnoll</th>
+                            <td><code>(Gnl)</code>, <code>(Gnol)</code></td>
+                            <td>Rojo brillante</td>
+                            <td><code>#ff0000</code></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Halfling</th>
+                            <td><code>(Hal)</code>, <code>(Hlf)</code></td>
+                            <td>Magenta</td>
+                            <td><code>#ff00ff</code></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Hombre-Lagarto</th>
+                            <td><code>(Lag)</code>, <code>(Hlag)</code></td>
+                            <td>Azul</td>
+                            <td><code>#0000ff</code></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Minotauro</th>
+                            <td><code>(Min)</code>, <code>(Mino)</code></td>
+                            <td>Plata</td>
+                            <td><code>#c0c0c0</code></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Orco / Semi-Orco</th>
+                            <td><code>(Orc)</code>, <code>(S-o)</code></td>
+                            <td>Blanco</td>
+                            <td><code>#ffffff</code></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Ogro-Mago / Ogro</th>
+                            <td><code>(Org)</code>, <code>(Orgo)</code></td>
+                            <td>Cian oscuro / Teal</td>
+                            <td><code>#008080</code></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Kobold</th>
+                            <td><code>(Kob)</code></td>
+                            <td>Granate</td>
+                            <td><code>#800000</code></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Visual Toast (mirrored in aria-live announcer) -->
+    <div id="toast" class="toast" role="status" aria-hidden="true">Mensaje</div>
+
+    <!-- Scripts -->
+    <script src="rules.js"></script>
+    <script src="engine.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

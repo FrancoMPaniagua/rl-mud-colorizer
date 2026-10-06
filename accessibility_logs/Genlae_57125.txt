@@ -1,0 +1,633 @@
+Kroms (Orc) está aquí.
+Dos Soldados laureados están aquí.
+Carretera Comercial Norte [s,n]
+Mano espectral te sigue.
+> * El ataque de Soldado laureado de Kroms rebota en tu piel de piedra.
+Trazas con ágiles movimientos en tus dedos la representación rúnica de azuneu y clavas tu mirada en Kroms.
+> 
+Kroms (Orc) se va en dirección sur seguido de dos Soldado laureado de Kromses.
+Estás persiguiendo a Kroms y Soldado laureado de Kroms.
+Kroms (Orc) llega desde el sur seguido de dos Soldado laureado de Kromses.
+Bandido, Ladrón y Perro callejero están aquí.
+Carretera Comercial Norte [se,n]
+Mano espectral te sigue.
+> 
+Kroms (Orc) está aquí.
+Dos Soldados laureados están aquí.
+Carretera Comercial Norte [s,n]
+Mano espectral te sigue.
+> 
+* El ataque de Kroms rebota en tu piel de piedra.
+* El ataque de Kroms rebota en tu piel de piedra.
+! Kroms se prepara para ejecutar arremeter sobre ti.
+* El ataque de Soldado laureado de Kroms rebota en tu piel de piedra.
+No puedes pronunciar varias Runas a la vez.
+> 
+# Rajas con fuerza a Kroms.
+# Mojas con poca intensidad a Kroms.
+[Obtienes 28 puntos de experiencia]
+Alzas tu mano, y alrededor de la misma comienzan a formarse 5 esferas que crepitan energía arcana y las lanzas contra Kroms.
+# Una esfera de energía golpea a Kroms con violencia mágica.
+# Una esfera de energía golpea a Kroms con violencia mágica.
+# Una esfera de energía golpea a Kroms con violencia mágica.
+# Una esfera de energía golpea a Kroms con violencia mágica.
+# Una esfera de energía golpea a Kroms con violencia mágica.
+[Obtienes 30 puntos de experiencia]
+Bandido, Ladrón y Perro callejero están aquí.
+Carretera Comercial Norte [s,no]
+Mano espectral te sigue.
+> 
+Carretera Comercial Norte [se,no]
+Charco de sangre.
+Cuerpo de Esqueleto.
+Mano espectral te sigue.
+> 
+Cola de comandos borrada ('peleas parar' detendrá los combates si es lo que querías).
+> 
+Kroms (Orc) está aquí.
+Bandido, Ladrón, dos Soldados laureados y Perro callejero están aquí.
+Carretera Comercial Norte [s,no]
+19:40 04/09/2025Mano espectral te sigue.
+> 
+Kroms (Orc) se va en dirección noroeste seguido de dos Soldado laureado de Kromses.
+Estás persiguiendo a Kroms y Soldado laureado de Kroms.
+Parece que el objetivo no existe o no es válido para esta runa. Son objetos válidos para esta runa, otros jugadores o personajes no jugadores.
+> 
+Carretera Comercial Norte [se,no]
+Charco de sangre.
+Cuerpo de Esqueleto.
+Mano espectral te sigue.
+> 
+Ignorando 'pronunciar kalfue:x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+> 
+Carretera Comercial Norte [se,n]
+Mano espectral te sigue.
+> 
+Parece que el objetivo no existe o no es válido para esta runa. Son objetos válidos para esta runa, otros jugadores o personajes no jugadores.
+> 
+Bandido, Ladrón y Perro callejero están aquí.
+Carretera Comercial Norte [s,ne]
+Mano espectral te sigue.
+> 
+Carretera Comercial Norte [e,so,n]
+Cartel.
+Mano espectral te sigue.
+> 
+Parece que el objetivo no existe o no es válido para esta runa. Son objetos válidos para esta runa, otros jugadores o personajes no jugadores.
+> 
+Kroms (Orc) está aquí.
+Bandido, Ladrón, dos Soldados laureados, Perro callejero y Viajero están aquí.
+Carretera Comercial Norte [s,ne]
+Mano espectral te sigue.
+> 
+Kroms (Orc) se va en dirección noreste seguido de dos Soldado laureado de Kromses.
+Ignorando 'pronunciar azuneu:x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+> 
+Vendedor Cofrade, Bandido, Ladrón y Viajero están aquí.
+Carretera Comercial Norte [so,n]
+Mano espectral te sigue.
+> 
+No hay nadie aquí reconocible como kroms.
+> 
+Kroms (Orc) está aquí.
+Dos Soldados laureados y Perro callejero están aquí.
+Carretera Comercial Norte [s,n]
+Mano espectral te sigue.
+> 
++ Te preparas para ejecutar golpearcano.
+> 
+Kroms (Orc) se va en dirección norte seguido de dos Soldado laureado de Kromses.
+] Kroms (Orc) está aquí.
+Bandido, Ladrón, dos Soldados laureados, Perro callejero y Viajero están aquí.
+Carretera Comercial Norte [s,no]
+Mano espectral te sigue.
+> 
+Perro callejero está aquí.
+Carretera Comercial Norte [se,o]
+Mano espectral te sigue.
+> 
+¡Tus objetivos ya no están al alcance de tu golpearcano!
+]
+Bandido, Ladrón, Perro callejero y Viajero están aquí.
+Carretera Comercial Norte [s,no]
+Mano espectral te sigue.
+> Estás persiguiendo a Kroms y Soldado laureado de Kroms.
+Kroms (Orc) está aquí.
+Dos Soldados laureados y Perro callejero están aquí.
+Carretera Comercial Norte [s,n]
+Mano espectral te sigue.
+> 
+Kroms (Orc) se va en dirección sur seguido de dos Soldado laureado de Kromses.
+No hay nadie aquí reconocible como kroms.
+> 
+]
+]
+]
+Kroms (Orc) está aquí.
+Vendedor Cofrade, Bandido, Ladrón, dos Soldados laureados y Viajero están aquí.
+Carretera Comercial Norte [so,n]
+Mano espectral te sigue.
+] Bandido, Ladrón, Perro callejero y Viajero están aquí.
+Carretera Comercial Norte [s,ne]
+Mano espectral te sigue.
+] No hay nadie aquí reconocible como kroms.
+> 
+Kroms (Orc) está aquí.
+Vendedor Cofrade, Bandido, Ladrón, dos Soldados laureados y Viajero están aquí.
+Carretera Comercial Norte [so,n]
+Mano espectral te sigue.
+> 
+Dices a Kroms:  xdd
+> 
++ Te preparas para ejecutar golpearcano.
+> 
+Kroms (Orc) se va en dirección norte seguido de dos Soldado laureado de Kromses.
+No se ha encontrado ningún objeto que responda al nombre kroms.
+> 
+Kroms (Orc) está aquí.
+Dos Soldados laureados y Perro callejero están aquí.
+Carretera Comercial Norte [s,n]
+Mano espectral te sigue.
+> 
+* El ataque de Soldado laureado de Kroms rebota en tu piel de piedra.
+Bandido, Ladrón, Perro callejero y Viajero están aquí.
+Carretera Comercial Norte [s,no]
+Mano espectral te sigue.
+> 
+Kroms (Orc) llega desde el sur seguido de dos Soldado laureado de Kromses.
+La runa rae inscrita en tu Espada Arcana se ilumina tenuemente.
+# Rajas con fuerza a Soldado laureado de Kroms.
+# Mojas con poca intensidad a Soldado laureado de Kroms.
+[Obtienes 23 puntos de experiencia]
+# Rajas a Kroms.
+# ¡Alcanzas a Kroms con tu maniobra de golpearcano!
+[Obtienes 112 puntos de experiencia]
+Trazas con ágiles movimientos en tus dedos la representación rúnica de azuneu y clavas tu mirada en Kroms.
+> 
+! Kroms se prepara para ejecutar cabezazo sobre ti.
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Kroms 28%
+> 
+* El ataque de Kroms rebota en tu piel de piedra.
+Perro callejero está aquí.
+Carretera Comercial Norte [s,n]
+Mano espectral te sigue.
+> 
+Kroms (Orc) está aquí.
+Bandido, Ladrón, dos Soldados laureados, Perro callejero y Viajero están aquí.
+Carretera Comercial Norte [s,no]
+Mano espectral te sigue.
+> 
+Kroms (Orc) se va en dirección sur seguido de dos Soldado laureado de Kromses.
+Estás persiguiendo a Kroms y Soldado laureado de Kroms.
+Alzas tu mano, y alrededor de la misma comienzan a formarse 4 esferas que crepitan energía arcana y las lanzas contra Kroms.
+# Una esfera de energía golpea a Kroms con violencia mágica.
+# Una esfera de energía golpea a Kroms con violencia mágica.
+# Una esfera de energía golpea a Kroms con violencia mágica.
+# Una esfera de energía golpea a Kroms con violencia mágica.
+[Obtienes 36 puntos de experiencia]
+Kroms (Orc) está aquí.
+Dos Soldados laureados y Perro callejero están aquí.
+Carretera Comercial Norte [s,n]
+Mano espectral te sigue.
+> 
+Vendedor Cofrade, Bandido, Ladrón y Viajero están aquí.
+Carretera Comercial Norte [so,n]
+Mano espectral te sigue.
+> 
+]
+] Kroms (Orc) está aquí.
+Dos Soldados laureados y Perro callejero están aquí.
+Carretera Comercial Norte [s,n]
+Mano espectral te sigue.
+] Pronuncias kalfue y alzas con fuerza tu Espada Arcana señalando a Kroms.
+La Espada Arcana se ilumina con furia.
+> 
+Kroms (Orc) se va en dirección sur seguido de dos Soldado laureado de Kromses.
+No veo a soldado por aquí.
+> 
+Kroms (Orc) está aquí.
+Vendedor Cofrade, Bandido, Ladrón, dos Soldados laureados y Viajero están aquí.
+Carretera Comercial Norte [so,n]
+Mano espectral te sigue.
+> * El ataque de Kroms rebota en tu piel de piedra.
+Tu piel vuelve a su estado normal.
+* Kroms te aplasta con increíble potencia.
+* Soldado laureado de Kroms te raja.
+]
+Kroms te mira mientras comprime toda su musculatura.
+La runa rae inscrita en tu Espada Arcana se ilumina tenuemente.
+# Sesgas con mucha fuerza a Kroms.
+¡Las runas marcadas en la hoja de tu Espada Arcana brillan con una cegadora intensidad y recorren tu brazo!
+Descargas con brutalidad tu arma contra Kroms mientras tu Espada Arcana silba cortando el aire.
+# Las lenguas de fuego rúnico de tu Espada Arcana queman a Kroms.
+# Las capas de hielo arcano de tu Espada Arcana congelan a Kroms.
+# Las rocas arcanas de tu Espada Arcana hieren a Kroms.
+# El líquido acuoso de tu Espada Arcana daña a Kroms.
+[Obtienes 102 puntos de experiencia]
+Bandido, Ladrón, Perro callejero y Viajero están aquí.
+Carretera Comercial Norte [s,ne]
+Mano espectral te sigue.
+> Estás persiguiendo a Kroms y Soldado laureado de Kroms.
+Vida perdida: -483
+Pvs: 2183/2701 (-483) Pe: 807/891 (-53)
+Cola de comandos borrada ('peleas parar' detendrá los combates si es lo que querías).
+> 
+Parece que sudoeste no produjo efecto alguno.
+> 
+Carretera Comercial Norte [e,so,n]
+Cartel.
+Mano espectral te sigue.
+> 
+]
+] Bandido, Ladrón y Perro callejero están aquí.
+Carretera Comercial Norte [s,ne]
+Mano espectral te sigue.
+] Comienzas a formular el hechizo 'Caída de pluma'.
+> [El bloqueo 'golpearcano' termina]
+Cola de comandos borrada ('peleas parar' detendrá los combates si es lo que querías).
+> 
+Pronuncias el cántico: 'pes iu flumbe'
+Dibujas una runa RUA en el aire y señalas tu pecho con el dedo índice mientras la runa se ilumina en verde en el aire y flota hacia su destino.
+Al ser tocada por la runa, tu pecho es iluminado por un instante con un fulgor verdoso.
+Te sientes más ligera.
+[Obtienes 23 puntos de experiencia]
+Kroms (Orc) está aquí.
+Dos Soldados laureados están aquí.
+Carretera Comercial Norte [e,so,n]
+Cartel.
+Mano espectral te sigue.
+> 
+Kroms (Orc) se va en dirección sudoeste seguido de dos Soldado laureado de Kromses.
+Parece que el objetivo no existe o no es válido para esta runa. Son objetos válidos para esta runa, otros jugadores o personajes no jugadores.
+> 
+Pícaro está aquí.
+Sendero Empedrado [o,ne]
+Mano espectral te sigue.
+> 
+Kroms (Orc) está aquí.
+Dos Soldados laureados están aquí.
+Carretera Comercial Norte [e,so,n]
+Cartel.
+Mano espectral te sigue.
+> ! Kroms se prepara para ejecutar arremeter sobre ti.
+Trazas con ágiles movimientos en tus dedos la representación rúnica de azuneu y clavas tu mirada en Kroms.
+> 
+* Kroms te aplasta con increíble potencia.
+* Kroms te aplasta con increíble potencia.
+* Soldado laureado de Kroms te raja.
+Bandido, Ladrón, Perro callejero y Viajero están aquí.
+Carretera Comercial Norte [s,ne]
+Mano espectral te sigue.
+> 
+Estás persiguiendo a Kroms y Soldado laureado de Kroms.
+Tu movimiento ha destruído la estructura rúnica.
+Vida perdida: -896
+Pvs: 1287/2701 (-896) Pe: 792/891 (-7)
+Kroms (Orc) está aquí.
+Dos Soldados laureados están aquí.
+Carretera Comercial Norte [e,so,n]
+Cartel.
+Mano espectral te sigue.
+> 
+Kroms (Orc) se va en dirección norte seguido de dos Soldado laureado de Kromses.
+No se ha encontrado ningún objeto que responda al nombre kroms.
+> 
+¡Te desangras a causa de tu herida en un brazo!
+Vida perdida: -27
+Pvs: 1260/2701 (-27) Pe: 792/891 (0)
+Bandido, Ladrón y Perro callejero están aquí.
+Carretera Comercial Norte [s,ne]
+Mano espectral te sigue.
+> 
+Carretera Comercial Norte [se,n]
+Mano espectral te sigue.
+> 
+El objetivo
+caballeros,investigador,lechuzas,granjeros,viajero,agricultoras,lancero,mercader,bandido,animales,esclavo,chaman,mercaderes,lancero,esclavos,lagarto,yuan-tis,jornalera,jornalero,ci
+udadanos,ciudadanas,agricultora,arqueruo,arquero,patrulla,ogro,domiana,jinete,injhan,criados,khaiden,troll,elfos,diablillos,penitentes,camellos,ladrongloboma,ladron,vendedor,soldad
+o no está aquí ahora mismo.
+> 
+]
+Carretera Comercial Norte [se,no]
+Charco de sangre.
+Cuerpo de Esqueleto.
+Mano espectral te sigue.
+> 
+Bandido, Ladrón y Perro callejero están aquí.
+Carretera Comercial Norte [s,no]
+Mano espectral te sigue.
+> 
+Comienzas a formular el hechizo 'Toque vampirico'.
+> 
+# No logras tocar a Bandido con tu Mano espectral perdiendo así el hechizo.
+[El Legendario Szylah Al'jhtar orbita a Eirea]
+Comienzas a respirar pausadamente y te concentras.
+> Carretera Comercial Norte [se,no] 
+Charco de sangre.
+Cuerpo de Esqueleto.
+Mano espectral te sigue.
+> 
+Parece que activar anillo no produjo efecto alguno.
+> 
+Carretera Comercial Norte [se,n]
+Mano espectral te sigue.
+> 
+Bandido, Ladrón y Perro callejero están aquí.
+Carretera Comercial Norte [s,ne]
+Mano espectral te sigue.
+> 
+Carretera Comercial Norte [se,n]
+Mano espectral te sigue.
+> 
+No puedes pronunciar varias Runas a la vez.
+> 
+Kroms (Orc) llega desde el norte seguido de dos Soldado laureado de Kromses.
+Carretera Comercial Norte [se,no]
+Charco de sangre.
+Cuerpo de Esqueleto.
+Mano espectral te sigue.
+> 
+Bandido, Ladrón y Perro callejero están aquí.
+Carretera Comercial Norte [s,no]
+Mano espectral te sigue.
+> Memorizas la pronunciación exacta de la ilerae y proclamas el poder para crear un arma ilusoria.
+Carretera Comercial Norte [s,n]
+Mano espectral te sigue.
+> 
+Bandido, Ladrón y Perro callejero están aquí.
+Carretera Comercial Norte [se,n]
+Mano espectral te sigue.
+> 
+Bandido, Ladrón y Perro callejero están aquí.
+Carretera Comercial Norte [s,no]
+Mano espectral te sigue.
+> 
+Carretera Comercial Norte [s,n]
+Mano espectral te sigue.
+> 
+[El bloqueo 'Toque vampirico' termina]
+Tres Cruzadas de Anduar están aquí.
+Exterior de Anduar: Puerta Norte [n,s,e,o]
+Cartel metálico.
+Mano espectral te sigue.
+> 
+No puedes pronunciar varias Runas a la vez.
+> 
+Kroms (Orc) llega desde el norte seguido de dos Soldado laureado de Kromses.
+# Kroms consigue esquivar tu ataque.
+Ruinas de la Muralla Norte de Anduar [e,o]
+Mano espectral te sigue.
+> 
+Ruinas de la Muralla Norte de Anduar [e,o]
+Mano espectral te sigue.
+> 
+]
+Ruinas de la Muralla Norte de Anduar [e,o]
+Mano espectral te sigue.
+> 
+Ruinas de la Muralla Norte de Anduar [e,o]
+Mano espectral te sigue.
+> 
+] Ruinas de la Muralla Norte de Anduar [e,o]
+Mano espectral te sigue.
+> Estás persiguiendo a Kroms y Soldado laureado de Kroms.
+Pronuncias ilerae con toda tu alma, y observas como, de la nada, comienza a formarse en el aire una espada de aspecto etéreo.
+Ruinas de la Muralla Norte de Anduar [e,o]
+Mano espectral te sigue.
+> 
+No puedes formular otro hechizo hasta que transcurra algún tiempo.
+> 
+Ruinas de la Muralla Norte de Anduar [e,o]
+Mano espectral te sigue.
+> 
+Ruinas de la Muralla Norte de Anduar [e,o]
+Mano espectral te sigue.
+> 
+No puedes formular otro hechizo hasta que transcurra algún tiempo.
+> 
+] Ruinas de la Muralla Norte de Anduar [e,o]
+Mano espectral te sigue.
+> 
+Ruinas de la Muralla Norte de Anduar [e,o]
+Mano espectral te sigue.
+> 
+No puedes formular otro hechizo hasta que transcurra algún tiempo.
+> 
+]
+Ruinas de la Muralla Norte de Anduar [e,s]
+Mano espectral te sigue.
+> 
+Parece que oeste no produjo efecto alguno.
+> 
+Ruinas de la Muralla Oeste de Anduar [s,n]
+Mano espectral te sigue.
+> 
+No puedes formular otro hechizo hasta que transcurra algún tiempo.
+> 
+Ruinas de la Muralla Oeste de Anduar [s,n]
+Mano espectral te sigue.
+> 
+Ruinas de la Muralla Oeste de Anduar [s,n]
+Mano espectral te sigue.
+> 
+No puedes formular otro hechizo hasta que transcurra algún tiempo.
+> 
+Ruinas de la Muralla Oeste de Anduar: Cruce de la Cantera [o,s,n]
+Mano espectral te sigue.
+> 
+No puedes formular otro hechizo hasta que transcurra algún tiempo.
+> 
+De repente, la espada ilusoria que estaba flotando frente a tí comienza a dividirse una y otra vez, rodeándote y girando a tu alrededor a una velocidad vertiginosa.
+Ruinas de la Muralla Oeste de Anduar [s,n]
+Mano espectral te sigue.
+> 
+Ruinas de la Muralla Oeste de Anduar: Cruce de la Cantera [o,s,n]
+Mano espectral te sigue.
+> 
+] Ruinas de la Muralla Oeste de Anduar [s,n]
+Mano espectral te sigue.
+> 
+Ruinas de la Muralla Oeste de Anduar [s,n]
+Mano espectral te sigue.
+> 
+]
+Kroms (Orc) está aquí.
+Dos Soldados laureados están aquí.
+Ruinas de la Muralla Oeste de Anduar [s,n]
+Mano espectral te sigue.
+> # Rajas con mucha fuerza a Soldado laureado de Kroms.
+# Mojas con poca intensidad a Soldado laureado de Kroms.
+[Obtienes 30 puntos de experiencia]
+Kroms (Orc) se va en dirección sur seguido de dos Soldado laureado de Kromses.
+Estás persiguiendo a Kroms y Soldado laureado de Kroms.
+No hay nadie aquí reconocible como kroms.
+> 
+Kroms (Orc) está aquí.
+Dos Soldados laureados están aquí.
+Ruinas de la Muralla Oeste de Anduar [s,n]
+Mano espectral te sigue.
+> 
+Kroms (Orc) se va en dirección sur seguido de dos Soldado laureado de Kromses.
+No hay nadie aquí reconocible como kroms.
+> 
+]
+Kroms (Orc) está aquí.
+Dos Soldados laureados están aquí.
+Ruinas de la Muralla Oeste de Anduar [s,n]
+Mano espectral te sigue.
+> + Te preparas para ejecutar golpearcano.
+> Kroms te mira mientras comprime toda su musculatura.
+# Una de tus Espadas Guardianas golpea a Kroms mientras gira a tu alrededor.
+# Una de tus Espadas Guardianas golpea a Kroms mientras gira a tu alrededor.
+* Una de tus Espadas Guardianas bloquea el impacto de Kroms mientras parpadea absorviendo el daño y desaparece.
+7 Espadas Guardianas giran ahora a tu alrededor.
+* Una de tus Espadas Guardianas bloquea el impacto de Kroms mientras parpadea absorviendo el daño y desaparece.
+6 Espadas Guardianas giran ahora a tu alrededor.
+Cola de comandos borrada ('peleas parar' detendrá los combates si es lo que querías).
+> 
+* Una de tus Espadas Guardianas bloquea el impacto de Soldado laureado de Kroms mientras parpadea absorviendo el daño y desaparece.
+5 Espadas Guardianas giran ahora a tu alrededor.
+# Rajas a Kroms.
+# ¡Alcanzas a Kroms con tu maniobra de golpearcano!
+[Obtienes 112 puntos de experiencia]
+Kroms se abalanza sobre ti para intentar atraparte, ¡pero por fortuna consigues desembarazarte en el último momento!
+# Rajas a Kroms.
+# Mojas con poca intensidad a Kroms.
+[Obtienes 19 puntos de experiencia]
+Trazas con ágiles movimientos en tus dedos la representación rúnica de azuneu y clavas tu mirada en Kroms.
+> 
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Kroms 25%
+> ! Kroms se prepara para ejecutar arremeter sobre ti.
+Ruinas de la Muralla Oeste de Anduar [s,n]
+Mano espectral te sigue.
+> 
+Kroms (Orc) está aquí.
+Dos Soldados laureados están aquí.
+Ruinas de la Muralla Oeste de Anduar [s,n]
+Mano espectral te sigue.
+> 
+Kroms (Orc) se va en dirección norte seguido de dos Soldado laureado de Kromses.
+No se ha encontrado ningún objeto que responda al nombre kroms.
+> 
+Estás persiguiendo a Kroms y Soldado laureado de Kroms.
+Alzas tu mano, y alrededor de la misma comienzan a formarse 5 esferas que crepitan energía arcana y las lanzas contra Kroms.
+# Una esfera de energía golpea a Kroms con violencia mágica.
+# Una esfera de energía golpea a Kroms con violencia mágica.
+# Una esfera de energía golpea a Kroms con violencia mágica.
+# Una esfera de energía golpea a Kroms con violencia mágica.
+# Una esfera de energía golpea a Kroms con violencia mágica.
+[Obtienes 30 puntos de experiencia]
+Kroms (Orc) llega desde el norte seguido de dos Soldado laureado de Kromses.
+Ruinas de la Muralla Oeste de Anduar [s,n]
+Mano espectral te sigue.
+> 
+Kroms (Orc) está aquí.
+Dos Soldados laureados están aquí.
+Ruinas de la Muralla Oeste de Anduar [s,n]
+Mano espectral te sigue.
+> 
+Visualizas en tu mente la runa azurae mientras te concentras en lo más profundo de tu ser.
+Sientes como todo tu ser crepita bajo el influjo del poder rúnico. Abres tus ojos, señalas a Kroms y pronuncias con todas tus fuerzas azu·rae, dirigiéndo todo su poder contra
+tu enemigo.
+> 
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Kroms 10%
+> 
+! Kroms se prepara para ejecutar cabezazo sobre ti.
+* ¡Kroms te alcanza con su maniobra de cabezazo!
+# Una de tus Espadas Guardianas golpea a Kroms mientras gira a tu alrededor.
+# Una de tus Espadas Guardianas golpea a Kroms mientras gira a tu alrededor.
+# De la palma de tu mano brota una esquirla de hielo arcano que golpea brutalmente a Kroms en el pecho.
+[Obtienes 99 puntos de experiencia]
+Ruinas de la Muralla Oeste de Anduar [s,n]
+Mano espectral te sigue.
+> 
+Kroms (Orc) llega desde el sur seguido de dos Soldado laureado de Kromses.
+Ruinas de la Muralla Oeste de Anduar [s,n]
+Mano espectral te sigue.
+> 
+No puedes ejecutar esa habilidad mientras formulas.
+> 
+Estás persiguiendo a Kroms y Soldado laureado de Kroms.
+Vida perdida: -572
+Pvs: 688/2701 (-572) Pe: 773/891 (-19)
+Kroms (Orc) está aquí.
+Dos Soldados laureados están aquí.
+Ruinas de la Muralla Oeste de Anduar [s,n]
+Mano espectral te sigue.
+> 
+Kroms (Orc) se va en dirección sur seguido de dos Soldado laureado de Kromses.
+Parece que el objetivo no existe o no es válido para esta runa. Son objetos válidos para esta runa, otros jugadores o personajes no jugadores.
+> 
+Ruinas de la Muralla Oeste de Anduar [s,n]
+Mano espectral te sigue.
+> 
+[El bloqueo 'golpearcano' termina]
+Kroms (Orc) está aquí.
+Dos Soldados laureados están aquí.
+Ruinas de la Muralla Oeste de Anduar [s,n]
+Mano espectral te sigue.
+> Kroms te mira mientras comprime toda su musculatura.
+Hace poco que invocaste su poder deberás esperar un poco.
+> 
+Ruinas de la Muralla Oeste de Anduar [s,n]
+Mano espectral te sigue.
+> 
+]
+] Ruinas de la Muralla Oeste de Anduar: Cruce de la Cantera [o,s,n]
+Mano espectral te sigue.
+] Ruinas de la Muralla Oeste de Anduar [s,n]
+Mano espectral te sigue.
+> Estás persiguiendo a Kroms y Soldado laureado de Kroms.
+La mano espectral desaparece.
+Cola de comandos borrada ('peleas parar' detendrá los combates si es lo que querías).
+> 
+]
+]
+Kroms (Orc) está aquí.
+Dos Soldados laureados están aquí.
+Ruinas de la Muralla Oeste de Anduar: Cruce de la Cantera [o,s,n]
+] + Te preparas para ejecutar golpearcano.
+> 
+Kroms (Orc) se va en dirección sur seguido de dos Soldado laureado de Kromses.
+Ruinas de la Muralla Oeste de Anduar [s,n]
+> 
+Cola de comandos borrada ('peleas parar' detendrá los combates si es lo que querías).
+> 
+]
+¡Tus objetivos ya no están al alcance de tu golpearcano!
+Kroms (Orc) está aquí.
+Dos Soldados laureados están aquí.
+Ruinas de la Muralla Oeste de Anduar: Cruce de la Cantera [o,s,n]
+> Soldado laureado de Kroms consigue escurrirse entre ti y Kroms, protegiéndole.
+# Rajas a Soldado laureado de Kroms.
+# Mojas con poca intensidad a Soldado laureado de Kroms.
+[Obtienes 22 puntos de experiencia]
+Trazas con ágiles movimientos en tus dedos la representación rúnica de azuneu y clavas tu mirada en Kroms.
+> 
+Ruinas de la Muralla Oeste de Anduar [s,n]
+> 
+¡Te desangras a causa de tu herida en un brazo!
+Vida perdida: -19
+Pvs: 669/2701 (-19) Pe: 760/891 (-13)
+Kroms (Orc) está aquí.
+Dos Soldados laureados están aquí.
+Ruinas de la Muralla Oeste de Anduar: Cruce de la Cantera [o,s,n]
+> 
+Kroms (Orc) se va en dirección sur seguido de dos Soldado laureado de Kromses.
+No se ha encontrado ningún objeto que responda al nombre kroms.
+> 
+Estás persiguiendo a Kroms y Soldado laureado de Kroms.
+Alzas tu mano, y alrededor de la misma comienzan a formarse 5 esferas que crepitan energía arcana y las lanzas contra Kroms.
+# Una esfera de energía golpea a Kroms con violencia mágica.
+# Una esfera de energía golpea a Kroms con violencia mágica.
+# Una esfera de energía golpea a Kroms con violencia mágica.
+# Una esfera de energía golpea a Kroms con violencia mágica.
+# Una esfera de energía golpea a Kroms con violencia mágica.
+[Obtienes 30 puntos de experiencia]
+[Congregacion_runica] Portavoz de la Congregación Rúnica: ¡Genlae ha asesinado a kroms!
+[Tu estatus con Hithrim, Veleiron, Thorin, Poldarn, Ak'Anon, Kheleb, Agnur, Eldor, Eloras, Takome y Kattak ha aumentado]
+[Obtienes 312338 puntos de experiencia]
+Propinas el golpe mortal a Kroms.

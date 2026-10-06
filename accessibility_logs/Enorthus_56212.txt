@@ -1,0 +1,547 @@
+co
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Cocodrilo.
+
+> 
+se
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [o,so,e,no] 
+Charco de sangre.
+Poste y restos putrefactos de Muerto-viviente.
+
+g
+> 
+No hay nadie aquí reconocible como zhorkh,faethyra,rexythor,crayren,blanqespina,wyrmoor,grashk,opriktouj,jacobus,szysxs.
+
+] 
+Zhorkh (Hlag) llega desde el sudoeste seguido de Esqueleto Calcinado y Esqueleto.
+
+# Perforas violentamente a Zhorkh.
+# Envenenas a Zhorkh.
+
+[Obtienes 44 puntos de experiencia]
+Pvs: (+760) Pe: 767/1309 (0)
+no
+Camino de Amonmen [se,no] 
+Charco de sangre.
+
+> 
+no
+Camino de Amonmen [ne,se,no] 
+
+] 
+se
+
+] 
+stop
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+se
+> 
+Camino de Amonmen [se,no] 
+Charco de sangre.
+
+> 
+g
+Estás persiguiendo a Zhorkh.
+No hay nadie aquí reconocible como zhorkh,faethyra,rexythor,crayren,blanqespina,wyrmoor,grashk,opriktouj,jacobus,szysxs.
+
+] 
+[El bloqueo 'Curar heridas ligeras' termina]
+
+se
+Zhorkh (Hlag) está aquí.
+Esqueleto y Esqueleto Calcinado están aquí.
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [o,so,e,no] 
+Charco de sangre.
+Poste y restos putrefactos de Muerto-viviente.
+
+> 
+cn
+Ya estás centrando tus golpes sobre Zhorkh.
+
+e
+> 
+Linde Este del Bosque de Orgoth- Dinmen [o,e] 
+
+] 
+e
+Linde Este del Bosque de Orgoth- Dinmen [o,e] 
+
+> 
+stop
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+e
+> 
+Senda del Alba [o,n,e] 
+Charco de sangre.
+
+] 
+* Crayren surge de alguna parte y descarga un tremendo ataque por sorpresa contra ti con su Arco de Ponzoña, haciendo que tu armadura se considere muy expuesta.
+Estás siendo atacado por Crayren.
+Estás persiguiendo a Zhorkh.
+# Crayren consigue esquivar tu ataque.
+Pvs: (-639) Pe: 766/1309 (0)
+
+o
+Zhorkh (Hlag) está aquí.
+Esqueleto y Esqueleto Calcinado están aquí.
+Linde Este del Bosque de Orgoth- Dinmen [o,e] 
+
+> 
+Zhorkh (Hlag) se va en dirección este seguido de Esqueleto Calcinado y Esqueleto.
+e
+
+Zhorkh (Hlag) y Crayren (Gob) están aquí.
+Esqueleto y Esqueleto Calcinado están aquí.
+Senda del Alba [o,n,e] 
+Charco de sangre.
+
+] 
+Crayren envaina su Arco de Ponzoña.
+
+stop
+Crayren empuña con la destreza de todo un maestro de armas, Florete del Duelista y Espada Azul.
+Crayren agarra con fuerza su Espada Azul, haciendo que sus nudillos se vuelvan blancos.
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+* Crayren te raja con mucha fuerza.
+El ataque de Crayren te roba parte de tu resistencia contra frio.
+¡La Espada Azul de Crayren absorbe parte de tu energía!
+* Crayren te perfora críticamente.
+* Crayren te alcanza con varios tajos de su Espada Azul, hiriéndote superficialmente en hocico.
+* Te tambaleas cuando Crayren te alcanza con una serie de golpes consecutivos de su Espada Azul en hocico.
+* Crayren te alcanza con varios tajos de su Espada Azul, hiriéndote superficialmente en hocico.
+* Crayren te alcanza con varios tajos de su Espada Azul, hiriéndote superficialmente en patas delanteras.
+* Te tambaleas cuando Crayren te alcanza con una serie de golpes consecutivos de su Espada Azul en patas traseras.
+
+La magia de la Espada Azul no es capaz de seguir los fugaces movimientos de Crayren, pero pronto le alcanzan, convirtiéndole en un vórtice destructor de éter.
+* ¡La Espada Azul de Crayren te fustiga con energía con su magia de magico!
+* ¡La Espada Azul de Crayren te fustiga con energía con su magia de magico!
+* ¡La Espada Azul de Crayren te fustiga con energía con su magia de magico!
+
+Zhorkh tensa sus músculos y golpea doblemente a Crayren con un certero movimiento.
+
+Pvs: (-1675) Pe: 765/1309 (-1)
+
+matar x
+Te encaras contra Zhorkh en posición de combate.
+
+> 
+o
+Linde Este del Bosque de Orgoth- Dinmen [o,e] 
+
+> 
+Zhorkh (Hlag) llega desde el este seguido de Esqueleto Calcinado y Esqueleto.
+
+o
+Linde Este del Bosque de Orgoth- Dinmen [o,e] 
+
+] 
+Zhorkh (Hlag) llega desde el este seguido de Esqueleto Calcinado y Esqueleto.
+
+Estás persiguiendo a Crayren.
+# Perforas violentamente a Zhorkh.
+# Envenenas a Zhorkh.
+
+[Obtienes 39 puntos de experiencia]
+Pvs: (+326) Pe: 764/1309 (-1)
+
+* Zhorkh te lacera violentamente.
+* Zhorkh te quema intensamente.
+* Zhorkh te perfora violentamente.
+o
+
+Crayren (Gob) llega desde el este.
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [o,so,e,no] 
+Charco de sangre.
+Poste y restos putrefactos de Muerto-viviente.
+
+> 
+no
+Camino de Amonmen [se,no] 
+Charco de sangre.
+
+] 
+no
+
+] Pvs: (-625) Pe: 765/1309 (+1)
+
+no
+Camino de Amonmen [ne,se,no] 
+
+] 
+no
+Camino de Amonmen [se,n] 
+
+] 
+stop
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+Estás persiguiendo a Zhorkh.
+Pvs: (+259) Pe: 765/1309 (0)
+
+n
+Camino de Amonmen [ne,s,no] 
+
+> 
+pc
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+cme
+> 
+Comienzas a formular el hechizo 'Curar heridas moderadas'.
+
+] 
+Pvs: (-760) Pe: 765/1309 (0)
+
+Pronuncias el cántico: 'magius modus curis'
+Curas algunas de tus heridas más moderadas.
+
+[Obtienes 369 puntos de experiencia]
+Pvs: (+1602) Pe: 765/1309 (0)
+
+mnick x crayren
+// las aves de carroñña van al mnick xd
+Nombre corto crayren movido al principio de x quedando crayren,zhorkh,faethyra,rexythor,blanqespina,wyrmoor,grashk,opriktouj,jacobus,szysxs.
+
+> 
+s
+Camino de Amonmen [se,n] 
+
+> 
+se
+Zhorkh (Hlag) está aquí.
+Esqueleto y Esqueleto Calcinado están aquí.
+Camino de Amonmen [ne,se,no] 
+
+> 
+! Zhorkh se prepara para ejecutar tajar sobre ti.
+
+stop
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+se
+Camino de Amonmen [se,no] 
+Charco de sangre.
+
+] 
+se
+
+] Pvs: (+222) Pe: 761/1309 (0)
+
+e
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [o,so,e,no] 
+Charco de sangre.
+Poste y restos putrefactos de Muerto-viviente.
+
+] 
+e
+Linde Este del Bosque de Orgoth- Dinmen [o,e] 
+
+] 
+stop
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+e
+Linde Este del Bosque de Orgoth- Dinmen [o,e] 
+
+> 
+cle
+Comienzas a formular el hechizo 'Curar heridas ligeras'.
+
+] 
+Pronuncias el cántico: 'magius elis curis'
+Curas algunas de tus heridas más ligeras.
+
+[Obtienes 101 puntos de experiencia]
+Pvs: (+530) Pe: 762/1309 (+1)
+[El bloqueo 'Naturalizar' termina]
+[El bloqueo 'Curar heridas moderadas' termina]
+
+e
+Senda del Alba [o,n,e] 
+Charco de sangre.
+
+b
+> 
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+> 
+Cuidadosamente rastreas el suelo buscando algo de interés.
+b
+
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+> 
+* Crayren surge de alguna parte y descarga un tremendo ataque por sorpresa contra ti con su Arco de Ponzoña, pero no logra dañar tu armadura.
+
+Cuidadosamente rastreas el suelo buscando algo de interés.
+
+d
+Crayren (Gob) se va hacia este.
+El objetivo crayren,zhorkh,faethyra,rexythor,blanqespina,wyrmoor,grashk,opriktouj,jacobus,szysxs no está aquí ahora mismo.
+
+> 
+e
+Crayren (Gob) está aquí.
+Senda del Alba [ne,o] 
+Restos putrefactos de Humano.
+
+] 
+Crayren envaina su Arco de Ponzoña.
+# Crayren consigue esquivar tu ataque.
+# Crayren consigue esquivar tu ataque.
+Pvs: (-652) Pe: 760/1309 (-1)
+
+Crayren empuña con la destreza de todo un maestro de armas, la Espada Azul.
+
+os
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+> 
+* Crayren te raja con increíble potencia.
+El ataque de Crayren te roba parte de tu resistencia contra mal.
+¡La Espada Azul de Crayren absorbe parte de tu energía!
+Pvs: (+327) Pe: 760/1309 (0)
+
+Crayren (Gob) se va hacia oeste.
+
+o
+z
+Senda del Alba [o,n,e] 
+Charco de sangre.
+
+> Estás persiguiendo a Crayren.
+No hay nadie aquí reconocible como crayren,zhorkh,faethyra,rexythor,blanqespina,wyrmoor,grashk,opriktouj,jacobus,szysxs.
+
+> 
+o
+Pvs: (+306) Pe: 759/1309 (0)
+[El bloqueo 'Curar heridas ligeras' termina]
+Linde Este del Bosque de Orgoth- Dinmen [o,e] 
+
+> 
+e
+Senda del Alba [o,n,e] 
+Charco de sangre.
+
+] 
+b
+
+] 
+stop
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+b
+] 
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+> 
+ac
+Has usado el poder del anillo recientemente y has de descansar antes de someterte de nuevo a sus influjos.
+
+> 
+Remueves todo a tu alrededor buscando algo interesante.
+
+e
+Senda del Alba [ne,o] 
+Restos putrefactos de Humano.
+
+b
+> 
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+> 
+Pvs: (+325) Pe: 758/1309 (-1)
+
+¡Descubres a Crayren intentando moverse en silencio!
+
+z
++ Te preparas para ejecutar zarpazo.
+
+] 
+Crayren (Gob) se va hacia oeste.
+
+o
+Crayren (Gob) está aquí.
+Senda del Alba [o,n,e] 
+Charco de sangre.
+
+> 
+# Crayren consigue esquivar tu ataque.
+# Rajas con mucha fuerza a Crayren.
+# Envenenas con poca intensidad a Crayren.
+
+[Obtienes 31 puntos de experiencia]
+# ¡Alcanzas a Crayren con tu maniobra de zarpazo!
+
+[Obtienes 116 puntos de experiencia]
+Pvs: (+248) Pe: 751/1309 (-7)
+
+pc
+Estás concentrado en otra habilidad y te resulta difícil polimorfarse.
+
+> 
+* Crayren te raja con increíble potencia.
+El ataque de Crayren te roba parte de tu resistencia contra electrico.
+¡La Espada Azul de Crayren absorbe parte de tu energía!
+Pvs: (-335) Pe: 751/1309 (0)
+
+Crayren (Gob) se va hacia este.
+
+e
+Senda del Alba [ne,o] 
+Restos putrefactos de Humano.
+
+> 
+pc
+Estás persiguiendo a Crayren.
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+ne
+> 
+Crayren (Gob) está aquí.
+Senda del Alba [so,ne] 
+Charco de sangre.
+
+] 
+# Crayren consigue esquivar tu ataque.
+Pvs: (-366) Pe: 751/1309 (+1)
+
+Crayren (Gob) se va hacia noreste.
+
+ne
+Crayren (Gob) está aquí.
+Senda del Alba [so,e] 
+Cuerpo de Lancero y Lanza.
+
+> 
+Crayren (Gob) se va hacia este.
+
+e
+Crayren (Gob) está aquí.
+Bandido está aquí.
+Senda del Alba [se,ne,o] 
+Poste de madera.
+
+] 
+* Logras esquivar el ataque de Crayren.
+
+Crayren (Gob) se va hacia noreste.
+
+ne
+Crayren (Gob) está aquí.
+Viajero está aquí.
+Senda del Alba [so,n] 
+
+> 
+d
+Comienzas a formular el hechizo 'Retener persona'.
+
+] 
+Estás realizando los movimientos de un hechizo, tus manos están ocupadas.
+
+Pronuncias el cántico: 'amri xeno haltem'
+Paralizas a Crayren mediante una fuerza divina que le rodea.
+
+[Obtienes 87 puntos de experiencia]
+Pvs: (+147) Pe: 751/1309 (0)
+[El bloqueo 'zarpazo' termina]
+
+Crayren intenta escapar de una fuerza que le retiene, pero no lo consigue.
+
+pa
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Pantera.
+
+> 
+cn
+Empiezas a centrar tus golpes sobre Crayren.
+
+> 
+Crayren no puede atacar a nadie ya que algo le retiene.
+Pvs: (+260) Pe: 737/1309 (0)
+
+seguir crayren
+Intentas seguir a Crayren, pero te da esquinazo.
+
+a
+> 
++ Comienzas a moverte tentativamente alrededor de Crayren, buscando un flanco vulnerable para abalanzarte sobre él.
+
+] 
+# Rajas con fuerza a Crayren.
+# Perforas con fuerza a Crayren.
+# Envenenas con poca intensidad a Crayren.
+
+[Obtienes 47 puntos de experiencia]
+# ¡Te abalanzas sobre un costado de Crayren, destrozándole con un ataque y un crítico de tus Garras y dientes!
+
+[Obtienes 118 puntos de experiencia]
+
+Crayren intenta escapar de una fuerza que le retiene, pero no lo consigue.
+
+bando senda sur coluna
+[Bueno] Enorthus: senda sur coluna
+
+> 
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Crayren 11%
+
+> 
+Crayren no puede atacar a nadie ya que algo le retiene.
+
+os
+z
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+> + Te preparas para ejecutar zarpazo.
+
+] 
+# Rajas violentamente a Crayren.
+# Rajas con mucha fuerza a Crayren.
+# Envenenas con poca intensidad a Crayren.
+[El bloqueo 'Tentáculo tumefacto' termina]
+
+[Obtienes 68 puntos de experiencia]
+# ¡Alcanzas a Crayren con tu maniobra de zarpazo!
+
+[Obtienes 118 puntos de experiencia]
+Pvs: (+400) Pe: 726/1309 (-11)
+
+Crayren deja de sangrar.
+
+Crayren abandona su estado de concentración bañado en sudor.
+
+Crayren queda liberado de la fuerza que le retenía.
+
+[Cruzada_eralie] Palafrenero de la Cruzada: ¡Enorthus ha asesinado a crayren!
+[Tu estatus con Dendra, Hithrim, Poldarn, Veleiron, Thorin, Ak'Anon, Kheleb, Eldor, Eloras, Takome y Kattak ha aumentado]
+
+[Obtienes 232069 puntos de experiencia]
+Propinas el golpe mortal a Crayren.
+
+Crayren ha muerto.
+
+Crayren cae al suelo sin vida.
+
+Crayren da un grito desgarrador antes de que su espíritu abandone Eirea.
+
+bando dies
+[Bueno] Enorthus: dies
+
+> 
+bando dies
+[Bueno] Enorthus: dies
+
+> 
+cmc
+Coges Bolsa de monedas (tres platas, dos sesioms, siete olotas y treinta monedas de platino) de cuerpo de Crayren.
+
+} 
+Finalmente logras cargar Bolsa de monedas (tres platas, dos sesioms, siete olotas y treinta monedas de platino).
+
+decapitar cuerpo
+Clavas tus garras en el débil cuello de cuerpo de Crayren y con una proeza de fuerza le arrancas la cabeza con buena parte de su columna vertebral todavía unida.
+[Recibes Cabeza de crayren].

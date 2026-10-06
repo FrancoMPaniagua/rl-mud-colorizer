@@ -1,0 +1,388 @@
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Pantera.
+
+gno
+
+Orilla oeste del río Iaurduin [se,n] 
+ 
+gn
+
+
+acechar n
+Orilla oeste del río Iaurduin [s,n] 
+El viento golpea fuertemente tu cuerpo haciéndote tambalear al andar.
+
+ojear
+Al este, sobre el río Iaurduin, una pequeña elevación sobre el río conforma la isla que los hombres-lagarto aprovecharon para construir la ciudad de Grimoszk. A este lado de dicha
+isla el brazo más estrecho del Iaurduin desemboca en el mar de Soramha, creando un hábitat de marismas y playas inusual en el resto del continente de Dalaensar.
+Hacia el este, sobre el Iaurduin, se alza un alargado puente que permite el acceso a la otra orilla del rio y a Grimoszk, la ciudad de los despiadados Hombres-Lagarto.
+
+ Un impresionante chaparrón de lluvia cae sobre los alrededores, haciendo estragos.
+
+Puedes ver tres salidas: sur, este y norte.
+Charco de sangre.
+siete Timotivac (Gno)es está allí.
+
+ [El bloqueo 'Llamar rayos' termina]
+pc
+
+Orilla oeste del río Iaurduin [s,n] 
+
+] 
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+formular terremoto:n
+
+Comienzas a formular el hechizo 'Terremoto'.
+
+> 
+Jazhreel te examina.
+
+Dices en adurn: 'terra firma venit'
+Posas las manos en el suelo e invocas una estela de destrucción sísmica que se dirige hacia norte, destrozándolo todo a su paso.
+
+[Obtienes 168 puntos de experiencia]
+
+pa
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Pantera.
+gn
+
+siete Timotivac (Gno)es está aquí.
+Orilla oeste del río Iaurduin [s,e,n] 
+Destrozos de un terremoto.
+
+
+Timotivac empieza a inspeccionar la zona detenidamente.
+
+a
++ Te mueves en silencio alrededor de Timotivac, tensando los músculos de tus cuartos traseros para abalanzarte sobre él.
+
+] 
+¡Has quedado al descubierto!
+
+Timotivac detiene su búsqueda.
+
+* Logras esquivar el ataque de Timotivac.
+
+Timotivac empieza a formular un hechizo.
+
+# Lo que te pareció ser Timotivac desaparece al golpearlo.
+# Lo que te pareció ser Timotivac desaparece al golpearlo.
+# Lo que te pareció ser Timotivac desaparece al golpearlo.
+# Lo que te pareció ser Timotivac desaparece al golpearlo.
+# ¡Te abalanzas sobre un costado de Timotivac, destrozándole con cuatro ataques de tus Garras y dientes!
+
+[Obtienes 58 puntos de experiencia]
+
+n
+Orilla oeste del río Iaurduin [s,ne] 
+Destrozos de un terremoto.
+
+> 
+ne
+Orilla oeste del río Iaurduin [so,no] 
+Destrozos de un terremoto.
+
+[El bloqueo 'sigilar' termina]
+
+[Arenvael Ler'Inen orbita al Limbo]
+
+no
+Orilla oeste del río Iaurduin [se,ne,no] 
+
+> 
+se
+Estás persiguiendo a Timotivac.
+Orilla oeste del río Iaurduin [so,no] 
+Destrozos de un terremoto.
+
+> 
+gso
+tres Timotivac (Gno)es está aquí.
+Orilla oeste del río Iaurduin [s,ne] 
+Destrozos de un terremoto.
+
+] 
+gs
+tres Timotivac (Gno)es se va hacia noreste.
+
+] 
+[Eumenide Irwine orbita a Eirea]
+
+tres Timotivac (Gno)es llega desde el noreste.
+
+tres Timotivac (Gno)es se va hacia sur.
+
+gs
+tres Timotivac (Gno)es está aquí.
+Orilla oeste del río Iaurduin [s,e,n] 
+Destrozos de un terremoto.
+El suave rumor de las olas del mar te relaja profundamente.
+
+] Orilla oeste del río Iaurduin [s,n] 
+
+] [El bloqueo 'Retener persona' termina]
+
+tres Timotivac (Gno)es llega desde el norte.
+stop
+
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+estado -b x
+tres Timotivac (Gno)es se va hacia sur.
+No se ha encontrado ningún objeto que responda al nombre timotivac,fumaflores,aesiria,elhenja,agzi,jazhreel,grozunk,suka.
+
+> 
+gs
+tres Timotivac (Gno)es está aquí.
+Orilla oeste del río Iaurduin [se,n] 
+
+> 
+tres Timotivac (Gno)es se va hacia sudeste.
+
+gse
+tres Timotivac (Gno)es está aquí.
+Orilla oeste del río Iaurduin [se,no] 
+
+] 
+gse
+Orilla oeste del río Iaurduin [s,no] 
+
+> 
+tres Timotivac (Gno)es llega desde el noroeste.
+
+tres Timotivac (Gno)es se va hacia sur.
+
+gs
+tres Timotivac (Gno)es está aquí.
+Orilla oeste del río Iaurduin [o,n] 
+Charco de sangre.
+El viento golpea fuertemente tu cuerpo haciéndote tambalear al andar.
+
+] 
+[El bloqueo 'abalanzarse' termina]
+
+tres Timotivac (Gno)es se va hacia oeste.
+go
+
+tres Timotivac (Gno)es está aquí.
+Orilla oeste del río Iaurduin [s,e] 
+
+> 
+tres Timotivac (Gno)es se va hacia sur.
+
+estado -b x
+No se ha encontrado ningún objeto que responda al nombre timotivac,fumaflores,aesiria,elhenja,agzi,jazhreel,grozunk,suka.
+
+> 
+gs
+Orilla oeste del río Iaurduin [s,n] 
+
+> 
+gs
+tres Timotivac (Gno)es está aquí.
+Orilla oeste del río Iaurduin [so,n] 
+
+] 
+tres Timotivac (Gno)es se va hacia sudoeste.
+
+gso
+Orilla oeste del río Iaurduin [s,ne] 
+
+> 
+gs
+tres Timotivac (Gno)es está aquí.
+Orilla oeste del río Iaurduin [se,n] 
+
+] 
+gse
+
+] 
+gs
+
+] 
+Progresivamente, la esencia del felino abandona tu cuerpo. Tus músculos retoman su masa muscular normal y pierden potencia y flexibilidad. Vuelves a ser el de siempre.
+
+gso
+Orilla oeste del río Iaurduin [s,no] 
+El suave rumor de las olas del mar te relaja profundamente.
+
+] 
+stop
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+gno
+tres Timotivac (Gno)es está aquí.
+Orilla oeste del río Iaurduin [se,n] 
+
+] 
+Timotivac pronuncia el cántico: 'nullo magius'
+
+Las imágenes de Timotivac se desvanecen.
+
+Timotivac finaliza un hechizo sobre si mismo.
+
+Timotivac (Gno) se va hacia sudeste.
+
+gs
+La salida sur no existe.
+
+> 
+gse
+Orilla oeste del río Iaurduin [s,no] 
+El suave rumor de las olas del mar te relaja profundamente.
+
+] 
+gs
+
+] 
+gso
+
+] 
+go
+Orilla oeste del río Iaurduin [so,n] 
+El viento golpea fuertemente tu cuerpo haciéndote tambalear al andar.
+
+] 
+go
+Camino a los Cultivos de Maíz [ne,no] 
+Charco de sangre.
+
+] 
+stop
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+gno
+Camino a los Cultivos de Maíz [se,o] 
+
+> 
+go
+Esclavo Minotauro, Esclava Minotauro y Esclava Goblin están aquí.
+Cultivos Pantanosos [o,e] 
+
+] 
+go
+
+] 
+stop
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+go
+Cultivos Pantanosos [no,o,e,so] 
+Dos Hoces.
+
+> 
+gso
+Dos Esclavas Humanas están aquí.
+Cultivos Pantanosos [n,ne,o,s,se] 
+
+] 
+gse
+Cultivos Pantanosos [no,o] 
+
+> 
+go
+Esclava Minotauro está aquí.
+Cultivos Pantanosos [n,o,e,so] 
+
+] 
+gso
+Esclava Humana, Esclavo Goblin, Esclava Goblin y Esclavo Goblin holgazán están aquí.
+Cultivos Pantanosos [ne,o] 
+
+> 
+go
+Cultivos Pantanosos [no,ne,o,e,so] 
+
+> 
+go
+Cultivos Pantanosos [o,e] 
+
+] 
+go
+Cultivos Pantanosos [o,e] 
+
+> 
+go
+Esclava Minotauro, Esclava Goblin y dos Esclavos Humanos están aquí.
+Cultivos Pantanosos [n,ne,o,e,se] 
+
+] 
+gse
+Cultivos Pantanosos [no,so,e] 
+Dos Hoces.
+
+> 
+gso
+Camino a los Cultivos de Maíz [o,ne] 
+
+> 
+gne
+Cultivos Pantanosos [no,so,e] 
+Dos Hoces.
+
+] 
+gno
+Esclava Minotauro, Esclava Goblin y dos Esclavos Humanos están aquí.
+Cultivos Pantanosos [n,ne,o,e,se] 
+
+Esclavo Humano siega maíz sin parar ni mirar hacia los lados.
+
+gn
+Cultivos Pantanosos [n,o,e,s] 
+
+> 
+gn
+Cultivos Pantanosos [no,n,o,e,s,se] 
+
+] 
+gn
+Esclavo Goblin y Esclava Minotauro están aquí.
+Cultivos Pantanosos [n,o,e,s] 
+
+> 
+gn
+Cultivos Pantanosos [n,o,e,s] 
+
+] 
+gn
+Esclavo Minotauro y Esclava Goblin están aquí.
+Cultivos Pantanosos [no,n,ne,o,e,s,se] 
+
+> 
+ge
+Timotivac (Gno) está aquí.
+Esclava Goblin está aquí.
+Cultivos Pantanosos [n,o,e,s] 
+
+Timotivac se concentra en un hechizo.
+
+a
++ Te mueves en silencio alrededor de Timotivac, tensando los músculos de tus cuartos traseros para abalanzarte sobre él.
+
+] 
+estado -b x
+
+] 
+stop
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+Timotivac se concentra en un hechizo.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Timotivac 46%
+
+¡Timotivac pierde la concentración!
+# ¡Te abalanzas sobre un sorprendido Timotivac y le despedazas con dos ataques y un crítico de tus Garras y dientes!
+[Obtienes 182 puntos de experiencia]
+Timotivac deja de sangrar.
+[Cruzada_eralie] Palafrenero de la Cruzada: ¡Enorthus ha asesinado a timotivac!
+[Tu estatus con Dendra, Hithrim, Poldarn, Veleiron, Thorin, Ak'Anon, Kheleb, Eldor, Grimoszk, Eloras, Takome y Kattak ha aumentado]
+[Tu alineamiento ha aumentado]
+[Obtienes 347376 puntos de experiencia]
+Propinas el golpe mortal a Timotivac.
+Timotivac ha muerto.
+Timotivac cae al suelo sin vida.
+Timotivac da un grito desgarrador antes de que su espíritu abandone Eirea.

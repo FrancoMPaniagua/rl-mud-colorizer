@@ -1,0 +1,188 @@
+Cartel de madera.
+Camino Empedrado de Takome [este,sur,oeste,norte] 
+> 
+Camino Empedrado de Takome [sur,norte] 
+Caminas con cuidado con tal de no tropezar con alguna piedra.
+] 
+[Ascavarum orbita a Eirea]
+Camino Empedrado de Takome [norte,sur] 
+> 
+-Kahan (Hum)- llega desde el norte.
+# Tu ataque rebota en la piel de piedra de Kahan.
+# Mojas a Kahan.
+[Obtienes 10 puntos de experiencia]
+Tu resistencia de mental se desvanece.
+[El bloqueo 'Toque vampirico' termina]
+Camino Empedrado de Takome [sur,norte] 
+> 
+Camino Empedrado de Takome [norte,sur] 
+Caminas inseguro por si hay algún bandido cerca.
+> 
+Estás persiguiendo a Kahan.
+Parece que el objetivo no existe o no es válido para esta runa. Son objetos válidos para esta runa, otros jugadores o personajes no jugadores.
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+Tu resistencia de mal se desvanece.
+-Kahan (Hum)- llega desde el norte.
+Camino Empedrado de Takome [sur,norte] 
+> 
+Cartel de madera.
+Camino Empedrado de Takome [este,sur,oeste,norte] 
+Caminas con cuidado con tal de no tropezar con alguna piedra.
+] 
+Camino Empedrado de Takome [sur,norte] 
+El aire puro en tus pulmones te produce una sensación momentánea de bienestar.
+> 
+Parece que el objetivo no existe o no es válido para esta runa. Son objetos válidos para esta runa, otros jugadores o personajes no jugadores.
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+Tu resistencia de enfermedad se desvanece.
+-Kahan (Hum)- llega desde el norte.
+-Kahan (Hum)- se va hacia sur.
+Parece que el objetivo no existe o no es válido para esta runa. Son objetos válidos para esta runa, otros jugadores o personajes no jugadores.
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+Kahan (Hum) está aquí.
+Cartel de madera.
+Camino Empedrado de Takome [este,sur,oeste,norte] 
+El aire puro en tus pulmones te produce una sensación momentánea de bienestar.
+> 
+Trazas con ágiles movimientos en tus dedos la representación rúnica de azuneu y clavas tu mirada en Kahan.
+] 
+-Kahan (Hum)- se va hacia norte.
+Estás persiguiendo a Kahan.
+Alzas tu mano, y alrededor de la misma comienzan a formarse 4 esferas que crepitan energía arcana y las lanzas contra Kahan.
+# Una esfera de energía golpea a Kahan con violencia mágica.
+# Una esfera de energía golpea a Kahan con violencia mágica.
+# Una esfera de energía golpea a Kahan con violencia mágica.
+# Una esfera de energía es esquivada por Kahan antes del impacto.
+[Obtienes 24 puntos de experiencia]
+Tu resistencia de mental se desvanece.
+Camino Empedrado de Takome [sur,norte] 
+> 
+Camino Empedrado de Takome [norte,sur] 
+El aire puro en tus pulmones te produce una sensación momentánea de bienestar.
+> 
+Charco de sangre
+Caballero Cruzado de Élite, Sacerdote Cruzado de Élite y Soldado Cruzado de Élite están aquí.
+Kahan (Hum) está aquí.
+Puerta Sur de Takome [sur,norte] 
+] 
+-Kahan (Hum)- se va hacia sur.
+Caballero Cruzado de Élite consigue escurrirse entre ti y Soldado Cruzado de Élite, protegiéndole.
+# Rajas con mucha fuerza a Caballero Cruzado de Élite.
+¡Tu Espada Azul te entrega la energía de Caballero Cruzado de Élite!
+# Mojas a Caballero Cruzado de Élite.
+[Obtienes 28 puntos de experiencia]
+Tu resistencia de mal se desvanece.
+Kahan (Hum) está aquí.
+Camino Empedrado de Takome [norte,sur] 
+> 
+Kahan traza en el aire unos extraños símbolos con ágiles movimientos de sus dedos y clava su mirada en tus ojos.
+Camino Empedrado de Takome [sur,norte] 
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+Kahan alza su mano y alrededor de la misma se forman 5 que lanza contra tí.
+[Tiradas] Tirada de salvación de conjuro % de éxito: 18 (39-21). Tirada: 8 (Éxito).
+* Esquivas una esfera de energía de Kahan.
+[Tiradas] Tirada de salvación de conjuro % de éxito: 18 (39-21). Tirada: 97 (Fallo).
+* Una esfera de energía te golpea con violencia mágica mientras notas crujir toda tu musculatura.
+Tu aura brilla castigando a Kahan con el mismo dolor.
+[Tiradas] Tirada de salvación de conjuro % de éxito: 18 (39-21). Tirada: 69 (Fallo).
+* Una esfera de energía te golpea con violencia mágica mientras notas crujir toda tu musculatura.
+Tu aura brilla castigando a Kahan con el mismo dolor.
+[Tiradas] Tirada de salvación de conjuro % de éxito: 18 (39-21). Tirada: 99 (Fallo).
+* Una esfera de energía te golpea con violencia mágica mientras notas crujir toda tu musculatura.
+Tu aura brilla castigando a Kahan con el mismo dolor.
+[Tiradas] Tirada de salvación de conjuro % de éxito: 18 (39-21). Tirada: 61 (Fallo).
+* Una esfera de energía te golpea con violencia mágica mientras notas crujir toda tu musculatura.
+Tu aura brilla castigando a Kahan con el mismo dolor.
+Cartel de madera.
+Camino Empedrado de Takome [este,sur,oeste,norte] 
+> 
+Estás persiguiendo a Caballero Cruzado de Élite, Sacerdote Cruzado de Élite y Soldado Cruzado de Élite.
+Tu resistencia de enfermedad se desvanece.
+Pvs: 20092809 Pe: 345684
+Camino Empedrado de Takome [sur,norte] 
+El aire puro en tus pulmones te produce una sensación momentánea de bienestar.
+> 
+Kahan (Hum) está aquí.
+Camino Empedrado de Takome [norte,sur] 
+El aire puro en tus pulmones te produce una sensación momentánea de bienestar.
+] 
+Comienzas a formular el hechizo 'Desintegrar'.
+> 
+Tu aura brilla castigando a Kahan con el mismo dolor.
+* Kahan te raja con fuerza.
+El ataque de Kahan te roba parte de tu resistencia contra mental.
+¡La Espada Azul de Kahan absorbe parte de tu energía!
+Kahan saca algo de su Bolsita.
+Kahan empieza a formular un hechizo.
+# Tu ataque rebota en la piel de piedra de Kahan.
+# Mojas a Kahan.
+[Obtienes 10 puntos de experiencia]
+Preparas los componentes del hechizo.
+Pronuncias el cántico: 'bellum destruct corpore'
+¡Kahan pierde la concentración!
+# Extiendes las palmas de tus manos formando un triángulo hacia Kahan y un mortal rayo de energía le golpea parcialmente, disgregando sus átomos y esparciéndolos en el aire.
+[Obtienes 235 puntos de experiencia]
+Pvs: 18582809 Pe: 347684
+Trazas con ágiles movimientos en tus dedos la representación rúnica de azuneu y clavas tu mirada en Kahan.
+] 
+Tu aura brilla castigando a Kahan con el mismo dolor.
+* Kahan te raja con fuerza.
+El ataque de Kahan te roba parte de tu resistencia contra mal.
+-Kahan (Hum)- se va hacia norte.
+Estás persiguiendo a Kahan.
+Alzas tu mano, y alrededor de la misma comienzan a formarse 5 esferas que crepitan energía arcana y las lanzas contra Kahan.
+# Una esfera de energía golpea a Kahan con violencia mágica.
+# Una esfera de energía golpea a Kahan con violencia mágica.
+# Una esfera de energía golpea a Kahan con violencia mágica.
+# Una esfera de energía golpea a Kahan con violencia mágica.
+# Una esfera de energía golpea a Kahan con violencia mágica.
+[Obtienes 20 puntos de experiencia]
+Tu resistencia de mental se desvanece.
+Pvs: 17212809 Pe: 311684
+[Tu estatus con Dendra, Mor Groddûr, Golthur Orod, Agnur, Shaunt, Ar'Kaindia y Grimoszk ha aumentado]
+[Tu alineamiento ha disminuído]
+[Obtienes 660906 puntos de experiencia]
+Propinas el golpe mortal a Kahan.
+[Obtienes 11 puntos de gloria]
+Paras de perseguir a Kahan.
+Pillas a Gurlen intentando robarte.
+Estás siendo atacada por Gurlen.
+[Renegado] Genlae: dies
+> 
+Tu aura brilla castigando a Gurlen con el mismo dolor.
+* ¡Convulsionas en agonía cuando Gurlen te apuñala por la espalda!
+¡Eso realmente dolió!
+# Gurlen consigue esquivar tu ataque.
+Tu resistencia de mal se desvanece.
+Pvs: 15602809 Pe: 313684
+Camino Empedrado de Takome [sur,norte] 
+El aire puro en tus pulmones te produce una sensación momentánea de bienestar.
+> 
+-|Gurlen (Hal)|/- llega desde el norte.
+Cartel de madera.
+Camino Empedrado de Takome [este,sur,oeste,norte] 
+] 
+Estás persiguiendo a Gurlen.
+] 
+[Renegado] Crisrothe:   xDDD ole 
+Charco de sangre.
+Camino Empedrado: Antiguos Arrabales [este,noroeste] 
+El aire puro en tus pulmones te produce una sensación momentánea de bienestar.
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+Tu resistencia de enfermedad se desvanece.
+Charco de sangre.
+Camino Empedrado: Antiguos Arrabales [sudeste,oeste] 
+El aire puro en tus pulmones te produce una sensación momentánea de bienestar.
+> 
+Camino Empedrado: Antiguos Arrabales [sudoeste,este] 
+Caminas con cuidado con tal de no tropezar con alguna piedra.

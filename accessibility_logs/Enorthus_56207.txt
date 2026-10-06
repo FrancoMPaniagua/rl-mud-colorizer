@@ -1,0 +1,1001 @@
+Ya que hay jugadores que dicen que la deathlogs se suben pocos de los pks, he decidido subir el log… y me parece increíble la gente que hasta quiere bonificaciones por subir logs, si nos ponemos en este plan, no sé como se mantendría este juego ya que los inmortales, los avatares de balance y un largo etc, trabajan en este juego de forma altruista, es decir, sin recibir nada a cambio, y ahora resulta que hay gente que dice que podrían dar bonificaciones por subir logs, pues sinceramente, yo creo que por hacer algo de forma altruista (quizá en este mundo tan hegoísta donde la mayoría solo miramos para uno mismo habría que explicar el significado de la palabra) no pasa absolutamente nada.
+Bueno después de este mini discurso os dejo con el log jajajaja.
+
+gs
+Ruinas [s,n] 
+
+> 
+gs
+Shkar (Hlag) está aquí.
+Ruinas [n,|so|,|s|,|se|] 
+
+] 
+Shkar abre la puerta sudeste.
+
+Shkar (Hlag) se va hacia sudeste.
+
+gse
+Shkar (Hlag) está aquí.
+Guarida Secreta [se,-no-] 
+
+> 
+Shkar (Hlag) se va hacia sudeste.
+gse
+
+Shkar (Hlag) está aquí.
+Pasillo de acceso [s,no] 
+
+] 
+Shkar (Hlag) se va hacia sur.
+
+gs
+
+] 
+stop
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+gs
+Sala en ruinas [so,se,s,n] 
+
+> 
+gs
+Sala en ruinas: Rampa de ascenso [se,so,s,n] 
+
+> 
+gs
+Estatua [n] 
+
+> 
+sigilar se
+La salida sudeste no existe.
+
+> 
+sigliar s
+Parece que sigliar s no produjo efecto alguno.
+
+> 
+sigilar s
+Empiezas a descender por las escaleras que hay tras la estatua cuando de forma inesperada tropiezas y caes rodando golpeándote varias veces.
+Guarida oculta: Entrada [n,se] 
+
+> 
+Pvs: (-24) 
+
+ge
+La salida este no existe.
+
+> 
+gne
+La salida noreste no existe.
+
+] 
+Pvs: (+24) 
+
+gse
+Guarida oculta [e,no] 
+
+> 
+ge
+Guarida oculta [ne,se,e,o] 
+
+> 
+gne
+Guarida oculta [se,*n*,so] 
+
+> 
+gn
+Portalón subterráneo [n,-s-] 
+
+> 
+gn
+Subterráneo: Rampa [ab,s] 
+Cuerda atada.
+
+> 
+gs
+Portalón subterráneo [n,-s-] 
+
+> 
+gn
+Subterráneo: Rampa [ab,s] 
+Cuerda atada.
+
+> 
+desatar cuerda
+Desatas la Cuerda.
+
+] 
+sigilar ab
+Subterráneo: Rampa [ab,ar] 
+
+> 
+sigilar ab
+Subterráneo [ar,n] 
+Charco de sangre
+
+> 
+gn
+Shkar (Hlag) está aquí.
+Subterráneo [s,o] 
+
+] 
+go
+Dos Cobras gigantes están aquí.
+Portalón de las Cobras [|o|,e] 
+Destrozos de un terremoto.
+
+> 
+ee
+Empiezas a buscar un buen escondite por la zona.
+
+] 
+Pvs: (0) 
+
+Encuentras lo que parece un buen sitio y empiezas a buscar una buena posición para quedar oculto.
+
+ge
+¡Tu maniobra de sigilar arruina completamente tu intento de esconderte!
+Shkar (Hlag) está aquí.
+Subterráneo [s,o] 
+
+> 
+Shkar empieza a formular un hechizo.
+
+go
+ee
+Dos Cobras gigantes están aquí.
+Portalón de las Cobras [|o|,e] 
+Destrozos de un terremoto.
+
+> Empiezas a buscar un buen escondite por la zona.
+
+] 
+Encuentras lo que parece un buen sitio y empiezas a buscar una buena posición para quedar oculto.
+
+estado -b todo
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Cobra gigante 81%
+Cobra gigante 81%
+
+> 
+Finalmente logras colocarte y te escondes perfectamente.
+
+sc
+
+> 
+ac
+Murmullas unas palabras de poder y acaricias tu Anillo del Héroe de la Luz, que responde a tus palabras emitiendo una luz blanquecina y palpitando con energía.
+
+> 
+El poder de tu Anillo del Héroe de la Luz inunda tu cuerpo y te sientes mucho más fuerte.
+
+Shkar (Hlag) llega desde el este.
+
+Shkar concentra sus golpes contra Cobra gigante.
+
+Shkar examina las defensas de Cobra gigante en busca de un hueco por donde hacer mucho daño con su Hacha Garra de Kraken.
+
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Shkar 91%
+
+> 
+Shkar envaina su Hacha Garra de Kraken.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Shkar 87%
+
+> 
+Shkar tensa sus músculos y golpea doblemente a Cobra gigante con un certero movimiento.
+
+
+Cobra gigante lanza su cabeza contra Shkar que da un terrible grito de dolor cuando los colmillos le perforan.
+
+Shkar con un acertado salto logra evitar las mandíbulas de Cobra gigante.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Shkar 83%
+
+> 
+estado -b todo
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Shkar         80%
+Cobra gigante 48%
+Cobra gigante 81%
+
+> 
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Shkar 80%
+
+> 
+Shkar (Hlag) se va hacia este.
+
+Shkar (Hlag) llega desde el este.
+
+Shkar examina las defensas de Cobra gigante en busca de un hueco por donde hacer mucho daño con su Hacha Garra de Kraken.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Shkar 80%
+
+> 
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Shkar 80%
+
+> 
+Shkar envaina su Hacha Garra de Kraken.
+
+Shkar tensa sus músculos y golpea doblemente a Cobra gigante con un certero movimiento.
+
+
+//yo tengo una pregunta, si envaina el hacha y luego mete doblegolpe, con que se lo mete, a puños?
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Shkar 75%
+
+> 
+Shkar continúa recitando cánticos a los espíritus
+
+Shkar propina el golpe mortal a Cobra gigante.
+
+Cobra gigante cae al suelo sin vida.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Shkar 75%
+
+> 
+Shkar (Hlag) se va hacia este.
+
+estado -b x
+No se ha encontrado ningún objeto que responda al nombre shkar,omogunkeji,eleanor,szeks,szylah,dirmahin.
+
+> 
+[Szeks orbita al Limbo]
+
+Shkar (Hlag) llega desde el este.
+
+Shkar concentra sus golpes contra Cobra gigante.
+
+Shkar examina las defensas de Cobra gigante en busca de un hueco por donde hacer mucho daño con su Látigo del Fuego Imperecedero.
+
+estado -b todo
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Shkar         87%
+Cobra gigante 75%
+
+> 
+estado -b todo
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Shkar         84%
+Cobra gigante 75%
+
+> 
+estado -b todo
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Shkar         84%
+Cobra gigante 75%
+
+> 
+Shkar da un salto evitando así la cabeza de Cobra gigante.
+
+estado -b todo
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Shkar         84%
+Cobra gigante 55%
+
+> 
+Shkar tensa sus músculos y golpea doblemente a Cobra gigante con un certero movimiento.
+
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Shkar 84%
+
+> 
+Cobra gigante clava sus mandíbulas en Shkar que queda atrapadShkar.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Shkar 80%
+
+> 
+a
++ Te mueves en silencio alrededor de Shkar, tensando los músculos de tus cuartos traseros para abalanzarte sobre ella.
+
+] 
+Shkar (Hlag) se va hacia este.
+
+agacharse
+levantarse
+Shkar (Hlag) llega desde el este.
+Te agachas.
+¡Tu maniobra de abalanzarse se ve interrumpida!
+
+> Te reincorporas.
+
+> 
+Shkar examina las defensas de Cobra gigante en busca de un hueco por donde hacer mucho daño con su Látigo del Fuego Imperecedero.
+
+pc
+d
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+[Obtienes 13 puntos de experiencia]
+
+> Comienzas a formular el hechizo 'Retener persona'.
+
+> 
+Pvs: (-260) 
+
+Shkar con un acertado salto logra evitar las mandíbulas de Cobra gigante.
+
+Shkar tensa sus músculos y golpea doblemente a Cobra gigante con un certero movimiento.
+
+
+[Obtienes 7037 puntos de experiencia]
+
+Shkar propina el golpe mortal a Cobra gigante.
+
+Cobra gigante cae al suelo sin vida.
+
+Pronuncias el cántico: 'amri xeno haltem'
+¡Shkar resiste los efectos de tu hechizo!
+
+Shkar (Hlag) se va hacia este.
+
+co
+matar x
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Cocodrilo.
+
+> No existe el objetivo shkar,omogunkeji,eleanor,szeks,szylah,dirmahin o ya estás luchando con él.
+
+> 
+er
+Parece que er no produjo efecto alguno.
+
+> 
+matar x
+No existe el objetivo shkar,omogunkeji,eleanor,szeks,szylah,dirmahin o ya estás luchando con él.
+
+> 
+Pvs: (+760) 
+
+e
+Shkar (Hlag) está aquí.
+Subterráneo [s,o] 
+
+> 
+matar x
+Te encaras contra Shkar en posición de combate.
+
+> 
+g
+Comienzas a serpentear alrededor de Shkar, buscando puntos ciegos por donde puedas agarrarle con tus temibles fauces.
+
+] 
+* Shkar te lacera con mucha fuerza.
+* Shkar te quema intensamente.
+* Shkar te raja con mucha fuerza.
+
+# Perforas con increíble potencia a Shkar.
+# Envenenas con poca intensidad a Shkar.
+
+[Obtienes 45 puntos de experiencia]
+¡Tu ferocidad y hambre animal producen un mordisco crítico!
+# Hundes tus dientes en el débil cuerpo de Shkar, causándole un terrible dolor con tu mordisco crítico.
+
+[Obtienes 90 puntos de experiencia]
+Pvs: (0)
+
+c
+# ¡Alcanzas a Shkar con tu maniobra de zarandear!
+
+[Obtienes 89 puntos de experiencia]
+
+] 
+stop
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+os
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+z
+> 
+* Shkar te lacera con mucha fuerza y de forma superficial.
+* Shkar te quema intensamente.
+* Shkar te raja con mucha fuerza y de forma superficial.
+
+# Rajas a Shkar.
+# Rajas con fuerza a Shkar.
+# Envenenas con poca intensidad a Shkar.
+
+[Obtienes 44 puntos de experiencia]
+Pvs: (-100)
+[El bloqueo 'abalanzarse' termina]
++ Te preparas para ejecutar zarpazo.
+
+] 
+Shkar empieza a centrar sus golpes sobre ti.
+! Shkar se prepara para ejecutar golpecertero sobre ti.
+stop
+
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+x
+Abres un millar de bocas y blasfemas: ¡¡Ph'nglui mglw'nafh!!
+# ¡Las fauces de Nyel'phax se abren y pronuncian su blasfemia a través de ti, marcando a Shkar con su perniciosa afflicción!
+
+> 
+* Shkar te lacera con fuerza y de forma superficial.
+* Shkar te quema intensamente.
+* Shkar te raja con mucha fuerza.
+* ¡Shkar te alcanza con su maniobra de golpecertero!
+
+# Rajas a Shkar.
+# Rajas a Shkar.
+# Envenenas con poca intensidad a Shkar.
+
+[Obtienes 35 puntos de experiencia]
+# ¡Alcanzas a Shkar con tu maniobra de zarpazo!
+
+[Obtienes 99 puntos de experiencia]
+Pvs: (-668)
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Shkar 28%
+
+> 
+! Shkar se prepara para ejecutar doble golpe sobre ti.
+* Shkar te lacera violentamente.
+* Shkar te quema intensamente.
+* Shkar te lacera con mucha fuerza.
+* Shkar te quema intensamente.
+Pvs: (-648)
+
+hi
+dn
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Hiena.
+
+> # ¡Alcanzas a Shkar con tu maniobra de dentellada!
+
+[Obtienes 44 puntos de experiencia]
+
+] 
+* Shkar te lacera críticamente.
+* Shkar te quema intensamente.
+* Shkar te raja violentamente.
+
+Shkar continúa recitando cánticos a los espíritus
+Shkar te examina.
+
+# Perforas críticamente a Shkar.
+¡Tu golpe causa una profunda herida a Shkar en una mano!
+# Envenenas con poca intensidad a Shkar.
+
+[Obtienes 58 puntos de experiencia]
+Pvs: (-249)
+estado -b x
+Shkar te examina.
+
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Shkar 15%
+
+> 
+pa
+a
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Pantera.
+
+> + Comienzas a moverte tentativamente alrededor de Shkar, buscando un flanco vulnerable para abalanzarte sobre él.
+
+] 
+Shkar agita su Medallón de Makka.
+
+Shkar convulsiona espasmódicamente cuando Espíritu de Bestia Desplazadora golpea su pecho introduciéndose dentro de ella.
+
+Pvs: (-320) 
+[El bloqueo 'zarpazo' termina]
+
+Shkar empieza a formular un hechizo.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Shkar 27%
+
+> 
+o
+Portalón de las Cobras [|o|,e] 
+Dos cuerpos de Cobra.
+
+> 
+Estás persiguiendo a Shkar.
+¡Tus objetivos ya no están al alcance de tu abalanzarse!
+Pvs: (+596) 
+e
+
+Shkar (Hlag) está aquí.
+Subterráneo [s,o] 
+
+> 
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Shkar 27%
+
+> 
+os
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+> 
+Shkar (Hlag) se va hacia oeste.
+Pvs: (+400) 
+
+o
+Shkar (Hlag) está aquí.
+Portalón de las Cobras [|o|,e] 
+Dos cuerpos de Cobra.
+
+z
+> 
++ Te preparas para ejecutar zarpazo.
+
+] 
+Shkar pone Látigo del Fuego Imperecedero en Mochila sin Fondo.
+
+* Shkar te aplasta con poca fuerza.
+
+# Rajas con mucha fuerza a Shkar.
+# Rajas con mucha fuerza a Shkar.
+# Envenenas con poca intensidad a Shkar.
+
+[Obtienes 52 puntos de experiencia]
+# ¡Alcanzas a Shkar con tu maniobra de zarpazo!
+
+[Obtienes 116 puntos de experiencia]
+Pvs: (+443) 
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Shkar 0%
+
+> 
+Shkar (Hlag) se va hacia este.
+
+e
+Shkar (Hlag) está aquí.
+Subterráneo [s,o] 
+
+> 
+Shkar (Hlag) se va hacia sur.
+
+hi
+s
+Estás persiguiendo a Shkar.
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Hiena.
+
+> Shkar (Hlag) está aquí.
+Subterráneo [ar,n] 
+Charco de sangre
+
+Shkar se pincha la yugular y comienza a vaciarse la lágrima de su collar.
+
+dn
+[El bloqueo 'dentellada' termina]
+# ¡Alcanzas a Shkar con tu maniobra de dentellada!
+
+[Obtienes 64 puntos de experiencia]
+
+Shkar (Hlag) se va hacia arriba.
+
+Estás persiguiendo a Shkar.
+Pvs: (+366) 
+
+[Obtienes 258612 puntos de experiencia]
+Paras de perseguir a Shkar.
+
+bando dies
+[Bueno] Enorthus: dies
+
+> 
+ar
+Subterráneo: Rampa [ab,ar] 
+Cuerpo de Shkar.
+
+> 
+cmc
+Coges Bolsa de monedas (ciento setenta y nueve monedas de sesiom) de cuerpo de Shkar.
+
+} 
+Finalmente logras cargar Bolsa de monedas (ciento setenta y nueve monedas de sesiom).
+[El bloqueo 'abalanzarse' termina]
+
+ar
+Empiezas a trepar por la rampa, pero acabas resbalando y caes de bruces contra el suelo.
+
+
+] 
+Pvs: (-716) 
+[El bloqueo 'mordisco' termina]
+[El bloqueo 'zarpazo' termina]
+
+Pvs: (+358) 
+
+[El bloqueo 'dentellada' termina]
+
+os
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+> 
+decapitar cuerpo
+Clavas tus garras en el débil cuello de cuerpo de Shkar y con una proeza de fuerza le arrancas la cabeza con buena parte de su columna vertebral todavía unida.
+[Recibes Cabeza de shkar].
+
+----------------------------------
+// no contento con la primera ..
+
+Ajkrol te protege valientemente.
+
+hi
+dn
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Hiena.
+
+> Un aura rodeando a Iripza de Banagor brilla con fuerza abrasándote.
+# ¡Alcanzas a Iripza de Banagor con tu maniobra de dentellada!
+
+[Obtienes 36 puntos de experiencia]
+
+] 
+* Iripza de Banagor te raja con mucha fuerza.
+* Iripza de Banagor te quema con poca intensidad.
+
+Un aura rodeando a Iripza de Banagor brilla con fuerza abrasándote.
+# Perforas con mucha fuerza a Iripza de Banagor.
+Un aura rodeando a Iripza de Banagor brilla con fuerza abrasándote.
+# Envenenas con poca intensidad a Iripza de Banagor.
+
+[Obtienes 37 puntos de experiencia]
+Pvs: (+506) 
+os
+
+estado -b x
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+> * Iripza te golpea con su cola dejándote aturdido.
+
+¡El golpe de Iripza de Banagor causa una profunda herida a Ajkrol en un brazo!
+Estás aturdido debido al fuerte golpe recibido.
+> 
+estado -b x
+Estás aturdido debido al fuerte golpe recibido.
+> 
+Pvs: (-227) 
+[El bloqueo 'zarpazo' termina]
+
+estado -b x
+Estás aturdido debido al fuerte golpe recibido.
+> 
+gg
+Dejas de sostener tu Espolón enmohecido de Constructo.
+
+Empuñas tu Espolón enmohecido de Constructo.
+
+z
+} 
+Estás intentando equilibrar el Espolón enmohecido de Constructo.
+Usa el comando abortar para finalizar la acción prematuramente.
+
+} 
+Finalmente equilibras el Espolón enmohecido de Constructo.
++ Te preparas para ejecutar zarpazo.
+
+] Un aura rodeando a Iripza de Banagor brilla con fuerza abrasándote.
+# Rajas con fuerza a Iripza de Banagor.
+Un aura rodeando a Iripza de Banagor brilla con fuerza abrasándote.
+# Rajas con fuerza a Iripza de Banagor.
+Un aura rodeando a Iripza de Banagor brilla con fuerza abrasándote.
+# Envenenas con poca intensidad a Iripza de Banagor.
+
+[Obtienes 43 puntos de experiencia]
+Un aura rodeando a Iripza de Banagor brilla con fuerza abrasándote.
+# ¡Alcanzas a Iripza de Banagor con tu maniobra de zarpazo!
+
+[Obtienes 118 puntos de experiencia]
+Pvs: (-7) 
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Iripza de Banagor 2%
+
+> 
+estado -b todo
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Ajkrol            17%
+Iripza de Banagor 2%
+
+> 
+Ajkrol te protege valientemente.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Iripza de Banagor 2%
+
+> 
+Un aura rodeando a Iripza de Banagor brilla con fuerza abrasándote.
+# Rajas con fuerza a Iripza de Banagor.
+Un aura rodeando a Iripza de Banagor brilla con fuerza abrasándote.
+# Rajas con fuerza a Iripza de Banagor.
+Un aura rodeando a Iripza de Banagor brilla con fuerza abrasándote.
+# Envenenas a Iripza de Banagor.
+
+[Obtienes 49 puntos de experiencia]
+Pvs: (+282) 
+
+[Obtienes 48342 puntos de experiencia]
+Propinas el golpe mortal a Iripza de Banagor.
+
+Iripza de Banagor cae al suelo sin vida.
+
+estado -b todo
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Ajkrol 15%
+
+> 
+pc
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+> 
+Pvs: (-660) 
+[El bloqueo 'abalanzarse' termina]
+
+Shkar (Hlag) llega desde el sudoeste.
+1 jakrol
+
+El objetivo jakrol no está aquí ahora mismo.
+
+> 
+matar x
+Te encaras contra Shkar en posición de combate.
+
+> 
+# Aplastas a Shkar.
+# Laceras con mucha fuerza a Shkar.
+
+[Obtienes 21 puntos de experiencia]
+
+[Obtienes 13 puntos de experiencia]
+Pvs: (+506) 
+[El bloqueo 'dentellada' termina]
+
+Shkar empieza a centrar sus golpes sobre ti.
+! Shkar se prepara para ejecutar golpecertero sobre ti.
+
+so
+Palacio: Pasillo hacia la capilla [-ne-,|s|] 
+Charco de sangre.
+Dos Dagas.
+Ajkrol te sigue.
+
+> 
+Shkar (Hlag) llega desde el noreste.
+
+[El bloqueo 'mordisco' termina]
+
+pc
+No estás afectado por el polimorfismo para necesitar terminarlo.
+
+d
+> * Shkar te lacera con mucha fuerza.
+* Shkar te quema.
+* Shkar te lacera con fuerza.
+* Shkar te raja violentamente.
+* ¡Shkar te alcanza con su maniobra de golpecertero!
+Comienzas a formular el hechizo 'Retener persona'.
+
+> 
+Estás realizando los movimientos de un hechizo, tus manos están ocupadas.
+
+Pronuncias el cántico: 'amri xeno haltem'
+¡Shkar resiste los efectos de tu hechizo!
+Pvs: (-1022) 
+[El bloqueo 'zarpazo' termina]
+
+! Shkar se prepara para ejecutar doble golpe sobre ti.
+* Shkar te lacera con mucha fuerza.
+* Shkar te quema.
+* Shkar te lacera violentamente.
+* Shkar te quema.
+
+Shkar empieza a formular un hechizo.
+
+Pvs: (-685) 
+
+ne
+Palacio: Capilla [-so-] 
+Hacha Rúnica, cuerpo de Reighar y cuerpo de Iripza.
+Ajkrol te sigue.
+
+> 
+Estás persiguiendo a Shkar.
+Pvs: (+478) 
+
+Shkar (Hlag) llega desde el sudoeste.
+
+os
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+> ! Shkar se prepara para ejecutar golpecertero sobre ti.
+Pvs: (+660) 
+
+cn
+Empiezas a centrar tus golpes sobre Shkar.
+
+z
+> + Te preparas para ejecutar zarpazo.
+
+] 
+* Shkar te lacera con mucha fuerza.
+* Shkar te quema intensamente.
+* Logras parar el ataque de Shkar.
+* ¡Shkar te alcanza con su maniobra de golpecertero!
+
+# Rajas con mucha fuerza a Shkar.
+# Rajas con fuerza a Shkar.
+# Envenenas críticamente a Shkar.
+
+[Obtienes 60 puntos de experiencia]
+# ¡Alcanzas a Shkar con tu maniobra de zarpazo!
+
+[Obtienes 108 puntos de experiencia]
+Pvs: (-449) 
+
+x
+Abres un millar de bocas y blasfemas: ¡¡Ph'nglui mglw'nafh!!
+# ¡Las fauces de Nyel'phax se abren y pronuncian su blasfemia a través de ti, marcando a Shkar con su perniciosa afflicción!
+
+> 
+! Shkar se prepara para ejecutar doble golpe sobre ti.
+* Shkar te lacera violentamente.
+* Shkar te quema críticamente.
+* Shkar te lacera con fuerza y de forma superficial.
+* Shkar te quema intensamente.
+
+stop
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+Pvs: (-762) 
+Shkar te examina.
+
+co
+g
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Cocodrilo.
+
+> Comienzas a serpentear alrededor de Shkar, buscando puntos ciegos por donde puedas agarrarle con tus temibles fauces.
+
+] 
+* Shkar te lacera con fuerza.
+* Shkar te quema intensamente.
+* Shkar te raja críticamente.
+
+# Perforas con increíble potencia a Shkar.
+# Envenenas con poca intensidad a Shkar.
+
+[Obtienes 45 puntos de experiencia]
+Tu poder mágico vuelve a su estado normal.
+¡Tu ferocidad y hambre animal producen un mordisco crítico!
+# Hundes tus dientes en el débil cuerpo de Shkar, causándole un terrible dolor con tu mordisco crítico.
+
+[Obtienes 91 puntos de experiencia]
+Pvs: (+28) 
+
+c
+# ¡Alcanzas a Shkar con tu maniobra de zarandear!
+
+[Obtienes 91 puntos de experiencia]
+
+] 
+Ajkrol te protege valientemente.
+
+stop
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+pa
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Pantera.
+
+> 
+cn
+a
+Ya estás centrando tus golpes sobre Shkar.
+
+> + Comienzas a moverte tentativamente alrededor de Shkar, buscando un flanco vulnerable para abalanzarte sobre él.
+
+] 
+* Shkar te lacera críticamente.
+* Shkar te quema intensamente.
+* Shkar te raja violentamente.
+
+# Rajas a Shkar.
+# Perforas a Shkar.
+# Envenenas con poca intensidad a Shkar.
+
+[Obtienes 33 puntos de experiencia]
+# ¡Te abalanzas sobre un costado de Shkar, destrozándole con tres ataques de tus Garras y dientes!
+
+[Obtienes 112 puntos de experiencia]
+Pvs: (-768) 
+[El bloqueo 'zarpazo' termina]
+
+! Shkar se prepara para ejecutar golpecertero sobre ti.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Shkar 9%
+
+> 
+stop
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+Shkar te examina.
+
+hi
+dn
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Hiena.
+
+> # ¡Alcanzas a Shkar con tu maniobra de dentellada!
+
+[Obtienes 49 puntos de experiencia]
+
+] 
+* Shkar te lacera violentamente y de forma superficial.
+* Shkar te quema intensamente.
+* Shkar te raja violentamente.
+* ¡Shkar te alcanza con su maniobra de golpecertero!
+
+# Perforas violentamente a Shkar.
+# Envenenas con poca intensidad a Shkar.
+
+[Obtienes 44 puntos de experiencia]
+Pvs: (-545) 
+
+Shkar se agita violentamente mientras Espíritu de El Balrog brota de su cuerpo.
+
+El espíritu del ancestro Oso abandona el cuerpo de Shkar, que mira entristecida cómo su musculatura vuelve a ser lo que era.
+
+[Cruzada_eralie] Palafrenero de la Cruzada: ¡Enorthus ha asesinado a shkar!
+[Tu estatus con Thorin, Veleiron, Poldarn, Eldor y Takome ha aumentado]
+
+[Obtienes 344117 puntos de experiencia]
+Propinas el golpe mortal a Shkar.
+
+Shkar ha muerto.
+
+Shkar cae al suelo sin vida.
+
+Shkar da un grito desgarrador antes de que su espíritu abandone Eirea.
+
+cmc
+Coges Bolsa de monedas (once monedas de plata) de cuerpo de Shkar.
+Nada que coger.
+
+} 
+Finalmente logras cargar Bolsa de monedas (once monedas de plata).
+
+PD: con efigie y todo para que me resista dos reteneres jajaja.

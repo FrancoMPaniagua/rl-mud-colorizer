@@ -1,0 +1,346 @@
+/**
+ * Application Controller for Reinos de Leyenda MUD Log Colorizer
+ */
+
+document.addEventListener('DOMContentLoaded', () => {
+    // Check rules
+    if (!window.COLORIZER_RULES) {
+        console.error("Rules not loaded. Make sure rules.js is included.");
+        showToast("Error: No se pudieron cargar las reglas de color.", true);
+        return;
+    }
+
+    const colorizer = new RLColorizerJS(window.COLORIZER_RULES);
+
+    // DOM Elements
+    const inputTextarea = document.getElementById('input-text');
+    const previewContainer = document.getElementById('preview-container');
+    const rawHtmlTextarea = document.getElementById('raw-html-text');
+    
+    const btnColorize = document.getElementById('btn-colorize');
+    const btnCopy = document.getElementById('btn-copy');
+    const btnDownload = document.getElementById('btn-download');
+    const btnExample = document.getElementById('btn-example');
+    const btnClear = document.getElementById('btn-clear');
+    const fileInput = document.getElementById('file-input');
+    const btnUpload = document.getElementById('btn-upload');
+
+    const tabPreview = document.getElementById('tab-preview');
+    const tabHtml = document.getElementById('tab-html');
+
+    // Stats Elements
+    const statInputLines = document.getElementById('stat-input-lines');
+    const statInputChars = document.getElementById('stat-input-chars');
+    const statOutputLines = document.getElementById('stat-output-lines');
+    const statOutputTags = document.getElementById('stat-output-tags');
+
+    const toast = document.getElementById('toast');
+    const inputPanel = document.getElementById('input-panel');
+
+    let currentHtmlOutput = '';
+
+    // Sample RL Demo Log
+    const SAMPLE_LOG = `> ojear
+Árbol: Entre las ramas
+Sowy (Melf) está aquí.
+Zeh (Mdro) está aquí.
+Cuerpo de Jabali.
+
+> formular vigor natural
+Reúnes las fuerzas del animal de tu interior para formular el hechizo 'Vigor natural'.
+Pronuncias el cántico: 'natura vigoris fortis'
+Terminas tu hechizo 'Vigor natural' y te sientes lleno de una energía inagotable.
+
+Pvs: 3200/3200 Pe: 450/450
+Gurlen se va --> S <--.
+
+! Sowy se prepara para ejecutar tajar sobre ti.
+> ! Sowy se prepara para ejecutar golpecertero sobre ti.
+
+* ¡Descubres a Gurlen intentando apuñalarte! Consigues esquivar la maniobra por los pelos.
+* Gurlen te intenta perforar en una pierna, pero logras esquivar su ataque.
+
+> # Perforas con increíble potencia a Sowy.
+# Sowy consigue esquivar tu ataque.
+# ¡Descargas una furia de golpes contra Zeh, pero éste consigue protegerse mágicamente de tres!
+# Enfermas con poca intensidad a Zeh.
+
+[Obtienes 205 puntos de experiencia]
+Pvs: 3050/3200 (-150) Pe: 410/450 (-40)
+
+# ¡El cielo ruge cuando invocas un relámpago que cae sobre Zeh!
+# 10 misiles mágicos surgen de tus dedos e impactan infaliblemente sobre Sowy.
+
+[Obtienes el logro 'La resistencia es futil' (pk)]
+[Obtienes 18500 puntos de experiencia]
+[Obtienes 35 puntos de gloria]
+[Grorgh orbita al Limbo]
+Propinas el golpe mortal a Sowy.
+`;
+
+    // Process & Colorize Log
+    function processLog() {
+        const text = inputTextarea.value;
+        updateInputStats(text);
+
+        if (!text.trim()) {
+            previewContainer.innerHTML = '<span style="color: #6e7681; font-style: italic;">El log colorizado se mostrará aquí...</span>';
+            rawHtmlTextarea.value = '';
+            currentHtmlOutput = '';
+            updateOutputStats(0, 0);
+            return;
+        }
+
+        const htmlResult = colorizer.colorizeText(text);
+        currentHtmlOutput = htmlResult;
+
+        // Render preview (the outer wrapper is the div container)
+        previewContainer.innerHTML = htmlResult;
+        rawHtmlTextarea.value = htmlResult;
+
+        // Count output stats
+        const lineCount = (htmlResult.match(/<span/g) || []).length;
+        const totalTags = (htmlResult.match(/<\/span>/g) || []).length;
+        updateOutputStats(lineCount, totalTags);
+    }
+
+    function updateInputStats(text) {
+        if (!text) {
+            statInputLines.textContent = '0';
+            statInputChars.textContent = '0';
+            return;
+        }
+        const lines = text.split(/\r?\n/).length;
+        const chars = text.length;
+        statInputLines.textContent = lines.toLocaleString();
+        statInputChars.textContent = chars.toLocaleString();
+    }
+
+    function updateOutputStats(styledLines, tagsCount) {
+        statOutputLines.textContent = styledLines.toLocaleString();
+        statOutputTags.textContent = tagsCount.toLocaleString();
+    }
+
+    const statusAnnouncer = document.getElementById('status-announcer');
+
+    function announce(message, isError = false) {
+        if (statusAnnouncer) {
+            statusAnnouncer.textContent = '';
+            setTimeout(() => {
+                statusAnnouncer.textContent = message;
+            }, 50);
+        }
+        showToast(message, isError);
+    }
+
+    function showToast(message, isError = false) {
+        toast.textContent = message;
+        toast.style.backgroundColor = isError ? 'var(--accent-red)' : 'var(--accent-green)';
+        toast.classList.add('show');
+        setTimeout(() => {
+            toast.classList.remove('show');
+        }, 3200);
+    }
+
+    // Copy to Clipboard
+    async function copyToClipboard() {
+        if (!currentHtmlOutput) {
+            announce("Primero ingresa y coloriza un log.", true);
+            return;
+        }
+
+        try {
+            if (navigator.clipboard && navigator.clipboard.writeText) {
+                await navigator.clipboard.writeText(currentHtmlOutput);
+            } else {
+                // Fallback for older browsers
+                rawHtmlTextarea.style.display = 'block';
+                rawHtmlTextarea.select();
+                document.execCommand('copy');
+                if (tabPreview.classList.contains('active')) {
+                    rawHtmlTextarea.style.display = 'none';
+                }
+            }
+            announce("¡HTML copiado al portapapeles! Listo para pegar en el formulario de Deathlogs.");
+        } catch (err) {
+            console.error("Clipboard error:", err);
+            announce("Error al copiar al portapapeles.", true);
+        }
+    }
+
+    // Download HTML File
+    function downloadHtmlFile() {
+        if (!currentHtmlOutput) {
+            announce("Primero ingresa y coloriza un log.", true);
+            return;
+        }
+
+        const fullHtml = `<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Reinos de Leyenda - Deathlog</title>
+<style>
+body { background: #000000; margin: 0; padding: 20px; font-family: 'Bitstream Vera Sans Mono', 'Courier New', monospace; font-size: 13px; color: #cccccc; }
+pre { font-family: inherit; margin: 0; }
+</style>
+</head>
+<body bgcolor="black">
+<pre>
+${currentHtmlOutput}
+</pre>
+</body>
+</html>`;
+
+        const blob = new Blob([fullHtml], { type: 'text/html;charset=utf-8' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        const timestamp = new Date().toISOString().slice(0, 10);
+        a.href = url;
+        a.download = `rl_log_${timestamp}.html`;
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+        announce("Archivo HTML descargado con éxito.");
+    }
+
+    // Accessible Tab Switching (W3C WAI-ARIA Tabs pattern)
+    function selectTab(targetTab) {
+        if (targetTab === 'preview') {
+            tabPreview.classList.add('active');
+            tabPreview.setAttribute('aria-selected', 'true');
+            tabPreview.setAttribute('tabindex', '0');
+
+            tabHtml.classList.remove('active');
+            tabHtml.setAttribute('aria-selected', 'false');
+            tabHtml.setAttribute('tabindex', '-1');
+
+            previewContainer.style.display = 'block';
+            rawHtmlTextarea.style.display = 'none';
+            announce("Vista de terminal visual seleccionada.");
+        } else {
+            tabHtml.classList.add('active');
+            tabHtml.setAttribute('aria-selected', 'true');
+            tabHtml.setAttribute('tabindex', '0');
+
+            tabPreview.classList.remove('active');
+            tabPreview.setAttribute('aria-selected', 'false');
+            tabPreview.setAttribute('tabindex', '-1');
+
+            previewContainer.style.display = 'none';
+            rawHtmlTextarea.style.display = 'block';
+            announce("Vista de código HTML fuente seleccionada.");
+        }
+    }
+
+    tabPreview.addEventListener('click', () => selectTab('preview'));
+    tabHtml.addEventListener('click', () => selectTab('html'));
+
+    // Keyboard Arrow navigation between tabs
+    [tabPreview, tabHtml].forEach(tabBtn => {
+        tabBtn.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowRight' || e.key === 'ArrowLeft') {
+                e.preventDefault();
+                const next = (e.target === tabPreview) ? 'html' : 'preview';
+                selectTab(next);
+                (next === 'preview' ? tabPreview : tabHtml).focus();
+            }
+        });
+    });
+
+    // Event Listeners
+    btnColorize.addEventListener('click', () => {
+        processLog();
+        const lines = (currentHtmlOutput.match(/<span/g) || []).length;
+        announce(`Log colorizado con éxito. ${lines} líneas preparadas para Deathlogs.`);
+    });
+
+    btnCopy.addEventListener('click', copyToClipboard);
+
+    btnDownload.addEventListener('click', downloadHtmlFile);
+
+    btnExample.addEventListener('click', () => {
+        inputTextarea.value = SAMPLE_LOG;
+        processLog();
+        announce("Log de ejemplo cargado y colorizado con éxito.");
+    });
+
+    btnClear.addEventListener('click', () => {
+        inputTextarea.value = '';
+        processLog();
+        announce("Editor limpiado.");
+        inputTextarea.focus();
+    });
+
+    // Keyboard shortcut: Ctrl + Enter to colorize
+    document.addEventListener('keydown', (e) => {
+        if ((e.ctrlKey || e.metaKey) && e.key === 'Enter') {
+            e.preventDefault();
+            processLog();
+        }
+    });
+
+    // Real-time stats & debounce colorize for smooth UX
+    let debounceTimer;
+    inputTextarea.addEventListener('input', () => {
+        updateInputStats(inputTextarea.value);
+        clearTimeout(debounceTimer);
+        debounceTimer = setTimeout(() => {
+            processLog();
+        }, 300);
+    });
+
+    // File Upload Handler
+    btnUpload.addEventListener('click', () => {
+        fileInput.click();
+    });
+
+    fileInput.addEventListener('change', (e) => {
+        const file = e.target.files[0];
+        if (!file) return;
+
+        const reader = new FileReader();
+        reader.onload = (evt) => {
+            inputTextarea.value = evt.target.result;
+            processLog();
+                announce(`Archivo "${file.name}" cargado con éxito.`);
+        };
+        reader.readAsText(file);
+    });
+
+    // Drag and Drop support
+    ['dragenter', 'dragover'].forEach(name => {
+        inputPanel.addEventListener(name, (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            inputPanel.classList.add('drag-over');
+        });
+    });
+
+    ['dragleave', 'drop'].forEach(name => {
+        inputPanel.addEventListener(name, (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            inputPanel.classList.remove('drag-over');
+        });
+    });
+
+    inputPanel.addEventListener('drop', (e) => {
+        const dt = e.dataTransfer;
+        const file = dt.files[0];
+        if (file) {
+            const reader = new FileReader();
+            reader.onload = (evt) => {
+                inputTextarea.value = evt.target.result;
+                processLog();
+                    announce(`Archivo "${file.name}" cargado con éxito.`);
+            };
+            reader.readAsText(file);
+        }
+    });
+
+    // Initial load: show sample
+    inputTextarea.value = SAMPLE_LOG;
+    processLog();
+});

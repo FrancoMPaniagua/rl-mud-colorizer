@@ -1,0 +1,4507 @@
+Para limpiar el prompt del log, ChatGPT que es un crack me ha hecho un script, creo que funciona bien... y si hay errores ya sabeis porque es.
+Combate subido entero, sin eliminar ninguna parte.
+
+
+go
+
+] 
+Esclava Minotauro y Esclavo Humano están aquí.
+Cultivos Pantanosos [n,o,e,s] 
+
+[Obtienes 2 puntos de experiencia]
+
+go
+
+] 
+Cultivos Pantanosos [n,o,e,s] 
+
+[Obtienes 2 puntos de experiencia]
+
+go
+Esclava Minotauro está aquí.
+Cultivos Pantanosos [n,ne,o,e,se] 
+
+[Obtienes 2 puntos de experiencia]
+
+go
+Cultivos Pantanosos [n,o,e] 
+
+[Obtienes 2 puntos de experiencia]
+
+go
+Cultivos Pantanosos [n,e] 
+
+[Obtienes 2 puntos de experiencia]
+
+gn
+Esclava Humana y dos Esclavos Minotauro están aquí.
+Cultivos Pantanosos [e,s] 
+
+[Obtienes 2 puntos de experiencia]
+
+ge
+Esclava Humana, Esclava Goblin y Esclavo Humano están aquí.
+Cultivos Pantanosos [n,o,e,s] 
+
+[Obtienes 2 puntos de experiencia]
+
+ge
+Esclava Humana, Esclavo Goblin y Esclava Goblin están aquí.
+Cultivos Pantanosos [n,o,e,s] 
+
+[Obtienes 2 puntos de experiencia]
+
+ge
+Droock (Hlag) está aquí.
+Esclavo Minotauro y Guardia Lagarto están aquí.
+Cultivos Pantanosos [n,o,e,so,s] 
+Tres Hoces y tres cuerpos de Esclavo.
+
+[Obtienes 2 puntos de experiencia]
+
+Droock raja con increíble potencia a Esclavo Minotauro.
+
+Droock raja violentamente a Esclavo Minotauro.
+
+Droock propina el golpe mortal a Esclavo Minotauro.
+
+Esclavo Minotauro cae al suelo sin vida.
+
+Droock coge Bolsa de monedas (nueve monedas de maiz) de cuerpo de Esclavo.
+
+Droock coge Bolsa de monedas (ocho monedas de maiz) de cuerpo de Esclavo.
+
+Droock coge Bolsa de monedas (cinco monedas de maiz) de cuerpo de Esclavo.
+
+Droock coge Bolsa de monedas (diez monedas de maiz) de cuerpo de Esclavo.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Droock 98%
+
+Pvs: 4921/4921 (0) Pe: 1406/1408 (-2)
+
+Droock entierra cuatro cuerpos de Esclavo bajo tierra.
+
+Droock (Hlag) se va hacia oeste.
+
+ge
+Cultivos Pantanosos [n,o,e,s] 
+Tres Hoces.
+
+[Obtienes 2 puntos de experiencia]
+
+ge
+Cultivos Pantanosos [no,n,o,e,s,se] 
+Cuatro Hoces.
+
+[Obtienes 2 puntos de experiencia]
+
+cc
+Empiezas a buscar un buen escondite por la zona.
+
+Finalmente logras colocarte y te escondes perfectamente.
+
+chat pero con alguna aplicacion para remapear teclas o como xd
+[Chat] Enorthus: pero con alguna aplicacion para remapear teclas o como xd
+
+[Odihbyr Baelzhemon orbita al Limbo]
+
+chat o bueno igual ni se entero
+[Chat] Enorthus: o bueno igual ni se entero
+
+chat xd
+[Chat] Enorthus: xd
+
+[Zaycael orbita a Eirea]
+
+ge
+Cultivos Pantanosos [n,o,e,s] 
+
+[Obtienes 20 puntos de experiencia]
+
+[Obtienes 2 puntos de experiencia]
+
+gs
+
+] Esclava Humana, dos Esclavos Goblin y Esclavo Humano están aquí.
+Cultivos Pantanosos [no,n,o,e,so] 
+
+[Obtienes 2 puntos de experiencia]
+
+go
+
+] 
+Esclavo Minotauro está aquí.
+Cultivos Pantanosos [n,o,e,s] 
+
+[Obtienes 2 puntos de experiencia]
+
+go
+
+] 
+[Chat] Zaycael: Acechando el Miedo:: si loco
+
+Esclava Minotauro y Esclavo Humano están aquí.
+Cultivos Pantanosos [n,o,e,s] 
+
+[Obtienes 2 puntos de experiencia]
+
+go
+
+] 
+Cultivos Pantanosos [n,o,e,s] 
+
+[Obtienes 2 puntos de experiencia]
+
+go
+Esclava Minotauro está aquí.
+Cultivos Pantanosos [n,ne,o,e,se] 
+
+[Obtienes 2 puntos de experiencia]
+
+go
+Cultivos Pantanosos [n,o,e] 
+
+[Obtienes 2 puntos de experiencia]
+
+[Chat] Zaycael: Acechando el Miedo:: ahora ya puedo hasta sigilar xd
+go
+
+] 
+Cultivos Pantanosos [n,e] 
+
+[Obtienes 2 puntos de experiencia]
+
+gn
+
+] 
+Esclava Humana y dos Esclavos Minotauro están aquí.
+Cultivos Pantanosos [e,s] 
+
+[Obtienes 2 puntos de experiencia]
+
+[Chat] Trotix: total para jugar el barbaro q ni cabalga ni sigila
+
+ge
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,o,e,s] 
+Tres Hoces.
+
+[Obtienes 2 puntos de experiencia]
+
+go
+Esclava Humana y dos Esclavos Minotauro están aquí.
+Cultivos Pantanosos [e,s] 
+
+[Obtienes 2 puntos de experiencia]
+
+Droock (Hlag) llega desde el este.
+
+Droock exclama en dendrita: grwuuoooooooorgrgr!
+
+Esclava Humana golpea a Droock en el pecho sin producir ningún daño.
+
+Droock logra parar críticamente el ataque de Esclavo Minotauro.
+
+Esclavo Minotauro golpea a Droock en el pecho sin producir ningún daño.
+
+ge
+Cultivos Pantanosos [n,o,e,s] 
+Tres Hoces.
+
+[Obtienes 2 puntos de experiencia]
+
+gn
+
+] Cultivos Pantanosos [n,e,s] 
+
+[Obtienes 2 puntos de experiencia]
+
+gn
+
+] 
+Cultivos Pantanosos [n,e,s,se] 
+Dos Hoces.
+
+[Obtienes 2 puntos de experiencia]
+
+gn
+
+] Cultivos Pantanosos [n,o,e,s] 
+Tres Hoces.
+
+[Obtienes 2 puntos de experiencia]
+
+pc
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+Pvs: 4791/4791 (-130) Pe: 1407/1408 (-1)
+
+formular vigor natural
+Comienzas a formular el hechizo 'Vigor natural'.
+
+cobardia 0
+Estás en modo valiente, ¡Dispuesto a enfrentarte a cualquier reto hasta la muerte!
+
+Reúnes las fuerzas del animal de tu interior para formular el hechizo 'Vigor natural'.
+
+[Chat] Zaycael: Acechando el Miedo:: cabron xd
+
+nick yy droock
+Añadiendo nombre corto yy como droock.
+
+Reúnes las fuerzas del animal de tu interior para formular el hechizo 'Vigor natural'.
+
+nick yy droock
+Nombre corto yy cambiado de droock a droock.
+
+nick yy droock
+Nombre corto yy cambiado de droock a droock.
+
+> Reúnes las fuerzas del animal de tu interior para formular el hechizo 'Vigor natural'.
+
+nick yy droock
+Nombre corto yy cambiado de droock a droock.
+
+Dices en adurn: 'raalander natura temporis'
+Terminas tu hechizo 'Vigor natural' y te sientes lleno de una energía inagotable. Crees que podrías correr hasta el fin del mundo sin cansarte.
+[Tu fe en Eralie ha disminuído en -3 puntos]
+
+formular sutileza del metamorfo
+Comienzas a formular el hechizo 'Sutileza del metamorfo'.
+
+[Chat] Droock: total para visitar soele que mas le da
+
+cobardia 0
+Hace mucho tiempo que has hecho uso de tu valor para abandonar la cobardía, ¡tendrás que esperar a recuperar tu fuego interior!
+
+Reúnes las fuerzas del animal de tu interior para formular el hechizo 'Sutileza del metamorfo'.
+
+[Chat] Droock: XDDDD
+
+Dices en adurn: 'maxima corpuus inmander natura'
+Tu hechizo de 'Sutileza del metamorfo' termina y sientes al instante todas las sensaciones que recorren cada nervio, cada centímetro interno o externo de tu ser. Tanta
+información te abruma por unos momentos, pero pronto eres capaz de dominarla.
+
+formular canto:enorthus
+Comienzas a formular el hechizo 'Canto'.
+
+Pronuncias el cántico: 'acerbace unos baletis'
+Elevas tus rezos a Eralie entonando tu nombre para atraer su favor, mientras una aura azul empieza a envolverte de pies a cabeza.
+
+[Obtienes 40 puntos de experiencia]
+
+gra
+Tus reflejos y movimientos ya han sido bendecidos con un hechizo de gracia felina.
+
+ben
+Comienzas a formular el hechizo 'Bendicion'.
+
+Pronuncias el cántico: 'bleiso umanos'
+Rezas una plegaria a Eralie y sientes como este te otorga su bendición.
+
+[Obtienes 42 puntos de experiencia]
+
+gra
+Tus reflejos y movimientos ya han sido bendecidos con un hechizo de gracia felina.
+
+pa
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Pantera.
+
+Pvs: 4921/4921 (+130) Pe: 1370/1408 (-38)
+
+quitarse nerbrad
+Te quitas la Capa Sangrienta de Nerbrad.
+
+ge
+Cultivos Pantanosos [n,o,e,s] 
+
+[Obtienes 2 puntos de experiencia]
+
+[El bloqueo 'Canto' termina]
+
+nick yy
+El nickname yy equivale a droock.
+
+gs
+Cultivos Pantanosos [n,ne,o,e,s,se] 
+Hoz.
+
+[Obtienes 2 puntos de experiencia]
+
+gse
+Esclava Humana holgazana y Esclava Goblin están aquí.
+Cultivos Pantanosos [no,n,o,e,s] 
+
+[Obtienes 2 puntos de experiencia]
+
+ge
+Cultivos Pantanosos [n,o,e,s,se] 
+Dos Hoces.
+
+[Obtienes 2 puntos de experiencia]
+
+[El bloqueo 'Bendicion' termina]
+
+quitarse nerbrad
+No estás equipado con nerbrad.
+
+gs
+Cultivos Pantanosos [n,o,e,s] 
+Tres Hoces.
+
+[Obtienes 2 puntos de experiencia]
+
+gs
+
+] 
+Esclava Minotauro y Esclavo Humano están aquí.
+Cultivos Pantanosos [n,o,e,s] 
+
+[Obtienes 2 puntos de experiencia]
+
+> [El bloqueo 'Sutileza del metamorfo' termina]
+
+Droock (Hlag) llega desde el oeste.
+
+Droock empieza a inspeccionar la zona detenidamente.
+
+Droock exclama en dendrita: grwuuoooooooorgrgr!
+
+gn
+Cultivos Pantanosos [n,o,e,s] 
+Tres Hoces.
+
+[Obtienes 2 puntos de experiencia]
+
+ge
+
+] 
+Cultivos Pantanosos [no,n,o,e,s,se] 
+Cuatro Hoces.
+
+[Obtienes 2 puntos de experiencia]
+
+ge
+Cultivos Pantanosos [n,o,e,s] 
+
+[Obtienes 2 puntos de experiencia]
+
+stop
+Cola de comandos borrada ('peleas parar' detendrá los combates si es lo que querías).
+> 
+e
+
+e
+] 
+] 
+Cultivos Pantanosos [n,ne,o,e,s] 
+Tres Hoces.
+
+] Cultivos Pantanosos [n,ne,o,e,so,s] 
+Cuatro Hoces.
+
+e
+
+] 
+Cultivos Pantanosos [no,n,o,e,s] 
+
+e
+Cultivos Pantanosos [n,ne,o,s,se] 
+Hoz.
+
+e
+Parece que este no produjo efecto alguno.
+
+gse
+Esclavo Minotauro está aquí.
+Cultivos Pantanosos [no,o] 
+
+[Obtienes 2 puntos de experiencia]
+
+[El bloqueo 'Vigor natural' termina]
+
+gno
+Cultivos Pantanosos [n,ne,o,s,se] 
+Hoz.
+
+[Obtienes 2 puntos de experiencia]
+
+ne
+Esclavo Minotauro, dos Esclavos Goblin y Esclavo Humano están aquí.
+Cultivos Pantanosos [no,o,e,so] 
+
+pc
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+enr
+Comienzas a formular el hechizo 'Enredar'.
+
+Pvs: 4791/4791 (-130) Pe: 1374/1408 (+4)
+
+Pronuncias el cántico: 'enredus ogjta'
+
+¡Las plantas y árboles de la zona se enredan alrededor de todo aquello que encuentran a su lado!
+
+[Obtienes 306 puntos de experiencia]
+[Tu fe en Eralie ha disminuído en -3 puntos]
+
+mo
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Mono.
+
+so
+Cultivos Pantanosos [n,ne,o,s,se] 
+Hoz.
+
+Pvs: 4661/4661 (-130) Pe: 1358/1408 (-16)
+
+pa
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Pantera.
+
+gse
+Esclavo Minotauro está aquí.
+Cultivos Pantanosos [no,o] 
+
+[Obtienes 2 puntos de experiencia]
+
+Pvs: 4921/4921 (+260) Pe: 1386/1408 (+28)
+
+go
+Esclava Goblin está aquí.
+Cultivos Pantanosos [n,o,e,so] 
+
+[Obtienes 2 puntos de experiencia]
+
+c
+Parece que zarandear no produjo efecto alguno.
+
+go
+Esclava Minotauro, Esclavo Minotauro y dos Esclavos Humanos están aquí.
+Cultivos Pantanosos [n,o,e,so] 
+
+[Obtienes 2 puntos de experiencia]
+
+cc
+Empiezas a buscar un buen escondite por la zona.
+
+i
+Mano derecha:   Espolón enmohecido de Constructo.
+Mano izquierda: Reliquia Divina de la Persistencia.
+Usando: Hoz Dorada, Pin 'Lágrima de Gedeón', Medallón del Agua y Pin 'Yo escalé el Mallorn'.
+Equipado:
+ * Cabeza:  Capucha de Basilisco.
+ * Orejas:  Esquirla Cósmica.
+ * Cuello:  Gargantilla Lernea, Talismán de la Ferocidad, Fauces de Nyel'phax y Colgante del Oso.
+ * Hombros: Capa Sangrienta de Nerbrad.
+ * Pecho:   Cota Ligera de Mithril.
+ * Espalda: Macuto de la Pericia.
+ * Brazos:  Vendaje Fúnebre y Brazalete de piel de lobo (izquierdo).
+ * Manos:   Guante de Ayoltar y Guante Espectral.
+ * Dedos:   Rúbrica de Nyel'phax y Anillo del Héroe de la Luz.
+ * Cintura: Cinturón Prisma y Cinturón de Cirdan.
+ * Piernas: Grebas Divinas de la Cólera.
+ * Pies:    Botas del Desliz Silencioso.
+Cargando: Mochila sin Fondo, Faja Solar, Garfio Herrumbroso, Orbe del Hechicero Antiguo (cargado), Hombreras del Coloso, Grebas del Restablecimiento, Cetro del Presbítero,
+Cuchillo Afilado, Brazalete de escamas de Dragón, Mazo de Cartas, Cinta de Grifo, Arete de la Vicaria Minae, Corona suprema del Bien, Vendas [36], Gargantilla de la Ilustración,
+Sextante, Bozal Espinado, Peto de Piel de Balrog, Botas de Cuero de Dragón Negro, Efigie del Impedimento, Báculo de los tres elementos y Botas de cuero estigio.
+En este momento llevas encima 48 oros, 1549 sesioms, 26 olotas, 39 cobres, 26 platinos, 2 platas, 83 jinnys y 10 khaldans.
+
+q
+Parece que q no produjo efecto alguno.
+
+nick yy
+El nickname yy equivale a droock.
+
+Finalmente logras colocarte y te escondes perfectamente.
+
+cc
+Empiezas a buscar un buen escondite por la zona.
+
+Esclava Minotauro levanta un pesado saco de grano y lo esparce por los alrededores.
+
+Finalmente logras colocarte y te escondes perfectamente.
+
+sc
+Pvs: 4921(4921)  Pe: 1397(1408)  Fe: 95(210)  Po: 0  Xp: 15968598  Psoc: 1000
+
+Esclavo Humano siega maíz sin parar ni mirar hacia los lados.
+
+acechar o
+No sabes aún como has llegado a una zona mucho más despejada de estos poblados cultivos ya que con tu sentido de la orientación perdido desde hace algún tiempo, sólamente
+dirigían tu errante rumbo tus machacados pies. Aquí observas cómo los esclavos más viejos y débiles son los encargados no sin ser animados por el incesante látigo a recoger
+todas las brozas y malas hierbas que molestan para amontonarlas en delgadas parvas y quemarlas. Es por eso que en esta zona es preciso en algunos momentos taparte el rostro con
+algo para protegerte de la tóxica humareda.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Un impresionante chaparrón de lluvia cae sobre los alrededores, haciendo estragos.
+
+Puedes ver tres salidas: norte, oeste y este.
+Esclava Minotauro y Guardia Lagarto están allí.
+
+nick yy
+El nickname yy equivale a droock.
+
+acechar o
+No estás suficientemente calmado.
+
+acechar o
+No sabes aún como has llegado a una zona mucho más despejada de estos poblados cultivos ya que con tu sentido de la orientación perdido desde hace algún tiempo, sólamente
+dirigían tu errante rumbo tus machacados pies. Aquí observas cómo los esclavos más viejos y débiles son los encargados no sin ser animados por el incesante látigo a recoger
+todas las brozas y malas hierbas que molestan para amontonarlas en delgadas parvas y quemarlas. Es por eso que en esta zona es preciso en algunos momentos taparte el rostro con
+algo para protegerte de la tóxica humareda.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Un impresionante chaparrón de lluvia cae sobre los alrededores, haciendo estragos.
+
+Puedes ver tres salidas: norte, oeste y este.
+Esclava Minotauro y Guardia Lagarto están allí.
+
+acechar o
+No sabes aún como has llegado a una zona mucho más despejada de estos poblados cultivos ya que con tu sentido de la orientación perdido desde hace algún tiempo, sólamente
+dirigían tu errante rumbo tus machacados pies. Aquí observas cómo los esclavos más viejos y débiles son los encargados no sin ser animados por el incesante látigo a recoger
+todas las brozas y malas hierbas que molestan para amontonarlas en delgadas parvas y quemarlas. Es por eso que en esta zona es preciso en algunos momentos taparte el rostro con
+algo para protegerte de la tóxica humareda.
+
+ Argan está en cuarto menguante.
+ Velian está en cuarto creciente.
+
+Un impresionante chaparrón de lluvia cae sobre los alrededores, haciendo estragos.
+
+Puedes ver tres salidas: norte, oeste y este.
+Esclava Minotauro y Guardia Lagarto están allí.
+
+agacharse
+levantarse
+Te agachas.
+
+> Te reincorporas.
+
+go
+Droock (Hlag) está aquí.
+Esclava Minotauro y Guardia Lagarto están aquí.
+Cultivos Pantanosos [n,o,e] 
+
+[Obtienes 20 puntos de experiencia]
+
+[Obtienes 2 puntos de experiencia]
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Droock 100%
+
+Esclava Minotauro raja débilmente a Droock.
+
+ge
+Droock raja violentamente a Esclava Minotauro.
+
+Droock raja con increíble potencia a Esclava Minotauro.
+Esclava Minotauro, Esclavo Minotauro y dos Esclavos Humanos están aquí.
+Cultivos Pantanosos [n,o,e,so] 
+
+[Obtienes 2 puntos de experiencia]
+
+go
+
+] 
+Droock (Hlag) está aquí.
+Esclava Minotauro y Guardia Lagarto están aquí.
+Cultivos Pantanosos [n,o,e] 
+
+[Obtienes 2 puntos de experiencia]
+
+Droock empieza a inspeccionar la zona detenidamente.
+a
+
++ Te mueves en silencio alrededor de Droock, tensando los músculos de tus cuartos traseros para abalanzarte sobre él.
+
+Droock logra esquivar el ataque de Esclava Minotauro.
+
+Droock raja con increíble potencia a Esclava Minotauro.
+
+Droock raja con increíble potencia a Esclava Minotauro.
+
+Droock propina el golpe mortal a Esclava Minotauro.
+
+Esclava Minotauro cae al suelo sin vida.
+
+¡Has quedado al descubierto!
+Estás siendo atacado por Guardia Lagarto.
+
+Droock detiene su búsqueda.
+
+# ¡Te abalanzas sobre un costado de Droock, destrozándole con tres ataques de tus Garras y dientes!
+
+[Obtienes 118 puntos de experiencia]
+
+pc
+# Rajas con fuerza a Guardia Lagarto.
+# Perforas a Guardia Lagarto.
+# Enfermas con poca intensidad a Guardia Lagarto.
+
+[Obtienes 60 puntos de experiencia]
+d
+
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+> Comienzas a formular el hechizo 'Retener persona'.
+
+Droock coge Bolsa de monedas (cuatro monedas de maiz) de cuerpo de Esclava.
+
+! Droock se prepara para ejecutar destripar sobre ti.
+
+Droock (Hlag) se va hacia oeste.
+
+El destino de tu hechizo está fuera de alcance.
+
+o
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,ne,o,e,se] 
+Hoz.
+
+Pvs: 4791/4791 (-130) Pe: 1382/1408 (-18)
+[El bloqueo 'sigilar' termina]
+
+Droock (Hlag) se va hacia oeste.
+
+o
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [no,n,o,e,so] 
+Cuatro Hoces.
+
+z
+> 
+Droock envaina su Armas de mano Celestes.
+
+Droock empuña rápidamente Cuchillas de Apóstol de Astaroth.
+Parece que zarpazo x no produjo efecto alguno.
+
+os
+Estás persiguiendo a Guardia Lagarto.
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+Droock (Hlag) se va hacia norte.
+
+z
+Estás persiguiendo a Droock.
+No hay nadie aquí reconocible como sslik,droock,trotix,temmins,ivash,sorz,borghild,myresh,kaluk,joisan,odihbyr.
+
+n
+Cultivos Pantanosos [n,o,e,s] 
+
+Pvs: 5321/5321 (+530) Pe: 1382/1408 (0)
+n
+
+Droock (Hlag) está aquí.
+Esclavo Goblin está aquí.
+Cultivos Pantanosos [n,o,e,s] 
+
+sg
+Comienzas a seguir a Droock.
+
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [no,n,o,e,s,se] 
+Tres Hoces.
+Sigues a Droock (Hlag) en dirección norte.
+
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,o,e,s] 
+Sigues a Droock (Hlag) en dirección norte.
+
+co
+g
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Cocodrilo.
+
+> Comienzas a serpentear alrededor de Droock, buscando puntos ciegos por donde puedas agarrarle con tus temibles fauces.
+
+Pvs: 5421/5421 (+100) Pe: 1382/1408 (0)
+
+Droock (Hlag) está aquí.
+Esclava Humana está aquí.
+Cultivos Pantanosos [no,n,ne,o,e,s,se] 
+Hoz.
+Sigues a Droock (Hlag) en dirección oeste.
+Droock te da esquinazo.
+
+Droock (Hlag) se va hacia sur.
+
+Chasqueas los dientes en el aire cuando Droock escapa al alcance de tus mandíbulas.
+
+Estás persiguiendo a Droock.
+
+s
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,o,e,s] 
+Dos Hoces.
+
+Droock (Hlag) se va hacia este.
+
+e
+Cultivos Pantanosos [no,n,o,e,s,se] 
+Tres Hoces.
+
+pc
+e
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+] 
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,o,e,s] 
+Hoz.
+
+> Pvs: 4791/4791 (-630) Pe: 1380/1408 (+1)
+[El bloqueo 'Retener persona' termina]
+
+Droock (Hlag) se va hacia oeste.
+sg
+
+No veo a droock por aquí.
+
+o
+Cultivos Pantanosos [no,n,o,e,s,se] 
+Tres Hoces.
+
+o
+
+sg
+] 
+] 
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,o,e,s] 
+Dos Hoces.
+
+] Comienzas a seguir a Droock.
+
+> # Aplastas con poca fuerza a Droock.
+
+[Obtienes 14 puntos de experiencia]
+
+Droock (Hlag) está aquí.
+Esclava Humana está aquí.
+Cultivos Pantanosos [no,n,ne,o,e,s,se] 
+Hoz.
+Sigues a Droock (Hlag) en dirección norte.
+
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,o,e,s] 
+Dos Hoces.
+Sigues a Droock (Hlag) en dirección norte.
+
+d
+Comienzas a formular el hechizo 'Retener persona'.
+
+Droock te da esquinazo.
+
+[El bloqueo 'abalanzarse' termina]
+
+Pronuncias el cántico: 'amri xeno haltem'
+Droock ya sufrió los efectos de uno de tus hechizos similares.
+
+Droock (Hlag) se va hacia sur.
+
+s
+Esclava Humana está aquí.
+Cultivos Pantanosos [no,n,ne,o,e,s,se] 
+Hoz.
+
+s
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,o,e,s] 
+Dos Hoces.
+
+# Aplastas con poca fuerza a Droock.
+
+[Obtienes 14 puntos de experiencia]
+
+pa
+a
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Pantera.
+
+> + Comienzas a moverte tentativamente alrededor de Droock, buscando un flanco vulnerable para abalanzarte sobre él.
+
+sg
+Comienzas a seguir a Droock.
+
+> Droock te da esquinazo.
+
+# ¡Te abalanzas sobre un costado de Droock, destrozándole con cuatro ataques de tus Garras y dientes!
+
+[Obtienes 108 puntos de experiencia]
+
+! Droock se prepara para ejecutar destripar sobre ti.
+Pvs: 4921/4921 (+130) Pe: 1370/1408 (-10)
+
+* Droock te raja de forma superficial.
+* Droock te raja violentamente.
+
+os
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+n
+> 
+Esclava Humana está aquí.
+Cultivos Pantanosos [no,n,ne,o,e,s,se] 
+Hoz.
+
+Droock (Hlag) llega desde el sur.
+* ¡Droock te alcanza criticamente con su maniobra de destripar!
+Un enorme boquete se te abre en el hocico y comienza a sangrar de forma incontrolada, dejando un rastro de sangre tras de ti.
+¡El golpe de Droock te eviscera el hocico!
+
+z
++ Te preparas para ejecutar zarpazo.
+
+Droock (Hlag) se va hacia norte.
+
+Estás persiguiendo a Droock.
+Pvs: 3895/5321 (-1026) Pe: 1360/1408 (0)
+
+n
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,o,e,s] 
+Dos Hoces.
+
+z
+> 
+No estás suficientemente calmado.
+
+Droock (Hlag) se va hacia oeste.
+
+ac
+Murmullas unas palabras de poder y acaricias tu Anillo del Héroe de la Luz, que responde a tus palabras emitiendo una luz blanquecina y palpitando con energía.
+
+¡Tus objetivos ya no están al alcance de tu zarpazo!
+o
+
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,o,e,so,s,se] 
+Cuatro Hoces.
+
+z
++ Te preparas para ejecutar zarpazo.
+
+[Aetherius orbita al Limbo]
+
+Droock (Hlag) se va hacia este.
+
+e
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,o,e,s] 
+Dos Hoces.
+
+# ¡Alcanzas a Droock con tu maniobra de zarpazo!
+
+[Obtienes 100 puntos de experiencia]
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Droock 80%
+
+co
+g
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Cocodrilo.
+
+> Te relames los dientes anticipando tu próximo mordisco, ¡que no será este!, ¡hace muy poco que has comido!
+
+Droock (Hlag) se va hacia oeste.
+Estás persiguiendo a Droock.
+Pvs: 3995/5421 (+100) Pe: 1346/1408 (-7)
+[El bloqueo 'Retener persona' termina]
+
+o
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,o,e,so,s,se] 
+Cuatro Hoces.
+
+El poder de tu Anillo del Héroe de la Luz inunda tu cuerpo y te sientes mucho más fuerte.
+
+hi
+dn
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Hiena.
+
+> + Te preparas para ejecutar dentellada.
+
+Droock (Hlag) se va hacia este.
+
+Pvs: 4215/5641 (+220) Pe: 1346/1408 (0)
+
+e
+¡Tus objetivos ya no están al alcance de tu dentellada!
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,o,e,s] 
+Dos Hoces.
+
+* Droock te raja con mucha fuerza.
+* Droock te raja violentamente y de forma superficial.
+
+dn
+No estás suficientemente calmado.
+
+Droock (Hlag) se va hacia oeste.
+
+dn
+Estás persiguiendo a Droock.
+No hay nadie aquí reconocible como sslik,droock,trotix,temmins,ivash,sorz,borghild,myresh,kaluk,joisan,odihbyr.
+
+o
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,o,e,so,s,se] 
+Cuatro Hoces.
+
+Droock empieza a inspeccionar la zona detenidamente.
+# Perforas violentamente a Droock.
+# Enfermas con poca intensidad a Droock.
+
+[Obtienes 54 puntos de experiencia]
+Pvs: 3790/5641 (-425) Pe: 1336/1408 (0)
+dn
+
++ Te preparas para ejecutar dentellada.
+
+# ¡Alcanzas a Droock con tu maniobra de dentellada!
+
+[Obtienes 28 puntos de experiencia]
+dn
+
+Ignorando 'dentellada x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+Droock detiene su búsqueda.
+
+Droock (Hlag) se va hacia este.
+
+e
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,o,e,s] 
+Dos Hoces.
+
+Pvs: 3849/5641 (+59) Pe: 1327/1408 (-9)
+os
+
+z
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+> Necesitarás acumular un poco más de fuerza para descargar otro zarpazo como el anterior.
+
+> Droock comienza a serpentear a tu alrededor mientras se relame, buscando puntos ciegos en tus defensas.
+
+* Droock te raja con mucha fuerza.
+* Droock te raja con mucha fuerza y de forma superficial.
+
+Droock empieza a inspeccionar la zona detenidamente.
+
+e
+Cultivos Pantanosos [n,o,e,so,s,se] 
+Cuatro Hoces.
+
+e
+> 
+Cultivos Pantanosos [n,o,e,s] 
+Cuatro Hoces.
+
+pc
+Estás persiguiendo a Droock.
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+> Pvs: 3015/5191 (-834) Pe: 1327/1408 (0)
+[El bloqueo 'mordisco' termina]
+[El bloqueo 'abalanzarse' termina]
+[El bloqueo 'zarpazo' termina]
+
+cme
+Comienzas a formular el hechizo 'Curar heridas moderadas'.
+
+ac
+Has usado el poder del anillo recientemente y has de descansar antes de someterte de nuevo a sus influjos.
+
+Pronuncias el cántico: 'magius modus curis'
+Curas algunas de tus heridas más moderadas.
+
+[Obtienes 412 puntos de experiencia]
+
+Pvs: 3964/5191 (+949) Pe: 1327/1408 (0)
+
+o
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,o,e,so,s,se] 
+Rastro de Restos de vísceras. en dirección este.
+Cuatro Hoces.
+
+* Droock te raja de forma superficial.
+* Droock te raja con mucha fuerza y de forma superficial.
+! Droock se prepara para ejecutar destripar sobre ti.
+
+os
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+Droock (Hlag) se va hacia oeste.
+
+e
+Cultivos Pantanosos [n,o,e,s] 
+Rastro de Restos de vísceras. en dirección oeste.
+Cuatro Hoces.
+
+e
+> 
+] 
+Cultivos Pantanosos [no,o,s] 
+Hoz.
+
+> Estás persiguiendo a Droock.
+Pvs: 4236/5721 (+272) Pe: 1324/1408 (0)
+
+o
+Cultivos Pantanosos [n,o,e,s] 
+Rastro de Restos de vísceras. en dirección oeste.
+Cuatro Hoces.
+
+o
+
+] 
+sg
+
+z
+] 
+] 
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,o,e,so,s,se] 
+Rastro de Restos de vísceras. en dirección este.
+Cuatro Hoces.
+
+] Intentas seguir a Droock, pero te da esquinazo.
+
+] + Te preparas para ejecutar zarpazo.
+
+* Droock te raja con fuerza y de forma superficial.
+* Droock te raja violentamente.
+* Droock te lacera con mucha fuerza.
+
+Droock (Hlag) se va hacia oeste.
+
+Deja de llover.
+¡Tus objetivos ya no están al alcance de tu zarpazo!
+
+o
+z
+[Gudmair Throril Partepiedras orbita al Limbo]
+
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,o,e,s] 
+Rastro de Restos de vísceras. en dirección este.
+Dos Hoces.
+
+> Ignorando 'zarpazo x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+Droock (Hlag) se va hacia oeste.
+
+Estás persiguiendo a Droock.
+Pvs: 3684/5721 (-552) Pe: 1317/1408 (-7)
+[El bloqueo 'dentellada' termina]
+
+o
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,o,e,so,s,se] 
+Cuatro Hoces.
+
+z
++ Te preparas para ejecutar zarpazo.
+
+! Droock se prepara para ejecutar destripar sobre ti.
+
+[El bloqueo 'Curar heridas moderadas' termina]
+
+# ¡Alcanzas a Droock con tu maniobra de zarpazo!
+
+[Obtienes 118 puntos de experiencia]
+
+Droock (Hlag) se va hacia norte.
+
+e
+Cultivos Pantanosos [n,o,e,s] 
+Rastro de Restos de vísceras. en dirección este.
+Dos Hoces.
+
+e
+> 
+Cultivos Pantanosos [n,o,e,so,s,se] 
+Rastro de Restos de vísceras. en dirección oeste.
+Cuatro Hoces.
+
+o
+
+] 
+o
+
+] 
+pc
+
+] 
+cle
+Cultivos Pantanosos [n,o,e,s] 
+Rastro de Restos de vísceras. en dirección este.
+Dos Hoces.
+
+] Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,o,e,so,s,se] 
+Cuatro Hoces.
+
+] Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+> # Aplastas con poca fuerza a Droock.
+
+[Obtienes 14 puntos de experiencia]
+Pvs: 3154/5191 (-530) Pe: 1310/1408 (-7)
+Comienzas a formular el hechizo 'Curar heridas ligeras'.
+
+Pronuncias el cántico: 'magius elis curis'
+Curas algunas de tus heridas más ligeras.
+
+[Obtienes 502 puntos de experiencia]
+
+Pvs: 4361/5191 (+1207) Pe: 1311/1408 (+1)
+
+Droock murmura unas palabras de poder y acaricia su Anillo del Héroe de la Oscuridad, que comienza a iluminarse y a palpitar con energía.
+
+cl
+Comienzas a formular el hechizo 'Columna de fuego'.
+
+Droock (Hlag) se va hacia este.
+
+ba
+Dejas de sostener tu Cetro del Presbítero.
+
+Empuñas tu Báculo de los tres elementos.
+
+} 
+Pronuncias el cántico: 'flamious os colus'
+¡Invocas una columna de fuego sobre Droock que le alcanza parcialmente!
+
+[Obtienes 130 puntos de experiencia]
+
+e
+Estás intentando equilibrar la Báculo de los tres elementos.
+Escribe cancelar para finalizar la acción prematuramente.
+
+e
+} 
+Finalmente equilibras la Báculo de los tres elementos.
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,o,e,s] 
+Rastro de Restos de vísceras. en dirección este.
+Dos Hoces.
+
+> # Aplastas a Droock.
+
+[Obtienes 16 puntos de experiencia]
+Cultivos Pantanosos [n,o,e,so,s,se] 
+Rastro de Restos de vísceras. en dirección oeste.
+Cuatro Hoces.
+
+er
+Parece que er no produjo efecto alguno.
+
+re
+El objetivo sslik,droock,trotix,temmins,ivash,sorz,borghild,myresh,kaluk,joisan,odihbyr no está aquí ahora mismo.
+
+o
+
+] 
+Cultivos Pantanosos [n,o,e,s] 
+Rastro de Restos de vísceras. en dirección este.
+Dos Hoces.
+
+s
+Esclava Humana está aquí.
+Cultivos Pantanosos [no,n,ne,o,e,s,se] 
+Hoz.
+
+Estás persiguiendo a Droock.
+[El bloqueo 'zarpazo' termina]
+
+n
+Cultivos Pantanosos [n,o,e,s] 
+Rastro de Restos de vísceras. en dirección sur.
+Dos Hoces.
+
+e
+> 
+Cultivos Pantanosos [n,o,e,so,s,se] 
+Rastro de Restos de vísceras. en dirección oeste.
+Cuatro Hoces.
+
+e
+
+] 
+Cultivos Pantanosos [n,o,e,s] 
+Rastro de Restos de vísceras. en dirección oeste.
+Cuatro Hoces.
+
+> [El bloqueo 'Curar heridas ligeras' termina]
+e
+
+Cultivos Pantanosos [no,o,s] 
+Hoz.
+
+e
+
+] 
+Parece que este no produjo efecto alguno.
+
+ne
+Parece que noreste no produjo efecto alguno.
+
+se
+Parece que sudeste no produjo efecto alguno.
+
+n
+Parece que norte no produjo efecto alguno.
+
+[El bloqueo 'Columna de fuego' termina]
+
+no
+Cultivos Pantanosos [n,o,s,se] 
+Tres Hoces.
+
+ne
+Parece que noreste no produjo efecto alguno.
+
+se
+Cultivos Pantanosos [no,o,s] 
+Hoz.
+
+s
+Cultivos Pantanosos [n,o,e,s] 
+
+se
+Parece que sudeste no produjo efecto alguno.
+
+e
+Cultivos Pantanosos [o,e,so,se] 
+Dos Hoces.
+
+> ¡El boquete que tienes en el hocico deja caer un chorro de sangre y carne triturada en el suelo!
+Pvs: 4282/5191 (-79) Pe: 1305/1408 (-5)
+
+se
+Cultivos Pantanosos [no,n,o,so,s,se] 
+Hoz.
+
+se
+Hierbas extrañamente crecidas.
+Hierbas extrañamente crecidas.
+Esclavo Minotauro, dos Esclavos Goblin y Esclavo Humano están aquí.
+Cultivos Pantanosos [no,o,e,so] 
+Hierbas extrañamente crecidas.
+
+e
+Esclava Humana, Esclavo Goblin y Esclava Goblin holgazana están aquí.
+Cultivos Pantanosos [o,e] 
+
+e
+Camino a los Cultivos de Maíz [se,o] 
+
+hi
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Hiena.
+
+case
+Sueltas tus armas para echar a correr.
+Dejas de sostener tu Reliquia Divina de la Persistencia.
+Dejas de sostener tu Espolón enmohecido de Constructo.
+Haciendo un esfuerzo corres como un poseso.
+Camino a los Cultivos de Maíz [ne,no] 
+Orilla oeste del río Iaurduin [so,n] 
+Orilla oeste del río Iaurduin [s,no] 
+Orilla oeste del río Iaurduin [se,n] 
+El suave rumor de las olas del mar te relaja profundamente.
+Orilla oeste del río Iaurduin [s,ne] 
+
+ojear
+Orilla oeste del río Iaurduin [s,ne] 
+
+Pvs: 4474/5381 (+192) Pe: 1290/1408 (-15)
+
+ne
+Orilla oeste del río Iaurduin [so,n] 
+
+n
+Orilla oeste del río Iaurduin [s,n] 
+
+n
+
+] 
+levantarse
+
+] Orilla oeste del río Iaurduin [s,e] 
+El viento golpea fuertemente tu cuerpo haciéndote tambalear al andar.
+
+] Ya estás levantado.
+
+e
+Orilla oeste del río Iaurduin [o,n] 
+El viento golpea fuertemente tu cuerpo haciéndote tambalear al andar.
+
+pc
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+Pvs: 4299/5191 (-175) Pe: 1286/1408 (+1)
+
+o
+Orilla oeste del río Iaurduin [s,e] 
+
+s
+Orilla oeste del río Iaurduin [s,n] 
+
+s
+> 
+
+] 
+cle
+
+] 
+Orilla oeste del río Iaurduin [so,n] 
+Rastro de Restos de vísceras. en dirección norte.
+
+] Comienzas a formular el hechizo 'Curar heridas ligeras'.
+
+vendar hocico
+Te vendas tu hocico.
+
+Pronuncias el cántico: 'magius elis curis'
+Curas algunas de tus heridas más ligeras.
+
+[Obtienes 376 puntos de experiencia]
+
+Pvs: 5191/5191 (+892) Pe: 1286/1408 (0)
+so
+
+Orilla oeste del río Iaurduin [s,ne] 
+Rastro de Restos de vísceras. en dirección noreste.
+
+s
+> 
+Orilla oeste del río Iaurduin [se,n] 
+
+se
+
+] 
+cic enorthus
+
+] 
+Orilla oeste del río Iaurduin [s,no] 
+El viento golpea fuertemente tu cuerpo haciéndote tambalear al andar.
+
+] No tienes ninguna herida sangrante menor.
+
+s
+Orilla oeste del río Iaurduin [so,n] 
+Rastro de Restos de vísceras. en dirección norte.
+
+so
+
+] Camino a los Cultivos de Maíz [ne,no] 
+
+chat ] Comienzas a formular el hechizo 'Curar heridas ligeras'.
+[Chat] Enorthus: ] Comienzas a formular el hechizo 'Curar heridas ligeras'.
+
+chat uis
+[Chat] Enorthus: uis
+
+[El bloqueo 'Curar heridas ligeras' termina]
+
+chat Te vendas tu hocico.
+[Chat] Enorthus: Te vendas tu hocico.
+
+no
+Camino a los Cultivos de Maíz [se,o] 
+
+o
+Esclava Humana, Esclavo Goblin y Esclava Goblin holgazana están aquí.
+Cultivos Pantanosos [o,e] 
+
+chat en to la boca xd
+[Chat] Enorthus: en to la boca xd
+
+o
+Esclavo Minotauro, dos Esclavos Goblin y Esclavo Humano están aquí.
+Cultivos Pantanosos [no,o,e,so] 
+Rastro de Restos de vísceras. en dirección este.
+
+o
+Esclavo Goblin, dos Esclavas Goblin y Esclavo Humano están aquí.
+Cultivos Pantanosos [n,o,e,s] 
+
+o
+Esclava Goblin holgazana y Esclavo Humano están aquí.
+Cultivos Pantanosos [n,ne,o,e,so,s] 
+
+s
+
+] 
+Cultivos Pantanosos [no,n,o,e,s] 
+
+os
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+se
+Parece que sudeste no produjo efecto alguno.
+
+o
+Cultivos Pantanosos [n,ne,o,e,so,s] 
+Cuatro Hoces.
+
+o
+Pvs: 5721/5721 (+530) Pe: 1286/1408 (+1)
+Cultivos Pantanosos [n,ne,o,e,s] 
+Tres Hoces.
+
+o
+Cultivos Pantanosos [n,o,e,s] 
+
+s
+
+] 
+Cultivos Pantanosos [no,n,o,e,so] 
+Cuatro Hoces.
+
+o
+Cultivos Pantanosos [n,o,e,s] 
+Hoz.
+
+ac
+Has usado el poder del anillo recientemente y has de descansar antes de someterte de nuevo a sus influjos.
+
+pc
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+o
+> 
+
+] 
+cle
+
+] 
+Cultivos Pantanosos [n,o,e,s] 
+Dos Hoces.
+
+] Comienzas a formular el hechizo 'Curar heridas ligeras'.
+
+> Pvs: 5191/5191 (-530) Pe: 1286/1408 (0)
+
+Pronuncias el cántico: 'magius elis curis'
+Curas algunas de tus heridas más ligeras.
+
+[Obtienes 20 puntos de experiencia]
+
+s
+Dos Esclavas Minotauro y Esclavo Humano están aquí.
+Cultivos Pantanosos [n,o,e] 
+
+Pvs: 5191/5191 (0) Pe: 1286/1408 (0)
+
+os
+e
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+> Cultivos Pantanosos [n,ne,o,e,se] 
+
+e
+Dos Esclavos Goblin y dos Esclavas Goblin están aquí.
+Cultivos Pantanosos [o,e] 
+
+e
+
+] 
+Esclava Minotauro, Esclavo Minotauro, Esclavo Goblin y Esclavo Humano están aquí.
+Cultivos Pantanosos [o,e] 
+
+> Pvs: 5721/5721 (+530) Pe: 1286/1408 (+1)
+
+e
+Esclavo Goblin holgazán, Esclavo Minotauro, Esclavo Goblin y Esclavo Humano están aquí.
+Cultivos Pantanosos [no,ne,o,e,so] 
+
+e
+
+] Cultivos Pantanosos [ne,o] 
+
+> [El bloqueo 'carrera' termina]
+
+ne
+Esclava Goblin está aquí.
+Cultivos Pantanosos [n,o,e,so] 
+
+Sientes como la venda empieza a coagular la sangre de tu herida.
+
+e
+
+] 
+Esclavo Minotauro está aquí.
+Cultivos Pantanosos [no,o] 
+
+> Pvs: 5721/5721 (0) Pe: 1287/1408 (+1)
+
+no
+Cultivos Pantanosos [n,ne,o,s,se] 
+Hoz.
+
+ne
+
+] 
+Esclavo Minotauro, dos Esclavos Goblin y Esclavo Humano están aquí.
+Cultivos Pantanosos [no,o,e,so] 
+Rastro de Restos de vísceras. en dirección este.
+
+> [El bloqueo 'Curar heridas ligeras' termina]
+
+no
+Cultivos Pantanosos [no,n,o,so,s,se] 
+Hoz.
+
+no
+Cultivos Pantanosos [o,e,so,se] 
+Restos de vísceras.
+Dos Hoces.
+
+o
+Cultivos Pantanosos [n,o,e,s] 
+Rastro de Restos de vísceras. en dirección este.
+
+o
+
+] 
+Esclava Humana, Esclavo Humano holgazán y dos Esclavos Humanos están aquí.
+Cultivos Pantanosos [no,n,o,e,s] 
+
+no
+Cultivos Pantanosos [n,o,e,so,s,se] 
+Cuatro Hoces.
+
+o
+Cultivos Pantanosos [n,o,e,s] 
+Dos Hoces.
+
+o
+Cultivos Pantanosos [n,o,e,so,s,se] 
+Cuatro Hoces.
+
+o
+
+] 
+Cultivos Pantanosos [no,n,ne,o,e,s] 
+Tres Hoces.
+
+o
+Cultivos Pantanosos [n,o,e,s,se] 
+Cuatro Hoces.
+
+o
+
+] 
+Estás siendo atacado por Guardia Lagarto.
+Guardia Lagarto está aquí.
+Cultivos Pantanosos [n,o,e,s] 
+Cuatro Hoces.
+
+o
+Cultivos Pantanosos [o,e,s] 
+Cuatro Hoces.
+
+o
+
+] 
+Cultivos Pantanosos [ne,e,se] 
+Charco de sangre
+Cuatro Hoces.
+
+> Estás persiguiendo a Guardia Lagarto.
+
+ne
+Cultivos Pantanosos [ne,e,so] 
+Tres Hoces.
+
+e
+
+] 
+Cultivos Pantanosos [o,e,s] 
+
+e
+Cultivos Pantanosos [n,o,e,s,se] 
+Dos Hoces.
+
+e
+
+] 
+Cultivos Pantanosos [n,o,e,s] 
+
+e
+Cultivos Pantanosos [n,ne,o,e,so,s] 
+Dos Hoces.
+
+e
+
+] 
+Cultivos Pantanosos [n,o,e,s] 
+Dos Hoces.
+
+> ¡El boquete que tienes en el hocico deja caer un chorro de sangre y carne triturada en el suelo!
+Pvs: 5618/5721 (-103) Pe: 1288/1408 (+1)
+
+e
+Cultivos Pantanosos [n,o,e,s] 
+
+e
+
+] 
+Cultivos Pantanosos [n,o,s,se] 
+Tres Hoces.
+
+e
+Parece que este no produjo efecto alguno.
+
+n
+Cultivos Pantanosos [no,o,s] 
+Cuatro Hoces.
+
+o
+
+] 
+Cultivos Pantanosos [n,o,e,s] 
+Tres Hoces.
+
+no
+Parece que noroeste no produjo efecto alguno.
+
+o
+Estás siendo atacado por Guardia Lagarto.
+Guardia Lagarto está aquí.
+Cultivos Pantanosos [n,o,e,so,s] 
+
+o
+
+] 
+Cultivos Pantanosos [n,o,e,s] 
+
+> Estás persiguiendo a Guardia Lagarto.
+
+o
+Cultivos Pantanosos [n,o,e,s] 
+Tres Hoces.
+
+o
+
+] 
+Cultivos Pantanosos [n,o,e,s] 
+Cuatro Hoces.
+
+o
+Esclava Minotauro y Esclava Goblin están aquí.
+Cultivos Pantanosos [n,e,so] 
+
+ne
+
+] 
+Parece que noreste no produjo efecto alguno.
+
+ne
+Parece que noreste no produjo efecto alguno.
+
+n
+[Chat] Droock: podrias dejarme terminar digo yo
+Cultivos Pantanosos [ne,e,s] 
+
+e
+Cultivos Pantanosos [n,o,e,s] 
+Cuatro Hoces.
+
+s
+Cultivos Pantanosos [n,o,e,s] 
+Rastro de Restos de vísceras. en dirección oeste.
+Cuatro Hoces.
+
+s
+
+] 
+Cultivos Pantanosos [n,o,e,s,se] 
+Rastro de Restos de vísceras. en dirección este.
+Dos Hoces.
+
+s
+Cultivos Pantanosos [n,o,e,s,se] 
+Rastro de Restos de vísceras. en dirección oeste.
+Cuatro Hoces.
+
+s
+
+] 
+Cultivos Pantanosos [n,o,e,s] 
+Dos Hoces.
+
+s
+Cultivos Pantanosos [n,ne,o,e,s,se] 
+Hoz.
+
+La venda logra finalmente contener tu herida.
+El enorme boquete que tenías se cicatriza y deja de derramar tus vísceras.
+
+Tu capa derrama parte de la sangre que la recubre sobre el suelo.
+
+chat esto es como las pajas, si aguantas más luego el orgasmo es mejor
+[Chat] Enorthus: esto es como las pajas, si aguantas más luego el orgasmo es mejor
+
+s
+Esclavo Minotauro holgazán está aquí.
+Cultivos Pantanosos [no,n,o,e,s] 
+
+s
+> 
+Cultivos Pantanosos [n,o,e,s] 
+Tres Hoces.
+
+chat xddd
+[Chat] Enorthus: xddd
+
+s
+Cultivos Pantanosos [n,ne,o,e,se] 
+Hoz.
+
+s
+Parece que sur no produjo efecto alguno.
+
+se
+Esclava Humana, Esclavo Minotauro y dos Esclavas Goblin están aquí.
+Cultivos Pantanosos [no,n,e] 
+
+e
+Dos Esclavas Minotauro y Esclavo Humano están aquí.
+Cultivos Pantanosos [n,o,e] 
+
+e
+Cultivos Pantanosos [n,ne,o,e,se] 
+
+e
+
+] 
+Dos Esclavos Goblin y dos Esclavas Goblin están aquí.
+Cultivos Pantanosos [o,e] 
+
+os
+Ya estás adoptando esa forma mórfica.
+
+e
+Esclava Minotauro, Esclavo Minotauro, Esclavo Goblin y Esclavo Humano están aquí.
+Cultivos Pantanosos [o,e] 
+
+e
+
+] Esclavo Goblin holgazán, Esclavo Minotauro, Esclavo Goblin y Esclavo Humano están aquí.
+Cultivos Pantanosos [no,ne,o,e,so] 
+
+e
+Cultivos Pantanosos [ne,o] 
+
+Zaycael te dice:   era instalando un probama
+
+ne
+Esclava Goblin está aquí.
+Cultivos Pantanosos [n,o,e,so] 
+
+e
+Esclavo Minotauro está aquí.
+Cultivos Pantanosos [no,o] 
+
+t Zaycael si si eso suponia algun programa xd
+Dices a Zaycael:  si si eso suponia algun programa xd
+
+o
+Esclava Goblin está aquí.
+Cultivos Pantanosos [n,o,e,so] 
+
+o
+Esclava Minotauro, Esclavo Minotauro y dos Esclavos Humanos están aquí.
+Cultivos Pantanosos [n,o,e,so] 
+
+o
+
+] Guardia Lagarto está aquí.
+Cultivos Pantanosos [n,o,e] 
+Hoz y cuerpo de Esclava.
+
+o
+Cultivos Pantanosos [n,ne,o,e,se] 
+Hoz.
+
+o
+Cultivos Pantanosos [no,n,o,e,so] 
+Cuatro Hoces.
+
+o
+Cultivos Pantanosos [n,o,e,s] 
+Hoz.
+
+o
+Zaycael te dice:   karabiner elment
+
+] 
+Cultivos Pantanosos [n,o,e,s] 
+Dos Hoces.
+
+[Chat] Kaluk: claro, aprietate los huevos y verás luego.
+
+[Chat] Borghild: ValKnut  contra quien te das mama osa
+
+[Chat] Kaluk: tírate del escroto lagartil
+
+Zaycael te dice:   me ha salvado la vida xd
+
+[Chat] Myresh: y el otro lame pijas xD
+
+o
+Cultivos Pantanosos [n,o,e,s] 
+
+t Zaycael mira que preguntandole a chatgpt me lo y no le hice mucho caso
+Dices a Zaycael:  mira que preguntandole a chatgpt me lo y no le hice mucho caso
+
+t Zaycael xddd
+Dices a Zaycael:  xddd
+
+chat una lagartija sin cola
+[Chat] Enorthus: una lagartija sin cola
+
+o
+Cultivos Pantanosos [n,ne,o,e,se] 
+Hoz.
+
+s
+Parece que sur no produjo efecto alguno.
+
+se
+Esclava Humana, Esclavo Minotauro y dos Esclavas Goblin están aquí.
+Cultivos Pantanosos [no,n,e] 
+
+e
+Dos Esclavas Minotauro y Esclavo Humano están aquí.
+Cultivos Pantanosos [n,o,e] 
+
+e
+
+] 
+Cultivos Pantanosos [n,ne,o,e,se] 
+
+Tu capa derrama parte de la sangre que la recubre sobre el suelo.
+
+se
+Cultivos Pantanosos [no,so,e] 
+
+e
+
+] 
+Esclava Humana y Esclavo Goblin están aquí.
+Cultivos Pantanosos [ne,o] 
+
+ne
+Esclavo Goblin holgazán, Esclavo Minotauro, Esclavo Goblin y Esclavo Humano están aquí.
+Cultivos Pantanosos [no,ne,o,e,so] 
+
+e
+
+] 
+Cultivos Pantanosos [ne,o] 
+
+ne
+Esclava Goblin está aquí.
+Cultivos Pantanosos [n,o,e,so] 
+
+e
+Esclavo Minotauro está aquí.
+Cultivos Pantanosos [no,o] 
+
+o
+Esclava Goblin está aquí.
+Cultivos Pantanosos [n,o,e,so] 
+
+o
+
+] 
+Esclava Minotauro, Esclavo Minotauro y dos Esclavos Humanos están aquí.
+Cultivos Pantanosos [n,o,e,so] 
+
+o
+Guardia Lagarto está aquí.
+Cultivos Pantanosos [n,o,e] 
+Hoz y cuerpo de Esclava.
+
+o
+
+] 
+Cultivos Pantanosos [n,ne,o,e,se] 
+Hoz.
+
+o
+Cultivos Pantanosos [no,n,o,e,so] 
+Cuatro Hoces.
+
+o
+Cultivos Pantanosos [n,o,e,s] 
+Hoz.
+
+o
+Cultivos Pantanosos [n,o,e,s] 
+Dos Hoces.
+
+o
+
+] 
+Cultivos Pantanosos [n,o,e,s] 
+
+o
+Cultivos Pantanosos [n,ne,o,e,se] 
+Hoz.
+
+Zaycael te dice:   yyo tambien le pregunte, y me descargue el karabiner, pero luego habia que configurarlo y cambiar unas cosas
+
+o
+Cultivos Pantanosos [n,o,e] 
+
+o
+Cultivos Pantanosos [n,e] 
+
+n
+Cultivos Pantanosos [e,s] 
+Tres Hoces.
+
+Zaycael te dice:   y e lo hizo jaja
+
+t Zaycael te lo hizo por remoto no?
+Preguntas a Zaycael:  te lo hizo por remoto no?
+
+t Zaycael xd
+Dices a Zaycael:  xd
+
+e
+Cultivos Pantanosos [n,o,e,s] 
+Tres Hoces.
+
+e
+Cultivos Pantanosos [n,o,e,s] 
+Tres Hoces.
+
+e
+
+] 
+Estás siendo atacado por Guardia Lagarto.
+Guardia Lagarto está aquí.
+Cultivos Pantanosos [n,o,e,so,s] 
+Cuatro Hoces.
+
+> # Rajas con fuerza a Guardia Lagarto.
+# Rajas con mucha fuerza a Guardia Lagarto.
+# Enfermas débilmente a Guardia Lagarto.
+
+[Obtienes 72 puntos de experiencia]
+
+e
+Cultivos Pantanosos [n,o,e,s] 
+Tres Hoces.
+
+s
+
+] 
+Zaycael te dice:   si
+
+Cultivos Pantanosos [n,o,e,s] 
+Dos Hoces.
+
+s
+Dos Esclavas Minotauro y Esclavo Humano están aquí.
+Cultivos Pantanosos [n,o,e] 
+
+t Zaycael wo mola
+Dices a Zaycael:  wo mola
+
+> Estás persiguiendo a Guardia Lagarto.
+
+e
+Cultivos Pantanosos [n,ne,o,e,se] 
+Charco de sangre
+
+e
+Dos Esclavos Goblin y dos Esclavas Goblin están aquí.
+Cultivos Pantanosos [o,e] 
+
+e
+
+] 
+Esclava Minotauro, Esclavo Minotauro, Esclavo Goblin y Esclavo Humano están aquí.
+Cultivos Pantanosos [o,e] 
+
+e
+Esclavo Goblin holgazán, Esclavo Minotauro, Esclavo Goblin y Esclavo Humano están aquí.
+Cultivos Pantanosos [no,ne,o,e,so] 
+
+so
+
+] 
+Esclava Humana y Esclavo Goblin están aquí.
+Cultivos Pantanosos [ne,o] 
+
+o
+Cultivos Pantanosos [no,so,e] 
+
+so
+
+] 
+Camino a los Cultivos de Maíz [o,ne] 
+
+o
+Camino a los Cultivos de Maíz [s,e] 
+
+Zaycael te dice:   creo que sabe hasta mi contraseña xd
+Tu capa derrama parte de la sangre que la recubre sobre el suelo.
+
+[Chat] Rength: me da un poco de miedo la misión espadas cortas para anduar
+
+[Chat] Borghild: ValKnut  va chapao? le haces algo?
+
+e
+Camino a los Cultivos de Maíz [o,ne] 
+
+[Chat] Droock: lag
+
+[El bloqueo 'Enredar' termina]
+
+Zaycael te dice:   si luevo veis a un odhibyr muy bueno, a mejor es el xd
+
+[Chat] Borghild: ValKnut  si no va chapao imagino q come bien
+
+[Chat] Rength: no va a entregar por error espadas del inventario no?
+
+Zaycael te dice:   jajaja
+
+ojear
+Camino a los Cultivos de Maíz [o,ne] 
+
+t Zaycael jajajaja
+Dices a Zaycael:  jajajaja
+
+[Chat] Rength: tipo azul aire luna borgoña?
+
+[Chat] Myresh: metelas en mochila xD
+
+t Zaycael normalmente la contraseña se oculta con *** xd
+Dices a Zaycael:  normalmente la contraseña se oculta con *** xd
+
+t Zaycael y no se ve
+Dices a Zaycael:  y no se ve
+
+ne
+Cultivos Pantanosos [no,so,e] 
+
+e
+Esclava Humana y Esclavo Goblin están aquí.
+Cultivos Pantanosos [ne,o] 
+
+ne
+Esclavo Goblin holgazán, Esclavo Minotauro, Esclavo Goblin y Esclavo Humano están aquí.
+Cultivos Pantanosos [no,ne,o,e,so] 
+
+e
+El aura que te rodeaba parpadea hasta desvanecerse.
+Pvs: 5233/5321 (-385) Pe: 1298/1408 (+10)
+Cultivos Pantanosos [ne,o] 
+
+ne
+Esclava Goblin está aquí.
+Cultivos Pantanosos [n,o,e,so] 
+
+e
+
+] 
+Esclavo Minotauro está aquí.
+Cultivos Pantanosos [no,o] 
+
+no
+Cultivos Pantanosos [n,ne,o,s,se] 
+Hoz.
+
+ne
+
+] 
+Esclavo Minotauro, dos Esclavos Goblin y Esclavo Humano están aquí.
+Cultivos Pantanosos [no,o,e,so] 
+
+e
+Esclava Humana, Esclavo Goblin y Esclava Goblin holgazana están aquí.
+Cultivos Pantanosos [o,e] 
+
+o
+Esclavo Minotauro, dos Esclavos Goblin y Esclavo Humano están aquí.
+Cultivos Pantanosos [no,o,e,so] 
+
+o
+Esclavo Goblin, dos Esclavas Goblin y Esclavo Humano están aquí.
+Cultivos Pantanosos [n,o,e,s] 
+
+pc
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+cle
+> 
+Comienzas a formular el hechizo 'Curar heridas ligeras'.
+
+peleas parar
+Empiezas a calmarte y reconsiderar a tus enemigos...
+
+Pronuncias el cántico: 'magius elis curis'
+Curas algunas de tus heridas más ligeras.
+
+[Obtienes 54 puntos de experiencia]
+
+Pvs: 4791/4791 (-442) Pe: 1299/1408 (+1)
+
+e
+Esclavo Minotauro, dos Esclavos Goblin y Esclavo Humano están aquí.
+Cultivos Pantanosos [no,o,e,so] 
+
+e
+Esclava Humana, Esclavo Goblin y Esclava Goblin holgazana están aquí.
+Cultivos Pantanosos [o,e] 
+
+e
+
+] 
+Camino a los Cultivos de Maíz [se,o] 
+
+Zaycael te dice:   digo la del mud
+
+o
+Esclava Humana, Esclavo Goblin y Esclava Goblin holgazana están aquí.
+Cultivos Pantanosos [o,e] 
+
+[El bloqueo 'Curar heridas ligeras' termina]
+
+Finalmente logras calmarte y olvidas tus peleas con Droock y cuatro Guardias.
+
+[Chat] Rength: vale como provisional eso está bien, pero alguna certeza de que no va a suceder?
+t Zaycael xddd
+
+Dices a Zaycael:  xddd
+
+o
+Esclavo Minotauro, dos Esclavos Goblin y Esclavo Humano están aquí.
+Cultivos Pantanosos [no,o,e,so] 
+
+os
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+Pvs: 5321/5321 (+530) Pe: 1298/1408 (0)
+
+[Chat] Rength: tipo identifica solo las armas conocidas como espada corta baseops?
+
+o
+Esclavo Goblin, dos Esclavas Goblin y Esclavo Humano están aquí.
+Cultivos Pantanosos [n,o,e,s] 
+
+o
+Droock (Hlag) está aquí.
+Esclava Goblin holgazana está aquí.
+Cultivos Pantanosos [n,ne,o,e,so,s] 
+Hoz y cuerpo de Esclavo.
+
+Droock detiene su búsqueda.
+
+z
++ Te preparas para ejecutar zarpazo.
+
+k x
+! Droock se prepara para ejecutar destripar sobre ti.
+Te encaras contra Droock en posición de combate.
+
+Droock (Hlag) se va hacia oeste.
+
+¡Tus objetivos ya no están al alcance de tu zarpazo!
+
+o
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,o,e,so,s,se] 
+Dos Hoces.
+
+z
++ Te preparas para ejecutar zarpazo.
+
+Droock (Hlag) se va hacia este.
+
+e
+Droock (Hlag) está aquí.
+Esclava Goblin holgazana está aquí.
+Cultivos Pantanosos [n,ne,o,e,so,s] 
+Hoz y cuerpo de Esclavo.
+
+sg
+Comienzas a seguir a Droock.
+
+# Rajas a Droock.
+# Rajas con poca fuerza a Droock.
+# Enfermas con poca intensidad a Droock.
+
+[Obtienes 34 puntos de experiencia]
+Droock comienza a serpentear a tu alrededor mientras se relame, buscando puntos ciegos en tus defensas.
+
+# ¡Alcanzas a Droock con tu maniobra de zarpazo!
+
+[Obtienes 96 puntos de experiencia]
+
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,o,e,so,s,se] 
+Dos Hoces.
+Sigues a Droock (Hlag) en dirección oeste.
+
+e
+Esclava Goblin holgazana está aquí.
+Cultivos Pantanosos [n,ne,o,e,so,s] 
+Hoz y cuerpo de Esclavo.
+
+e
+> 
+
+] 
+Droock te da esquinazo.
+
+Esclavo Goblin, dos Esclavas Goblin y Esclavo Humano están aquí.
+Cultivos Pantanosos [n,o,e,s] 
+
+pa
+o
+Estás persiguiendo a Droock.
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Pantera.
+
+> Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,ne,o,e,so,s] 
+Dos Hoces, cuerpo de Esclavo y cuerpo de Esclava.
+
+a
++ Comienzas a moverte tentativamente alrededor de Droock, buscando un flanco vulnerable para abalanzarte sobre él.
+
+! Droock se prepara para ejecutar destripar sobre ti.
+
+o
+
+] 
+ge
+Droock detiene su búsqueda.
+
+] 
+Cultivos Pantanosos [n,o,e,so,s,se] 
+Dos Hoces.
+
+] Estás persiguiendo a Droock.
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,ne,o,e,so,s] 
+Dos Hoces, cuerpo de Esclavo y cuerpo de Esclava.
+
+[Obtienes 2 puntos de experiencia]
+
+> Pvs: 4921/4921 (-400) Pe: 1284/1408 (-14)
+
+# ¡Te abalanzas sobre un sorprendido Droock y le despedazas con tres ataques de tus Garras y dientes!
+
+[Obtienes 152 puntos de experiencia]
+
+* ¡Logras esquivar a Droock y su destripar!
+
+Droock empieza a centrar sus golpes sobre ti.
+
+Droock (Hlag) se va hacia oeste.
+pc
+
+d
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+> El objetivo sslik,droock,trotix,temmins,ivash,sorz,borghild,myresh,kaluk,joisan,odihbyr no está aquí ahora mismo.
+
+d
+Ignorando 'formular retener persona:x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+o
+Pvs: 4791/4791 (-130) Pe: 1273/1408 (0)
+Cultivos Pantanosos [n,o,e,so,s,se] 
+Dos Hoces.
+
+o
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [no,n,o,e,s] 
+Tres Hoces.
+
+d
+> 
+Comienzas a formular el hechizo 'Retener persona'.
+
+estado -b x
+> 
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Droock 76%
+
+Empieza a llover.
+
+Droock (Hlag) se va hacia norte.
+
+n
+El destino de tu hechizo está fuera de alcance.
+
+] 
+Cultivos Pantanosos [n,o,e,s] 
+Hoz.
+
+n
+Droock (Hlag) está aquí.
+Esclavo Minotauro está aquí.
+Cultivos Pantanosos [no,n,o,e,s] 
+
+d
+> 
+Has agotado la energía necesaria para formular 'Retener persona' y debes descansar antes de poder usar ese tipo de energía.
+
+Droock (Hlag) se va hacia oeste.
+
+o
+
+] 
+Esclavo Goblin holgazán, Esclavo Goblin y Esclavo Humano están aquí.
+Cultivos Pantanosos [n,o,e,s] 
+
+> [El bloqueo 'zarpazo' termina]
+o
+
+Droock (Hlag) está aquí.
+Esclava Humana está aquí.
+Cultivos Pantanosos [no,n,ne,o,e,s,se] 
+Hoz.
+
+sg
+Intentas seguir a Droock, pero te da esquinazo.
+
+Droock (Hlag) se va hacia sur.
+
+s
+
+] 
+Cultivos Pantanosos [n,o,e,s] 
+Dos Hoces.
+
+s
+> 
+Cultivos Pantanosos [n,o,e,s] 
+Dos Hoces.
+
+e
+
+] 
+Cultivos Pantanosos [n,o,e,s] 
+Hoz.
+
+e
+Cultivos Pantanosos [no,n,o,e,s] 
+Tres Hoces.
+
+estado -b todo
+De un fugaz vistazo, examinas el estado de los que te rodean.
+No hay nadie en tu entorno.
+
+e
+
+] 
+Cultivos Pantanosos [n,o,e,so,s,se] 
+Dos Hoces.
+
+> [El bloqueo 'Retener persona' termina]
+
+estado -b todo
+De un fugaz vistazo, examinas el estado de los que te rodean.
+No hay nadie en tu entorno.
+
+e
+Cultivos Pantanosos [n,ne,o,e,so,s] 
+Dos Hoces, cuerpo de Esclavo y cuerpo de Esclava.
+
+e
+
+] 
+Esclavo Goblin, dos Esclavas Goblin y Esclavo Humano están aquí.
+Cultivos Pantanosos [n,o,e,s] 
+
+> [El bloqueo 'abalanzarse' termina]
+e
+
+Esclavo Minotauro, dos Esclavos Goblin y Esclavo Humano están aquí.
+Cultivos Pantanosos [no,o,e,so] 
+
+e
+
+] 
+Esclava Humana, Esclavo Goblin y Esclava Goblin holgazana están aquí.
+Cultivos Pantanosos [o,e] 
+
+se
+Parece que sudeste no produjo efecto alguno.
+
+e
+Camino a los Cultivos de Maíz [se,o] 
+
+se
+
+] 
+Camino a los Cultivos de Maíz [ne,no] 
+
+ne
+Orilla oeste del río Iaurduin [so,n] 
+
+n
+
+] 
+no
+
+] 
+Orilla oeste del río Iaurduin [s,no] 
+
+] Orilla oeste del río Iaurduin [se,n] 
+
+se
+
+s
+] 
+
+] 
+Orilla oeste del río Iaurduin [s,no] 
+El viento golpea fuertemente tu cuerpo haciéndote tambalear al andar.
+
+] Orilla oeste del río Iaurduin [so,n] 
+
+so
+
+] 
+Camino a los Cultivos de Maíz [ne,no] 
+
+no
+Camino a los Cultivos de Maíz [se,o] 
+
+[Chat] Kaluk: dejalas en suelo todas las espadas, coge la azul y aire y mira a ver si te las cuenta en la libreta
+
+o
+
+] 
+Esclava Humana, Esclavo Goblin y Esclava Goblin holgazana están aquí.
+Cultivos Pantanosos [o,e] 
+
+o
+Esclavo Minotauro, dos Esclavos Goblin y Esclavo Humano están aquí.
+Cultivos Pantanosos [no,o,e,so] 
+
+o
+Esclavo Goblin, dos Esclavas Goblin y Esclavo Humano están aquí.
+Cultivos Pantanosos [n,o,e,s] 
+
+o
+Cultivos Pantanosos [n,ne,o,e,so,s] 
+Dos Hoces, cuerpo de Esclavo y cuerpo de Esclava.
+
+chat no creo que las entregue
+[Chat] Enorthus: no creo que las entregue
+
+o
+Cultivos Pantanosos [n,o,e,so,s,se] 
+Dos Hoces.
+
+o
+Cultivos Pantanosos [no,n,o,e,s] 
+Tres Hoces.
+
+o
+Cultivos Pantanosos [n,o,e,s] 
+Hoz.
+
+s
+Cultivos Pantanosos [n,o,e,s] 
+
+e
+
+] 
+Cultivos Pantanosos [n,ne,o,e,s] 
+Tres Hoces.
+
+[Chat] Rength: ya no va a contar, ya las he cogido todas
+
+[Chat] Droock: que pesaito
+
+pa
+e
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Pantera.
+
+> Cultivos Pantanosos [n,ne,o,e,so,s] 
+Cuatro Hoces.
+
+e
+Cultivos Pantanosos [no,n,o,e,s] 
+
+e
+
+] 
+Cultivos Pantanosos [n,ne,o,s,se] 
+Hoz.
+
+> Pvs: 4921/4921 (+130) Pe: 1280/1408 (+7)
+
+e
+Parece que este no produjo efecto alguno.
+
+se
+Esclavo Minotauro está aquí.
+Cultivos Pantanosos [no,o] 
+
+chat podria seguir sigilando e
+[Chat] Enorthus: podria seguir sigilando e
+
+chat te estoy yendo a pecho descubierto
+[Chat] Enorthus: te estoy yendo a pecho descubierto
+
+chat xd
+[Chat] Enorthus: xd
+
+Esclavo Minotauro levanta un pesado saco de grano y lo esparce por los alrededores.
+
+chat encima xd
+[Chat] Enorthus: encima xd
+
+o
+Esclava Goblin está aquí.
+Cultivos Pantanosos [n,o,e,so] 
+
+o
+Esclava Minotauro, Esclavo Minotauro y dos Esclavos Humanos están aquí.
+Cultivos Pantanosos [n,o,e,so] 
+
+o
+
+] 
+Estás siendo atacado por Guardia Lagarto.
+Guardia Lagarto está aquí.
+Cultivos Pantanosos [n,o,e] 
+Hoz y restos de cuerpo.
+
+o
+Cultivos Pantanosos [n,ne,o,e,se] 
+Hoz.
+
+o
+
+] 
+Cultivos Pantanosos [no,n,o,e,so] 
+Cuatro Hoces.
+
+> Estás persiguiendo a Guardia Lagarto.
+
+o
+Cultivos Pantanosos [n,o,e,s] 
+Hoz.
+
+o
+
+] 
+Cultivos Pantanosos [n,o,e,s] 
+Dos Hoces.
+
+[Chat] Droock: pera que termine y te doy amor
+o
+
+Cultivos Pantanosos [n,o,e,s] 
+
+s
+Esclava Humana, Esclavo Minotauro y dos Esclavas Goblin están aquí.
+Cultivos Pantanosos [no,n,e] 
+
+o
+Parece que oeste no produjo efecto alguno.
+
+e
+Dos Esclavas Minotauro y Esclavo Humano están aquí.
+Cultivos Pantanosos [n,o,e] 
+
+e
+Cultivos Pantanosos [n,ne,o,e,se] 
+Charco de sangre
+
+e
+
+] 
+Dos Esclavos Goblin y dos Esclavas Goblin están aquí.
+Cultivos Pantanosos [o,e] 
+
+chat me mola mas asi
+[Chat] Enorthus: me mola mas asi
+
+chat xddd
+[Chat] Enorthus: xddd
+
+[Vaenes orbita al Limbo]
+
+e
+Esclava Minotauro, Esclavo Minotauro, Esclavo Goblin y Esclavo Humano están aquí.
+Cultivos Pantanosos [o,e] 
+
+e
+Esclavo Goblin holgazán, Esclavo Minotauro, Esclavo Goblin y Esclavo Humano están aquí.
+Cultivos Pantanosos [no,ne,o,e,so] 
+
+e
+
+] Cultivos Pantanosos [ne,o] 
+
+e
+Parece que este no produjo efecto alguno.
+
+o
+Esclavo Goblin holgazán, Esclavo Minotauro, Esclavo Goblin y Esclavo Humano están aquí.
+Cultivos Pantanosos [no,ne,o,e,so] 
+
+so
+Esclava Humana y Esclavo Goblin están aquí.
+Cultivos Pantanosos [ne,o] 
+
+o
+Cultivos Pantanosos [no,so,e] 
+
+no
+
+] 
+Cultivos Pantanosos [n,ne,o,e,se] 
+Charco de sangre
+
+o
+Dos Esclavas Minotauro y Esclavo Humano están aquí.
+Cultivos Pantanosos [n,o,e] 
+
+o
+Esclava Humana, Esclavo Minotauro y dos Esclavas Goblin están aquí.
+Cultivos Pantanosos [no,n,e] 
+
+on
+Parece que on no produjo efecto alguno.
+
+no
+Cultivos Pantanosos [n,ne,o,e,se] 
+Hoz.
+
+o
+Cultivos Pantanosos [n,o,e] 
+
+o
+Cultivos Pantanosos [n,e] 
+
+n
+
+] 
+Cultivos Pantanosos [e,s] 
+Tres Hoces.
+
+e
+Cultivos Pantanosos [n,o,e,s] 
+Tres Hoces.
+
+e
+
+] 
+Cultivos Pantanosos [n,o,e,s] 
+Tres Hoces.
+
+os
+e
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+> Estás siendo atacado por Guardia Lagarto.
+Guardia Lagarto está aquí.
+Cultivos Pantanosos [n,o,e,so,s] 
+Cuatro Hoces.
+
+e
+
+] 
+Cultivos Pantanosos [n,o,e,s] 
+Tres Hoces.
+
+> Estás persiguiendo a Guardia Lagarto.
+Pvs: 5321/5321 (+400) Pe: 1287/1408 (+7)
+
+e
+Cultivos Pantanosos [no,n,o,e,s,se] 
+Cuatro Hoces.
+
+e
+
+] 
+Cultivos Pantanosos [n,o,e,s] 
+
+e
+Cultivos Pantanosos [n,ne,o,e,s] 
+Tres Hoces.
+
+e
+
+] 
+Cultivos Pantanosos [n,ne,o,e,so,s] 
+Cuatro Hoces.
+
+e
+Cultivos Pantanosos [no,n,o,e,s] 
+
+e
+
+z
+] 
+] 
+Cultivos Pantanosos [n,ne,o,s,se] 
+Hoz.
+
+] No hay nadie aquí reconocible como sslik,droock,trotix,temmins,ivash,sorz,borghild,myresh,kaluk,joisan,odihbyr.
+
+e
+Parece que este no produjo efecto alguno.
+
+se
+Esclavo Minotauro está aquí.
+Cultivos Pantanosos [no,o] 
+
+o
+
+] Esclava Goblin está aquí.
+Cultivos Pantanosos [n,o,e,so] 
+
+o
+Esclava Minotauro, Esclavo Minotauro y dos Esclavos Humanos están aquí.
+Cultivos Pantanosos [n,o,e,so] 
+
+o
+
+] 
+Guardia Lagarto está aquí.
+Cultivos Pantanosos [n,o,e] 
+Hoz y restos de cuerpo.
+
+o
+Cultivos Pantanosos [n,ne,o,e,se] 
+Hoz.
+
+z
+No hay nadie aquí reconocible como sslik,droock,trotix,temmins,ivash,sorz,borghild,myresh,kaluk,joisan,odihbyr.
+
+o
+
+] 
+Cultivos Pantanosos [no,n,o,e,so] 
+Cuatro Hoces.
+
+o
+Cultivos Pantanosos [n,o,e,s] 
+Hoz.
+
+o
+
+] 
+Cultivos Pantanosos [n,o,e,s] 
+Dos Hoces.
+
+s
+Dos Esclavas Minotauro y Esclavo Humano están aquí.
+Cultivos Pantanosos [n,o,e] 
+
+e
+
+] 
+Cultivos Pantanosos [n,ne,o,e,se] 
+Charco de sangre
+
+e
+Dos Esclavos Goblin y dos Esclavas Goblin están aquí.
+Cultivos Pantanosos [o,e] 
+
+e
+
+] 
+Esclava Minotauro, Esclavo Minotauro, Esclavo Goblin y Esclavo Humano están aquí.
+Cultivos Pantanosos [o,e] 
+
+e
+Esclavo Goblin holgazán, Esclavo Minotauro, Esclavo Goblin y Esclavo Humano están aquí.
+Cultivos Pantanosos [no,ne,o,e,so] 
+
+e
+
+] 
+Cultivos Pantanosos [ne,o] 
+
+ne
+Esclava Goblin está aquí.
+Cultivos Pantanosos [n,o,e,so] 
+
+n
+
+] 
+Cultivos Pantanosos [n,ne,o,s,se] 
+Hoz.
+
+ne
+Droock (Hlag) está aquí.
+Esclavo Goblin está aquí.
+Cultivos Pantanosos [no,o,e,so] 
+Tres Hoces y tres cuerpos de Esclavo.
+
+z
++ Te preparas para ejecutar zarpazo.
+
+s
+
+] ! Droock se prepara para ejecutar destripar sobre ti.
+
+Parece que sur no produjo efecto alguno.
+
+> # Rajas críticamente a Droock.
+# Rajas a Droock.
+# Enfermas con poca intensidad a Droock.
+
+[Obtienes 74 puntos de experiencia]
+
+sg
+Droock (Hlag) se va hacia oeste.
+No veo a droock por aquí.
+
+¡Tus objetivos ya no están al alcance de tu zarpazo!
+
+Droock (Hlag) llega desde el oeste.
+o
+
+Cultivos Pantanosos [n,o,e,s] 
+Cuatro Hoces.
+
+co
+e
+Estás persiguiendo a Droock.
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Cocodrilo.
+
+> Droock (Hlag) está aquí.
+Esclavo Goblin está aquí.
+Cultivos Pantanosos [no,o,e,so] 
+Tres Hoces y tres cuerpos de Esclavo.
+
+Pvs: 5421/5421 (+100) Pe: 1283/1408 (-4)
+sg
+
+Intentas seguir a Droock, pero te da esquinazo.
+
+* Droock te raja con poca fuerza.
+* Droock te raja con fuerza y de forma superficial.
+
+hi
+dn
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Hiena.
+
+> + Te preparas para ejecutar dentellada.
+
+# ¡Alcanzas a Droock con tu maniobra de dentellada!
+
+[Obtienes 50 puntos de experiencia]
+
+estado -b x
+# Perforas críticamente a Droock.
+¡Tu golpe causa una profunda herida a Droock en una pierna!
+# Enfermas con poca intensidad a Droock.
+
+[Obtienes 50 puntos de experiencia]
+Pvs: 5161/5241 (-260) Pe: 1273/1408 (-10)
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Droock 78%
+
+Droock (Hlag) se va hacia oeste.
+
+o
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,o,e,s] 
+Cuatro Hoces.
+
+pa
+Droock empieza a inspeccionar la zona detenidamente.
+
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Pantera.
+
+Droock comienza a serpentear a tu alrededor mientras se relame, buscando puntos ciegos en tus defensas.
+
+a
++ Comienzas a moverte tentativamente alrededor de Droock, buscando un flanco vulnerable para abalanzarte sobre él.
+
+Droock (Hlag) se va hacia este.
+
+Pvs: 4841/4921 (-320) Pe: 1273/1408 (0)
+
+o
+Cultivos Pantanosos [n,ne,o,e,so,s] 
+Dos Hoces, cuerpo de Esclavo y cuerpo de Esclava.
+
+ge
+Estás persiguiendo a Droock.
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,o,e,s] 
+Cuatro Hoces.
+
+[Obtienes 2 puntos de experiencia]
+
+# ¡Te abalanzas sobre un sorprendido Droock y le despedazas con cuatro ataques de tus Garras y dientes!
+
+[Obtienes 134 puntos de experiencia]
+
+* Droock se abalanza sobre ti y te muerde con sus poderosas fauces.
+
+Droock intenta seguirte pero le das esquinazo.
+
+# Rajas con poca fuerza a Droock.
+# Perforas débilmente a Droock.
+# Enfermas con poca intensidad a Droock.
+
+[Obtienes 28 puntos de experiencia]
+Pvs: 4311/4921 (-530) Pe: 1262/1408 (-1)
+
+Esclavo Goblin está aquí.
+Cultivos Pantanosos [no,o,e,so] 
+Tres Hoces y tres cuerpos de Esclavo.
+Droock te arrastra con sus poderosas fauces en dirección este.
+
+ac
+Murmullas unas palabras de poder y acaricias tu Anillo del Héroe de la Luz, que responde a tus palabras emitiendo una luz blanquecina y palpitando con energía.
+
+o
+Forcejeas, en vano, tratando de librarte del mordisco de Droock.
+
+* Droock continúa mordiéndote, reteniéndote junto a él y dañándote.
+
+Droock logra esquivar el ataque de Esclavo Goblin.
+
+Pvs: 4148/4921 (-163) Pe: 1262/1408 (0)
+stop
+
+Cola de comandos borrada ('peleas parar' detendrá los combates si es lo que querías).
+> 
+pc
+El mordisco de Droock te impide ejecutar ese comando.
+Parece que polimorfarse acabar no produjo efecto alguno.
+
+* Droock te raja con mucha fuerza.
+* Droock te raja con increíble potencia.
+
+pc
+El mordisco de Droock te impide ejecutar ese comando.
+Parece que polimorfarse acabar no produjo efecto alguno.
+
+pc
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+pc
+No estás afectado por el polimorfismo para necesitar terminarlo.
+
+# Aplastas débilmente a Droock.
+
+[Obtienes 6 puntos de experiencia]
+Pvs: 3533/4791 (-615) Pe: 1262/1408 (0)
+
+pc
+No estás afectado por el polimorfismo para necesitar terminarlo.
+
+d
+> * Droock continúa mordiéndote, reteniéndote junto a él y dañándote.
+Comienzas a formular el hechizo 'Retener persona'.
+
+El poder de tu Anillo del Héroe de la Luz inunda tu cuerpo y te sientes mucho más fuerte.
+d
+
+Ignorando 'formular retener persona:x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+d
+Ignorando 'formular retener persona:x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+d
+> 
+Ignorando 'formular retener persona:x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+Dices en adurn: 'amri xeno haltem'
+Logras zafarte del mordisco de Droock.
+Paralizas a Droock mediante una fuerza divina que le rodea.
+
+[Obtienes 130 puntos de experiencia]
+
+Esclavo Goblin golpea a Droock en una mano sin producir ningún daño.
+
+Pvs: 3704/5191 (+171) Pe: 1262/1408 (0)
+
+os
+z
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+Droock no puede atacar a nadie ya que algo le retiene.
++ Te preparas para ejecutar zarpazo.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Droock 65%
+
+z
+Ignorando 'zarpazo x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+stop
+Cola de comandos borrada ('peleas parar' detendrá los combates si es lo que querías).
+> 
+# ¡Alcanzas a Droock con tu maniobra de zarpazo!
+
+[Obtienes 84 puntos de experiencia]
+# Rajas críticamente a Droock.
+# Rajas con poca fuerza a Droock.
+# Enfermas con poca intensidad a Droock.
+
+[Obtienes 50 puntos de experiencia]
+Pvs: 4234/5721 (+530) Pe: 1252/1408 (0)
+[El bloqueo 'dentellada' termina]
+
+co
+g
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Cocodrilo.
+
+> Comienzas a serpentear alrededor de Droock, buscando puntos ciegos por donde puedas agarrarle con tus temibles fauces.
+
+g
+Ignorando 'mordisco x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+g
+> 
+Ignorando 'mordisco x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+Droock intenta escapar de una fuerza que le retiene, pero no lo consigue.
+estado -b x
+
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Droock 54%
+
+Esclavo Goblin golpea a Droock en un pie sin producir ningún daño.
+
+Pvs: 4334/5821 (+100) Pe: 1245/1408 (0)
+
+stop
+Cola de comandos borrada ('peleas parar' detendrá los combates si es lo que querías).
+> 
+Droock no puede atacar a nadie ya que algo le retiene.
+# Muerdes a Droock en una pierna, destrozándole carne y huesos.
+
+[Obtienes 60 puntos de experiencia]
+
+c
++ Te preparas para ejecutar zarandear.
+
+c
+> 
+Ignorando 'zarandear'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+estado -b x
+> 
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Droock 49%
+
+# ¡Alcanzas a Droock con tu maniobra de zarandear!
+
+[Obtienes 100 puntos de experiencia]
+# Perforas con mucha fuerza a Droock.
+# Enfermas débilmente a Droock.
+# Laceras a Droock.
+
+[Obtienes 18 puntos de experiencia]
+
+[Obtienes 40 puntos de experiencia]
+
+os
+z
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+> Necesitarás acumular un poco más de fuerza para descargar otro zarpazo como el anterior.
+
+Droock intenta escapar de una fuerza que le retiene, pero no lo consigue.
+
+stop
+Cola de comandos borrada ('peleas parar' detendrá los combates si es lo que querías).
+> 
+Esclavo Goblin golpea a Droock en el pecho sin producir ningún daño.
+
+Pvs: 4234/5721 (-100) Pe: 1224/1408 (-18)
+[El bloqueo 'abalanzarse' termina]
+
+Droock intenta escapar de una fuerza que le retiene, pero no lo consigue.
+
+pc
+Droock no puede atacar a nadie ya que algo le retiene.
+
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+cl
+Comienzas a formular el hechizo 'Columna de fuego'.
+
+ba
+> 
+Dejas de sostener tu Cetro del Presbítero.
+
+Empuñas tu Báculo de los tres elementos.
+
+} 
+Droock murmura unas palabras de poder y acaricia su Anillo del Héroe de la Oscuridad, que comienza a iluminarse y a palpitar con energía.
+
+Droock intenta escapar de una fuerza que le retiene, pero no lo consigue.
+
+Pronuncias el cántico: 'flamious os colus'
+¡Invocas una columna de fuego sobre Droock que le alcanza parcialmente!
+
+[Obtienes 130 puntos de experiencia]
+Finalmente equilibras la Báculo de los tres elementos.
+# Aplastas a Droock.
+
+[Obtienes 18 puntos de experiencia]
+Pvs: 3704/5191 (-530) Pe: 1224/1408 (0)
+
+re
+Comienzas a formular el hechizo 'Relámpago'.
+
+re
+Ignorando 'formular relampago:x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+re
+Droock intenta escapar de una fuerza que le retiene, pero no lo consigue.
+Ignorando 'formular relampago:x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Droock 31%
+
+Pronuncias el cántico: 'elect xen cefit'
+# ¡El cielo ruge cuando invocas un relámpago que cae sobre Droock!
+¡Las fuerzas naturales que se están desatando en tu entorno potencian tu hechizo!
+
+[Obtienes 262 puntos de experiencia]
+
+Esclavo Goblin golpea a Droock en una mano sin producir ningún daño.
+
+Droock intenta escapar de una fuerza que le retiene, pero no lo consigue.
+[El bloqueo 'zarpazo' termina]
+
+os
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+Droock no puede atacar a nadie ya que algo le retiene.
+
+Droock queda liberado de la fuerza que le retenía.
+z
+
++ Te preparas para ejecutar zarpazo.
+
+sg
+Droock parece estar muy atento y no tener ganas de que le sigas.
+
+Droock (Hlag) se va hacia oeste.
+
+o
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,o,e,s] 
+Cuatro Hoces.
+
+Droock (Hlag) se va hacia oeste.
+
+Estás persiguiendo a Droock.
+Pvs: 4234/5721 (+530) Pe: 1204/1408 (-13)
+
+¡Tus objetivos ya no están al alcance de tu zarpazo!
+
+o
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,ne,o,e,so,s] 
+Dos Hoces, cuerpo de Esclavo y cuerpo de Esclava.
+
+Droock (Hlag) se va hacia norte.
+
+z
+No hay nadie aquí reconocible como sslik,droock,trotix,temmins,ivash,sorz,borghild,myresh,kaluk,joisan,odihbyr.
+
+n
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [o,e,s] 
+
+Droock (Hlag) se va hacia oeste.
+z
+
+No hay nadie aquí reconocible como sslik,droock,trotix,temmins,ivash,sorz,borghild,myresh,kaluk,joisan,odihbyr.
+
+o
+Estás siendo atacado por Guardia Lagarto.
+Droock (Hlag) está aquí.
+Guardia Lagarto está aquí.
+Cultivos Pantanosos [n,ne,o,e,s] 
+Hoz.
+
+z
+> 
++ Te preparas para ejecutar zarpazo.
+
+sg
+> 
+Droock parece estar muy atento y no tener ganas de que le sigas.
+
+> * Droock te raja con mucha fuerza.
+* Droock te raja con mucha fuerza.
+
+Droock (Hlag) se va hacia este.
+
+se
+Parece que sudeste no produjo efecto alguno.
+
+¡Tus objetivos ya no están al alcance de tu zarpazo!
+e
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [o,e,s] 
+
+Estás persiguiendo a Guardia Lagarto.
+# Rajas con poca fuerza a Droock.
+# Rajas a Droock.
+# Enfermas débilmente a Droock.
+
+[Obtienes 44 puntos de experiencia]
+Pvs: 3879/5721 (-355) Pe: 1191/1408 (-6)
+
+z
++ Te preparas para ejecutar zarpazo.
+
+! Droock se prepara para ejecutar destripar sobre ti.
+
+# ¡Alcanzas a Droock con tu maniobra de zarpazo!
+
+[Obtienes 138 puntos de experiencia]
+
+[El bloqueo 'Columna de fuego' termina]
+
+Droock (Hlag) se va hacia oeste.
+
+Droock (Hlag) llega desde el oeste.
+
+Droock traga, no sin mostrar un esfuerzo considerable, la masa gelatinosa que movía de un carrillo a otro. Acto seguido, e forma mágica e instantánea, algunas de las heridas que
+le recubrían se cierran mágicamente.
+
+# Rajas a Droock.
+# Rajas con poca fuerza a Droock.
+# Enfermas con poca intensidad a Droock.
+
+[Obtienes 46 puntos de experiencia]
+Droock comienza a serpentear a tu alrededor mientras se relame, buscando puntos ciegos en tus defensas.
+
+pa
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Pantera.
+
+o
+Guardia Lagarto está aquí.
+Cultivos Pantanosos [n,ne,o,e,s] 
+Hoz.
+
+ge
+Estás persiguiendo a Droock.
+No es posible sigilar, estás inmerso en una lucha.
+
+a
+> 
+No hay nadie aquí reconocible como sslik,droock,trotix,temmins,ivash,sorz,borghild,myresh,kaluk,joisan,odihbyr.
+
+estado -b x
+No se ha encontrado ningún objeto que responda al nombre sslik,droock,trotix,temmins,ivash,sorz,borghild,myresh,kaluk,joisan,odihbyr.
+
+Pvs: 3483/5321 (-396) Pe: 1185/1408 (-6)
+
+e
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [o,e,s] 
+
+Droock (Hlag) se va hacia oeste.
+
+o
+Droock (Hlag) está aquí.
+Guardia Lagarto está aquí.
+Cultivos Pantanosos [n,ne,o,e,s] 
+Hoz.
+
+Droock empieza a inspeccionar la zona detenidamente.
+
+# Rajas a Droock.
+# Perforas a Droock.
+# Enfermas con poca intensidad a Droock.
+
+[Obtienes 46 puntos de experiencia]
+[El bloqueo 'Relámpago' termina]
+
+a
++ Comienzas a moverte tentativamente alrededor de Droock, buscando un flanco vulnerable para abalanzarte sobre él.
+
+Droock detiene su búsqueda.
+
+o
+Cultivos Pantanosos [n,o,e,s] 
+Hoz.
+
+ge
+Estás persiguiendo a Droock y Guardia Lagarto.
+Guardia Lagarto está aquí.
+Cultivos Pantanosos [n,ne,o,e,s] 
+Hoz.
+
+[Obtienes 2 puntos de experiencia]
+
+estado -b x
+No se ha encontrado ningún objeto que responda al nombre sslik,droock,trotix,temmins,ivash,sorz,borghild,myresh,kaluk,joisan,odihbyr.
+
+e
+¡Tus objetivos ya no están al alcance de tu abalanzarse!
+
+] Droock (Hlag) está aquí.
+Cultivos Pantanosos [o,e,s] 
+
+> [El bloqueo 'mordisco' termina]
+
+Droock (Hlag) se va hacia oeste.
+
+estado -b x
+No se ha encontrado ningún objeto que responda al nombre sslik,droock,trotix,temmins,ivash,sorz,borghild,myresh,kaluk,joisan,odihbyr.
+
+o
+Droock (Hlag) está aquí.
+Guardia Lagarto está aquí.
+Cultivos Pantanosos [n,ne,o,e,s] 
+Hoz.
+
+Droock empieza a inspeccionar la zona detenidamente.
+
+a
++ Comienzas a moverte tentativamente alrededor de Droock, buscando un flanco vulnerable para abalanzarte sobre él.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Droock 32%
+
+! Droock se prepara para ejecutar destripar sobre ti.
+
+# Rajas a Guardia Lagarto.
+# Perforas a Guardia Lagarto.
+# Enfermas con poca intensidad a Guardia Lagarto.
+
+[Obtienes 50 puntos de experiencia]
+[El bloqueo 'zarpazo' termina]
+
+Droock detiene su búsqueda.
+
+# ¡Te abalanzas sobre un costado de Droock, destrozándole con tres ataques de tus Garras y dientes!
+
+[Obtienes 122 puntos de experiencia]
+o
+
+Cultivos Pantanosos [n,o,e,s] 
+Hoz.
+
+o
+Cultivos Pantanosos [no,n,o,e,s,se] 
+Tres Hoces.
+
+os
+Estás persiguiendo a Droock y Guardia Lagarto.
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+e
+> 
+
+] Cultivos Pantanosos [n,o,e,s] 
+Hoz.
+
+> Pvs: 3885/5721 (+402) Pe: 1164/1408 (-21)
+
+Droock (Hlag) llega desde el este.
+
+* Droock te raja con fuerza y de forma superficial.
+* Droock te raja con mucha fuerza.
+sg
+
+Droock parece estar muy atento y no tener ganas de que le sigas.
+
+z
+> 
+Droock (Hlag) se va hacia oeste.
+
+No hay nadie aquí reconocible como sslik,droock,trotix,temmins,ivash,sorz,borghild,myresh,kaluk,joisan,odihbyr.
+
+Droock (Hlag) llega desde el oeste.
+o
+
+Cultivos Pantanosos [no,n,o,e,s,se] 
+Tres Hoces.
+
+sg
+> 
+No veo a droock por aquí.
+
+z
+> 
+No hay nadie aquí reconocible como sslik,droock,trotix,temmins,ivash,sorz,borghild,myresh,kaluk,joisan,odihbyr.
+
+e
+Pvs: 3564/5721 (-321) Pe: 1164/1408 (0)
+[El bloqueo 'Tentáculo tumefacto' termina]
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,o,e,s] 
+Hoz.
+
+sg
+Comienzas a seguir a Droock.
+
+z
+> 
++ Te preparas para ejecutar zarpazo.
+
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [no,n,o,e,s,se] 
+Tres Hoces.
+Sigues a Droock (Hlag) en dirección oeste.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Droock 24%
+
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,o,e,s] 
+Charco de sangre.
+Hoz.
+Sigues a Droock (Hlag) en dirección este.
+
+# ¡Alcanzas a Droock con tu maniobra de zarpazo!
+
+[Obtienes 134 puntos de experiencia]
+
+hi
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Hiena.
+
+> Droock te da esquinazo.
+dn
+
++ Te preparas para ejecutar dentellada.
+
+> * Droock te raja violentamente y de forma superficial.
+* Droock te raja con increíble potencia.
+* Droock te lacera de forma superficial.
+estado -b x
+
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Droock 17%
+
+Droock (Hlag) se va hacia oeste.
+¡Tus objetivos ya no están al alcance de tu dentellada!
+
+o
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [no,n,o,e,s,se] 
+Tres Hoces.
+
+# Perforas violentamente a Droock.
+# Enfermas con poca intensidad a Droock.
+
+[Obtienes 58 puntos de experiencia]
+Pvs: 2831/5641 (-733) Pe: 1147/1408 (-17)
+
+o
+Cultivos Pantanosos [n,o,e,s] 
+Dos Hoces.
+
+pc
+Estás persiguiendo a Droock.
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+e
+> 
+Cultivos Pantanosos [no,n,o,e,s,se] 
+Tres Hoces.
+
+e
+
+] 
+cme
+
+] 
+Cultivos Pantanosos [n,o,e,s] 
+Charco de sangre.
+Hoz.
+
+] Comienzas a formular el hechizo 'Curar heridas moderadas'.
+
+> Pvs: 2381/5191 (-450) Pe: 1148/1408 (+1)
+
+ojear
+Cultivos Pantanosos [n,o,e,s] 
+Charco de sangre.
+Hoz.
+
+[Chat] Rength: a ver si encuentro en el suelo un bastón del martirizador que darle a elrich
+
+Pronuncias el cántico: 'magius modus curis'
+Curas algunas de tus heridas más moderadas.
+
+[Obtienes 484 puntos de experiencia]
+ac
+
+Has usado el poder del anillo recientemente y has de descansar antes de someterte de nuevo a sus influjos.
+
+> Pvs: 3510/5191 (+1129) Pe: 1148/1408 (0)
+
+e
+Guardia Lagarto está aquí.
+Cultivos Pantanosos [n,ne,o,e,s] 
+Hoz.
+
+e
+Cultivos Pantanosos [o,e,s] 
+
+e
+
+] 
+Cultivos Pantanosos [no,n,o,so,s,se] 
+Hoz.
+
+[Chat] Rength: xdd
+
+e
+Parece que este no produjo efecto alguno.
+
+se
+Esclavo Goblin está aquí.
+Cultivos Pantanosos [no,o,e,so] 
+Tres Hoces y tres cuerpos de Esclavo.
+
+e
+
+] 
+Esclava Humana, Esclavo Goblin y Esclava Goblin holgazana están aquí.
+Cultivos Pantanosos [o,e] 
+
+> [El bloqueo 'abalanzarse' termina]
+[El bloqueo 'zarpazo' termina]
+
+e
+Camino a los Cultivos de Maíz [se,o] 
+
+se
+
+] 
+ne
+
+] 
+Camino a los Cultivos de Maíz [ne,no] 
+
+] Orilla oeste del río Iaurduin [so,n] 
+
+hi
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Hiena.
+
+can
+> 
+Sueltas tus armas para echar a correr.
+Dejas de sostener tu Reliquia Divina de la Persistencia.
+Dejas de sostener tu Espolón enmohecido de Constructo.
+Haciendo un esfuerzo corres como un poseso.
+Orilla oeste del río Iaurduin [s,no] 
+Orilla oeste del río Iaurduin [se,n] 
+Orilla oeste del río Iaurduin [s,ne] 
+Orilla oeste del río Iaurduin [so,n] 
+Orilla oeste del río Iaurduin [s,n] 
+
+ojear
+Orilla oeste del río Iaurduin [s,n] 
+
+stop
+Cola de comandos borrada ('peleas parar' detendrá los combates si es lo que querías).
+> 
+s
+
+] Orilla oeste del río Iaurduin [so,n] 
+El viento golpea fuertemente tu cuerpo haciéndote tambalear al andar.
+
+> Pvs: 3700/5381 (+190) Pe: 1132/1408 (-13)
+[El bloqueo 'Curar heridas moderadas' termina]
+
+so
+Orilla oeste del río Iaurduin [s,ne] 
+
+os
+s
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+] 
+[Chat] Rength: lo peor es que vale lo mismo que el de chamdar
+
+Orilla oeste del río Iaurduin [se,n] 
+El viento golpea fuertemente tu cuerpo haciéndote tambalear al andar.
+
+> Pvs: 4040/5721 (+340) Pe: 1127/1408 (0)
+
+se
+Orilla oeste del río Iaurduin [s,no] 
+
+s
+
+] 
+so
+
+] 
+Orilla oeste del río Iaurduin [so,n] 
+
+] Camino a los Cultivos de Maíz [ne,no] 
+
+pc
+> 
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+cme
+> 
+Comienzas a formular el hechizo 'Curar heridas moderadas'.
+
+Pvs: 3510/5191 (-530) Pe: 1127/1408 (0)
+Salvando...
+
+Pronuncias el cántico: 'magius modus curis'
+Curas algunas de tus heridas más moderadas.
+
+[Obtienes 438 puntos de experiencia]
+
+no
+Camino a los Cultivos de Maíz [se,o] 
+
+o
+Esclava Humana, Esclavo Goblin y Esclava Goblin holgazana están aquí.
+Cultivos Pantanosos [o,e] 
+
+Pvs: 4524/5191 (+1014) Pe: 1127/1408 (0)
+
+o
+Esclavo Goblin está aquí.
+Cultivos Pantanosos [no,o,e,so] 
+Tres Hoces y tres cuerpos de Esclavo.
+
+cle
+Comienzas a formular el hechizo 'Curar heridas ligeras'.
+
+[Chat] Droock: menudo retener mas largo
+
+Pronuncias el cántico: 'magius elis curis'
+Curas algunas de tus heridas más ligeras.
+
+[Obtienes 286 puntos de experiencia]
+
+mo
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Mono.
+
+se
+> 
+Parece que sudeste no produjo efecto alguno.
+
+so
+Pvs: 5061/5061 (+537) Pe: 1124/1408 (0)
+Cultivos Pantanosos [n,ne,o,s,se] 
+Hoz.
+
+se
+Esclavo Minotauro está aquí.
+Cultivos Pantanosos [no,o] 
+
+chat como mi...
+[Chat] Enorthus: como mi...
+
+> [El bloqueo 'Curar heridas moderadas' termina]
+
+cgat
+Parece que cgat no produjo efecto alguno.
+
+chat xddd
+[Chat] Enorthus: xddd
+
+o
+Esclava Goblin está aquí.
+Cultivos Pantanosos [n,o,e,so] 
+
+so
+Cultivos Pantanosos [ne,o] 
+
+o
+Esclavo Goblin holgazán, Esclavo Minotauro, Esclavo Goblin y Esclavo Humano están aquí.
+Cultivos Pantanosos [no,ne,o,e,so] 
+
+mo
+Ya estás adoptando esa forma mórfica.
+
+so
+Esclava Humana y Esclavo Goblin están aquí.
+Cultivos Pantanosos [ne,o] 
+
+o
+Cultivos Pantanosos [no,so,e] 
+
+no
+
+] 
+Cultivos Pantanosos [n,ne,o,e,se] 
+
+> [El bloqueo 'Curar heridas ligeras' termina]
+
+o
+Dos Esclavas Minotauro y Esclavo Humano están aquí.
+Cultivos Pantanosos [n,o,e] 
+
+o
+
+] 
+Esclava Humana, Esclavo Minotauro y dos Esclavas Goblin están aquí.
+Cultivos Pantanosos [no,n,e] 
+
+o
+Parece que oeste no produjo efecto alguno.
+
+no
+Cultivos Pantanosos [n,ne,o,e,se] 
+Hoz.
+
+o
+
+] 
+Cultivos Pantanosos [n,o,e] 
+
+o
+Cultivos Pantanosos [n,e] 
+
+n
+
+] 
+Cultivos Pantanosos [e,s] 
+Tres Hoces.
+
+e
+Cultivos Pantanosos [n,o,e,s] 
+Tres Hoces.
+
+e
+
+] 
+Cultivos Pantanosos [n,o,e,s] 
+Tres Hoces.
+
+e
+Guardia Lagarto está aquí.
+Cultivos Pantanosos [n,o,e,so,s] 
+Cuatro Hoces.
+
+e
+
+] 
+Cultivos Pantanosos [n,o,e,s] 
+Tres Hoces.
+
+e
+Cultivos Pantanosos [no,n,o,e,s,se] 
+Cuatro Hoces.
+
+e
+
+] 
+Cultivos Pantanosos [n,o,e,s] 
+
+> [El bloqueo 'carrera' termina]
+
+e
+Cultivos Pantanosos [n,ne,o,e,s] 
+Tres Hoces.
+
+e
+Cultivos Pantanosos [n,ne,o,e,so,s] 
+Cuatro Hoces.
+
+e
+Cultivos Pantanosos [no,n,o,e,s] 
+
+e
+Cultivos Pantanosos [n,ne,o,s,se] 
+Hoz.
+
+[Chat] Grender: Subi a nivel 20!
+
+e
+Parece que este no produjo efecto alguno.
+
+chat wooo
+[Chat] Enorthus: wooo
+
+se
+Esclavo Minotauro está aquí.
+Cultivos Pantanosos [no,o] 
+
+o
+Esclava Goblin está aquí.
+Cultivos Pantanosos [n,o,e,so] 
+
+n
+Cultivos Pantanosos [n,ne,o,s,se] 
+Hoz.
+
+n
+
+] 
+Cultivos Pantanosos [n,o,e,s] 
+Cuatro Hoces.
+
+e
+Esclavo Goblin está aquí.
+Cultivos Pantanosos [no,o,e,so] 
+Tres Hoces y tres cuerpos de Esclavo.
+
+e
+Esclava Humana, Esclavo Goblin y Esclava Goblin holgazana están aquí.
+Cultivos Pantanosos [o,e] 
+
+estado -b todo
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Esclavo Goblin           100%
+Esclava Humana           100%
+Esclava Goblin holgazana 100%
+
+o
+Esclavo Goblin está aquí.
+Cultivos Pantanosos [no,o,e,so] 
+Tres Hoces y tres cuerpos de Esclavo.
+
+no
+Cultivos Pantanosos [no,n,o,so,s,se] 
+Hoz.
+
+no
+Cultivos Pantanosos [o,e,so,se] 
+Dos Hoces.
+
+o
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,o,e,s] 
+Dos Hoces y dos cuerpos de Esclava.
+
+Droock coge Bolsa de monedas (nueve monedas de maiz) de cuerpo de Esclava.
+
+Droock coge Bolsa de monedas (cuatro monedas de maiz) de cuerpo de Esclava.
+sg
+
+Comienzas a seguir a Droock.
+
+os
+z
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+> + Te preparas para ejecutar zarpazo.
+
+Pvs: 5721/5721 (+660) Pe: 1127/1408 (+3)
+
+Droock (Hlag) está aquí.
+Esclavo Minotauro está aquí.
+Cultivos Pantanosos [no,n,o,e,s] 
+Sigues a Droock (Hlag) en dirección oeste.
+
+Droock te da esquinazo.
+
+# ¡Alcanzas a Droock con tu maniobra de zarpazo!
+
+[Obtienes 110 puntos de experiencia]
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Droock 12%
+
+Droock (Hlag) se va hacia oeste.
+
+o
+Droock (Hlag) está aquí.
+Esclavo Goblin holgazán, Esclavo Goblin y Esclavo Humano están aquí.
+Cultivos Pantanosos [n,o,e,s] 
+
+> # Rajas a Droock.
+# Rajas con poca fuerza a Droock.
+# Enfermas con poca intensidad a Droock.
+# Laceras a Droock.
+
+[Obtienes 20 puntos de experiencia]
+
+[Obtienes 40 puntos de experiencia]
+
+Droock (Hlag) se va hacia norte.
+pc
+
+Estás persiguiendo a Droock.
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+cl
+El objetivo sslik,droock,trotix,temmins,ivash,sorz,borghild,myresh,kaluk,joisan,odihbyr no está aquí ahora mismo.
+
+n
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,o,e,so,s,se] 
+Dos Hoces.
+
+Droock (Hlag) se va hacia sur.
+
+cl
+Ignorando 'formular columna de fuego:x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+s
+Droock (Hlag) está aquí.
+Esclavo Goblin holgazán, Esclavo Goblin y Esclavo Humano están aquí.
+Cultivos Pantanosos [n,o,e,s] 
+
+Pvs: 5191/5191 (-530) Pe: 1121/1408 (+1)
+
+cl
+Comienzas a formular el hechizo 'Columna de fuego'.
+
+* Droock te raja con fuerza y de forma superficial.
+* Droock te raja violentamente.
+
+Droock (Hlag) se va hacia norte.
+
+ba
+Dejas de sostener tu Cetro del Presbítero.
+
+Empuñas tu Báculo de los tres elementos.
+
+} 
+Pronuncias el cántico: 'flamious os colus'
+¡Invocas una columna de fuego sobre Droock que le alcanza parcialmente!
+
+[Obtienes 130 puntos de experiencia]
+
+[Thasa orbita a Eirea]
+
+n
+Estás intentando equilibrar la Báculo de los tres elementos.
+Escribe cancelar para finalizar la acción prematuramente.
+
+} 
+Finalmente equilibras la Báculo de los tres elementos.
+Cultivos Pantanosos [n,o,e,so,s,se] 
+Dos Hoces.
+
+> Pvs: 4788/5191 (-403) Pe: 1121/1408 (0)
+
+o
+Cultivos Pantanosos [n,o,e,s] 
+Dos Hoces.
+
+n
+
+] 
+te aqui
+
+] 
+ba
+
+] 
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,o,e,s] 
+Dos Hoces.
+
+] Comienzas a formular el hechizo 'Terremoto'.
+
+] No estás empuñando cetro.
+
+] No tienes manos libres para empuñar nada más.
+
+* Droock te raja con fuerza y de forma superficial.
+* Droock te raja con mucha fuerza.
+
+estado -b x
+Las heridas de Droock, se cierran y la sangre deja de manar cuando su piel va cubriendo las heridas de su cuerpo.
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Droock 27%
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Droock 27%
+
+Estás realizando los movimientos de un hechizo, tus manos están ocupadas.
+Pvs: 4449/5191 (-339) Pe: 1114/1408 (0)
+[El bloqueo 'zarpazo' termina]
+! Droock se prepara para ejecutar destripar sobre ti.
+
+Dices en adurn: 'terra firma venit'
+Posas las manos en el suelo e invocas fervientemente al poder de la piedra, creando un terrible terremoto contigo como epicentro.
+Estás siendo atacado por Esclava Humana.
+Estás siendo atacado por Guardia Lagarto.
+
+[Obtienes 250 puntos de experiencia]
+
+ac
+* ¡Droock te alcanza con su maniobra de destripar!
+Un enorme boquete se te abre en una mano y comienza a sangrar de forma incontrolada, dejando un rastro de sangre tras de ti.
+¡El golpe de Droock te eviscera una mano!
+Has usado el poder del anillo recientemente y has de descansar antes de someterte de nuevo a sus influjos.
+
+s
+Cultivos Pantanosos [n,o,e,s] 
+Destrozos de un terremoto.
+Dos Hoces.
+
+Pvs: 3505/5191 (-944) Pe: 1092/1408 (-22)
+n
+
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,o,e,s] 
+Destrozos de un terremoto.
+Dos Hoces.
+
+re
+> 
+Comienzas a formular el hechizo 'Relámpago'.
+
+Las heridas de Droock, se cierran y la sangre deja de manar cuando su piel va cubriendo las heridas de su cuerpo.
+Droock comienza a serpentear a tu alrededor mientras se relame, buscando puntos ciegos en tus defensas.
+
+ba
+* Droock te raja con mucha fuerza.
+* Droock te raja con mucha fuerza.
+No estás empuñando cetro.
+
+No tienes manos libres para empuñar nada más.
+
+Droock (Hlag) se va hacia sur.
+
+estado -b x
+No se ha encontrado ningún objeto que responda al nombre sslik,droock,trotix,temmins,ivash,sorz,borghild,myresh,kaluk,joisan,odihbyr.
+
+Pronuncias el cántico: 'elect xen cefit'
+# ¡El cielo ruge cuando invocas un relámpago que cae sobre Droock!
+¡Las fuerzas naturales que se están desatando en tu entorno potencian tu hechizo!
+
+[Obtienes 262 puntos de experiencia]
+
+Droock (Hlag) llega desde el sur.
+Estás persiguiendo a Esclava Humana y Guardia Lagarto.
+# Aplastas con poca fuerza a Droock.
+
+[Obtienes 10 puntos de experiencia]
+Pvs: 3129/5191 (-376) Pe: 1092/1408 (0)
+
+s
+* Droock se abalanza sobre ti y te muerde con sus poderosas fauces.
+Forcejeas, en vano, tratando de librarte del mordisco de Droock.
+
+Droock intenta seguirte pero le das esquinazo.
+
+os
+El mordisco de Droock te impide ejecutar ese comando.
+Parece que polimorfarse oso no produjo efecto alguno.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Droock 6%
+
+Las heridas de Droock, se cierran y la sangre deja de manar cuando su piel va cubriendo las heridas de su cuerpo.
+Pvs: 2684/5191 (-445) Pe: 1079/1408 (0)
+[El bloqueo 'Columna de fuego' termina]
+
+* Droock te raja críticamente.
+* Droock te raja con mucha fuerza.
+
+os
+El mordisco de Droock te impide ejecutar ese comando.
+Parece que polimorfarse oso no produjo efecto alguno.
+
+* Droock continúa mordiéndote, reteniéndote junto a él y dañándote.
+
+Droock te examina.
+os
+
+El mordisco de Droock te impide ejecutar ese comando.
+Parece que polimorfarse oso no produjo efecto alguno.
+
+os
+El mordisco de Droock te impide ejecutar ese comando.
+Parece que polimorfarse oso no produjo efecto alguno.
+
+# Aplastas débilmente a Droock.
+
+[Obtienes 6 puntos de experiencia]
+Pvs: 1927/5191 (-757) Pe: 1079/1408 (0)
+os
+
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+os
+Ya estás adoptando esa forma mórfica.
+
+z
+> 
++ Te preparas para ejecutar zarpazo.
+
+z
+Ignorando 'zarpazo x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+z
+> Ignorando 'zarpazo x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+ac
+Has usado el poder del anillo recientemente y has de descansar antes de someterte de nuevo a sus influjos.
+
+estado -b x
+Las heridas de Droock, se cierran y la sangre deja de manar cuando su piel va cubriendo las heridas de su cuerpo.
+* Droock continúa mordiéndote, reteniéndote junto a él y dañándote.
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Droock 22%
+
+] 
+Droock intenta arrastrarte hacia este, pero su fuerza es insuficiente.
+¡El boquete que tienes en una mano deja caer un chorro de sangre y carne triturada en el suelo!
+Pvs: 2167/5721 (+240) Pe: 1073/1408 (-6)
+
+# ¡Alcanzas a Droock con tu maniobra de zarpazo!
+
+[Obtienes 112 puntos de experiencia]
+
+* Droock te raja con mucha fuerza.
+* Droock te raja.
+
+hi
+dn
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Hiena.
+
+> + Te preparas para ejecutar dentellada.
+
+dn
+Ignorando 'dentellada x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+# ¡Alcanzas a Droock con tu maniobra de dentellada!
+
+[Obtienes 32 puntos de experiencia]
+
+Droock te examina.
+
+# Perforas violentamente a Droock.
+# Enfermas con poca intensidad a Droock.
+
+[Obtienes 54 puntos de experiencia]
+Pvs: 1861/5641 (-306) Pe: 1064/1408 (-9)
+* Droock parece demasiado cansado para continuar mordiéndote.
+
+pa
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Pantera.
+
+! Droock se prepara para ejecutar destripar sobre ti.
+a
+a
+
++ Comienzas a moverte tentativamente alrededor de Droock, buscando un flanco vulnerable para abalanzarte sobre él.
+
+> Ignorando 'abalanzarse x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+[Zaycael orbita al Limbo]
+
+Las heridas de Droock, se cierran y la sangre deja de manar cuando su piel va cubriendo las heridas de su cuerpo.
+estado -b x
+
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Droock 16%
+
+¡Droock te ejecuta con su ataque!
+* ¡Droock te alcanza con su maniobra de destripar!
+
+# ¡Te abalanzas sobre un costado de Droock, destrozándole con tres ataques de tus Garras y dientes!
+
+[Obtienes 126 puntos de experiencia]
+Droock intenta seguirte pero le das esquinazo.
+
+Pvs: 380/5321 (-1481) Pe: 1055/1408 (-9)
+¡Estás muerto de miedo, sólo piensas en salir corriendo de aquí!
+
+s
+Cultivos Pantanosos [n,o,e,s] 
+Rastro de Restos de vísceras. en dirección norte.
+Dos Hoces.
+
+s
+] 
+Esclava Humana está aquí.
+Cultivos Pantanosos [no,n,ne,o,e,s,se] 
+Destrozos de un terremoto.
+Hoz.
+
+] 
+stop
+Cola de comandos borrada ('peleas parar' detendrá los combates si es lo que querías).
+> 
+s
+
+] 
+[Balrek orbita al Limbo]
+
+stop
+Cola de comandos borrada ('peleas parar' detendrá los combates si es lo que querías).
+> 
+Estás persiguiendo a Droock.
+# Rajas a Esclava Humana.
+# Perforas con fuerza a Esclava Humana.
+# Enfermas con poca intensidad a Esclava Humana.
+
+[Obtienes 56 puntos de experiencia]
+¡Estás muerto de miedo, sólo piensas en salir corriendo de aquí!
+
+[Obtienes 4572 puntos de experiencia]
+Propinas el golpe mortal a Esclava Humana.
+
+Esclava Humana cae al suelo sin vida.
+
+stpo
+Parece que stpo no produjo efecto alguno.
+
+] 
+stop
+Cola de comandos borrada ('peleas parar' detendrá los combates si es lo que querías).
+> 
+pc
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+Droock (Hlag) llega desde el norte.
+
+cme
+La pérdida de constitución te ha debilitado.
+> 
+Grender te dice: Nunca se me va el resfriado, ¿hay que hacer algo especial? jaja
+
+Pvs: 511/5191 (+131) Pe: 1055/1408 (0)
+
+¡Droock te ejecuta con su ataque!
+* Droock te raja con mucha fuerza.
+¡Droock te ejecuta con su ataque!
+* Droock te raja de forma superficial.
+
+n
+La pérdida de constitución te ha debilitado.
+> 
+o
+La pérdida de constitución te ha debilitado.
+> 
+o
+La pérdida de constitución te ha debilitado.
+> 
+o
+# Aplastas con poca fuerza a Droock.
+
+[Obtienes 8 puntos de experiencia]
+Pvs: 235/5191 (-276) Pe: 1055/1408 (0)
+¡Estás muerto de miedo, sólo piensas en salir corriendo de aquí!
+[El bloqueo 'Retener persona' termina]
+[El bloqueo 'zarpazo' termina]
+[El bloqueo 'Tentáculo tumefacto' termina]
+[El bloqueo 'Relámpago' termina]
+Cultivos Pantanosos [n,o,e,s] 
+Cuatro Hoces.
+
+] 
+o
+Dos Esclavas Humanas y Esclava Minotauro están aquí.
+Cultivos Pantanosos [no,n,ne,o,e,so,s,se] 
+
+] 
+stop
+Cola de comandos borrada ('peleas parar' detendrá los combates si es lo que querías).
+> 
+o
+
+] 
+cle
+
+] 
+Cultivos Pantanosos [n,o,e,s] 
+Dos Hoces.
+
+] Comienzas a formular el hechizo 'Curar heridas ligeras'.
+
+> ¡Estás muerto de miedo, sólo piensas en salir corriendo de aquí!
+
+cobardia 0
+Estás en modo valiente, ¡Dispuesto a enfrentarte a cualquier reto hasta la muerte!
+
+] 
+Pronuncias el cántico: 'magius elis curis'
+Curas algunas de tus heridas más ligeras.
+
+[Obtienes 238 puntos de experiencia]
+
+Droock (Hlag) llega desde el este.
+
+Dos Esclavas Humanas están aquí.
+Cultivos Pantanosos [n,ne,o,e,s,se] 
+
+> Estás persiguiendo a Droock.
+Pvs: 784/5191 (+549) Pe: 1056/1408 (+1)
+[El bloqueo 'dentellada' termina]
+
+e
+Cultivos Pantanosos [n,o,e,s] 
+
+stop
+Cola de comandos borrada ('peleas parar' detendrá los combates si es lo que querías).
+> 
+e
+Esclava Humana y Esclavo Minotauro están aquí.
+Cultivos Pantanosos [no,n,o,e,s] 
+
+cme
+Comienzas a formular el hechizo 'Curar heridas moderadas'.
+
+Pronuncias el cántico: 'magius modus curis'
+Curas algunas de tus heridas más moderadas.
+
+[Obtienes 526 puntos de experiencia]
+
+o
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,o,e,s] 
+
+cl
+Comienzas a formular el hechizo 'Columna de fuego'.
+
+estado -b x
+> 
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Droock 17%
+
+Pvs: 2019/5191 (+1235) Pe: 1055/1408 (0)
+[El bloqueo 'abalanzarse' termina]
+
+[Shadrayth orbita a Eirea]
+
+[Chat] Droock: a cuanto
+
+Pronuncias el cántico: 'flamious os colus'
+¡Invocas una columna de fuego sobre Droock!
+
+[Obtienes 130 puntos de experiencia]
+
+! Droock se prepara para ejecutar destripar sobre ti.
+
+* Logras esquivar el ataque de Droock.
+* Droock te raja violentamente.
+
+e
+Esclava Humana y Esclavo Minotauro están aquí.
+Cultivos Pantanosos [no,n,o,e,s] 
+
+pa
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Pantera.
+
+go
+Droock (Hlag) está aquí.
+Cultivos Pantanosos [n,o,e,s] 
+
+[Obtienes 2 puntos de experiencia]
+
+¡Droock detiene su maniobra de destripar cuando sus objetivos dejan de estar a su alcance!
+
+a
++ Te mueves en silencio alrededor de Droock, tensando los músculos de tus cuartos traseros para abalanzarte sobre él.
+
+Droock (Hlag) se va hacia este.
+
+Pvs: 1870/5321 (-149) Pe: 1046/1408 (-6)
+[El bloqueo 'Curar heridas ligeras' termina]
+
+e
+Droock (Hlag) está aquí.
+Esclava Humana y Esclavo Minotauro están aquí.
+Cultivos Pantanosos [no,n,o,e,s] 
+
+# ¡Te abalanzas sobre un costado de Droock, destrozándole con tres ataques de tus Garras y dientes!
+
+[Obtienes 122 puntos de experiencia]
+
+[Cruzada_eralie] Palafrenero de la Cruzada: ¡Enorthus ha asesinado a droock!
+[Tu estatus con Takome ha aumentado]
+[Tu alineamiento ha aumentado]
+
+[Obtienes 402998 puntos de experiencia]
+Propinas el golpe mortal a Droock.
+
+Droock ha muerto.
+
+Droock cae al suelo sin vida.
+
+Droock da un grito desgarrador antes de que su espíritu abandone Eirea.
+[Obtienes 36 puntos de gloria]
+Paras de perseguir a Droock.
+
+estado -b x
+No se ha encontrado ningún objeto que responda al nombre sslik,droock,trotix,temmins,ivash,sorz,borghild,myresh,kaluk,joisan,odihbyr.
+
+[El bloqueo 'Curar heridas moderadas' termina]
+
+[Chat] Droock: ups
+
+chat dios que intenso xd
+[Chat] Droock: como te odio
+
+[Chat] Enorthus: dios que intenso xd
+
+[El bloqueo 'Columna de fuego' termina]
+
+chat a 300
+[Chat] Enorthus: a 300
+
+chat y quede stun e
+[Chat] Enorthus: y quede stun e
+
+[Chat] Droock: a cuanto te deje
+
+pc
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.

@@ -1,0 +1,521 @@
+Dices a Sphynx:  dnd tas
+] 
+Sphynx te dice:  llegando
+Ordenas a tus criaturas proteger.
+> 
+Esqueleto del Túmulo te protege.
+Esqueleto del Túmulo te protege.
+Dejas de sostener tu Cetro del Nigromante Negro.
+Empuñas tu Gran Almádena de Burk-Kharod.
+} 
+Estás intentando equilibrar la Gran Almádena de Burk-Kharod.
+Usa el comando abortar para finalizar la acción prematuramente.
+} Finalmente equilibras la Gran Almádena de Burk-Kharod.
+El nickname x equivale a maltos,krozziu,anthara,saymar,karnilla,thivha,korkar,gurlen,workragh,wahin,sphynx,arkhram.
+> 
+Sphynx te dice:  en cuanto te vea te meto
+Nombre corto x cambiado de maltos,krozziu,anthara,saymar,karnilla,thivha,korkar,gurlen,workragh,wahin,sphynx,arkhram a
+krozziu,maltos,karnilla,blombum,saymar,anthara,didrian,ghraoll,thrakorgh,sphynx,gurlen,yaina.
+> 
+[Thivha orbita al Limbo]
+Dices a Sphynx:  ok
+] 
+Charco de sangre
+Dos Esqueletos del Túmulo están aquí.
+Camino de Ëarmen- Senda del cauce oeste [sur,norte] 
+> 
+Poste de madera.
+Camino de Ëarmen [sur,oeste,noreste] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+> 
+Ordenas a tus criaturas proteger.
+> 
+[Galbulug Sherkh'Ravin Gal'barak orbita a Eirea]
+Camino de Ëarmen [sudoeste,este] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+> 
+Esqueleto del Túmulo te protege.
+Esqueleto del Túmulo te protege.
+Poste de madera.
+Camino de Ëarmen [sur,oeste,noreste] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+> 
+70 percent
+75 percent
+[Thrakorgh orbita al Limbo]
+Tu capa derrama parte de la sangre que la recubre sobre el suelo.
+Empuñando: Gran Almádena de Burk-Kharod.
+Usando: Pin 'Yo escalé el Mallorn'.
+Equipado:
+ * Cabeza:  Capucha de Basilisco.
+ * Orejas:  Pendiente Volcánico.
+ * Cuello:  Lágrima de Sangre (Llena) y Collar Palpitante de Hidra.
+ * Hombros: Capa Sangrienta de Nerbrad.
+ * Pecho:   Armadura de Quitina.
+ * Espalda: Mochila sin Fondo.
+ * Brazos:  Brazalete del dolor velado y Muñequera Divina del Éter ( Izquierda ).
+ * Manos:   Guante de Ayoltar y Guante Divino del Éter ( Derecho ).
+ * Dedos:   Anillo Topacio y Anillo de Lish.
+ * Cintura: Cinturón de Cirdan y Cinturón Prisma.
+ * Piernas: Pantalones de Demonio.
+ * Pies:    Botas del Éter.
+Cargando: Piedras tratadas [11], Gefnuls [2], Espada Arcana, Libreta de encargos, Oso de Peluche, Orbe del Hechicero Antiguo (cargado), Yavethalions [4], Espada Azul, Cetro del
+Nigromante Negro, Montones de Ceniza [41] y Piedra imán.
+No dispones de dinero en este momento.
+> 
+[Bain orbita a Eirea]
+Mochila sin Fondo
+  Hace cientos, cientos de años, los magos guerreros exportaron a Golthur Orod el conocimiento para diseñar estas magníficas mochilas, las Mochilas sin Fondo. Hechas de un cuero
+tratado mágicamente, están llenas de todo tipo de runas de encantamiento y protección. Lógicamente el término "sin fondo" no ha de tomarse al pie de la letra: aunque tienen una
+capacidad extraordinaria, tienen un límite.
+Está en malas condiciones.
+Es una armadura de tela tipo mochila.
+Es de tamaño estándar.
+Parece no tener fondo.
+Contenido:
+Elixir de Revitalización, Capucha Tenebrosa, Muñequera de la Suprema Cazadora, Grimorio del Séptimo Círculo, Pantalón de Seda Negra, Vendas [12], Garrote de Xapitalh, Anthales [2],
+Salvoconducto de Ómelan, Cuerda fuerte, Pendiente Pétreo y Alhova.
+> 
+Sphynx (Hlag) llega desde el sur.
+Estás siendo atacada por Sphynx.
+Esqueleto del Túmulo te protege valientemente.
+Sphynx se echa hacia atrás y mira fijamente a Esqueleto del Túmulo mientras sus Garras óseas comienzan a rezumar veneno.
+Charco de sangre
+Camino de Ëarmen- Senda del cauce oeste [sur,norte] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+> 
+Sphynx (Hlag) llega desde el norte.
+# Aplastas con mucha fuerza a Sphynx.
+# Mojas a Sphynx.
+[Obtienes 32 puntos de experiencia]
+Charco de sangre
+Poste de madera.
+Camino de Ëarmen [sur,oeste,noreste] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+> 
+Sphynx (Hlag) llega desde el sur.
+Charco de sangre
+Camino de Ëarmen- Senda del cauce oeste [sur,norte] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+> 
+Estás persiguiendo a Sphynx.
+Charco de sangre
+Mano espectral está aquí.
+Sphynx (Hlag) está aquí.
+Poste de madera.
+Camino de Ëarmen [sur,oeste,noreste] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+> 
+Sigues a Sphynx.
+Pasas tu mano sobre tu Gran Almádena de Burk-Kharod mientras te concentras intentando despertar su magia.
+] 
+Sphynx (Hlag) se va hacia sur.
+Charco de sangre
+Mano espectral está aquí.
+Sphynx (Hlag) está aquí.
+Camino de Ëarmen- Senda del cauce oeste [sur,norte] 
+Sigues a Sphynx (Hlag) en dirección sur.
+Sphynx te da esquinazo.
+* El ataque de Sphynx rebota en tu piel de piedra.
+* El ataque de Sphynx rebota en tu piel de piedra.
+¡El ataque antimágico de Sphynx anula parte de tus hechizos!
+# Aplastas con mucha fuerza a Sphynx.
+# Mojas intensamente a Sphynx.
+[Obtienes 28 puntos de experiencia]
+# Aplastas con mucha fuerza a Sphynx.
+# Mojas críticamente a Sphynx.
+# Pronuncias unas palabras mágicas y tu Gran Almádena de Burk-Kharod empieza a vibrar y se ilumina deshaciendo los tejidos de Sphynx.
+[Obtienes 192 puntos de experiencia]
+Comienzas a formular el hechizo 'Desintegrar'.
+> 
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Sphynx 75%
+> 
+Sphynx empieza a centrar sus golpes sobre ti.
+Sphynx comienza a serpentear a tu alrededor mientras se relame, buscando puntos ciegos en tus defensas.
+Esqueleto del Túmulo te protege valientemente.
+* El ataque de Sphynx rebota en tu piel de piedra.
+# Aplastas con mucha fuerza a Sphynx.
+# Mojas críticamente a Sphynx.
+[Obtienes 39 puntos de experiencia]
+Preparas los componentes del hechizo.
+Pronuncias el cántico: 'bellum destruct corpore'
+# Extiendes las palmas de tus manos formando un triángulo hacia Sphynx y un mortal rayo de energía le golpea de lleno, disgregando sus átomos y esparciéndolos en el aire.
+[Obtienes 232 puntos de experiencia]
+Sphynx (Hlag) se va hacia norte.
+Estás persiguiendo a Sphynx.
+Parece que el objetivo no existe o no es válido para esta runa. Son objetos válidos para esta runa, otros jugadores o personajes no jugadores.
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+] 
+Charco de sangre
+Mano espectral está aquí.
+Sphynx (Hlag) está aquí.
+Poste de madera.
+Camino de Ëarmen [sur,oeste,noreste] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+Intentas seguir a Sphynx, pero te da esquinazo.
+Pasas tu mano sobre tu Gran Almádena de Burk-Kharod mientras te concentras intentando despertar su magia.
+] 
+Esqueleto del Túmulo te protege valientemente.
+# Aplastas con mucha fuerza a Sphynx.
+# Mojas intensamente a Sphynx.
+[Obtienes 30 puntos de experiencia]
+# Aplastas con mucha fuerza a Sphynx.
+# Mojas intensamente a Sphynx.
+# Pronuncias unas palabras mágicas y tu Gran Almádena de Burk-Kharod empieza a vibrar y se ilumina deshaciendo los tejidos de Sphynx.
+[Obtienes 285 puntos de experiencia]
+! Sphynx se prepara para ejecutar destripar sobre ti.
+Charco de sangre
+Camino de Ëarmen- Senda del cauce oeste [sur,norte] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+> 
+Camino de Ëarmen- Senda del cauce oeste [norte,oeste] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+> 
+Camino de Ëarmen- Senda del cauce oeste [este,oeste] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+] 
+Estás persiguiendo a Sphynx.
+Mano espectral están aquí.
+Sphynx (Hlag) está aquí.
+Camino de Ëarmen- Senda del cauce oeste [norte,oeste] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+> 
+Sphynx se calma, cierra los ojos, junta las manos, y su semblante adquiere un tono de concentracion. Sus venas y músculos se hinchan y deshinchan mientras se introduce en un
+trance.
+Has agotado la energía necesaria para formular 'Desintegrar' y debes descansar antes de poder usar ese tipo de energía.
+] 
+Sphynx (Hlag) se va hacia oeste.
+Estás demasiado cansada para seguir a nadie.
+Debes recuperar tus energías mágicas antes de poder volver a ejecutar un golpe arcano.
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+Camino de Ëarmen- Senda del cauce oeste [este,oeste] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+> 
+No veo a sphynx por aquí.
+No hay ningún oponente ante ti.
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+[El bloqueo 'Desintegrar' termina]
+Petirrojo y Mano espectral están aquí.
+Sphynx (Hlag) está aquí.
+Camino de Ëarmen- Senda del cauce oeste [este,sudoeste] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+> 
+Araña está aquí.
+Camino de Ëarmen- Senda del cauce oeste [noreste,oeste] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+] 
+Petirrojo y Mano espectral están aquí.
+Sphynx (Hlag) está aquí.
+Camino de Ëarmen- Senda del cauce oeste [este,sudoeste] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+> 
+Camino de Ëarmen- Senda del cauce oeste [este,oeste] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+] 
+Sphynx (Hlag) llega desde el oeste.
+Intentas seguir a Sphynx, pero te da esquinazo.
+Pasas tu mano sobre tu Gran Almádena de Burk-Kharod mientras te concentras intentando despertar su magia.
+] 
+* El ataque de Sphynx rebota en tu piel de piedra.
+* El ataque de Sphynx rebota en tu piel de piedra.
+Las heridas de Sphynx, se cierran y la sangre deja de manar cuando su piel va cubriendo las heridas de su cuerpo.
+# Aplastas con mucha fuerza a Sphynx.
+# Mojas intensamente a Sphynx.
+[Obtienes 30 puntos de experiencia]
+# Aplastas críticamente a Sphynx.
+¡Tu ataque derriba a Sphynx!
+# Mojas a Sphynx.
+# Pronuncias unas palabras mágicas y tu Gran Almádena de Burk-Kharod empieza a vibrar y se ilumina deshaciendo los tejidos de Sphynx.
+[Obtienes 244 puntos de experiencia]
+Estás concentrada en otra habilidad y te resulta difícil pronunciar.
+] 
+Sphynx (Hlag) se va hacia oeste.
+Estás persiguiendo a Sphynx.
+Parece que el objetivo no existe o no es válido para esta runa. Son objetos válidos para esta runa, otros jugadores o personajes no jugadores.
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+Petirrojo está aquí.
+Camino de Ëarmen- Senda del cauce oeste [este,sudoeste] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+> 
+El objetivo krozziu,maltos,karnilla,blombum,saymar,anthara,didrian,ghraoll,thrakorgh,sphynx,gurlen,yaina no está aquí ahora mismo.
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+Araña está aquí.
+Camino de Ëarmen- Senda del cauce oeste [noreste,oeste] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+> 
+Petirrojo está aquí.
+Camino de Ëarmen- Senda del cauce oeste [este,sudoeste] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+> 
+Mano espectral están aquí.
+Sphynx (Hlag) está aquí.
+Camino de Ëarmen- Senda del cauce oeste [noreste,oeste] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+] 
+Araña está aquí.
+Camino de Ëarmen- Senda del cauce oeste [este,sudoeste] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+> 
+Mano espectral están aquí.
+Sphynx (Hlag) está aquí.
+Camino de Ëarmen- Senda del cauce oeste [noreste,oeste] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+] 
+El Anillo Antimágico empieza a brillar con fuertes destellos mágicos.
+Sphynx finaliza su hechizo y sientes como una fuerza mágica intenta tirar abajo tu magia, pero no parece tener efecto en ti.
+Esqueleto del Túmulo te protege valientemente.
+Sphynx se echa hacia atrás y mira fijamente a Esqueleto del Túmulo mientras sus Garras óseas comienzan a rezumar veneno.
+# Aplastas con mucha fuerza a Sphynx.
+# Mojas intensamente a Sphynx.
+[Obtienes 32 puntos de experiencia]
+Petirrojo está aquí.
+Camino de Ëarmen- Senda del cauce oeste [este,sudoeste] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+> 
+Mano espectral están aquí.
+Sphynx (Hlag) está aquí.
+Camino de Ëarmen- Senda del cauce oeste [noreste,oeste] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+] 
+Trazas con ágiles movimientos en tus dedos la representación rúnica de azuneu y clavas tu mirada en Sphynx.
+] 
+] 
+Sphynx (Hlag) se va hacia noreste.
+Estás persiguiendo a Sphynx.
+Alzas tu mano, y alrededor de la misma comienzan a formarse 5 esferas que crepitan energía arcana y las lanzas contra Sphynx.
+# Una esfera de energía es esquivada por Sphynx antes del impacto.
+# Una esfera de energía golpea a Sphynx con violencia mágica.
+# Una esfera de energía golpea a Sphynx con violencia mágica.
+# Una esfera de energía golpea a Sphynx con violencia mágica.
+# Una esfera de energía es esquivada por Sphynx antes del impacto.
+[Obtienes 18 puntos de experiencia]
+No se ha encontrado ningún objeto que responda al nombre krozziu,maltos,karnilla,blombum,saymar,anthara,didrian,ghraoll,thrakorgh,sphynx,gurlen,yaina.
+] 
+Petirrojo y Mano espectral están aquí.
+Sphynx (Hlag) está aquí.
+Camino de Ëarmen- Senda del cauce oeste [este,sudoeste] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+] 
+Parece que noreste no produjo efecto alguno.
+> Esqueleto del Túmulo te protege valientemente.
+Sphynx serpentea alrededor de Esqueleto del Túmulo, buscando puntos ciegos por donde pueda
+                    agarrarlo.
+Intentas seguir a Sphynx, pero te da esquinazo.
+Pasas tu mano sobre tu Gran Almádena de Burk-Kharod mientras te concentras intentando despertar su magia.
+] 
+* El ataque de Sphynx rebota en tu piel de piedra.
+* El ataque de Sphynx rebota en tu piel de piedra.
+Sphynx salta sobre Esqueleto del Túmulo y le muerde el pecho, envenenándole con su saliva tóxica.
+# Aplastas con mucha fuerza a Sphynx.
+# Mojas a Sphynx.
+[Obtienes 27 puntos de experiencia]
+# Aplastas con mucha fuerza a Sphynx.
+# Mojas a Sphynx.
+# Pronuncias unas palabras mágicas y tu Gran Almádena de Burk-Kharod empieza a vibrar y se ilumina deshaciendo los tejidos de Sphynx.
+[Obtienes 312 puntos de experiencia]
+Comienzas a formular el hechizo 'Desintegrar'.
+> 
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Sphynx 21%
+> 
+Sphynx se agacha.
+Sphynx (Hlag) se va hacia sudoeste.
+Estás persiguiendo a Sphynx.
+Preparas los componentes del hechizo.
+Pronuncias el cántico: 'bellum destruct corpore'
+# Extiendes las palmas de tus manos formando un triángulo hacia Sphynx y un mortal rayo de energía le golpea de lleno, disgregando sus átomos y esparciéndolos en el aire.
+[Obtienes 232 puntos de experiencia]
+Camino de Ëarmen- Senda del cauce oeste [noreste,oeste] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+> 
+Araña está aquí.
+Camino de Ëarmen- Senda del cauce oeste [este,sudoeste] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+] 
+Camino de Ëarmen- Senda del cauce oeste [noreste,oeste] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+> 
+Petirrojo está aquí.
+Camino de Ëarmen- Senda del cauce oeste [este,sudoeste] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+> 
+Camino de Ëarmen- Senda del cauce oeste [noreste,sudoeste] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+] 
+Hormiga está aquí.
+Camino de Ëarmen- Senda del cauce oeste [noreste,sur] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+> 
+Araña está aquí.
+Camino de Ëarmen- Senda del cauce oeste [norte,sudoeste] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+] 
+Tu capa derrama parte de la sangre que la recubre sobre el suelo.
+Camino de Ëarmen- Senda del cauce oeste [noreste,sur] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+> 
+Camino de Ëarmen- Senda del cauce oeste [norte,sur] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+] 
+Hormiga está aquí.
+Camino de Ëarmen- Senda del cauce oeste [norte,sudoeste] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+> 
+Araña está aquí.
+Camino de Ëarmen- Senda del cauce oeste [noreste,sur] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+] 
+] 
+Petirrojo está aquí.
+Camino de Ëarmen- Senda del cauce oeste [norte,sur] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+> [El bloqueo 'Desintegrar' termina]
+Hormiga está aquí.
+Camino de Ëarmen- Senda del cauce oeste [norte,sur] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+> 
+Araña está aquí.
+Camino de Ëarmen- Senda del cauce oeste [norte,sudoeste] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+] 
+Hormiga está aquí.
+Camino de Ëarmen- Senda del cauce oeste [noreste,sur] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+> 
+Petirrojo está aquí.
+Camino de Ëarmen- Senda del cauce oeste [norte,sur] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+] 
+Araña está aquí.
+Camino de Ëarmen- Senda del cauce oeste [norte,sur] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+> 
+Mano espectral y Conejo están aquí.
+Sphynx (Hlag) está aquí.
+Camino de Ëarmen- Senda del cauce oeste [norte,sur] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+] 
+Sphynx (Hlag) se va hacia sur.
+] 
+Mano espectral y Conejo están aquí.
+Sphynx (Hlag) está aquí.
+Camino de Ëarmen- Senda del cauce oeste [norte,sudeste] 
+dos Esqueleto del Túmulos
+dos Esqueleto del Túmulos te siguen.
+] 
+Parece que sur no produjo efecto alguno.
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+Trazas con ágiles movimientos en tus dedos la representación rúnica de azuneu y clavas tu mirada en Sphynx.
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+Sphynx se reincorpora.
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Sphynx 27%
+> 
+! Sphynx se prepara para ejecutar destripar sobre ti.
+* El ataque de Sphynx rebota en tu piel de piedra.
+* El ataque de Sphynx rebota en tu piel de piedra.
+* El ataque de Sphynx rebota en tu piel de piedra.
+# Aplastas con mucha fuerza a Sphynx.
+# Mojas a Sphynx.
+[Obtienes 29 puntos de experiencia]
+Alzas tu mano, y alrededor de la misma comienzan a formarse 5 esferas que crepitan energía arcana y las lanzas contra Sphynx.
+# Una esfera de energía golpea a Sphynx con violencia mágica.
+# Una esfera de energía golpea a Sphynx con violencia mágica.
+# Una esfera de energía golpea a Sphynx con violencia mágica.
+# Una esfera de energía golpea a Sphynx con violencia mágica.
+# Una esfera de energía golpea a Sphynx con violencia mágica.
+[Obtienes 18 puntos de experiencia]
+Alzas tu Anillo Topacio al frente mientras susurras la palabra de mando.
+] 
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Sphynx 10%
+> 
+* El ataque de Sphynx rebota en tu piel de piedra.
+Tu piel vuelve a su estado normal.
+* Sphynx te raja con mucha fuerza.
+# Aplastas con mucha fuerza a Sphynx.
+# Mojas intensamente a Sphynx.
+[Obtienes 30 puntos de experiencia]
+El Anillo Topacio empieza a brillar con fuertes destellos mágicos.
+# 11 misiles mágicos surgen de tus dedos e impactan infaliblemente sobre Sphynx.
+[Obtienes 151 puntos de experiencia]
+Pvs: 24812661 Pe: 672759
+La piel de Sphynx vuelve a su estado normal.
+[Tu estatus con Mor Groddûr, Agnur, Golthur Orod, Ancarak y Takome ha aumentado]
+[Tu estatus con Ar'Kaindia, Nalaghar y Grimoszk ha decrecido]
+[Obtienes 231888 puntos de experiencia]
+Propinas el golpe mortal a Sphynx.
+Sphynx ha muerto.
+Sphynx cae al suelo sin vida.
+Sphynx da un grito desgarrador antes de que su espíritu abandone Eirea.
+[Obtienes 19 puntos de gloria]
+[El bloqueo 'Descarga' termina]
+Sphynx te dice:  dios macho
+Sphynx te dice:  xdD
+[El bloqueo 'Proyectil magico mayor' termina]
+Sphynx te dice:  no te podre vencer jamas xD

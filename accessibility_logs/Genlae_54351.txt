@@ -1,0 +1,174 @@
+Bajo el árbol:
+Charco de sangre.
+León de Batalla [Sirix] y Leona de Batalla [Nika] están allí.
+Siky (Ena) y Elnaer (Hum) (protegido por 8 ángeles guardianes) están allí.
+Cuatro Odres y Cartel.
+Árbol: Entre las ramas (sudeste,noreste) 
+
+Ves a Siky irse en dirección sudeste alejándose del árbol.
+
+Ves a |||| Elnaer |||| irse en dirección sudeste alejándose del árbol.
+
+Ves a Siky irse en dirección sudeste alejándose del árbol.
+
+Gente en el canal-renegado: Genlae
+
+Oyes una voz femenina de Humano decir: 'minor relampagum resit'
+
+Ves a Sirix irse en dirección sudeste alejándose del árbol.
+
+Ves a León de Batalla irse en dirección sudeste alejándose del árbol.
+
+Oyes una voz femenina de Humano decir: 'major fogos rissas'
+
+Oyes una voz femenina de Humano decir: 'major fogos rissas'
+
+Bajo el árbol:
+Charco de sangre.
+Leona de Batalla [Nika] está allí.
+Cuatro Odres y Cartel.
+Árbol: Entre las ramas (sudeste,noreste) 
+
+Oyes una voz femenina de Humano decir: 'major malevola rissas'
+
+Oyes una voz femenina de Humano decir: 'major malevola rissas'
+
+Ves a Nika irse en dirección sur alejándose del árbol.
+
+Ves a Leona de Batalla irse en dirección sur alejándose del árbol.
+
+Notas como el poder de la runa aqu desaparece y el líquido viscoso que recubría tu Espada Azul se desvanece.
+
+Ves a Leona de Batalla llegar al pie del árbol.
+
+Ves a Nika llegar al pie del árbol.
+
+Ves a Nika irse en dirección sudeste alejándose del árbol.
+
+Ves a Leona de Batalla irse en dirección sudeste alejándose del árbol.
+
+Dices a Guuhazh:  cuidado q va nika hacia earmen
+
+Bajo el árbol:
+Charco de sangre.
+Cuatro Odres y Cartel.
+Árbol: Entre las ramas (sudeste,noreste) 
+
+Ves a Leona de Batalla llegar al pie del árbol.
+
+Ves a Nika llegar al pie del árbol.
+
+Ves a Nika irse en dirección sur alejándose del árbol.
+
+Ves a Leona de Batalla irse en dirección sur alejándose del árbol.
+
+[Ryland Tyr'laein orbita al Limbo]
+
+Dices a Guuhazh:  atento
+
+Ves a Leona de Batalla llegar al pie del árbol.
+
+Ves a Nika llegar al pie del árbol.
+
+Bajo el árbol:
+Charco de sangre.
+Leona de Batalla [Nika] está allí.
+Cuatro Odres y Cartel.
+Árbol: Entre las ramas (sudeste,noreste) 
+
+Ves a Nika irse en dirección noreste alejándose del árbol.
+
+Ves a Leona de Batalla irse en dirección noreste alejándose del árbol.
+
+Guuhazh te dice: |  toy en vele  |
+
+Ves a León de Batalla llegar al pie del árbol.
+
+Ves a Sirix llegar al pie del árbol.
+
+Saltas a la base del árbol con un gran impulso.
+
+Saltas con la intención de derribar a Sirix, pero tu caída de pluma evita que caigas con fuerza y aterrizas suavemente a su lado.
+
+Charco de sangre.
+León de Batalla [Sirix] está aquí.
+Cuatro Odres y Cartel.
+Camino de Ëarmen- Bosque de Orgoth [oeste,sudeste,sur,noreste] 
+
+2
+Comienzas a formular el hechizo 'Desintegrar'.
+
+Estás siendo atacada por Sirix.
+* El ataque de Sirix rebota en tu piel de piedra.
+
+# Rajas críticamente a Sirix.
+Tu ataque sorbe parte de la resistencia contra aire de Sirix.
+¡Tu golpe causa una profunda herida a Sirix en el pecho!
+¡Tu Espada Azul te entrega la energía de Sirix!
+
+[Obtienes 36 puntos de experiencia]
+Preparas los componentes del hechizo.
+
+Pronuncias el cántico: 'bellum destruct corpore'
+# Extiendes las palmas de tus manos formando un triángulo hacia Sirix y un mortal rayo de energía le golpea de lleno, disgregando sus átomos y esparciéndolos en el aire.
+
+[Obtienes 235 puntos de experiencia]
+Pvs: 21262621 Pe: 373715
+
+1
+Trazas con ágiles movimientos en tus dedos la representación rúnica de azuneu y clavas tu mirada en Sirix.
+
+* El ataque de Sirix rebota en tu piel de piedra.
+
+# Rajas con mucha fuerza a Sirix.
+Tu ataque sorbe parte de la resistencia contra fuego de Sirix.
+
+[Obtienes 19 puntos de experiencia]
+Alzas tu mano, y alrededor de la misma comienzan a formarse 5 esferas que crepitan energía arcana y las lanzas contra Sirix.
+# Una esfera de energía golpea a Sirix con violencia mágica.
+# Una esfera de energía golpea a Sirix con violencia mágica.
+# Una esfera de energía golpea a Sirix con violencia mágica.
+# Una esfera de energía golpea a Sirix con violencia mágica.
+# Una esfera de energía golpea a Sirix con violencia mágica.
+
+[Obtienes 20 puntos de experiencia]
+Pvs: 21862621 Pe: 340715
+
+mnick x sirix
+Nombre corto sirix movido al principio de x quedando sirix,siky,raibin,hagalmar,ryland,thai,elnaer,bomurg,murks,nika,geserit,thraarth.
+
+3
+Comienzas a formular el hechizo 'Golpe de rayo'.
+
+* El ataque de Sirix rebota en tu piel de piedra.
+
+# Rajas con mucha fuerza a Sirix.
+Tu ataque sorbe parte de la resistencia contra mal de Sirix.
+
+[Obtienes 20 puntos de experiencia]
+Te vuelves a sentir pesada.
+
+Pronuncias el cántico: 'xilyx de gadrum'
+# Un rayo surge de tus manos impactando sobre Sirix electrocutándole.
+
+[Obtienes 103 puntos de experiencia]
+Pvs: 22462621 Pe: 340715
+
+Sirix deja de sangrar.
+
+El campo de luz que rodeaba al Coraza de Templario se desvanece.
+
+Sirix desmonta de su León de Batalla.
+[Tu estatus con Dendra, Golthur Orod, Ar'Kaindia y Grimoszk ha aumentado]
+[Tu alineamiento ha disminuído]
+
+[Obtienes 292489 puntos de experiencia]
+Propinas el golpe mortal a Sirix.
+
+Sirix ha muerto.
+
+Sirix cae al suelo sin vida.
+
+Sirix da un grito desgarrador antes de que su espíritu abandone Eirea.
+[Obtienes 15 puntos de gloria]
+

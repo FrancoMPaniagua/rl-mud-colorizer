@@ -1,0 +1,2986 @@
+Meseta Oriental [se,o] 
+
+o
+
+] 
+Liebre está aquí.
+Meseta Oriental [e,no] 
+El frío viento del invierno azota tu cuerpo.
+
+no
+Liebre está aquí.
+Meseta Oriental [se,o] 
+
+o
+
+] 
+Meseta Oriental [e,n] 
+
+n
+Cervatillo está aquí.
+Meseta Oriental [s,no] 
+
+no
+
+] 
+Cervatillo está aquí.
+Meseta Oriental [se,no] 
+El viento azota con suavidad la elevación de la meseta.
+
+no
+Cervatillo está aquí.
+Meseta Oriental [se,o] 
+El frío viento del invierno azota tu cuerpo.
+
+o
+
+] 
+Ghalhugg (Gob) está aquí.
+Gorila y Grahs, Ancestro Bárbaro están aquí.
+Meseta Oriental [so,e] 
+
+k x
+Te encaras contra Ghalhugg en posición de combate.
+
+cn
+Empiezas a centrar tus golpes sobre Ghalhugg.
+
+x
+No se ha encontrado ningún objeto que responda al nombre fau.
+
+Ghalhugg ordena a Gorila y Grahs, Ancestro Bárbaro habilidad cabezazo sobre x1.
+
+Grahs, Ancestro Bárbaro, dice en negra: Lo que Vos ordene, señor.
+! Grahs, Ancestro Bárbaro se prepara para ejecutar cabezazo sobre ti.
+
+z
++ Te preparas para ejecutar zarpazo.
+
+Ghalhugg (Gob) se va en dirección este seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+Estás persiguiendo a Ghalhugg.
+
+e
+Ghalhugg (Gob) está aquí.
+Cervatillo, Gorila y Grahs, Ancestro Bárbaro están aquí.
+Meseta Oriental [se,o] 
+
+Ghalhugg (Gob) se va en dirección oeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+o
+Ghalhugg (Gob) está aquí.
+Gorila y Grahs, Ancestro Bárbaro están aquí.
+Meseta Oriental [so,e] 
+
+El escudo de almas de Ghalhugg gira frenéticamente para proteger a su invocador.
+# ¡Alcanzas a Ghalhugg con tu maniobra de zarpazo!
+
+[Obtienes 8 puntos de experiencia]
+
+z
+Necesitarás acumular un poco más de fuerza para descargar otro zarpazo como el anterior.
+
+Ghalhugg empieza a formular un hechizo.
+
+a
+Parece que abalanzarse x no produjo efecto alguno.
+
+e
+Cervatillo está aquí.
+Meseta Oriental [se,o] 
+
+o
+Ghalhugg (Gob) está aquí.
+Gorila y Grahs, Ancestro Bárbaro están aquí.
+Meseta Oriental [so,e] 
+
+pa
+a
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Pantera.
+
+> + Comienzas a moverte tentativamente alrededor de Ghalhugg, buscando un flanco vulnerable para abalanzarte sobre él.
+
+Ghalhugg (Gob) se va en dirección este seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+e
+
+] 
+Ghalhugg (Gob) está aquí.
+Cervatillo, Gorila y Grahs, Ancestro Bárbaro están aquí.
+Meseta Oriental [se,o] 
+
+> # Rajas a Ghalhugg.
+¡Tu ataque se desvía a una localización más protegida de Ghalhugg!
+# Perforas a Ghalhugg.
+# Enfermas débilmente a Ghalhugg.
+
+[Obtienes 28 puntos de experiencia]
+Pvs: 5061/5061 (-800) Pe: 1401/1408 (-7)
+
+Ghalhugg (Gob) se va en dirección oeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+¡Tus objetivos ya no están al alcance de tu abalanzarse!
+o
+
+Ghalhugg (Gob) llega desde el oeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+Meseta Oriental [so,e] 
+
+e
+
+] 
+Ghalhugg (Gob) está aquí.
+Cervatillo, Gorila y Grahs, Ancestro Bárbaro están aquí.
+Meseta Oriental [se,o] 
+
+Ghalhugg (Gob) se va en dirección oeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+a
+Estás persiguiendo a Ghalhugg.
+No hay nadie aquí reconocible como nizigg,ghalhugg,kimmura,notza,trotix,rugrak,suka.
+
+go
+Ghalhugg (Gob) está aquí.
+Gorila y Grahs, Ancestro Bárbaro están aquí.
+Meseta Oriental [so,e] 
+
+a
+> 
++ Te mueves en silencio alrededor de Ghalhugg, tensando los músculos de tus cuartos traseros para abalanzarte sobre él.
+
+Ghalhugg (Gob) se va en dirección este seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+ge
+Ghalhugg (Gob) está aquí.
+Cervatillo, Gorila y Grahs, Ancestro Bárbaro están aquí.
+Meseta Oriental [se,o] 
+
+El escudo de almas de Ghalhugg gira frenéticamente para proteger a su invocador.
+
+El escudo de almas de Ghalhugg gira frenéticamente para proteger a su invocador.
+# ¡Te abalanzas sobre un sorprendido Ghalhugg y le despedazas con tres ataques de tus Garras y dientes!
+
+[Obtienes 67 puntos de experiencia]
+
+os
+z
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+Ghalhugg detiene su búsqueda.
+Necesitarás acumular un poco más de fuerza para descargar otro zarpazo como el anterior.
+
+Ghalhugg empieza a formular un hechizo.
+estado -b x
+
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Ghalhugg 73%
+
+pc
+d
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+> Comienzas a formular el hechizo 'Retener persona'.
+
+Ghalhugg empieza a inspeccionar la zona detenidamente.
+
+Ghalhugg se estremece de dolor mientras su escudo de almas brilla con fuerza.
+
+d
+Pvs: 5191/5191 (+130) Pe: 1379/1408 (-11)
+No puedes formular otro hechizo hasta que transcurra algún tiempo.
+
+Ghalhugg pronuncia el cántico: 'flamious os colus'
+¡Logras esquivar parte de la columna de fuego que Ghalhugg invoca sobre ti!
+
+d
+Ignorando 'formular retener persona:x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+d
+> 
+Ignorando 'formular retener persona:x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+Ghalhugg (Gob) se va en dirección oeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+o
+¡Tu movimiento rompe tu concentración y tu hechizo de Retener persona queda arruinado!
+Ghalhugg (Gob) está aquí.
+Gorila y Grahs, Ancestro Bárbaro están aquí.
+Meseta Oriental [so,e] 
+
+d
+Ignorando 'formular retener persona:x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+d
+Ignorando 'formular retener persona:x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+d
+> 
+Ghalhugg (Gob) se va en dirección este seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+Ignorando 'formular retener persona:x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+] 
+d
+d
+
+] 
+] El objetivo nizigg,ghalhugg,kimmura,notza,trotix,rugrak,suka no está aquí ahora mismo.
+
+] Ignorando 'formular retener persona:x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+> Estás persiguiendo a Ghalhugg.
+Pvs: 5019/5191 (-172) Pe: 1379/1408 (0)
+[El bloqueo 'zarpazo' termina]
+
+e
+Ghalhugg (Gob) está aquí.
+Cervatillo, Gorila y Grahs, Ancestro Bárbaro están aquí.
+Meseta Oriental [se,o] 
+
+d
+Ignorando 'formular retener persona:x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+d
+Ignorando 'formular retener persona:x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+d
+Ghalhugg pronuncia el cántico: 'magius elis curis'
+
+Ghalhugg cura algunas de sus heridas más ligeras.
+Ignorando 'formular retener persona:x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+* Ghalhugg te aplasta.
+
+Ghalhugg se estremece de dolor mientras su escudo de almas brilla con fuerza.
+Pvs: 4934/5191 (-85) Pe: 1369/1408 (0)
+
+Ghalhugg (Gob) se va en dirección oeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+o
+Ghalhugg (Gob) está aquí.
+Gorila y Grahs, Ancestro Bárbaro están aquí.
+Meseta Oriental [so,e] 
+
+d
+> 
+Comienzas a formular el hechizo 'Retener persona'.
+
+Ghalhugg ordena a Gorila y Grahs, Ancestro Bárbaro habilidad cabezazo sobre x1.
+
+Grahs, Ancestro Bárbaro, exclama en negra: ¡Como ordenes, señor!
+! Grahs, Ancestro Bárbaro se prepara para ejecutar cabezazo sobre ti.
+
+Grahs, Ancestro Bárbaro respira profundamente, parece que está más calmado.
+
+* ¡Grahs, Ancestro Bárbaro te alcanza con su maniobra de cabezazo!
+Estás siendo atacado por Grahs, Ancestro Bárbaro.
+
+Ghalhugg (Gob) se va en dirección este seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+Estás persiguiendo a Grahs, Ancestro Bárbaro.
+Pvs: 4477/5191 (-457) Pe: 1369/1408 (0)
+El destino de tu hechizo está fuera de alcance.
+
+e
+Ghalhugg (Gob) está aquí.
+Cervatillo, Gorila y Grahs, Ancestro Bárbaro están aquí.
+Meseta Oriental [se,o] 
+
+d
+Has agotado la energía necesaria para formular 'Retener persona' y debes descansar antes de poder usar ese tipo de energía.
+
+Ghalhugg empieza a formular un hechizo.
+
+os
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+o
+> 
+Meseta Oriental [so,e] 
+
+Pvs: 5147/5861 (+670) Pe: 1369/1408 (0)
+
+Ghalhugg (Gob) llega desde el este seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+Ghalhugg te toca  mientras formula un hechizo.
+
+Ghalhugg pronuncia el cántico: 'aedrhus impotem nazxia'
+La mano de Ghalhugg se transforma en una letal víbora que te muerde, provocándote un agudo dolor.
+
+z
+Grahs, Ancestro Bárbaro consigue escurrirse entre ti y Ghalhugg, protegiéndole.
++ Te preparas para ejecutar zarpazo.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Ghalhugg 84%
+
+> * Grahs, Ancestro Bárbaro te aplasta con increíble potencia.
+
+Ghalhugg empieza a formular un hechizo.
+
+Ghalhugg te examina.
+agacharse
+levantarse
+Te agachas.
+¡Tu maniobra de zarpazo se ve interrumpida!
+
+> Te reincorporas.
+
+# Rajas con mucha fuerza a Ghalhugg.
+# Rajas con fuerza a Ghalhugg.
+# Enfermas débilmente a Ghalhugg.
+
+[Obtienes 44 puntos de experiencia]
+Pvs: 3835/5861 (-1312) Pe: 1362/1408 (-7)
+
+e
+Ghalhugg ordena a Gorila y Grahs, Ancestro Bárbaro habilidad cabezazo sobre x1.
+
+Grahs, Ancestro Bárbaro, dice en negra: Con mucho gusto, señor.
+
+Grahs, Ancestro Bárbaro, dice en negra: Tu última maniobra de cabezazo te ha dejado momentáneamente agotado, por lo que tendrás que esperar antes de realizar otra.
+Cervatillo está aquí.
+Meseta Oriental [se,o] 
+
+pc
+Estás persiguiendo a Ghalhugg y Grahs, Ancestro Bárbaro.
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+cme
+> 
+Comienzas a formular el hechizo 'Curar heridas moderadas'.
+
+Ghalhugg (Gob) llega desde el oeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+Ghalhugg te toca  mientras formula un hechizo.
+* Ghalhugg te toca, causándote heridas mayores.
+
+ac
+Has usado el poder del anillo recientemente y has de descansar antes de someterte de nuevo a sus influjos.
+
+* Ghalhugg te aplasta con poca fuerza.
+
+Ghalhugg se estremece de dolor mientras su escudo de almas brilla con fuerza.
+Pvs: 2542/5191 (-1293) Pe: 1361/1408 (0)
+[El bloqueo 'abalanzarse' termina]
+
+Ghalhugg empieza a formular un hechizo.
+
+Pronuncias el cántico: 'magius modus curis'
+Curas algunas de tus heridas más moderadas.
+
+[Obtienes 328 puntos de experiencia]
+
+o
+Meseta Oriental [so,e] 
+
+n
+Parece que norte no produjo efecto alguno.
+
+so
+* ¡El cielo ruge y un fugaz relámpago invocado por Ghalhugg te electrocuta!
+
+Ghalhugg (Gob) llega desde el este seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+Meseta Oriental [ne,o] 
+
+Pvs: 3474/5191 (+932) Pe: 1358/1408 (-3)
+
+cle
+Comienzas a formular el hechizo 'Curar heridas ligeras'.
+
+ojear
+Meseta Oriental [ne,o] 
+
+Ghalhugg (Gob) llega desde el noreste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+Ghalhugg empieza a formular un hechizo.
+
+Pronuncias el cántico: 'magius elis curis'
+Curas algunas de tus heridas más ligeras.
+
+[Obtienes 140 puntos de experiencia]
+
+ne
+Ghalhugg se estremece de dolor mientras su escudo de almas brilla con fuerza.
+Meseta Oriental [so,e] 
+
+> Pvs: 3945/5191 (+471) Pe: 1358/1408 (0)
+[El bloqueo 'Retener persona' termina]
+
+e
+Cervatillo está aquí.
+Meseta Oriental [se,o] 
+
+se
+Cervatillo está aquí.
+Meseta Oriental [se,no] 
+
+se
+
+] 
+cse
+
+] 
+Cervatillo está aquí.
+Meseta Oriental [s,no] 
+
+] Comienzas a formular el hechizo 'Curar heridas serias'.
+
+ojear
+Cervatillo está aquí.
+Meseta Oriental [s,no] 
+
+ac
+Has usado el poder del anillo recientemente y has de descansar antes de someterte de nuevo a sus influjos.
+
+Ghalhugg (Gob) llega desde el noroeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+Ghalhugg empieza a formular un hechizo.
+
+Ghalhugg te examina.
+
+Ghalhugg ordena a Gorila y Grahs, Ancestro Bárbaro habilidad cabezazo sobre x1.
+
+Grahs, Ancestro Bárbaro, dice en negra: Como gustes, señor.
+! Grahs, Ancestro Bárbaro se prepara para ejecutar cabezazo sobre ti.
+
+Pronuncias el cántico: 'magius selirs curis'
+Curas algunas de tus heridas más serias.
+
+[Obtienes 369 puntos de experiencia]
+
+Ghalhugg pronuncia el cántico: 'magius elis curis'
+
+Ghalhugg cura algunas de sus heridas más ligeras.
+* ¡Grahs, Ancestro Bárbaro te alcanza con su maniobra de cabezazo!
+
+* Grahs, Ancestro Bárbaro te aplasta con increíble potencia y de forma superficial.
+no
+
+Cervatillo está aquí.
+Meseta Oriental [se,no] 
+
+no
+Cervatillo está aquí.
+Meseta Oriental [se,o] 
+
+o
+
+] 
+Meseta Oriental [so,e] 
+
+> Pvs: 4340/5191 (+395) Pe: 1347/1408 (-10)
+[El bloqueo 'Curar heridas moderadas' termina]
+
+os
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+Ghalhugg (Gob) llega desde el este seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+* Ghalhugg te aplasta débilmente y de forma superficial.
+Pvs: 5004/5861 (+664) Pe: 1347/1408 (0)
+[El bloqueo 'Curar heridas ligeras' termina]
+z
+
+Ghalhugg (Gob) se va en dirección sudoeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+No hay nadie aquí reconocible como nizigg,ghalhugg,kimmura,notza,trotix,rugrak,suka.
+
+cn
+No hay nadie aquí reconocible como nizigg,ghalhugg,kimmura,notza,trotix,rugrak,suka.
+
+so
+Ghalhugg (Gob) está aquí.
+Gorila y Grahs, Ancestro Bárbaro están aquí.
+Meseta Oriental [ne,o] 
+El viento azota con suavidad la elevación de la meseta.
+
+z
+> 
++ Te preparas para ejecutar zarpazo.
+
+* Grahs, Ancestro Bárbaro te aplasta con poca fuerza y de forma superficial.
+
+Ghalhugg (Gob) se va en dirección noreste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+cn
+
+Ignorando 'centrar x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+n
+Parece que norte no produjo efecto alguno.
+
+Ghalhugg (Gob) llega desde el noreste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+# Rajas con mucha fuerza a Ghalhugg.
+# Rajas con fuerza a Ghalhugg.
+# Enfermas con poca intensidad a Ghalhugg.
+
+[Obtienes 48 puntos de experiencia]
+Pvs: 4926/5861 (-78) Pe: 1340/1408 (-7)
+
+e
+Parece que este no produjo efecto alguno.
+
+¡Tu ataque se desvía a una localización más protegida de Ghalhugg!
+
+El escudo de almas de Ghalhugg gira frenéticamente para proteger a su invocador.
+# ¡Alcanzas a Ghalhugg con tu maniobra de zarpazo!
+
+[Obtienes 9 puntos de experiencia]
+
+Ghalhugg empieza a formular un hechizo.
+
+co
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Cocodrilo.
+
+ne
+> 
+Meseta Oriental [so,e] 
+
+Pvs: 5026/5961 (+100) Pe: 1339/1408 (0)
+
+Ghalhugg (Gob) llega desde el sudoeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+so
+Meseta Oriental [ne,o] 
+
+ne
+Ghalhugg (Gob) está aquí.
+Gorila y Grahs, Ancestro Bárbaro están aquí.
+Meseta Oriental [so,e] 
+
+g
+> 
+Comienzas a serpentear alrededor de Ghalhugg, buscando puntos ciegos por donde puedas agarrarle con tus temibles fauces.
+
+* Logras parar críticamente el ataque de Grahs, Ancestro Bárbaro.
+
+Ghalhugg (Gob) se va en dirección sudoeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+so
+
+] 
+Ghalhugg (Gob) está aquí.
+Gorila y Grahs, Ancestro Bárbaro están aquí.
+Meseta Oriental [ne,o] 
+
+El escudo de almas de Ghalhugg gira frenéticamente para proteger a su invocador.
+# Perforas con fuerza a Ghalhugg.
+# Enfermas débilmente a Ghalhugg.
+
+[Obtienes 24 puntos de experiencia]
+
+Ghalhugg (Gob) se va en dirección noreste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+ne
+Ghalhugg (Gob) está aquí.
+Gorila y Grahs, Ancestro Bárbaro están aquí.
+Meseta Oriental [so,e] 
+
+El escudo de almas de Ghalhugg gira frenéticamente para proteger a su invocador.
+# Muerdes a Ghalhugg en un brazo, destrozándole carne y huesos.
+
+[Obtienes 55 puntos de experiencia]
+
+c
++ Te preparas para ejecutar zarandear.
+
+estado -b x
+> 
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Ghalhugg 54%
+
+Ghalhugg ordena a Gorila y Grahs, Ancestro Bárbaro habilidad cabezazo sobre x1.
+
+Grahs, Ancestro Bárbaro, dice en negra: Como gustes, señor.
+! Grahs, Ancestro Bárbaro se prepara para ejecutar cabezazo sobre ti.
+
+Ghalhugg se estremece de dolor mientras su escudo de almas brilla con fuerza.
+[El bloqueo 'Curar heridas serias' termina]
+
+* ¡Grahs, Ancestro Bárbaro te alcanza con su maniobra de cabezazo!
+
+¡Tu ataque se desvía a una localización más protegida de Ghalhugg!
+# ¡Alcanzas a Ghalhugg con tu maniobra de zarandear!
+
+[Obtienes 117 puntos de experiencia]
+
+* Logras esquivar el ataque de Grahs, Ancestro Bárbaro.
+pa
+
+a
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Pantera.
+
+> Grahs, Ancestro Bárbaro consigue escurrirse entre ti y Ghalhugg, protegiéndole.
++ Comienzas a moverte tentativamente alrededor de Grahs, Ancestro Bárbaro, buscando un flanco vulnerable para abalanzarte sobre él.
+
+Grahs, Ancestro Bárbaro consigue escurrirse entre ti y Ghalhugg, protegiéndole.
+# Rajas con fuerza a Grahs, Ancestro Bárbaro.
+# Perforas con fuerza a Grahs, Ancestro Bárbaro.
+# Enfermas con poca intensidad a Grahs, Ancestro Bárbaro.
+
+[Obtienes 43 puntos de experiencia]
+Pvs: 3724/5061 (-1302) Pe: 1318/1408 (-21)
+
+Ghalhugg (Gob) se va en dirección este seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+o
+Parece que oeste no produjo efecto alguno.
+
+¡Tus objetivos ya no están al alcance de tu abalanzarse!
+
+e
+Ghalhugg (Gob) está aquí.
+Cervatillo, Gorila y Grahs, Ancestro Bárbaro están aquí.
+Meseta Oriental [se,o] 
+
+Ghalhugg (Gob) se va en dirección sudeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+se
+Ghalhugg (Gob) está aquí.
+Cervatillo, Gorila y Grahs, Ancestro Bárbaro están aquí.
+Meseta Oriental [se,no] 
+
+a
+Ghalhugg se estremece de dolor mientras su escudo de almas brilla con fuerza.
++ Comienzas a moverte tentativamente alrededor de Ghalhugg, buscando un flanco vulnerable para abalanzarte sobre él.
+
+> [El bloqueo 'zarpazo' termina]
+
+Ghalhugg pronuncia el cántico: 'magius elis curis'
+
+Ghalhugg cura algunas de sus heridas más ligeras.
+
+* Grahs, Ancestro Bárbaro te aplasta con increíble potencia y de forma superficial.
+
+# ¡Te abalanzas sobre un costado de Ghalhugg, destrozándole con tres ataques de tus Garras y dientes!
+
+[Obtienes 101 puntos de experiencia]
+gse
+
+No es posible sigilar, estás inmerso en una lucha.
+
+Ghalhugg (Gob) se va en dirección noroeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+estado -b x
+No se ha encontrado ningún objeto que responda al nombre nizigg,ghalhugg,kimmura,notza,trotix,rugrak,suka.
+
+> Estás persiguiendo a Ghalhugg y Grahs, Ancestro Bárbaro.
+Pvs: 3287/5061 (-437) Pe: 1297/1408 (-10)
+
+no
+Ghalhugg (Gob) está aquí.
+Cervatillo, Gorila y Grahs, Ancestro Bárbaro están aquí.
+Meseta Oriental [se,o] 
+
+Ghalhugg (Gob) se va en dirección oeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+os
+
+z
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+> No hay nadie aquí reconocible como nizigg,ghalhugg,kimmura,notza,trotix,rugrak,suka.
+
+o
+Ghalhugg (Gob) está aquí.
+Gorila y Grahs, Ancestro Bárbaro están aquí.
+Meseta Oriental [so,e] 
+El frío viento del invierno azota tu cuerpo.
+
+sg
+Intentas seguir a Grahs, Ancestro Bárbaro, pero te da esquinazo.
+
+z
+Ghalhugg se estremece de dolor mientras su escudo de almas brilla con fuerza.
++ Te preparas para ejecutar zarpazo.
+
+> Pvs: 4087/5861 (+800) Pe: 1298/1408 (+1)
+
+os
+No estás suficientemente calmado.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Ghalhugg 18%
+
+Ghalhugg pronuncia el cántico: 'magius modus curis'
+
+Ghalhugg cura algunas de sus heridas más moderadas.
+
+Ghalhugg (Gob) se va en dirección este seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+¡Tus objetivos ya no están al alcance de tu zarpazo!
+e
+
+Cervatillo está aquí.
+Meseta Oriental [se,o] 
+
+z
+Estás persiguiendo a Ghalhugg y Grahs, Ancestro Bárbaro.
+No hay nadie aquí reconocible como nizigg,ghalhugg,kimmura,notza,trotix,rugrak,suka.
+
+se
+Ghalhugg (Gob) está aquí.
+Cervatillo, Gorila y Grahs, Ancestro Bárbaro están aquí.
+Meseta Oriental [se,no] 
+
+Ghalhugg (Gob) se va en dirección sudeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+z
+
+No hay nadie aquí reconocible como nizigg,ghalhugg,kimmura,notza,trotix,rugrak,suka.
+
+sg
+Estás demasiado cansado para seguir a nadie.
+
+se
+Ghalhugg (Gob) está aquí.
+Cervatillo, Gorila y Grahs, Ancestro Bárbaro están aquí.
+Meseta Oriental [s,no] 
+
+z
++ Te preparas para ejecutar zarpazo.
+
+Ghalhugg (Gob) se va en dirección noroeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+sg
+Estás demasiado cansado para seguir a nadie.
+
+no
+
+] 
+Cervatillo está aquí.
+Meseta Oriental [se,no] 
+
+no
+Cervatillo está aquí.
+Meseta Oriental [se,o] 
+
+¡Tus objetivos ya no están al alcance de tu zarpazo!
+
+o
+
+] 
+a
+
+] 
+z
+
+] 
+Ghalhugg (Gob) está aquí.
+Gorila y Grahs, Ancestro Bárbaro están aquí.
+Meseta Oriental [so,e] 
+
+] Parece que abalanzarse x no produjo efecto alguno.
+
+] + Te preparas para ejecutar zarpazo.
+
+> Grahs, Ancestro Bárbaro consigue escurrirse entre ti y Ghalhugg, protegiéndole.
+# Rajas con mucha fuerza a Grahs, Ancestro Bárbaro.
+# Rajas con mucha fuerza a Grahs, Ancestro Bárbaro.
+# Enfermas débilmente a Grahs, Ancestro Bárbaro.
+
+[Obtienes 51 puntos de experiencia]
+
+Ghalhugg (Gob) se va en dirección este seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+so´
+
+Parece que so´ no produjo efecto alguno.
+
+e
+Ghalhugg (Gob) está aquí.
+Cervatillo, Gorila y Grahs, Ancestro Bárbaro están aquí.
+Meseta Oriental [se,o] 
+El viento azota con suavidad la elevación de la meseta.
+
+Ghalhugg (Gob) se va en dirección sudeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+se
+
+] ¡Tus objetivos ya no están al alcance de tu zarpazo!
+
+sg
+Ghalhugg (Gob) llega desde el sudeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+* Ghalhugg te aplasta débilmente y de forma superficial.
+
+Ghalhugg se estremece de dolor mientras su escudo de almas brilla con fuerza.
+
+] Cervatillo está aquí.
+Meseta Oriental [se,no] 
+
+] No veo a ancestro por aquí.
+
+> Pvs: 4081/5861 (-6) Pe: 1277/1408 (-14)
+
+z
+Estás persiguiendo a Ghalhugg y Grahs, Ancestro Bárbaro.
+No hay nadie aquí reconocible como nizigg,ghalhugg,kimmura,notza,trotix,rugrak,suka.
+
+no
+Ghalhugg (Gob) está aquí.
+Cervatillo, Gorila y Grahs, Ancestro Bárbaro están aquí.
+Meseta Oriental [se,o] 
+
+a
+Parece que abalanzarse x no produjo efecto alguno.
+
+z
+* Grahs, Ancestro Bárbaro te aplasta con increíble potencia.
+Grahs, Ancestro Bárbaro consigue escurrirse entre ti y Ghalhugg, protegiéndole.
++ Te preparas para ejecutar zarpazo.
+
+Grahs, Ancestro Bárbaro consigue escurrirse entre ti y Ghalhugg, protegiéndole.
+# Rajas violentamente a Grahs, Ancestro Bárbaro.
+# Rajas con mucha fuerza a Grahs, Ancestro Bárbaro.
+# Enfermas con poca intensidad a Grahs, Ancestro Bárbaro.
+
+[Obtienes 58 puntos de experiencia]
+Pvs: 3703/5861 (-378) Pe: 1277/1408 (0)
+
+Ghalhugg (Gob) se va en dirección sudeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+agacharse
+levantarse
+Te agachas.
+¡Tu maniobra de zarpazo se ve interrumpida!
+
+> Te reincorporas.
+
+se
+Ghalhugg (Gob) está aquí.
+Cervatillo, Gorila y Grahs, Ancestro Bárbaro están aquí.
+Meseta Oriental [se,no] 
+
+Ghalhugg (Gob) se va en dirección sudeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+z
+
+Estás persiguiendo a Ghalhugg y Grahs, Ancestro Bárbaro.
+No hay nadie aquí reconocible como nizigg,ghalhugg,kimmura,notza,trotix,rugrak,suka.
+
+se
+Ghalhugg (Gob) está aquí.
+Cervatillo, Gorila y Grahs, Ancestro Bárbaro están aquí.
+Meseta Oriental [s,no] 
+
+z
+Grahs, Ancestro Bárbaro consigue escurrirse entre ti y Ghalhugg, protegiéndole.
++ Te preparas para ejecutar zarpazo.
+
+Ghalhugg empieza a formular un hechizo.
+
+sg
+Grahs, Ancestro Bárbaro parece estar muy atento y no tener ganas de que le sigas.
+
+] 
+Ghalhugg se estremece de dolor mientras su escudo de almas brilla con fuerza.
+
+[El bloqueo 'abalanzarse' termina]
+Ghalhugg te examina.
+
+Ghalhugg (Gob) se va en dirección noroeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+agacharse
+
+levantarse
+Te agachas.
+¡Tu maniobra de zarpazo se ve interrumpida!
+
+> Te reincorporas.
+
+no
+Ghalhugg (Gob) está aquí.
+Cervatillo, Gorila y Grahs, Ancestro Bárbaro están aquí.
+Meseta Oriental [se,no] 
+
+> * Grahs, Ancestro Bárbaro te aplasta con increíble potencia.
+
+no
+Cervatillo está aquí.
+Meseta Oriental [se,o] 
+
+Estás persiguiendo a Ghalhugg y Grahs, Ancestro Bárbaro.
+Pvs: 3339/5861 (-364) Pe: 1263/1408 (-6)
+[El bloqueo 'mordisco' termina]
+
+se
+Ghalhugg (Gob) está aquí.
+Cervatillo, Gorila y Grahs, Ancestro Bárbaro están aquí.
+Meseta Oriental [se,no] 
+
+Ghalhugg (Gob) se va en dirección sudeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+z
+
+No hay nadie aquí reconocible como nizigg,ghalhugg,kimmura,notza,trotix,rugrak,suka.
+
+se
+Ghalhugg (Gob) está aquí.
+Cervatillo, Gorila y Grahs, Ancestro Bárbaro están aquí.
+Meseta Oriental [s,no] 
+
+z
+Grahs, Ancestro Bárbaro consigue escurrirse entre ti y Ghalhugg, protegiéndole.
++ Te preparas para ejecutar zarpazo.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Ghalhugg 49%
+
+agacharse
+levantarse
+Te agachas.
+¡Tu maniobra de zarpazo se ve interrumpida!
+
+> Te reincorporas.
+
+] 
+Ghalhugg pronuncia el cántico: 'magius elis curis'
+
+Ghalhugg cura algunas de sus heridas más ligeras.
+
+Ghalhugg ordena a Gorila y Grahs, Ancestro Bárbaro habilidad cabezazo sobre x1.
+
+Grahs, Ancestro Bárbaro, dice en negra: Eso está hecho, señor.
+! Grahs, Ancestro Bárbaro se prepara para ejecutar cabezazo sobre ti.
+
+z
+No estás suficientemente calmado.
+
+* ¡Grahs, Ancestro Bárbaro te alcanza con su maniobra de cabezazo!
+
+* Grahs, Ancestro Bárbaro te aplasta con increíble potencia y de forma superficial.
+z
+
+z
++ Te preparas para ejecutar zarpazo.
+
+> Ignorando 'zarpazo x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+# Rajas con mucha fuerza a Ghalhugg.
+¡Tu ataque se desvía a una localización más protegida de Ghalhugg!
+# Rajas con fuerza a Ghalhugg.
+# Enfermas débilmente a Ghalhugg.
+¡Tu ataque se desvía a una localización más protegida de Ghalhugg!
+# Laceras con fuerza a Ghalhugg.
+
+[Obtienes 20 puntos de experiencia]
+
+[Obtienes 45 puntos de experiencia]
+Pvs: 2638/5861 (-701) Pe: 1256/1408 (-7)
+
+Ghalhugg (Gob) se va en dirección noroeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+no
+Ghalhugg (Gob) está aquí.
+Cervatillo, Gorila y Grahs, Ancestro Bárbaro están aquí.
+Meseta Oriental [se,no] 
+
+El escudo de almas de Ghalhugg gira frenéticamente para proteger a su invocador.
+# ¡Alcanzas a Ghalhugg con tu maniobra de zarpazo!
+
+[Obtienes 10 puntos de experiencia]
+
+Ghalhugg (Gob) se va en dirección sudeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+estado -b x
+No se ha encontrado ningún objeto que responda al nombre nizigg,ghalhugg,kimmura,notza,trotix,rugrak,suka.
+
+se
+Ghalhugg (Gob) está aquí.
+Cervatillo, Gorila y Grahs, Ancestro Bárbaro están aquí.
+Meseta Oriental [s,no] 
+
+pa
+a
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Pantera.
+
+> * Logras esquivar el ataque de Ghalhugg.
++ Comienzas a moverte tentativamente alrededor de Ghalhugg, buscando un flanco vulnerable para abalanzarte sobre él.
+
+Ghalhugg (Gob) se va en dirección sur seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+Pvs: 1840/5061 (-798) Pe: 1248/1408 (0)
+
+s
+Meseta Oriental [e,n] 
+
+ge
+Estás persiguiendo a Ghalhugg y Grahs, Ancestro Bárbaro.
+Ghalhugg (Gob) está aquí.
+Gorila, Liebre y Grahs, Ancestro Bárbaro están aquí.
+Meseta Oriental [se,o] 
+
+El escudo de almas de Ghalhugg gira frenéticamente para proteger a su invocador.
+# ¡Te abalanzas sobre un sorprendido Ghalhugg y le despedazas con un ataque y un crítico de tus Garras y dientes!
+
+[Obtienes 83 puntos de experiencia]
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Ghalhugg 33%
+
+# Rajas con mucha fuerza a Ghalhugg.
+# Perforas con fuerza a Ghalhugg.
+# Enfermas con poca intensidad a Ghalhugg.
+
+[Obtienes 48 puntos de experiencia]
+
+hi
+dn
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Hiena.
+
+Ghalhugg empieza a inspeccionar la zona detenidamente.
+Grahs, Ancestro Bárbaro consigue escurrirse entre ti y Ghalhugg, protegiéndole.
++ Te preparas para ejecutar dentellada.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Ghalhugg 24%
+
+Ghalhugg (Gob) se va en dirección sudeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+¡Tus objetivos ya no están al alcance de tu dentellada!
+
+Escuchas repicar las campanas de la ciudad de Anduar.
+co
+
+se
+Estás persiguiendo a Ghalhugg y Grahs, Ancestro Bárbaro.
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Cocodrilo.
+
+> Liebre está aquí.
+Meseta Oriental [e,no] 
+
+> Pvs: 2742/5961 (+902) Pe: 1227/1408 (-11)
+
+e
+Ghalhugg (Gob) está aquí.
+Gorila y Grahs, Ancestro Bárbaro están aquí.
+Meseta Oriental [se,o] 
+
+bg
+> 
+Parece que bg no produjo efecto alguno.
+
+g
+Ghalhugg pronuncia el cántico: 'magius elis curis'
+
+Ghalhugg cura algunas de sus heridas más ligeras.
+Grahs, Ancestro Bárbaro consigue escurrirse entre ti y Ghalhugg, protegiéndole.
+Comienzas a serpentear alrededor de Grahs, Ancestro Bárbaro, buscando puntos ciegos por donde puedas agarrarle con tus temibles fauces.
+
+* Grahs, Ancestro Bárbaro te aplasta con poca fuerza y de forma superficial.
+sg
+
+Grahs, Ancestro Bárbaro parece estar muy atento y no tener ganas de que le sigas.
+
+Ghalhugg (Gob) se va en dirección oeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+Estás persiguiendo a Ghalhugg y Grahs, Ancestro Bárbaro.
+Pvs: 2676/5961 (-66) Pe: 1224/1408 (-3)
+
+Ghalhugg (Gob) llega desde el oeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+agacharse
+
+levantarse
+Te agachas.
+
+> Te reincorporas.
+
+agacharse
+levantarse
+Te agachas.
+
+> Te reincorporas.
+
+Ghalhugg (Gob) se va en dirección sudeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+O
+Parece que O no produjo efecto alguno.
+
+N
+Parece que N no produjo efecto alguno.
+
+PC
+Parece que PC no produjo efecto alguno.
+
+] 
+[El bloqueo 'zarpazo' termina]
+CLE
+
+Parece que CLE no produjo efecto alguno.
+
+PC
+Parece que PC no produjo efecto alguno.
+
+pc
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+cle
+Comienzas a formular el hechizo 'Curar heridas ligeras'.
+
+> Pvs: 1906/5191 (-770) Pe: 1224/1408 (0)
+
+ojear
+Meseta Oriental [se,o] 
+
+Pronuncias el cántico: 'magius elis curis'
+Curas algunas de tus heridas más ligeras.
+
+[Obtienes 299 puntos de experiencia]
+ac
+
+Has usado el poder del anillo recientemente y has de descansar antes de someterte de nuevo a sus influjos.
+
+se
+Páramos Orientales [no,e] 
+
+> Pvs: 2969/5191 (+1063) Pe: 1224/1408 (0)
+
+e
+Liebre está aquí.
+Páramos Orientales [se,o] 
+
+se
+Cervatillo está aquí.
+Páramos Orientales [e,no] 
+
+cme
+Comienzas a formular el hechizo 'Curar heridas moderadas'.
+
+ojear
+Cervatillo está aquí.
+Páramos Orientales [e,no] 
+
+Pronuncias el cántico: 'magius modus curis'
+Curas algunas de tus heridas más moderadas.
+
+[Obtienes 378 puntos de experiencia]
+
+e
+Liebre está aquí.
+Páramos Orientales [ne,o] 
+Charco de sangre.
+
+os
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+Pvs: 4955/5861 (+1986) Pe: 1220/1408 (-3)
+[El bloqueo 'abalanzarse' termina]
+ne
+
+Páramos Orientales [so,e,ne] 
+
+e
+Ghalhugg (Gob) está aquí.
+Gorila y Grahs, Ancestro Bárbaro están aquí.
+Páramos Orientales [e,o] 
+
+* Grahs, Ancestro Bárbaro te aplasta con increíble potencia.
+
+sg
+Grahs, Ancestro Bárbaro parece estar muy atento y no tener ganas de que le sigas.
+
+z
+> 
++ Te preparas para ejecutar zarpazo.
+
+Ghalhugg detiene su búsqueda.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Ghalhugg 46%
+
+Ghalhugg (Gob) se va en dirección oeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+Estás persiguiendo a Ghalhugg y Grahs, Ancestro Bárbaro.
+Pvs: 4579/5861 (-376) Pe: 1220/1408 (0)
+
+o
+Páramos Orientales [so,e,ne] 
+
+¡Tus objetivos ya no están al alcance de tu zarpazo!
+so
+
+Liebre está aquí.
+Páramos Orientales [ne,o] 
+Charco de sangre.
+
+o
+
+] 
+Cervatillo está aquí.
+Páramos Orientales [e,no] 
+
+> [El bloqueo 'Curar heridas ligeras' termina]
+
+no
+Liebre está aquí.
+Páramos Orientales [se,o] 
+Se te entumecen los pies debido a la capa de hielo que recubren los páramos.
+
+se
+
+e
+] 
+
+] 
+Cervatillo está aquí.
+Páramos Orientales [e,no] 
+
+] Liebre está aquí.
+Páramos Orientales [ne,o] 
+Charco de sangre.
+
+ne
+
+] 
+cle
+
+] 
+Páramos Orientales [so,e,ne] 
+Los arbustos secos de la zona se quiebran bajo tu paso.
+
+] En tu estado polimorfado te es imposible formular el hechizo Curar heridas ligeras.
+
+> [El bloqueo 'Curar heridas moderadas' termina]
+
+pc
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+> Pvs: 3911/5191 (-668) Pe: 1215/1408 (+2)
+[El bloqueo 'Tentáculo tumefacto' termina]
+
+ne
+Ghalhugg (Gob) está aquí.
+Cervatillo, Gorila y Grahs, Ancestro Bárbaro están aquí.
+Páramos Orientales [so,n] 
+
+Ghalhugg pronuncia el cántico: 'magius elis curis'
+
+Ghalhugg cura algunas de sus heridas más ligeras.
+cme
+
+Comienzas a formular el hechizo 'Curar heridas moderadas'.
+
+Ghalhugg (Gob) se va en dirección sudoeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+Pronuncias el cántico: 'magius modus curis'
+Curas algunas de tus heridas más moderadas.
+
+[Obtienes 368 puntos de experiencia]
+
+so
+Páramos Orientales [so,e,ne] 
+Se te entumecen los pies debido a la capa de hielo que recubren los páramos.
+
+se
+> 
+Parece que sudeste no produjo efecto alguno.
+
+e
+Páramos Orientales [e,o] 
+
+Pvs: 5191/5191 (+1280) Pe: 1215/1408 (0)
+
+o
+Páramos Orientales [so,e,ne] 
+
+[Ithilrohir Aärthem orbita a Eirea]
+so
+
+Liebre está aquí.
+Páramos Orientales [ne,o] 
+Charco de sangre.
+
+o
+
+] 
+Cervatillo está aquí.
+Páramos Orientales [e,no] 
+
+> [El bloqueo 'mordisco' termina]
+
+os
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+no
+Liebre está aquí.
+Páramos Orientales [se,o] 
+
+o
+
+] 
+hi
+
+] 
+Páramos Orientales [no,e] 
+
+] Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Hiena.
+
+> Pvs: 5781/5781 (+590) Pe: 1212/1408 (0)
+
+cano
+Sueltas tus armas para echar a correr.
+Dejas de sostener tu Reliquia Divina de la Persistencia.
+Dejas de sostener tu Espolón enmohecido de Constructo.
+Haciendo un esfuerzo corres como un poseso.
+Meseta Oriental [se,o] 
+Liebre está aquí.
+Meseta Oriental [e,no] 
+Liebre está aquí.
+Meseta Oriental [se,o] 
+Meseta Oriental [e,n] 
+Cervatillo está aquí.
+Meseta Oriental [s,no] 
+
+ojear
+Cervatillo está aquí.
+Meseta Oriental [s,no] 
+
+Pvs: 5521/5521 (-260) Pe: 1197/1408 (-15)
+[El bloqueo 'Curar heridas moderadas' termina]
+
+s
+Meseta Oriental [e,n] 
+El viento azota con suavidad la elevación de la meseta.
+
+levantarse
+Ya estás levantado.
+
+pc
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+e
+Liebre está aquí.
+Meseta Oriental [se,o] 
+
+Pvs: 5191/5191 (-330) Pe: 1192/1408 (0)
+se
+
+Liebre está aquí.
+Meseta Oriental [e,no] 
+El viento azota con suavidad la elevación de la meseta.
+
+e
+Meseta Oriental [se,o] 
+
+se
+
+] 
+Páramos Orientales [no,e] 
+
+e
+Liebre está aquí.
+Páramos Orientales [se,o] 
+
+se
+
+] 
+Cervatillo está aquí.
+Páramos Orientales [e,no] 
+
+e
+Liebre está aquí.
+Páramos Orientales [ne,o] 
+Charco de sangre.
+
+ne
+
+] 
+Páramos Orientales [so,e,ne] 
+
+os
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+Ghalhugg (Gob) llega desde el este seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+e
+
+Páramos Orientales [e,o] 
+Destrozos de un terremoto.
+
+o
+
+z
+] Ghalhugg (Gob) está aquí.
+Gorila y Grahs, Ancestro Bárbaro están aquí.
+Páramos Orientales [so,e,ne] 
+
+> # Rajas con fuerza a Ghalhugg.
+# Rajas a Ghalhugg.
+# Enfermas con poca intensidad a Ghalhugg.
+
+[Obtienes 43 puntos de experiencia]
+Pvs: 5861/5861 (+670) Pe: 1193/1408 (+1)
++ Te preparas para ejecutar zarpazo.
+
+Ghalhugg ordena a Gorila y Grahs, Ancestro Bárbaro habilidad cabezazo sobre x1.
+
+Grahs, Ancestro Bárbaro, dice en negra: Eso está hecho, señor.
+! Grahs, Ancestro Bárbaro se prepara para ejecutar cabezazo sobre ti.
+
+Ghalhugg es envuelto en el poder de su Anillo del Héroe de la Oscuridad.
+
+* ¡Logras parar críticamente a Grahs, Ancestro Bárbaro y su cabezazo!
+
+Ghalhugg (Gob) se va en dirección este seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+¡Tus objetivos ya no están al alcance de tu zarpazo!
+e
+
+Páramos Orientales [e,o] 
+Destrozos de un terremoto.
+Los arbustos secos de la zona se quiebran bajo tu paso.
+
+z
+Ignorando 'zarpazo x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+e
+Ghalhugg (Gob) está aquí.
+Gorila y Grahs, Ancestro Bárbaro están aquí.
+Páramos Orientales [ne,o] 
+Destrozos de un terremoto.
+Cuerpo de Liebre.
+
+z
++ Te preparas para ejecutar zarpazo.
+
+Ghalhugg (Gob) se va en dirección oeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+o
+Ghalhugg (Gob) está aquí.
+Gorila y Grahs, Ancestro Bárbaro están aquí.
+Páramos Orientales [e,o] 
+Destrozos de un terremoto.
+
+* Logras esquivar el ataque de Grahs, Ancestro Bárbaro.
+
+Ghalhugg (Gob) se va en dirección este seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+oe
+Parece que oe no produjo efecto alguno.
+
+> ¡Tus objetivos ya no están al alcance de tu zarpazo!
+
+e
+Estás persiguiendo a Ghalhugg y Grahs, Ancestro Bárbaro.
+Pvs: 5461/5461 (-400) Pe: 1178/1408 (-14)
+Ghalhugg (Gob) está aquí.
+Gorila y Grahs, Ancestro Bárbaro están aquí.
+Páramos Orientales [ne,o] 
+Destrozos de un terremoto.
+Cuerpo de Liebre.
+
+z
++ Te preparas para ejecutar zarpazo.
+
+Ghalhugg empieza a formular un hechizo.
+
+Ghalhugg (Gob) se va en dirección oeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+o
+Ghalhugg (Gob) está aquí.
+Gorila y Grahs, Ancestro Bárbaro están aquí.
+Páramos Orientales [e,o] 
+Destrozos de un terremoto.
+
+El escudo de almas de Ghalhugg gira frenéticamente para proteger a su invocador.
+# ¡Alcanzas criticamente a Ghalhugg con tu maniobra de zarpazo!
+¡Tu golpe causa una profunda herida a Ghalhugg en un pie!
+
+[Obtienes 13 puntos de experiencia]
+Ghalhugg te toca  mientras formula un hechizo.
+
+Ghalhugg pronuncia el cántico: 'aedrhus impotem nazxia'
+La mano de Ghalhugg se transforma en una letal víbora que te muerde, provocándote un agudo dolor.
+* Logras esquivar el ataque de Ghalhugg.
+
+Pvs: 4518/5461 (-943) Pe: 1171/1408 (-7)
+
+Ghalhugg (Gob) se va en dirección este seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+pa
+Estás persiguiendo a Ghalhugg y Grahs, Ancestro Bárbaro.
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Pantera.
+
+e
+Ghalhugg (Gob) está aquí.
+Gorila y Grahs, Ancestro Bárbaro están aquí.
+Páramos Orientales [ne,o] 
+Destrozos de un terremoto.
+Cuerpo de Liebre.
+
+* Logras esquivar el ataque de Grahs, Ancestro Bárbaro.
+a
+
+Ghalhugg empieza a formular un hechizo.
+
+Grahs, Ancestro Bárbaro consigue escurrirse entre ti y Ghalhugg, protegiéndole.
++ Comienzas a moverte tentativamente alrededor de Grahs, Ancestro Bárbaro, buscando un flanco vulnerable para abalanzarte sobre él.
+
+Grahs, Ancestro Bárbaro consigue escurrirse entre ti y Ghalhugg, protegiéndole.
+# Rajas con fuerza a Grahs, Ancestro Bárbaro.
+# Perforas con fuerza y de forma superficial a Grahs, Ancestro Bárbaro.
+# Enfermas con poca intensidad a Grahs, Ancestro Bárbaro.
+
+[Obtienes 41 puntos de experiencia]
+Pvs: 3718/4661 (-800) Pe: 1171/1408 (0)
+o
+
+Páramos Orientales [e,o] 
+Destrozos de un terremoto.
+
+agacharse
+Te agachas.
+¡Tu maniobra de abalanzarse se ve interrumpida!
+
+levantarse
+Te reincorporas.
+
+ge
+Estás persiguiendo a Ghalhugg y Grahs, Ancestro Bárbaro.
+Páramos Orientales [ne,o] 
+Destrozos de un terremoto.
+Cuerpo de Liebre.
+
+a
+> 
+No hay nadie aquí reconocible como nizigg,ghalhugg,kimmura,notza,trotix,rugrak,suka.
+
+ne
+Ghalhugg (Gob) está aquí.
+Gorila y Grahs, Ancestro Bárbaro están aquí.
+Páramos Orientales [e,so] 
+Destrozos de un terremoto.
+
+Ghalhugg detiene su búsqueda.
+
+Ghalhugg empieza a formular un hechizo.
+a
+
+Grahs, Ancestro Bárbaro consigue escurrirse entre ti y Ghalhugg, protegiéndole.
++ Comienzas a moverte tentativamente alrededor de Grahs, Ancestro Bárbaro, buscando un flanco vulnerable para abalanzarte sobre él.
+
+* Logras esquivar el ataque de Grahs, Ancestro Bárbaro.
+
+agacharse
+levantarse
+Te agachas.
+¡Tu maniobra de abalanzarse se ve interrumpida!
+
+> Te reincorporas.
+
+Ghalhugg pronuncia el cántico: 'flamious os colus'
+¡Logras esquivar parte de la columna de fuego que Ghalhugg invoca sobre ti!
+# Rajas con fuerza a Ghalhugg.
+¡Tu ataque se desvía a una localización más protegida de Ghalhugg!
+# Perforas a Ghalhugg.
+# Enfermas con poca intensidad a Ghalhugg.
+
+[Obtienes 37 puntos de experiencia]
+Pvs: 3512/4661 (-206) Pe: 1149/1408 (-11)
+e
+
+Puente sobre la Grieta de Lhoin [o,e] 
+Destrozos de un terremoto.
+
+go
+Estás persiguiendo a Ghalhugg y Grahs, Ancestro Bárbaro.
+Ghalhugg (Gob) está aquí.
+Gorila y Grahs, Ancestro Bárbaro están aquí.
+Páramos Orientales [e,so] 
+Destrozos de un terremoto.
+Se te entumecen los pies debido a la capa de hielo que recubren los páramos.
+
+a
++ Te mueves en silencio alrededor de Ghalhugg, tensando los músculos de tus cuartos traseros para abalanzarte sobre él.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Ghalhugg 77%
+
+Ghalhugg (Gob) se va en dirección sudoeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+gso
+
+] Páramos Orientales [ne,o] 
+Destrozos de un terremoto.
+Cuerpo de Liebre.
+
+> ¡Tus objetivos ya no están al alcance de tu abalanzarse!
+
+o
+
+] 
+a
+
+] 
+Ghalhugg (Gob) está aquí.
+Gorila y Grahs, Ancestro Bárbaro están aquí.
+Páramos Orientales [e,o] 
+Destrozos de un terremoto.
+
+] Grahs, Ancestro Bárbaro consigue escurrirse entre ti y Ghalhugg, protegiéndole.
++ Comienzas a moverte tentativamente alrededor de Grahs, Ancestro Bárbaro, buscando un flanco vulnerable para abalanzarte sobre él.
+
+> # Rajas a Ghalhugg.
+# Perforas a Ghalhugg.
+# Enfermas débilmente a Ghalhugg.
+
+[Obtienes 28 puntos de experiencia]
+[El bloqueo 'zarpazo' termina]
+
+Ghalhugg (Gob) se va en dirección este seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+e
+Ghalhugg (Gob) está aquí.
+Gorila y Grahs, Ancestro Bárbaro están aquí.
+Páramos Orientales [ne,o] 
+Destrozos de un terremoto.
+Cuerpo de Liebre.
+
+Ghalhugg te examina.
+# ¡Te abalanzas sobre un costado de Grahs, Ancestro Bárbaro, destrozándole con tres ataques y un crítico de tus Garras y dientes!
+
+[Obtienes 217 puntos de experiencia]
+
+Ghalhugg detiene su búsqueda.
+
+gne
+
+] 
+* Logras esquivar el ataque de Ghalhugg.
+
+Ghalhugg se estremece de dolor mientras su escudo de almas brilla con fuerza.
+
+Ghalhugg (Gob) se va en dirección oeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+Estás persiguiendo a Ghalhugg y Grahs, Ancestro Bárbaro.
+Páramos Orientales [e,so] 
+Destrozos de un terremoto.
+
+os
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+o
+> 
+
+] 
+z
+
+] 
+o
+
+] 
+Ghalhugg (Gob) llega desde el sudoeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+z
+Parece que oeste no produjo efecto alguno.
+
+] + Te preparas para ejecutar zarpazo.
+
+] Parece que oeste no produjo efecto alguno.
+
+> # Rajas con fuerza y de forma superficial a Ghalhugg.
+¡Tu ataque se desvía a una localización más protegida de Ghalhugg!
+# Rajas de forma superficial a Ghalhugg.
+# Enfermas con poca intensidad a Ghalhugg.
+¡Tu ataque se desvía a una localización más protegida de Ghalhugg!
+# Laceras con fuerza a Ghalhugg.
+
+[Obtienes 18 puntos de experiencia]
+
+[Obtienes 40 puntos de experiencia]
+Pvs: 4312/5461 (+800) Pe: 1125/1408 (-23)
+
+Ghalhugg empieza a formular un hechizo.
+Ignorando 'zarpazo x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+Ghalhugg empieza a inspeccionar la zona detenidamente.
+
+z
+Ignorando 'zarpazo x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+Ghalhugg detiene su búsqueda.
+sg
+
+Intentas seguir a Grahs, Ancestro Bárbaro, pero te da esquinazo.
+
+El escudo de almas de Ghalhugg gira frenéticamente para proteger a su invocador.
+# ¡Alcanzas a Ghalhugg con tu maniobra de zarpazo!
+
+[Obtienes 64 puntos de experiencia]
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Ghalhugg 48%
+
+] 
+Ghalhugg pronuncia el cántico: 'magius modus curis'
+
+Ghalhugg cura algunas de sus heridas más moderadas.
+
+* Logras esquivar el ataque de Ghalhugg.
+
+Ghalhugg se estremece de dolor mientras su escudo de almas brilla con fuerza.
+
+z
+Grahs, Ancestro Bárbaro consigue escurrirse entre ti y Ghalhugg, protegiéndole.
+Necesitarás acumular un poco más de fuerza para descargar otro zarpazo como el anterior.
+
+Ghalhugg (Gob) se va en dirección este seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+co
+Estás persiguiendo a Ghalhugg y Grahs, Ancestro Bárbaro.
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Cocodrilo.
+
+e
+> 
+Ghalhugg (Gob) está aquí.
+Gorila y Grahs, Ancestro Bárbaro están aquí.
+Puente sobre la Grieta de Lhoin [o,e] 
+Destrozos de un terremoto.
+
+* Grahs, Ancestro Bárbaro te aplasta con increíble potencia y de forma superficial.
+
+Ghalhugg (Gob) se va en dirección oeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+g
+
+No hay nadie aquí reconocible como nizigg,ghalhugg,kimmura,notza,trotix,rugrak,suka.
+
+estado -b x
+No se ha encontrado ningún objeto que responda al nombre nizigg,ghalhugg,kimmura,notza,trotix,rugrak,suka.
+
+Pvs: 4097/5561 (-215) Pe: 1118/1408 (+1)
+[El bloqueo 'carrera' termina]
+o
+
+g
+Ghalhugg (Gob) está aquí.
+Gorila y Grahs, Ancestro Bárbaro están aquí.
+Páramos Orientales [e,so] 
+Destrozos de un terremoto.
+
+> Comienzas a serpentear alrededor de Ghalhugg, buscando puntos ciegos por donde puedas agarrarle con tus temibles fauces.
+
+Ghalhugg (Gob) se va en dirección este seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+e
+Ghalhugg (Gob) está aquí.
+Gorila y Grahs, Ancestro Bárbaro están aquí.
+Puente sobre la Grieta de Lhoin [o,e] 
+Destrozos de un terremoto.
+
+Ghalhugg (Gob) se va en dirección oeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+o
+
+] 
+Ghalhugg (Gob) está aquí.
+Gorila y Grahs, Ancestro Bárbaro están aquí.
+Páramos Orientales [e,so] 
+Destrozos de un terremoto.
+
+El escudo de almas de Ghalhugg gira frenéticamente para proteger a su invocador.
+# Muerdes a Ghalhugg en una pierna, destrozándole carne y huesos.
+
+[Obtienes 40 puntos de experiencia]
+
+c
++ Te preparas para ejecutar zarandear.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Ghalhugg 46%
+
+* Grahs, Ancestro Bárbaro te aplasta con fuerza.
+
+El escudo de almas de Ghalhugg gira frenéticamente para proteger a su invocador.
+# ¡Alcanzas a Ghalhugg con tu maniobra de zarandear!
+
+[Obtienes 110 puntos de experiencia]
+
+Ghalhugg empieza a formular un hechizo.
+
+¡Tu ataque se desvía a una localización más protegida de Ghalhugg!
+# Perforas con increíble potencia a Ghalhugg.
+# Enfermas críticamente a Ghalhugg.
+
+[Obtienes 71 puntos de experiencia]
+Pvs: 3984/5561 (-113) Pe: 1098/1408 (-20)
+
+hi
+dn
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Hiena.
+
+> Grahs, Ancestro Bárbaro consigue escurrirse entre ti y Ghalhugg, protegiéndole.
++ Te preparas para ejecutar dentellada.
+
+estado -b x
+Ghalhugg (Gob) se va en dirección este seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+No se ha encontrado ningún objeto que responda al nombre nizigg,ghalhugg,kimmura,notza,trotix,rugrak,suka.
+
+¡Tus objetivos ya no están al alcance de tu dentellada!
+
+e
+Ghalhugg (Gob) está aquí.
+Gorila y Grahs, Ancestro Bárbaro están aquí.
+Puente sobre la Grieta de Lhoin [o,e] 
+Destrozos de un terremoto.
+
+Ghalhugg (Gob) se va en dirección oeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+ndn
+Parece que ndn no produjo efecto alguno.
+
+Pvs: 3804/5381 (-180) Pe: 1098/1408 (+1)
+
+o
+Páramos Orientales [e,so] 
+Charco de sangre.
+
+dn
+Estás persiguiendo a Ghalhugg y Grahs, Ancestro Bárbaro.
+No hay nadie aquí reconocible como nizigg,ghalhugg,kimmura,notza,trotix,rugrak,suka.
+
+no
+Parece que noroeste no produjo efecto alguno.
+
+dn
+No hay nadie aquí reconocible como nizigg,ghalhugg,kimmura,notza,trotix,rugrak,suka.
+
+o
+Parece que oeste no produjo efecto alguno.
+
+so
+Rugrak (Gno) y Ghalhugg (Gob) están aquí.
+Gorila y Grahs, Ancestro Bárbaro están aquí.
+Páramos Orientales [ne,o] 
+Destrozos de un terremoto.
+Cuerpo de Liebre.
+
+Ghalhugg pronuncia el cántico: 'magius elis curis'
+
+Ghalhugg cura algunas de sus heridas más ligeras.
+# Perforas con increíble potencia a Ghalhugg.
+# Enfermas con poca intensidad a Ghalhugg.
+
+[Obtienes 44 puntos de experiencia]
+[El bloqueo 'abalanzarse' termina]
+[El bloqueo 'zarpazo' termina]
+
+Ghalhugg (Gob) se va en dirección oeste seguido de Gorila (Dominada) y Grahs, Ancestro Bárbaro.
+
+dn
+Estás persiguiendo a Ghalhugg y Grahs, Ancestro Bárbaro.
++ Te preparas para ejecutar dentellada.
+
+Estás siendo atacado por Rugrak.
+Rugrak te mira mientras comprime toda su musculatura.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Rugrak 99%
+
+# ¡Alcanzas a Rugrak con tu maniobra de dentellada!
+
+[Obtienes 45 puntos de experiencia]
+
+Rugrak (Gno) se va hacia oeste.
+
+o
+Rugrak (Gno) está aquí.
+Páramos Orientales [e,o] 
+Destrozos de un terremoto.
+
+o
+[Cruzada_eralie] Palafrenero de la Cruzada: ¡Enorthus ha asesinado a ghalhugg!
+[Tu estatus con Takome ha aumentado]
+[Tu alineamiento ha aumentado]
+
+[Obtienes 357833 puntos de experiencia]
+Propinas el golpe mortal a Ghalhugg.
+[Obtienes 18 puntos de gloria]
+Paras de perseguir a Ghalhugg.
+Páramos Orientales [so,e,ne] 
+
+> Pvs: 3943/5381 (+139) Pe: 1077/1408 (-11)
+
+pc
+Estás persiguiendo a Rugrak.
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+cle
+> 
+Comienzas a formular el hechizo 'Curar heridas ligeras'.
+
+[Chat] Ghalhugg: jajajaja
+
+[Trotix Szeiryü orbita al Limbo]
+
+Pvs: 3353/4791 (-590) Pe: 1077/1408 (0)
+
+Pronuncias el cántico: 'magius elis curis'
+Curas algunas de tus heridas más ligeras.
+
+[Obtienes 135 puntos de experiencia]
+
+oe
+Parece que oe no produjo efecto alguno.
+
+[Chat] Ghalhugg puto rugrak
+
+Rugrak (Gno) llega desde el este.
+
+os
+e
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+> Pvs: 4476/5461 (+1123) Pe: 1077/1408 (0)
+Páramos Orientales [e,o] 
+Destrozos de un terremoto.
+
+[Chat] Ghalhugg puto rugrak
+o
+Rugrak (Gno) está aquí.
+Páramos Orientales [so,e,ne] 
+Los arbustos secos de la zona se quiebran bajo tu paso.
+
+z
+> 
++ Te preparas para ejecutar zarpazo.
+
+# Rajas con mucha fuerza a Rugrak.
+# Rajas con mucha fuerza a Rugrak.
+# Enfermas con poca intensidad a Rugrak.
+
+[Obtienes 55 puntos de experiencia]
+
+# ¡Alcanzas criticamente a Rugrak con tu maniobra de zarpazo!
+¡Tu golpe causa una profunda herida a Rugrak en una pierna!
+
+[Obtienes 144 puntos de experiencia]
+
+[Chat] Ghalhugg xdddddddddd
+
+e
+Rugrak (Gno) se va hacia este.
+Rugrak (Gno) está aquí.
+Páramos Orientales [e,o] 
+
+* Rugrak te aplasta con mucha fuerza y de forma superficial.
+* Rugrak te aplasta con mucha fuerza.
+! Rugrak se prepara para ejecutar arremeter sobre ti.
+
+pc
+Pvs: 4081/5461 (-395) Pe: 1070/1408 (-7)
+
+d
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+> Comienzas a formular el hechizo 'Retener persona'.
+
+Pronuncias el cántico: 'amri xeno haltem'
+Paralizas a Rugrak mediante una fuerza divina que le rodea.
+
+[Obtienes 87 puntos de experiencia]
+
+# Aplastas a Rugrak.
+
+[Obtienes 14 puntos de experiencia]
+Pvs: 3411/4791 (-670) Pe: 1070/1408 (0)
+
+pa
+[El Legendario Szylah Al'jhtar orbita a Eirea]
+
+o
+ge
+a
+[Chat] Ghalhugg no viene a matarme xdddd
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Pantera.
+
+> Páramos Orientales [so,e,ne] 
+
+[Chat] Ithilrohir: se metio?
+Estás persiguiendo a Rugrak.
+Rugrak (Gno) (Retenido) está aquí.
+Páramos Orientales [e,o] 
+
+> + Te mueves en silencio alrededor de Rugrak, tensando los músculos de tus cuartos traseros para abalanzarte sobre él.
+
+# ¡Te abalanzas sobre un sorprendido Rugrak y le despedazas con tres ataques de tus Garras y dientes!
+
+[Obtienes 125 puntos de experiencia]
+
+Rugrak no puede atacar a nadie ya que algo le retiene.
+
+Pvs: 3283/4661 (-128) Pe: 1060/1408 (0)
+[El bloqueo 'dentellada' termina]
+[El bloqueo 'Tentáculo tumefacto' termina]
+[El bloqueo 'Curar heridas ligeras' termina]
+
+os
+z
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+> Necesitarás acumular un poco más de fuerza para descargar otro zarpazo como el anterior.
+
+z
+> 
+Necesitarás acumular un poco más de fuerza para descargar otro zarpazo como el anterior.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Rugrak 62%
+
+Rugrak intenta escapar de una fuerza que le retiene, pero no lo consigue.
+# Rajas violentamente a Rugrak.
+# Rajas con mucha fuerza a Rugrak.
+# Enfermas con poca intensidad a Rugrak.
+
+[Obtienes 62 puntos de experiencia]
+Pvs: 4083/5461 (+800) Pe: 1049/1408 (0)
+
+[Chat] Suka:  XDDDDD
+
+co
+g
+g
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Cocodrilo.
+
+> [El bloqueo 'mordisco' termina]
+Comienzas a serpentear alrededor de Rugrak, buscando puntos ciegos por donde puedas agarrarle con tus temibles fauces.
+
+> Ignorando 'mordisco x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+g
+Ignorando 'mordisco x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+Rugrak intenta escapar de una fuerza que le retiene, pero no lo consigue.
+
+stop
+Cola de comandos borrada ('peleas parar' detendrá los combates si es lo que querías).
+> 
+Rugrak no puede atacar a nadie ya que algo le retiene.
+
+Rugrak queda liberado de la fuerza que le retenía.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Rugrak 56%
+
+> Pvs: 4183/5561 (+100) Pe: 1049/1408 (0)
+[El bloqueo 'zarpazo' termina]
+
+# Muerdes a Rugrak en un brazo, destrozándole carne y huesos.
+
+[Obtienes 63 puntos de experiencia]
+Rugrak puede moverse a pesar de tu mordisco al haber sufrido un 'retener persona' hace poco.
+
+Rugrak (Gno) (Mordido) se va hacia oeste.
+
+c
+Estás persiguiendo a Rugrak.
+Revuelves tu cabeza ferozmente con énfasis feroz en lo que, indiscutiblemente, es toda una demostración de salvajismo. Dicho esto, si pretendías desgarrar algo será mejor que
+la próxima vez lo muerdas primero.
+
+c
+> 
+Revuelves tu cabeza ferozmente con énfasis feroz en lo que, indiscutiblemente, es toda una demostración de salvajismo. Dicho esto, si pretendías desgarrar algo será mejor que
+la próxima vez lo muerdas primero.
+
+o
+Rugrak (Gno) (Mordido) está aquí.
+Páramos Orientales [so,e,ne] 
+
+# Perforas con increíble potencia a Rugrak.
+# Enfermas con poca intensidad a Rugrak.
+
+[Obtienes 49 puntos de experiencia]
+c
+
++ Te preparas para ejecutar zarandear.
+
+Rugrak (Gno) (Mordido) se va hacia este.
+
+[Chat] Suka:  Horda_negra Lutaum, Ojo de los Crebain: ¡Rugrak ha ayudado a enorthus a derrotar a ghalhugg!
+
+e
+Rugrak (Gno) (Mordido) está aquí.
+Páramos Orientales [e,o] 
+
+¡Si no paras de moverte será imposible terminar tu maniobra de zarandear!
+
+# Retienes a Rugrak con tu mordisco, haciéndole más daño.
+
+[Obtienes 62 puntos de experiencia]
+
+* Rugrak te aplasta con mucha fuerza.
+* Rugrak te aplasta con mucha fuerza.
+
+Pvs: 3792/5561 (-391) Pe: 1025/1408 (-21)
+os
+
+Rugrak (Gno) (Mordido) se va hacia oeste.
+Estás concentrado en otra habilidad y te resulta difícil polimorfarse.
+
+z
+Parece que zarpazo x no produjo efecto alguno.
+
+estado -b x
+No se ha encontrado ningún objeto que responda al nombre nizigg,ghalhugg,kimmura,notza,trotix,rugrak,suka.
+
+[Chat] Ithilrohir: si juega rugrak juego yo
+
+o
+Rugrak (Gno) (Mordido) está aquí.
+Páramos Orientales [so,e,ne] 
+
+[Chat] Suka:  buena ehh xDDD
+
+pc
+Estás concentrado en otra habilidad y te resulta difícil polimorfarse.
+
+e
+Páramos Orientales [e,o] 
+
+Rugrak (Gno) (Mordido) llega desde el oeste.
+
+e
+# Perforas con increíble potencia a Rugrak.
+# Enfermas con poca intensidad a Rugrak.
+
+[Obtienes 64 puntos de experiencia]
+Páramos Orientales [ne,o] 
+Cuerpo de Liebre.
+
+> ¡Alguien te ha arrancado a Rugrak de las mandíbulas!
+Sueltas a tu presa.
+
+pc
+Estás persiguiendo a Rugrak.
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+ne
+Páramos Orientales [e,so] 
+Charco de sangre.
+
+e
+> 
+
+] 
+cme
+
+] 
+Puente sobre la Grieta de Lhoin [o,e] 
+
+] Comienzas a formular el hechizo 'Curar heridas moderadas'.
+
+> Pvs: 3022/4791 (-770) Pe: 1025/1408 (0)
+
+chat uis xd
+[Chat] Enorthus: uis xd
+
+Pronuncias el cántico: 'magius modus curis'
+Curas algunas de tus heridas más moderadas.
+
+[Obtienes 321 puntos de experiencia]
+
+Pvs: 4130/4791 (+1108) Pe: 1025/1408 (0)
+[El bloqueo 'abalanzarse' termina]
+
+o
+Páramos Orientales [e,so] 
+Charco de sangre.
+
+os
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+so
+> 
+Páramos Orientales [ne,o] 
+Cuerpo de Liebre.
+
+o
+
+] 
+Páramos Orientales [e,o] 
+
+> Pvs: 4800/5461 (+670) Pe: 1023/1408 (+1)
+
+Rugrak (Gno) llega desde el oeste.
+
+[Chat] Ghalhugg buena buena xd
+e
+
+Páramos Orientales [ne,o] 
+Cuerpo de Liebre.
+
+cmc
+Nada que coger.
+
+o
+Rugrak (Gno) está aquí.
+Páramos Orientales [e,o] 
+
+Rugrak (Gno) se va hacia oeste.
+
+z
+No hay nadie aquí reconocible como nizigg,ghalhugg,kimmura,notza,trotix,rugrak,suka.
+
+o
+Rugrak (Gno) está aquí.
+Páramos Orientales [so,e,ne] 
+
+z
+> 
++ Te preparas para ejecutar zarpazo.
+
+* Rugrak te aplasta violentamente.
+* Rugrak te aplasta violentamente.
+
+Pvs: 4274/5461 (-526) Pe: 1018/1408 (-5)
+
+Rugrak (Gno) se va hacia este.
+
+¡Tus objetivos ya no están al alcance de tu zarpazo!
+e
+
+Rugrak (Gno) está aquí.
+Páramos Orientales [e,o] 
+
+z
++ Te preparas para ejecutar zarpazo.
+
+Rugrak te mira mientras comprime toda su musculatura.
+
+# Rajas con mucha fuerza a Rugrak.
+# Rajas con mucha fuerza a Rugrak.
+# Enfermas con poca intensidad a Rugrak.
+
+[Obtienes 55 puntos de experiencia]
+[El bloqueo 'Curar heridas moderadas' termina]
+
+Rugrak (Gno) se va hacia oeste.
+
+¡Tus objetivos ya no están al alcance de tu zarpazo!
+
+e
+Páramos Orientales [ne,o] 
+Cuerpo de Liebre.
+
+[Chat] Ghalhugg 20:00): [Anarquico] Rugrak:  no me zurreis
+o
+
+Páramos Orientales [e,o] 
+
+o
+
+] 
+Rugrak (Gno) llega desde el oeste.
+Páramos Orientales [so,e,ne] 
+
+e
+Rugrak (Gno) está aquí.
+Páramos Orientales [e,o] 
+
+z
+> 
++ Te preparas para ejecutar zarpazo.
+
+! Rugrak se prepara para ejecutar arremeter sobre ti.
+
+# Rajas con mucha fuerza a Rugrak.
+# Rajas con mucha fuerza a Rugrak.
+# Enfermas con poca intensidad a Rugrak.
+
+[Obtienes 52 puntos de experiencia]
+
+# ¡Alcanzas a Rugrak con tu maniobra de zarpazo!
+
+[Obtienes 117 puntos de experiencia]
+
+[Chat] Ithilrohir: XDDD
+e
+
+Páramos Orientales [ne,o] 
+Cuerpo de Liebre.
+Se te entumecen los pies debido a la capa de hielo que recubren los páramos.
+
+e
+> 
+[Chat] Ghalhugg y viene a pegarme
+
+Parece que este no produjo efecto alguno.
+
+ne
+Páramos Orientales [e,so] 
+Charco de sangre.
+
+nick yy rugrak
+Nombre corto yy cambiado de ancestro a rugrak.
+
+pa
+so
+Estás persiguiendo a Rugrak.
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Pantera.
+
+> Páramos Orientales [ne,o] 
+Cuerpo de Liebre.
+
+o
+Rugrak (Gno) está aquí.
+Páramos Orientales [e,o] 
+
+a
+> 
++ Comienzas a moverte tentativamente alrededor de Rugrak, buscando un flanco vulnerable para abalanzarte sobre él.
+
+[Chat] Ghalhugg valiente mierda xddddd
+
+# Rajas con fuerza a Rugrak.
+# Perforas con fuerza a Rugrak.
+# Enfermas con poca intensidad a Rugrak.
+
+[Obtienes 45 puntos de experiencia]
+Pvs: 3474/4661 (-800) Pe: 1004/1408 (-14)
+[El bloqueo 'mordisco' termina]
+
+Rugrak (Gno) se va hacia este.
+
+[Chat] Ithilrohir: xDDDDDDDDD
+¡Tus objetivos ya no están al alcance de tu abalanzarse!
+
+ge
+Estás persiguiendo a Rugrak.
+Rugrak (Gno) está aquí.
+Páramos Orientales [ne,o] 
+Cuerpo de Liebre.
+
+a
+> 
++ Te mueves en silencio alrededor de Rugrak, tensando los músculos de tus cuartos traseros para abalanzarte sobre él.
+
+Rugrak (Gno) se va hacia oeste.
+
+go
+Rugrak (Gno) está aquí.
+Páramos Orientales [e,o] 
+
+Rugrak (Gno) se va hacia oeste.
+¡Tus objetivos ya no están al alcance de tu abalanzarse!
+
+o
+
+] 
+a
+
+] 
+Rugrak (Gno) está aquí.
+Páramos Orientales [so,e,ne] 
+
+] + Comienzas a moverte tentativamente alrededor de Rugrak, buscando un flanco vulnerable para abalanzarte sobre él.
+
+> # Rajas a Rugrak.
+# Perforas con fuerza a Rugrak.
+# Enfermas con poca intensidad a Rugrak.
+
+[Obtienes 41 puntos de experiencia]
+
+Rugrak (Gno) se va hacia sudoeste.
+
+e
+Páramos Orientales [e,o] 
+Se te entumecen los pies debido a la capa de hielo que recubren los páramos.
+
+e
+
+] ¡Tus objetivos ya no están al alcance de tu abalanzarse!
+
+Páramos Orientales [ne,o] 
+Cuerpo de Liebre.
+
+> [El bloqueo 'zarpazo' termina]
+
+o
+Páramos Orientales [e,o] 
+
+o
+
+] 
+Rugrak (Gno) está aquí.
+Páramos Orientales [so,e,ne] 
+
+> # Rajas con fuerza a Rugrak.
+# Perforas con fuerza a Rugrak.
+# Enfermas críticamente a Rugrak.
+
+[Obtienes 44 puntos de experiencia]
+
+Rugrak (Gno) se va hacia este.
+
+a
+Estás persiguiendo a Rugrak.
+No hay nadie aquí reconocible como nizigg,ghalhugg,kimmura,notza,trotix,rugrak,suka.
+
+ge
+Rugrak (Gno) está aquí.
+Páramos Orientales [e,o] 
+
+a
+> 
++ Te mueves en silencio alrededor de Rugrak, tensando los músculos de tus cuartos traseros para abalanzarte sobre él.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Rugrak 55%
+
+Rugrak (Gno) se va hacia oeste.
+
+¡Tus objetivos ya no están al alcance de tu abalanzarse!
+
+o
+Rugrak (Gno) está aquí.
+Páramos Orientales [so,e,ne] 
+
+a
+> 
++ Comienzas a moverte tentativamente alrededor de Rugrak, buscando un flanco vulnerable para abalanzarte sobre él.
+
+# Rajas a Rugrak.
+# Perforas críticamente a Rugrak.
+# Enfermas con poca intensidad a Rugrak.
+
+[Obtienes 62 puntos de experiencia]
+
+# ¡Te abalanzas sobre un costado de Rugrak, destrozándole con tres ataques de tus Garras y dientes!
+
+[Obtienes 101 puntos de experiencia]
+
+Rugrak (Gno) se va hacia sudoeste.
+os
+
+z
+Estás persiguiendo a Rugrak.
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+> No hay nadie aquí reconocible como nizigg,ghalhugg,kimmura,notza,trotix,rugrak,suka.
+
+so
+Rugrak (Gno) está aquí.
+Liebre está aquí.
+Páramos Orientales [ne,o] 
+Charco de sangre.
+Se te entumecen los pies debido a la capa de hielo que recubren los páramos.
+
+* Rugrak te aplasta con fuerza y de forma superficial.
+* Rugrak te aplasta violentamente.
+z
+
++ Te preparas para ejecutar zarpazo.
+
+estado -b x
+Pvs: 3882/5461 (+408) Pe: 951/1408 (-43)
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Rugrak 43%
+
+* ¡Rugrak te alcanza criticamente con su maniobra de arremeter!
+¡Tu maniobra de zarpazo se ve interrumpida!
+¡El ataque de Rugrak te derriba!
+
+Rugrak te mira mientras comprime toda su musculatura.
+
+No puedes luchar estando agachado.
+Pvs: 2419/5461 (-1463) Pe: 944/1408 (0)
+levantarse
+
+Te reincorporas.
+
+[Chat] Siril   te hizo el lloro preventivo y luego te mato
+
+ne
+Páramos Orientales [so,e,ne] 
+Charco de sangre.
+Se te entumecen los pies debido a la capa de hielo que recubren los páramos.
+
+de
+> 
+Parece que dentro no produjo efecto alguno.
+
+e
+e
+Páramos Orientales [e,o] 
+
+] 
+pc
+
+] 
+cme
+
+] 
+Páramos Orientales [ne,o] 
+Cuerpo de Liebre.
+
+] Estás persiguiendo a Rugrak.
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+] Comienzas a formular el hechizo 'Curar heridas moderadas'.
+
+> Pvs: 1749/4791 (-670) Pe: 944/1408 (0)
+
+ac
+Murmullas unas palabras de poder y acaricias tu Anillo del Héroe de la Luz, que responde a tus palabras emitiendo una luz blanquecina y palpitando con energía.
+
+Rugrak (Gno) llega desde el oeste.
+
+ojear
+Rugrak (Gno) está aquí.
+Páramos Orientales [ne,o] 
+Cuerpo de Liebre.
+
+* Rugrak libera un aterrador bramido cuyo eco permea en tu fuero interno, causando que un miedo visceral se apodere de ti y amilane tus movimientos.
+
+Pronuncias el cántico: 'magius modus curis'
+Curas algunas de tus heridas más moderadas.
+
+[Obtienes 319 puntos de experiencia]
+
+# Rugrak consigue esquivar tu ataque.
+Pvs: 2851/4791 (+1102) Pe: 944/1408 (0)
+
+[Chat] Siril   es un clasico
+
+o
+Páramos Orientales [e,o] 
+
+[Chat] Ghalhugg matalo enorthus que pillo su gloria al menos xddd
+o
+
+Páramos Orientales [so,e,ne] 
+Charco de sangre.
+
+cle
+Comienzas a formular el hechizo 'Curar heridas ligeras'.
+
+Pronuncias el cántico: 'magius elis curis'
+Curas algunas de tus heridas más ligeras.
+
+[Obtienes 135 puntos de experiencia]
+
+so
+Liebre está aquí.
+Páramos Orientales [ne,o] 
+Charco de sangre.
+
+> El poder de tu Anillo del Héroe de la Luz inunda tu cuerpo y te sientes mucho más fuerte.
+
+cse
+Comienzas a formular el hechizo 'Curar heridas serias'.
+
+ojear
+Liebre está aquí.
+Páramos Orientales [ne,o] 
+Charco de sangre.
+
+Estás persiguiendo a Rugrak.
+Pvs: 3704/5191 (+853) Pe: 940/1408 (-1)
+
+Rugrak (Gno) llega desde el noreste.
+
+Pronuncias el cántico: 'magius selirs curis'
+Curas algunas de tus heridas más serias.
+
+[Obtienes 395 puntos de experiencia]
+
+* Rugrak te aplasta con mucha fuerza y de forma superficial.
+* Rugrak te aplasta violentamente.
+os
+
+z
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+> + Te preparas para ejecutar zarpazo.
+
+> Pvs: 5277/5861 (+1573) Pe: 929/1408 (-11)
+[El bloqueo 'abalanzarse' termina]
+
+z
+No estás suficientemente calmado.
+
+estado -b x
+> 
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Rugrak 44%
+
+Rugrak (Gno) se va hacia noreste.
+
+ne
+Rugrak (Gno) está aquí.
+Páramos Orientales [so,e,ne] 
+Charco de sangre.
+Se te entumecen los pies debido a la capa de hielo que recubren los páramos.
+
+# ¡Alcanzas a Rugrak con tu maniobra de zarpazo!
+
+[Obtienes 85 puntos de experiencia]
+
+# Rajas con fuerza a Rugrak.
+# Rajas con mucha fuerza a Rugrak.
+# Enfermas con poca intensidad a Rugrak.
+
+[Obtienes 48 puntos de experiencia]
+[El bloqueo 'Curar heridas moderadas' termina]
+Rugrak te mira mientras comprime toda su musculatura.
+
+pa
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Pantera.
+
+e
+Páramos Orientales [e,o] 
+
+ge
+Estás persiguiendo a Rugrak.
+Páramos Orientales [ne,o] 
+Cuerpo de Liebre.
+
+Pvs: 4477/5061 (-800) Pe: 922/1408 (0)
+[El bloqueo 'Curar heridas ligeras' termina]
+
+Rugrak (Gno) llega desde el oeste.
+
+a
++ Te mueves en silencio alrededor de Rugrak, tensando los músculos de tus cuartos traseros para abalanzarte sobre él.
+
+a
+> 
+Ignorando 'abalanzarse x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Rugrak 34%
+
+[Chat] Ghalhugg bardete en andu?
+
+Rugrak (Gno) se va hacia noreste.
+
+¡Tus objetivos ya no están al alcance de tu abalanzarse!
+
+ne
+Rugrak (Gno) está aquí.
+Páramos Orientales [e,so] 
+Charco de sangre.
+
+[Chat] Suka:  fuiste sukhado XDDD
+
+Rugrak (Gno) se va hacia este.
+ge
+Rugrak (Gno) está aquí.
+Puente sobre la Grieta de Lhoin [o,e] 
+
+a
++ Te mueves en silencio alrededor de Rugrak, tensando los músculos de tus cuartos traseros para abalanzarte sobre él.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Rugrak 34%
+
+Rugrak se prepara para ejecutar arremeter sobre .
+
+# ¡Te abalanzas sobre un sorprendido Rugrak y le despedazas con tres ataques de tus Garras y dientes!
+
+[Obtienes 90 puntos de experiencia]
+
+e
+Puente sobre la Grieta de Lhoin [o,e] 
+
+e
+> 
+Puente sobre la Grieta de Lhoin [o,e] 
+
+e
+
+] 
+pc
+
+] 
+cle
+Puente sobre la Grieta de Lhoin [o,e] 
+
+] Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+> Pvs: 4607/5191 (+130) Pe: 902/1408 (-19)
+[El bloqueo 'Curar heridas serias' termina]
+Comienzas a formular el hechizo 'Curar heridas ligeras'.
+
+[Chat] Ghalhugg fui sukhado xdddd
+
+Pronuncias el cántico: 'magius elis curis'
+Curas algunas de tus heridas más ligeras.
+
+[Obtienes 170 puntos de experiencia]
+
+o
+Puente sobre la Grieta de Lhoin [o,e] 
+
+Pvs: 5191/5191 (+584) Pe: 903/1408 (+1)
+[El bloqueo 'zarpazo' termina]
+
+o
+Puente sobre la Grieta de Lhoin [o,e] 
+
+Rugrak (Gno) llega desde el oeste.
+
+o
+Puente sobre la Grieta de Lhoin [o,e] 
+
+os
+e
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+] 
+z
+
+] 
+estado -b x
+
+] 
+Rugrak (Gno) está aquí.
+Puente sobre la Grieta de Lhoin [o,e] 
+
+] + Te preparas para ejecutar zarpazo.
+
+] De un fugaz vistazo, examinas el estado de los que te rodean.
+Rugrak 28%
+
+> # Rajas a Rugrak.
+# Rajas a Rugrak.
+# Enfermas débilmente a Rugrak.
+
+[Obtienes 35 puntos de experiencia]
+Pvs: 5861/5861 (+670) Pe: 902/1408 (0)
+
+sg
+Rugrak te mira mientras comprime toda su musculatura.
+Intentas seguir a Rugrak, pero te da esquinazo.
+
+e
+Puente sobre la Grieta de Lhoin [o,e] 
+
+¡Tus objetivos ya no están al alcance de tu zarpazo!
+
+e
+
+] 
+e
+[El Legendario Szylah Al'jhtar orbita al Limbo]
+
+[Elerlin ArcodeIris orbita a Eirea]
+
+] 
+Puente sobre la Grieta de Lhoin [o,e] 
+
+] Puente sobre la Grieta de Lhoin [o,e] 
+
+stop
+Cola de comandos borrada ('peleas parar' detendrá los combates si es lo que querías).
+> 
+o
+
+] 
+Rugrak (Gno) está aquí.
+Puente sobre la Grieta de Lhoin [o,e] 
+
+> # Rajas con fuerza a Rugrak.
+# Rajas con fuerza a Rugrak.
+# Enfermas con poca intensidad a Rugrak.
+# Laceras con fuerza a Rugrak.
+
+[Obtienes 18 puntos de experiencia]
+
+[Obtienes 44 puntos de experiencia]
+[El bloqueo 'Curar heridas ligeras' termina]
+
+Rugrak (Gno) se va hacia oeste.
+z
+
+Estás persiguiendo a Rugrak.
+No hay nadie aquí reconocible como nizigg,ghalhugg,kimmura,notza,trotix,rugrak,suka.
+
+sg
+Estás demasiado cansado para seguir a nadie.
+
+o
+Rugrak (Gno) está aquí.
+Puente sobre la Grieta de Lhoin [o,e] 
+
+sg
+Estás demasiado cansado para seguir a nadie.
+
+z
+> 
++ Te preparas para ejecutar zarpazo.
+
+> * Rugrak te aplasta con mucha fuerza y de forma superficial.
+* Rugrak te aplasta con increíble potencia.
+
+Pvs: 5386/5861 (-475) Pe: 888/1408 (-7)
+estado -b x
+
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Rugrak 18%
+
+[Chat] Elerlin: ahora voy a andu
+
+# ¡Alcanzas a Rugrak con tu maniobra de zarpazo!
+
+[Obtienes 85 puntos de experiencia]
+
+co
+g
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Cocodrilo.
+
+> Comienzas a serpentear alrededor de Rugrak, buscando puntos ciegos por donde puedas agarrarle con tus temibles fauces.
+
+estado -b x
+# Perforas con increíble potencia a Rugrak.
+# Enfermas débilmente a Rugrak.
+
+[Obtienes 43 puntos de experiencia]
+Pvs: 5486/5961 (+100) Pe: 888/1408 (0)
+[El bloqueo 'abalanzarse' termina]
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Rugrak 8%
+
+# Muerdes a Rugrak en un brazo, destrozándole carne y huesos.
+
+[Obtienes 101 puntos de experiencia]
+c
+
+Rugrak es mas fuerte de lo que parece y consigue zafarse de tu mordisco, huyendo en dirección este.
+
+Rugrak (Gno) (Mordido) se va hacia este.
+Estás persiguiendo a Rugrak.
+Revuelves tu cabeza ferozmente con énfasis feroz en lo que, indiscutiblemente, es toda una demostración de salvajismo. Dicho esto, si pretendías desgarrar algo será mejor que
+la próxima vez lo muerdas primero.
+
+> Tu capa derrama parte de la sangre que la recubre sobre el suelo.
+
+c
+c
+Revuelves tu cabeza ferozmente con énfasis feroz en lo que, indiscutiblemente, es toda una demostración de salvajismo. Dicho esto, si pretendías desgarrar algo será mejor que
+la próxima vez lo muerdas primero.
+
+> Revuelves tu cabeza ferozmente con énfasis feroz en lo que, indiscutiblemente, es toda una demostración de salvajismo. Dicho esto, si pretendías desgarrar algo será mejor que
+la próxima vez lo muerdas primero.
+
+c
+Revuelves tu cabeza ferozmente con énfasis feroz en lo que, indiscutiblemente, es toda una demostración de salvajismo. Dicho esto, si pretendías desgarrar algo será mejor que
+la próxima vez lo muerdas primero.
+
+e
+Rugrak (Gno) está aquí.
+Puente sobre la Grieta de Lhoin [o,e] 
+
+c
+Revuelves tu cabeza ferozmente con énfasis feroz en lo que, indiscutiblemente, es toda una demostración de salvajismo. Dicho esto, si pretendías desgarrar algo será mejor que
+la próxima vez lo muerdas primero.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Rugrak 1%
+
+c
+Revuelves tu cabeza ferozmente con énfasis feroz en lo que, indiscutiblemente, es toda una demostración de salvajismo. Dicho esto, si pretendías desgarrar algo será mejor que
+la próxima vez lo muerdas primero.
+
+hi
+dn
+# Perforas violentamente a Rugrak.
+
+¡Rugrak pierde la concentración!
+# Enfermas con poca intensidad a Rugrak.
+
+[Obtienes 44 puntos de experiencia]
+
+Rugrak deja de sangrar.
+
+Rugrak respira profundamente, parece que está más calmado.
+
+Rugrak se desploma en el suelo moribundo.
+
+[Cruzada_eralie] Palafrenero de la Cruzada: ¡Enorthus ha asesinado a rugrak!
+[Tu estatus con Takome ha aumentado]
+[Tu alineamiento ha aumentado]
+
+[Obtienes 380876 puntos de experiencia]
+Propinas el golpe mortal a Rugrak.
+
+Rugrak ha muerto.
+
+Rugrak cae al suelo sin vida.
+
+Rugrak da un grito desgarrador antes de que su espíritu abandone Eirea.
+[Obtienes 20 puntos de gloria]
+
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Hiena.
+
+> No hay nadie aquí reconocible como nizigg,ghalhugg,kimmura,notza,trotix,rugrak,suka.
+
+dn
+No hay nadie aquí reconocible como nizigg,ghalhugg,kimmura,notza,trotix,rugrak,suka.
+
+chat dies
+[Chat] Enorthus: dies
+
+chat xd
+[Chat] Enorthus: xd
+
+Pvs: 5306/5781 (-180) Pe: 882/1408 (-3)
+
+pc
+Agotado, eres incapaz de continuar manteniendo tu polimorfismo y vuelves a tu raza original.
+
+cmc
+> 
+Coges Bolsa de monedas (diez oros, dieciseis belas, un sesiom, veintiseis cobres, veinte platinos, dos olotas, un plata y seis monedas de safrio) de cuerpo de Rugrak.
+
+} 
+[Chat] Ghalhugg ole xdd
+
+[Chat] Ithilrohir: xDDDD
+
+[Chat] Suka:  premio a raton de la semana
+Finalmente logras cargar Bolsa de monedas (diez oros, dieciseis belas, un sesiom, veintiseis cobres, veinte platinos, dos olotas, un plata y seis monedas de safrio).
+Pvs: 4716/5191 (-590) Pe: 882/1408 (0)
+[El bloqueo 'zarpazo' termina]
+
+[Chat] Suka:  jajajaja
+
+[Chat] Suka:  Horda_negra Lutaum, Ojo de los Crebain: ¡Ghalhugg ha ayudado a enorthus a derrotar a rugrak!
+
+[Chat] Suka:  me meo xDDD
+
+chat jajajaja
+[Chat] Enorthus: jajajaja
+
+[El bloqueo 'Interruptor (sufrido)' termina]
+
+[Chat] Ghalhugg estuvo buena xddd

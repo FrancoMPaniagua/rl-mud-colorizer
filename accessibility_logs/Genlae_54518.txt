@@ -1,0 +1,325 @@
+Mano espectral está aquí.
+Kelshsil (Melf) está aquí.
+Poste y cuerpo de Esqueleto.
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [oeste,sudoeste,este,noroeste] 
+Esqueleto del Túmulo
+Esqueleto del Túmulo te sigue.
+] 
+* El ataque de Kelshsil rebota en tu piel de piedra.
+* Kelshsil te corroe.
+* El ataque de Kelshsil rebota en tu piel de piedra.
+Pvs: 24592661 Pe: 637759
+Comienzas a formular el hechizo 'Desintegrar'.
+> 
+Kelshsil (Melf) se va hacia sudoeste.
+Estás persiguiendo a Kelshsil.
+Preparas los componentes del hechizo.
+Pronuncias el cántico: 'bellum destruct corpore'
+# Extiendes las palmas de tus manos formando un triángulo hacia Kelshsil y un mortal rayo de energía le golpea de lleno, disgregando sus átomos y esparciéndolos en el aire.
+[Obtienes 235 puntos de experiencia]
+Mano espectral está aquí.
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+Esqueleto del Túmulo
+Esqueleto del Túmulo te sigue.
+> 
+Mano espectral está aquí.
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+Esqueleto del Túmulo
+Esqueleto del Túmulo te sigue.
+] 
+] 
+Mano espectral está aquí.
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+Esqueleto del Túmulo
+Esqueleto del Túmulo te sigue.
+] 
+Mano espectral está aquí.
+Kelshsil (Melf) está aquí.
+Cartel.
+Camino de Ëarmen- Bosque de Orgoth [oeste,sudeste,sur,noreste] 
+Esqueleto del Túmulo
+Esqueleto del Túmulo te sigue.
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+El rostro de Kelshsil se desencaja por el dolor que aqueja en sus entrañas.
+# Tu ataque rebota en la piel de piedra de Kelshsil.
+Trazas con ágiles movimientos en tus dedos la representación rúnica de azuneu y clavas tu mirada en Kelshsil.
+] 
+* El ataque de Kelshsil rebota en tu piel de piedra.
+* Kelshsil te corroe.
+* El ataque de Kelshsil rebota en tu piel de piedra.
+Pvs: 23742661 Pe: 604759
+Kelshsil (Melf) se va hacia noreste.
+Estás persiguiendo a Kelshsil.
+Alzas tu mano, y alrededor de la misma comienzan a formarse 5 esferas que crepitan energía arcana y las lanzas contra Kelshsil.
+# Una esfera de energía golpea a Kelshsil con violencia mágica.
+# Una esfera de energía golpea a Kelshsil con violencia mágica.
+# Una esfera de energía golpea a Kelshsil con violencia mágica.
+# Una esfera de energía golpea a Kelshsil con violencia mágica.
+# Una esfera de energía golpea a Kelshsil con violencia mágica.
+[Obtienes 20 puntos de experiencia]
+Mano espectral está aquí.
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+Esqueleto del Túmulo
+Esqueleto del Túmulo te sigue.
+> 
+Mano espectral está aquí.
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+Esqueleto del Túmulo
+Esqueleto del Túmulo te sigue.
+] 
+] 
+] 
+[El bloqueo 'Sangre a acido' termina]
+Mano espectral está aquí.
+Kelshsil (Melf) está aquí.
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+Esqueleto del Túmulo
+Esqueleto del Túmulo te sigue.
+] 
+Sangre putrefacta
+Mano espectral está aquí.
+Poste y cuerpo de Esqueleto.
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [oeste,sudoeste,este,noroeste] 
+Esqueleto del Túmulo
+Esqueleto del Túmulo te sigue.
+] 
+Kelshsil (Melf) llega desde el sudoeste.
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+Kelshsil (Melf) se va hacia este.
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+Mano espectral está aquí.
+Linde Este del Bosque de Orgoth- Dinmen [oeste,este] 
+Esqueleto del Túmulo
+Esqueleto del Túmulo te sigue.
+> 
+Mano espectral está aquí.
+Kelshsil (Melf) está aquí.
+Linde Este del Bosque de Orgoth- Dinmen [oeste,este] 
+Esqueleto del Túmulo
+Esqueleto del Túmulo te sigue.
+] 
+] 
+] 
+* El ataque de Kelshsil rebota en tu piel de piedra.
+* Kelshsil te corroe.
+Pvs: 23082661 Pe: 605759
+Kelshsil (Melf) se va hacia este.
+Estás siendo atacada por Lancero de Takome.
+Mano espectral y Lancero de Takome están aquí.
+Kelshsil (Melf) está aquí.
+Senda del Alba [oeste,norte,este] 
+Esqueleto del Túmulo
+Esqueleto del Túmulo te sigue.
+] 
+Estás siendo atacada por Mercader.
+Mercader y Mano espectral están aquí.
+Senda del Alba [noreste,oeste] 
+Esqueleto del Túmulo
+Esqueleto del Túmulo te sigue.
+] 
+Kelshsil (Melf) llega desde el oeste.
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+Estás persiguiendo a Lancero de Takome.
+# Kelshsil consigue esquivar tu ataque.
+[El bloqueo 'Desintegrar' termina]
+Kelshsil (Melf) se va hacia noreste.
+Mano espectral está aquí.
+Kelshsil (Melf) está aquí.
+Senda del Alba [sudoeste,noreste] 
+Esqueleto del Túmulo
+Esqueleto del Túmulo te sigue.
+> 
+Kelshsil (Melf) se va hacia noreste.
+Mano espectral está aquí.
+Kelshsil (Melf) está aquí.
+Senda del Alba [sudoeste,este] 
+Esqueleto del Túmulo
+Esqueleto del Túmulo te sigue.
+] 
+] 
+* El ataque de Kelshsil rebota en tu piel de piedra.
+* Kelshsil te corroe muy intensamente.
+Pvs: 21412661 Pe: 605759
+Estás siendo atacada por Mercader.
+Mercader y Mano espectral están aquí.
+Poste de madera.
+Senda del Alba [sudeste,noreste,oeste] 
+Esqueleto del Túmulo
+Esqueleto del Túmulo te sigue.
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+Kelshsil (Melf) llega desde el oeste.
+Estás persiguiendo a Mercader.
+Trazas con ágiles movimientos en tus dedos la representación rúnica de azuneu y clavas tu mirada en Kelshsil.
+] 
+Mercader exclama en adurn: ¡¡loestest Gibubrlarbrlibrlaestest Estestbrlabbburbrlamek Brlaie Tibu Brbrlalbrlbrlabrl!!
+Kelshsil (Melf) se va hacia noreste.
+Estás persiguiendo a Kelshsil.
+Mercader exclama en adurn: ¡¡lottse Gvbuizarbdekiizattse TYabolzadekerrburrrburrrrizamherek Bdekaie Tvbu Jherizalbdekizabdek!!
+# Rajas críticamente a Mercader.
+¡Tu golpe causa una profunda herida a Mercader en un brazo!
+¡Tu Espada Azul te entrega la energía de Mercader!
+[Obtienes 47 puntos de experiencia]
+Alzas tu mano, y alrededor de la misma comienzan a formarse 5 esferas que crepitan energía arcana y las lanzas contra Kelshsil.
+# Una esfera de energía golpea a Kelshsil con violencia mágica.
+# Una esfera de energía es esquivada por Kelshsil antes del impacto.
+# Una esfera de energía golpea a Kelshsil con violencia mágica.
+# Una esfera de energía es esquivada por Kelshsil antes del impacto.
+# Una esfera de energía golpea a Kelshsil con violencia mágica.
+[Obtienes 20 puntos de experiencia]
+Pvs: 22012661 Pe: 601759
+* Logras esquivar el ataque de Mercader.
+Dos Bandidos y Mano espectral están aquí.
+Kelshsil (Melf) está aquí.
+Senda del Alba [sudoeste,norte] 
+Esqueleto del Túmulo
+Esqueleto del Túmulo te sigue.
+> 
+Kelshsil (Melf) se va hacia norte.
+] 
+Estás siendo atacada por Mercader.
+Mercader y Mano espectral están aquí.
+Kelshsil (Melf) está aquí.
+Senda del Alba [sur,norte] 
+Esqueleto del Túmulo
+Esqueleto del Túmulo te sigue.
+* El ataque de Kelshsil rebota en tu piel de piedra.
+* Kelshsil te corroe.
+Pvs: 20822661 Pe: 602759
+Mano espectral está aquí.
+Columna de Piedra y Lanza.
+Senda del Alba [sur,norte,oeste] 
+El aire puro en tus pulmones te produce una sensación momentánea de bienestar.
+Esqueleto del Túmulo
+Esqueleto del Túmulo te sigue.
+> 
+Kelshsil (Melf) llega desde el sur.
+Kelshsil (Melf) se va hacia norte.
+Mano espectral está aquí.
+Kelshsil (Melf) está aquí.
+Senda del Alba [sur,norte] 
+El aire puro en tus pulmones te produce una sensación momentánea de bienestar.
+Esqueleto del Túmulo
+Esqueleto del Túmulo te sigue.
+] 
+Estás persiguiendo a dos Mercaderes.
+# Kelshsil consigue esquivar tu ataque.
+Mano espectral está aquí.
+Senda del Alba [sur,norte] 
+El aire puro en tus pulmones te produce una sensación momentánea de bienestar.
+Esqueleto del Túmulo
+Esqueleto del Túmulo te sigue.
+> 
+Kelshsil (Melf) llega desde el sur.
+Kelshsil (Melf) se va hacia norte.
+Mano espectral está aquí.
+Kelshsil (Melf) está aquí.
+Senda del Alba [sur,norte] 
+El aire puro en tus pulmones te produce una sensación momentánea de bienestar.
+Esqueleto del Túmulo
+Esqueleto del Túmulo te sigue.
+] 
+] 
+] 
+] * El ataque de Kelshsil rebota en tu piel de piedra.
+Tu piel vuelve a su estado normal.
+Mano espectral está aquí.
+Cartel.
+Viejo Puesto Fronterizo del Sur de Takome [sur,norte] 
+Esqueleto del Túmulo
+Esqueleto del Túmulo te sigue.
+] 
+Kelshsil (Melf) llega desde el sur.
+Mano espectral está aquí.
+Camino Empedrado de Takome [sur,norte] 
+El aire puro en tus pulmones te produce una sensación momentánea de bienestar.
+Esqueleto del Túmulo
+Esqueleto del Túmulo te sigue.
+] 
+Kelshsil (Melf) llega desde el sur.
+] 
+] # Tu ataque rebota en la piel de piedra de Kelshsil.
+Mano espectral está aquí.
+Camino Empedrado de Takome [sur,norte] 
+Esqueleto del Túmulo
+Esqueleto del Túmulo te sigue.
+] 
+Kelshsil (Melf) llega desde el sur.
+Kelshsil (Melf) se va hacia norte.
+Estás siendo atacada por Lancero de Takome.
+Mano espectral y Lancero de Takome están aquí.
+Kelshsil (Melf) está aquí.
+Camino Empedrado de Takome [sur,norte] 
+El aire puro en tus pulmones te produce una sensación momentánea de bienestar.
+Esqueleto del Túmulo
+Esqueleto del Túmulo te sigue.
+] 
+] 
+] * Kelshsil te golpea con mucha fuerza.
+* Kelshsil te corroe.
+Pvs: 17892661 Pe: 603759
+Kelshsil (Melf) se va hacia norte.
+Mano espectral está aquí.
+Kelshsil (Melf) está aquí.
+Camino Empedrado de Takome [sur,norte] 
+El aire puro en tus pulmones te produce una sensación momentánea de bienestar.
+Esqueleto del Túmulo
+Esqueleto del Túmulo te sigue.
+] 
+Mano espectral está aquí.
+Camino Empedrado de Takome [sur,norte] 
+Caminas con cuidado con tal de no tropezar con alguna piedra.
+Esqueleto del Túmulo
+Esqueleto del Túmulo te sigue.
+] 
+Kelshsil (Melf) llega desde el sur.
+] 
+Estás persiguiendo a Lancero de Takome.
+# Tu ataque rebota en la piel de piedra de Kelshsil.
+Mano espectral está aquí.
+Camino Empedrado de Takome [sur,norte] 
+Esqueleto del Túmulo
+Esqueleto del Túmulo te sigue.
+] 
+Mano espectral está aquí.
+Camino Empedrado de Takome [sur,norte] 
+Esqueleto del Túmulo
+Esqueleto del Túmulo te sigue.
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+Kelshsil (Melf) llega desde el sur.
+Trazas con ágiles movimientos en tus dedos la representación rúnica de azuneu y clavas tu mirada en Kelshsil.
+] 
+! Kelshsil se prepara para ejecutar doble golpe sobre ti.
+* Kelshsil te golpea violentamente.
+* Kelshsil te corroe intensamente.
+* Kelshsil te golpea críticamente.
+* Kelshsil te corroe intensamente.
+# Tu ataque rebota en la piel de piedra de Kelshsil.
+Alzas tu mano, y alrededor de la misma comienzan a formarse 5 esferas que crepitan energía arcana y las lanzas contra Kelshsil.
+# Una esfera de energía golpea a Kelshsil con violencia mágica.
+# Una esfera de energía golpea a Kelshsil con violencia mágica.
+# Una esfera de energía golpea a Kelshsil con violencia mágica.
+# Una esfera de energía golpea a Kelshsil con violencia mágica.
+# Una esfera de energía golpea a Kelshsil con violencia mágica.
+[Obtienes 20 puntos de experiencia]
+Notas como el poder de la runa kal·rae te abandona poco a poco.
+Pvs: 8402661 Pe: 600759
+La piel de Kelshsil vuelve a su estado normal.
+El globo que rodea a Kelshsil empieza a parpadear hasta que desaparece.
+[Tu estatus con Dendra, Mor Groddûr, Golthur Orod y Ar'Kaindia ha aumentado]
+[Tu alineamiento ha disminuído]
+[Obtienes 326635 puntos de experiencia]
+Propinas el golpe mortal a Kelshsil.
+Kelshsil ha muerto.
+Kelshsil cae al suelo sin vida.
+Kelshsil da un grito desgarrador antes de que su espíritu abandone Eirea.
+[Obtienes 15 puntos de gloria]

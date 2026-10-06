@@ -1,0 +1,190 @@
+Comienzas a formular el hechizo 'Presa sacudidora'.
+> 
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Mano espectral está en perfecto estado.
+Su maligna Señoría está herido de gravedad.
+> 
+Su maligna Señoría empieza a formular un hechizo.
+# Rajas con mucha fuerza a Su maligna Señoría.
+# Mojas a Su maligna Señoría.
+[Obtienes 28 puntos de experiencia]
+Tocas a Su maligna Señoría con tu Mano espectral mientras formulas el hechizo.
+Pronuncias el cántico: 'hanz ow xlxyx'
+# El cuerpo de Su maligna Señoría sufre terribles sacudidas debido a una potente descarga eléctrica.
+[Obtienes 34 puntos de experiencia]
+Wurtt (Hum) llega desde el sur.
+Wurtt (Hum) llega desde el sur seguido de Sumo Cadáver y dos Araña gigantes.
+¡El hechizo de Su maligna Señoría no tiene ningún efecto en ti!
+Mano espectral no parece recibir daño cuando Su maligna Señoría le acierta.
+Comienzas a formular el hechizo 'Toque vampirico'.
+> 
+Wurtt empieza a formular un hechizo.
+[Renegado] Thildarg DrUiD joder y estoy sin un duro
+Destrozos de un terremoto.
+Su maligna Señoría, dos Arañas gigantes, Mano espectral y Sumo Cadáver están aquí.
+Wurtt (Hum) está aquí.
+Garganta de los Lamentos: Trono de Su maligna Señoría [sur] 
+> 
+¡El hechizo de Wurtt no tiene ningún efecto en ti!
+Su maligna Señoría empieza a formular un hechizo.
+# Su maligna Señoría consigue parar críticamente tu ataque.
+Tocas a Su maligna Señoría con tu Mano espectral mientras formulas el hechizo.
+Pronuncias el cántico: 'omeander oloferj tiorodaelah olotheren'
+# Tu mano se ilumina mientras le arrancas a Su maligna Señoría parte de su esencia vital y la haces tuya.
+[Obtienes 94 puntos de experiencia]
+Pvs: 28942894 Pe: 439759
+Wurtt (Hum) se va hacia sur.
+Wurtt (Hum) se va en dirección sur seguido de Sumo Cadáver y dos Araña gigantes.
+Su maligna Señoría deja de formular un hechizo.
+* El ataque de Su maligna Señoría rebota en tu piel de piedra.
+Nombre corto x cambiado de maligna a sishbjorn,aplexius,servrhus,neim,trulhim,hagalvan,zerkar,wurtt,thildarg,nassthak,drahed,aldamare,gathe,vaenbyr.
+> 
+¡Su maligna Señoría se interpone entre la salida, bloqueándote!
+> 
+Su maligna Señoría empieza a formular un hechizo.
+Charco de sangre
+Chamán Orco, dos Arañas gigantes, Sumo Cadáver y Mano espectral están aquí.
+Wurtt (Hum) está aquí.
+Garganta de los Lamentos: Caverna Principal [arriba,oeste,norte] 
+> Estás siendo atacada por Sumo Cadáver.
+* El ataque de Sumo Cadáver rebota en tu piel de piedra.
+Estás siendo atacada por Araña gigante.
+Estás siendo atacada por Araña gigante.
+Comienzas a formular el hechizo 'Desintegrar'.
+] 
+Estás persiguiendo a Su maligna Señoría.
+Estás siendo atacada por Wurtt.
+# Rajas con mucha fuerza a Sumo Cadáver.
+Tu ataque sorbe parte de la resistencia contra mental de Sumo Cadáver.
+# Mojas a Sumo Cadáver.
+[Obtienes 29 puntos de experiencia]
+Preparas los componentes del hechizo.
+Pronuncias el cántico: 'bellum destruct corpore'
+# Extiendes las palmas de tus manos formando un triángulo hacia Wurtt y un mortal rayo de energía le golpea parcialmente, disgregando sus átomos y esparciéndolos en el aire.
+[Obtienes 235 puntos de experiencia]
+* El ataque de Sumo Cadáver rebota en tu piel de piedra.
+* Sumo Cadáver intenta atraparte con su Cadena Larga pero su maniobra no tiene efecto alguno sobre ti.
+* Logras esquivar el ataque de Araña gigante.
+* Logras esquivar el ataque de Araña gigante.
+Trazas con ágiles movimientos en tus dedos la representación rúnica de azuneu y clavas tu mirada en Wurtt.
+] 
+Wurtt empieza a formular un hechizo.
+Wurtt alza su Medallón Calavérico, y lo muestra a todos con una extraña sonrisa en su rostro, mientras respira profundamente y cierra sus ojos.
+De pronto, un sonido penetrante sale de su boca y el grito de ¡Seldar! retumba en el área.
+ La fuerza de tal grito te deja momentaneamente inconsciente...
+Lentamente te reincorporas, pero estas aturdido y confundido.
+[El bloqueo 'Presa sacudidora' termina]
+[Renegado] Thildarg DrUiD Puntos de Experiencia :  (5062547/4885497) (100%) Tienes 2099770 puntos de experiencia acumulados por morir.
+Mano espectral no puede atacar a nadie ya que algo le retiene.
+Sumo Cadáver no puede atacar a nadie ya que algo le retiene.
+# Rajas críticamente a Sumo Cadáver.
+Tu ataque sorbe parte de la resistencia contra mal de Sumo Cadáver.
+# Mojas a Sumo Cadáver.
+[Obtienes 51 puntos de experiencia]
+Alzas tu mano, y alrededor de la misma comienzan a formarse 5 esferas que crepitan energía arcana y las lanzas contra Wurtt.
+# Una esfera de energía golpea a Wurtt con violencia mágica.
+# Una esfera de energía golpea a Wurtt con violencia mágica.
+# Una esfera de energía golpea a Wurtt con violencia mágica.
+# Una esfera de energía golpea a Wurtt con violencia mágica.
+# Una esfera de energía golpea a Wurtt con violencia mágica.
+[Obtienes 20 puntos de experiencia]
+La Mano espectral que has convocado toma parte de tu vida para prolongar su existencia.
+Pvs: 28802894 Pe: 390759
+[Renegado] Thildarg DrUiD flipante xD
+Araña gigante no puede atacar a nadie ya que algo le retiene.
+Araña gigante no puede atacar a nadie ya que algo le retiene.
+Wurtt parece recuperar nuevamente la consciencia y el control de sus actos.
+* El ataque de Wurtt rebota en tu piel de piedra.
+Chamán Orco queda liberado de la fuerza que le retenía.
+Estás aturdida y eres incapaz de realizar acción alguna.
+> 
+Mano espectral no puede atacar a nadie ya que algo le retiene.
+Sumo Cadáver no puede atacar a nadie ya que algo le retiene.
+* El ataque de Wurtt rebota en tu piel de piedra.
+Tu piel vuelve a su estado normal.
+* ¡El Pavés Funerario Envuelto de Wurtt se desenvuelve y lanza un montón de vendas contra ti, pero logras evitar su macabro abrazo!
+# Rajas violentamente a Araña gigante.
+¡Tu Espada Azul te entrega la energía de Araña gigante!
+# Mojas a Araña gigante.
+[Obtienes 32 puntos de experiencia]
+Pvs: 28942894 Pe: 392759
+[El bloqueo 'Toque vampirico' termina]
+Wurtt empieza a formular un hechizo.
+Araña gigante no puede atacar a nadie ya que algo le retiene.
+Araña gigante no puede atacar a nadie ya que algo le retiene.
+Estás aturdida y eres incapaz de realizar acción alguna.
+> 
+Mano espectral queda liberado de la fuerza que le retenía.
+Sumo Cadáver queda liberado de la fuerza que le retenía.
+Araña gigante queda liberado de la fuerza que le retenía.
+Araña gigante queda liberado de la fuerza que le retenía.
+# Rajas con mucha fuerza a Sumo Cadáver.
+Tu ataque sorbe parte de la resistencia contra enfermedad de Sumo Cadáver.
+# Mojas a Sumo Cadáver.
+[Obtienes 27 puntos de experiencia]
+Estás aturdida y eres incapaz de realizar acción alguna.
+> 
+* Wurtt te aplasta con fuerza.
+Pvs: 27372894 Pe: 393759
+[El bloqueo 'Desintegrar' termina]
+Wurtt empieza a formular un hechizo.
+* Sumo Cadáver te lacera con increíble potencia.
+Estás aturdida y eres incapaz de realizar acción alguna.
+> 
+Por fin, logras deshacerte de las telarañas que envolvían tu mente.
+# Rajas violentamente a Araña gigante.
+# Mojas a Araña gigante.
+[Obtienes 34 puntos de experiencia]
+Pvs: 24932894 Pe: 393759
+* Logras esquivar el ataque de Araña gigante.
+* Logras esquivar el ataque de Araña gigante.
+Comienzas a formular el hechizo 'Golpe de rayo'.
+> 
+Wurtt te toca  mientras formula un hechizo.
+* Wurtt te toca, causándote heridas mayores.
+Pvs: 19132894 Pe: 393759
+Wurtt empieza a formular un hechizo.
+¡Te estremeces y pierdes la concentración!
+* Sumo Cadáver te lacera violentamente.
+Comienzas a formular el hechizo 'Desintegrar'.
+> 
+[Aldamare Oiolossë orbita al Limbo]
+# Rajas críticamente a Araña gigante.
+¡Tu golpe causa una profunda herida a Araña gigante en un ojo!
+¡Tu Espada Azul te entrega la energía de Araña gigante!
+# Mojas a Araña gigante.
+[Obtienes 64 puntos de experiencia]
+Preparas los componentes del hechizo.
+Pronuncias el cántico: 'bellum destruct corpore'
+¡Wurtt pierde la concentración!
+# Extiendes las palmas de tus manos formando un triángulo hacia Wurtt y un mortal rayo de energía le golpea de lleno, disgregando sus átomos y esparciéndolos en el aire.
+[Obtienes 235 puntos de experiencia]
+Pvs: 17302894 Pe: 393759
+Wurtt te examina.
+* Logras esquivar el ataque de Araña gigante.
+* Logras esquivar el ataque de Araña gigante.
+Trazas con ágiles movimientos en tus dedos la representación rúnica de azuneu y clavas tu mirada en Wurtt.
+] 
+* Wurtt te aplasta.
+Wurtt empieza a formular un hechizo.
+Pvs: 16312894 Pe: 359759
+* Sumo Cadáver te lacera con increíble potencia.
+# Rajas violentamente a Sumo Cadáver.
+Tu ataque sorbe parte de la resistencia contra veneno de Sumo Cadáver.
+# Mojas a Sumo Cadáver.
+[Obtienes 31 puntos de experiencia]
+Alzas tu mano, y alrededor de la misma comienzan a formarse 5 esferas que crepitan energía arcana y las lanzas contra Wurtt.
+# Una esfera de energía golpea a Wurtt con violencia mágica.
+# Una esfera de energía golpea a Wurtt con violencia mágica.
+# Una esfera de energía es esquivada por Wurtt antes del impacto.
+# Una esfera de energía golpea a Wurtt con violencia mágica.
+# Una esfera de energía golpea a Wurtt con violencia mágica.
+[Obtienes 20 puntos de experiencia]
+Pvs: 13692894 Pe: 359759
+[Obtienes 278216 puntos de experiencia]
+Propinas el golpe mortal a Wurtt.
+Wurtt ha muerto.
+Wurtt cae al suelo sin vida.
+Wurtt da un grito desgarrador antes de que su espíritu abandone Eirea.
+[Obtienes 17 puntos de gloria]
+* ¡Sumo Cadáver lacera violentamente tu brazo con su Cadena Larga, provocandote un intenso y ardiente escozor! Por suerte, no consigue atraparte con su arma.

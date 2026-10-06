@@ -1,0 +1,1635 @@
+se
+Agricultora, Granjero, Lechuza y Viajero están aquí.
+Campos de Cultivo [sudoeste,este,noroeste] 
+Esqueleto te sigue.
+ 
+Pieles:12
+
+] 
+  Pe:597759 Xp:2258502
+Pieles:12
+> 
+e
+
+Agricultora está aquí.
+Campos de Cultivo [noreste,oeste] 
+Esqueleto te sigue.
+
+  Pe:597759 Xp:2258502
+ 
+ 
+ 
+Pieles:12
+> 
+[El bloqueo 'Toque vampirico' termina]
+
+ne
+Agricultora, dos Granjeros y Lechuza están aquí.
+Campos de Cultivo [sudoeste,este] 
+Esqueleto te sigue.
+
+  Pe:599759 Xp:2258502
+ 
+Pieles:12
+> 
+e
+Granjero está aquí.
+Campos de Cultivo [noreste,oeste] 
+Esqueleto te sigue.
+
+  Pe:599759 Xp:2258502
+ 
+ 
+ 
+Pieles:12
+] 
+ne
+Ardilla está aquí.
+Meseta Oriental [sudoeste,norte] 
+Esqueleto te sigue.
+
+  Pe:599759 Xp:2258502
+ 
+Pieles:12
+> 
+n
+Cervatillo está aquí.
+Meseta Oriental [sur,noreste] 
+Esqueleto te sigue.
+
+  Pe:599759 Xp:2258502
+ 
+ 
+ 
+Pieles:12
+] 
+ne
+Cartel.
+Meseta Oriental [noroeste,sudoeste,este] 
+Esqueleto te sigue.
+
+  Pe:599759 Xp:2258502
+ 
+ 
+ 
+Pieles:12
+
+El Anillo Antimágico empieza a brillar con fuertes destellos mágicos.
+Tlakzek finaliza su hechizo y sientes como una fuerza mágica intenta tirar abajo tu magia, pero no parece tener efecto en ti.
+>
+so
+Cervatillo está aquí.
+Meseta Oriental [sur,noreste] 
+Esqueleto te sigue.
+
+  Pe:598759 Xp:2258502
+ 
+ 
+ 
+Pieles:12
+> 
+alias q seguir tlakzek
+Modificando alias 'q: seguir ghazghkull'
+por 'q: seguir tlakzek'
+
+  Pe:598759 Xp:2258502
+ 
+ 
+ 
+Pieles:12
+> 
+buscar
+*Tlakzek* (Gob) llega desde el noreste.
+
+Te haces consciente de la presencia de Tlakzek.
+
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+  Pe:598759 Xp:2258502
+ 
+ Tlakzek (Gob)
+ 
+Pieles:12
+> 
+nick x tlakzek
+Nombre corto x cambiado de
+bylider,bhalder,murz,ippamoor,kirtsaevin,gorey,zazme,serine,tlakzek,kaynd,norger,enorthus,aplexius,frik,elidreth,tullaris,temmins,rhomdur,thronto,dainnil,gurlen a tlakzek.
+
+f3
+Comienzas a formular el hechizo 'Golpe de rayo'.
+
+  Pe:598759 Xp:2258502
+ 
+ Tlakzek (Gob)
+ 
+Pieles:12
+] 
+Buscas esforzadamente algo en tu entorno.
+
+matar x
+Te encaras contra Tlakzek en posición de combate.
+
+  Pe:597759 Xp:2258502
+ 
+ Tlakzek (Gob)
+ Tlakzek (Gob)
+ 
+Pieles:12
+> Tlakzek agarra con fuerza su Espada Azul, haciendo que sus nudillos se vuelvan blancos.
+
+# Rajas con increíble potencia a Tlakzek.
+Tu ataque sorbe parte de la resistencia contra electrico de Tlakzek.
+¡Tu Espada Azul te entrega la energía de Tlakzek!
+# Mojas a Tlakzek.
+
+[Obtienes 41 puntos de experiencia]
+
+Pronuncias el cántico: 'xilyx de gadrum'
+# Un rayo surge de tus manos impactando sobre Tlakzek electrocutándole.
+
+[Obtienes 95 puntos de experiencia]
+
+ne
+Cartel.
+Meseta Oriental [noroeste,sudoeste,este] 
+Esqueleto te sigue.
+
+  Pe:584759 Xp:2258638
+ 
+ 
+ 
+Pieles:12
+> 
+e
+Meseta Oriental [noreste,oeste] 
+Esqueleto te sigue.
+
+  Pe:584759 Xp:2258638
+ 
+ 
+ 
+ 
+Pieles:12
+] 
+o
+Cartel.
+Meseta Oriental [noroeste,sudoeste,este] 
+Esqueleto te sigue.
+
+  Pe:584759 Xp:2258638
+ 
+ 
+ 
+ 
+Pieles:12
+f1
+> 
+Estás persiguiendo a Tlakzek.
+Parece que el objetivo no existe o no es válido para esta runa. Son objetos válidos para esta runa, otros jugadores o personajes no jugadores.
+
+  Pe:584759 Xp:2258638
+ 
+ 
+ 
+Pieles:12
+] 
+st
+buscar
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+  Pe:584759 Xp:2258638
+ 
+ 
+ 
+Pieles:12
+> 
+buscar
+Cuidadosamente rastreas el suelo buscando algo de interés.
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+  Pe:583759 Xp:2258638
+ 
+ 
+ 
+Pieles:12
+> 
+buscar
+Examinas toda la zona buscando algo que no hubieses advertido.
+
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+  Pe:582759 Xp:2258638
+ 
+ 
+ 
+Pieles:12
+> 
+Examinas toda la zona buscando algo que no hubieses advertido.
+
+buscar
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+  Pe:581759 Xp:2258638
+ 
+ 
+ 
+Pieles:12
+> 
+Examinas toda la zona buscando algo que no hubieses advertido.
+
+so
+buscar
+Cervatillo está aquí.
+Meseta Oriental [sur,noreste] 
+Esqueleto te sigue.
+
+  Pe:580759 Xp:2258638
+ 
+ 
+ 
+Pieles:12
+> 
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+  Pe:580759 Xp:2258638
+ 
+ 
+ 
+Pieles:12
+> 
+ne
+[El bloqueo 'Golpe de rayo' termina]
+Buscas esforzadamente algo en tu entorno.
+
+buscar
+Cartel.
+Meseta Oriental [noroeste,sudoeste,este] 
+Esqueleto te sigue.
+
+  Pe:579759 Xp:2258638
+ 
+ 
+ 
+Pieles:12
+> 
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+  Pe:579759 Xp:2258638
+ 
+ 
+ 
+Pieles:12
+> 
+Tlakzek te dice:  lol
+
+Examinas toda la zona buscando algo que no hubieses advertido.
+
+buscar
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+  Pe:578759 Xp:2258638
+ 
+ 
+ 
+Pieles:12
+> 
+no
+buscar
+[Unura orbita a Eirea]
+
+Buscas atentamente a tu alrededor, tratando de encontrar algo oculto.
+Antigua senda Orgoth-Anduar [norte,sudeste] 
+Esqueleto te sigue.
+
+  Pe:577759 Xp:2258638
+SL: [n,se]
+ 
+ 
+Pieles:12
+> Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+  Pe:577759 Xp:2258638
+SL: [n,se]
+ 
+ 
+Pieles:12
+> 
+buscar
+Estás demasiado cansada para buscar ahora.
+
+  Pe:578759 Xp:2258638
+SL: [n,se]
+ 
+ 
+Pieles:12
+> 
+Buscas atentamente a tu alrededor, tratando de encontrar algo oculto.
+
+se
+Cartel.
+Meseta Oriental [noroeste,sudoeste,este] 
+Esqueleto te sigue.
+
+  Pe:577759 Xp:2258638
+ 
+ 
+ 
+Pieles:12
+> 
+buscar
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+  Pe:577759 Xp:2258638
+ 
+ 
+ 
+Pieles:12
+> 
+no
+Buscas esforzadamente algo en tu entorno.
+
+buscar
+Antigua senda Orgoth-Anduar [norte,sudeste] 
+Esqueleto te sigue.
+
+  Pe:578759 Xp:2258638
+SL: [n,se]
+ 
+ 
+Pieles:12
+> 
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+  Pe:578759 Xp:2258638
+SL: [n,se]
+ 
+ 
+Pieles:12
+> 
+n
+Cuidadosamente rastreas el suelo buscando algo de interés.
+
+buscar
+Antigua senda Orgoth-Anduar [sur,noroeste] 
+Esqueleto te sigue.
+
+  Pe:577759 Xp:2258638
+SL: [s,no]
+ 
+ 
+Pieles:12
+> 
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+  Pe:577759 Xp:2258638
+SL: [s,no]
+ 
+ 
+Pieles:12
+> 
+buscar
+Buscas esforzadamente algo en tu entorno.
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+  Pe:576759 Xp:2258638
+SL: [s,no]
+ 
+ 
+Pieles:12
+> 
+no
+Buscas esforzadamente algo en tu entorno.
+
+Buscando......
+
+> 
+se
+Cartel.
+Meseta Oriental [noroeste,sudoeste,este] 
+Esqueleto te sigue.
+
+  Pe:570759 Xp:2258638
+ 
+ 
+ 
+Pieles:12
+] 
+buscar
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+  Pe:570759 Xp:2258638
+ 
+ 
+ 
+Pieles:12
+> 
+Examinas toda la zona buscando algo que no hubieses advertido.
+
+Tlakzek (Gob) llega desde el sudoeste.
+
+Tlakzek agarra con fuerza su Espada Azul, haciendo que sus nudillos se vuelvan blancos.
+
+# Tlakzek consigue esquivar tu ataque.
+so
+
+Cervatillo está aquí.
+Meseta Oriental [sur,noreste] 
+Esqueleto te sigue.
+
+  Pe:572759 Xp:2258638
+ 
+ 
+ 
+ 
+Pieles:12
+> 
+Tlakzek (Gob) llega desde el noreste.
+
+ne
+Cartel.
+Meseta Oriental [noroeste,sudoeste,este] 
+Esqueleto te sigue.
+
+  Pe:572759 Xp:2258638
+ 
+ 
+ 
+ 
+Pieles:12
+] 
+e
+Tlakzek (Gob) llega desde el sudoeste.
+
+Esqueleto te protege valientemente.
+* El ataque de Tlakzek rebota en tu piel de piedra.
+* El ataque de Tlakzek rebota en tu piel de piedra.
+* El ataque de Tlakzek rebota en tu piel de piedra.
+* El ataque de Tlakzek rebota en tu piel de piedra.
+* El ataque de Tlakzek rebota en tu piel de piedra.
+
+La magia de la Espada Azul no es capaz de seguir los fugaces movimientos de Tlakzek, pero pronto le alcanzan, convirtiéndole en un vórtice destructor de éter.
+* ¡La Espada Azul de Tlakzek te fustiga con poca fuerza con su magia de magico!
+* ¡La Espada Azul de Tlakzek te fustiga con poca fuerza con su magia de magico!
+* ¡La Espada Azul de Tlakzek te fustiga con poca fuerza con su magia de magico!
+Meseta Oriental [noreste,oeste] 
+Esqueleto te sigue.
+
+Pv:27652831 Pe:572759 Xp:2258638
+ 
+ 
+ 
+ 
+Pieles:7
+> 
+Estás persiguiendo a Tlakzek.
+Pvs: 27652831 Pe: 572759
+
+Tlakzek (Gob) llega desde el oeste.
+
+o
+Cartel.
+Meseta Oriental [noroeste,sudoeste,este] 
+Esqueleto te sigue.
+
+Pv:27652831 Pe:572759 Xp:2258638
+ 
+ 
+ 
+Pieles:7
+> 
+so
+Cervatillo está aquí.
+Meseta Oriental [sur,noreste] 
+Esqueleto te sigue.
+
+Pv:27672831 Pe:572759 Xp:2258638
+ 
+ 
+ 
+Pieles:7
+> 
+ne
+Cartel.
+Meseta Oriental [noroeste,sudoeste,este] 
+Esqueleto te sigue.
+
+Pv:27672831 Pe:572759 Xp:2258638
+ 
+ 
+ 
+Pieles:7
+f1
+] 
+Parece que el objetivo no existe o no es válido para esta runa. Son objetos válidos para esta runa, otros jugadores o personajes no jugadores.
+
+Pv:27672831 Pe:572759 Xp:2258638
+ 
+ 
+ 
+Pieles:7
+] 
+st
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+buscar
+
+Pv:27672831 Pe:572759 Xp:2258638
+ 
+ 
+ 
+Pieles:7
+] 
+buscar
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+Pv:27672831 Pe:572759 Xp:2258638
+ 
+ 
+ 
+Pieles:7
+] 
+st
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+buscar
+Buscas atentamente a tu alrededor, tratando de encontrar algo oculto.
+
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+Pv:27672831 Pe:571759 Xp:2258638
+ 
+ 
+ 
+Pieles:7
+> 
+buscar
+Examinas toda la zona buscando algo que no hubieses advertido.
+
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+Pv:27672831 Pe:570759 Xp:2258638
+ 
+ 
+ 
+Pieles:7
+> 
+buscar
+Examinas toda la zona buscando algo que no hubieses advertido.
+
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+Pv:27672831 Pe:569759 Xp:2258638
+ 
+ 
+ 
+Pieles:7
+> 
+buscar
+Buscas atentamente a tu alrededor, tratando de encontrar algo oculto.
+
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+Pv:27672831 Pe:568759 Xp:2258638
+ 
+ 
+ 
+Pieles:7
+> 
+no
+Buscas esforzadamente algo en tu entorno.
+
+buscar
+Antigua senda Orgoth-Anduar [norte,sudeste] 
+Esqueleto te sigue.
+
+Pv:27672831 Pe:567759 Xp:2258638
+SL: [n,se]
+ 
+ 
+Pieles:7
+> 
+Has buscado demasiadas veces en muy poco tiempo.
+
+Pv:27672831 Pe:567759 Xp:2258638
+SL: [n,se]
+ 
+ 
+Pieles:7
+> 
+buscar
+Has buscado demasiadas veces en muy poco tiempo.
+
+Pv:27692831 Pe:567759 Xp:2258638
+SL: [n,se]
+ 
+ 
+Pieles:7
+> 
+se
+Cartel.
+Meseta Oriental [noroeste,sudoeste,este] 
+Esqueleto te sigue.
+
+Pv:27692831 Pe:567759 Xp:2258638
+ 
+ 
+ 
+Pieles:7
+buscar
+> 
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+Pv:27692831 Pe:567759 Xp:2258638
+ 
+ 
+ 
+Pieles:7
+> 
+buscar
+Estás demasiado cansada para buscar ahora.
+
+Pv:27692831 Pe:567759 Xp:2258638
+ 
+ 
+ 
+Pieles:7
+> ¡Descubres a Tlakzek intentando moverse en silencio!
+
+f3
+Esqueleto te protege valientemente.
+Comienzas a formular el hechizo 'Golpe de rayo'.
+
+Pv:27692831 Pe:566759 Xp:2258638
+ 
+ Tlakzek (Gob)
+ Tlakzek (Gob)
+ 
+Pieles:7
+> Tlakzek te examina.
+
+Tlakzek te examina.
+# Tlakzek consigue esquivar tu ataque.
+
+Pronuncias el cántico: 'xilyx de gadrum'
+# Un rayo surge de tus manos impactando sobre Tlakzek electrocutándole.
+
+[Obtienes 92 puntos de experiencia]
+
+f1
+Trazas con ágiles movimientos en tus dedos la representación rúnica de azuneu y clavas tu mirada en Tlakzek.
+
+Pv:27692831 Pe:546759 Xp:2258730
+ 
+ Tlakzek (Gob)
+ Tlakzek (Gob)
+ 
+Pieles:7
+] 
+Tlakzek pone su mano libre sobre la empuñadura de su Espada Azul, sosteniéndola a 2 manos. (Liandola en el calor de la batalla)
+
+Esqueleto te protege valientemente.
+
+f2
+Tlakzek equilibra su Espada Azul para sostenerla con una sola mano.
+
+Tlakzek (Gob) se va hacia sudoeste.
+Estás persiguiendo a Tlakzek.
+Alzas tu mano, y alrededor de la misma comienzan a formarse 4 esferas que crepitan energía arcana y las lanzas contra Tlakzek.
+# Una esfera de energía golpea a Tlakzek con violencia mágica.
+# Una esfera de energía golpea a Tlakzek con violencia mágica.
+# Una esfera de energía es esquivada por Tlakzek antes del impacto.
+# Una esfera de energía golpea a Tlakzek con violencia mágica.
+
+[Obtienes 22 puntos de experiencia]
+Tu resistencia de electrico se desvanece.
+Pvs: 25992661 Pe: 546759
+
+El objetivo tlakzek no está aquí ahora mismo.
+
+Pv:25992661 Pe:546759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+> 
+so
+Cervatillo está aquí.
+Meseta Oriental [sur,noreste] 
+Esqueleto te sigue.
+
+Pv:25992661 Pe:546759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+] 
+> 
+st
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+s
+> 
+Ardilla está aquí.
+Meseta Oriental [sudoeste,norte] 
+Esqueleto te sigue.
+
+Pv:25992661 Pe:546759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+] 
+so
+
+Pv:25992661 Pe:546759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+] 
+buscar
+Granjero está aquí.
+Campos de Cultivo [noreste,oeste] 
+Esqueleto te sigue.
+
+Pv:26012661 Pe:546759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+] 
+st
+buscar
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+Tlakzek te dice:  woo xd
+
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+Pv:26012661 Pe:546759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+> 
+[El bloqueo 'Golpe de rayo' termina]
+
+Examinas toda la zona buscando algo que no hubieses advertido.
+buscar
+
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+Pv:26012661 Pe:545759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+> 
+ne
+Remueves todo a tu alrededor buscando algo interesante.
+
+buscar
+Ardilla está aquí.
+Meseta Oriental [sudoeste,norte] 
+Esqueleto te sigue.
+
+Pv:26012661 Pe:544759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+> 
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+Pv:26012661 Pe:544759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+> 
+buscar
+Examinas toda la zona buscando algo que no hubieses advertido.
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+Pv:26012661 Pe:543759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+> 
+buscar
+Estás demasiado cansada para buscar ahora.
+
+Pv:26012661 Pe:543759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+> 
+n
+Cuidadosamente rastreas el suelo buscando algo de interés.
+buscar
+
+Cervatillo está aquí.
+Meseta Oriental [sur,noreste] 
+Esqueleto te sigue.
+
+Pv:26012661 Pe:542759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+> 
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+Pv:26012661 Pe:542759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+> 
+no
+Examinas toda la zona buscando algo que no hubieses advertido.
+
+Parece que noroeste no produjo efecto alguno.
+
+Pv:26012661 Pe:542759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+> 
+ne
+Cartel.
+Meseta Oriental [noroeste,sudoeste,este] 
+Esqueleto te sigue.
+
+Pv:26012661 Pe:542759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+> 
+Tlakzek te dice:  me ortaste el frene
+
+buscar
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+Pv:26012661 Pe:542759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+> 
+Remueves todo a tu alrededor buscando algo interesante.
+
+buscar
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+Pv:26012661 Pe:541759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+> 
+Buscas esforzadamente algo en tu entorno.
+
+Tlakzek (Gob) llega desde el sudoeste.
+
+El Anillo Antimágico de Tlakzek comienza a chispear y ponerse al rojo blanco.
+
+# Tlakzek consigue esquivar críticamente tu ataque.
+
+so
+Cervatillo está aquí.
+Meseta Oriental [sur,noreste] 
+Esqueleto te sigue.
+
+Pv:26012661 Pe:540759 Xp:2258752
+ 
+ 
+ 
+ 
+Pieles:7
+> 
+ne
+Tlakzek (Gob) llega desde el noreste.
+
+Tlakzek deja de formular.
+
+Cartel.
+Meseta Oriental [noroeste,sudoeste,este] 
+Esqueleto te sigue.
+
+Pv:26012661 Pe:540759 Xp:2258752
+ 
+ 
+ 
+ 
+Pieles:7
+] 
+so
+Cervatillo está aquí.
+Tlakzek (Gob) está aquí.
+Meseta Oriental [sur,noreste] 
+Esqueleto te sigue.
+
+Pv:26012661 Pe:540759 Xp:2258752
+ 
+ Tlakzek (Gob)
+ Tlakzek (Gob)
+ 
+Pieles:7
+f3
+> 
+# Tlakzek consigue esquivar tu ataque.
+Comienzas a formular el hechizo 'Golpe de rayo'.
+
+Pv:26032661 Pe:540759 Xp:2258752
+ 
+ Tlakzek (Gob)
+ Tlakzek (Gob)
+ 
+Pieles:7
+> 
+st
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+Tlakzek agarra con fuerza su Espada Azul, haciendo que sus nudillos se vuelvan blancos.
+
+ne
+¡Tu movimiento rompe tu concentración y tu hechizo de Golpe de rayo queda arruinado!
+Cartel.
+Meseta Oriental [noroeste,sudoeste,este] 
+Esqueleto te sigue.
+
+Pv:26032661 Pe:526759 Xp:2258752
+ 
+ 
+ 
+ 
+Pieles:7
+] 
+Tlakzek (Gob) llega desde el sudoeste.
+
+so
+Cervatillo está aquí.
+Meseta Oriental [sur,noreste] 
+El viento azota con suavidad la elevación de la meseta.
+Esqueleto te sigue.
+
+Pv:26032661 Pe:526759 Xp:2258752
+ 
+ 
+ 
+ 
+Pieles:7
+> 
+Estás persiguiendo a Tlakzek.
+s
+
+Ardilla está aquí.
+Meseta Oriental [sudoeste,norte] 
+Esqueleto te sigue.
+
+Pv:26032661 Pe:526759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+> 
+n
+Cervatillo está aquí.
+Meseta Oriental [sur,noreste] 
+Esqueleto te sigue.
+
+Pv:26032661 Pe:526759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+f1
+] 
+Parece que el objetivo no existe o no es válido para esta runa. Son objetos válidos para esta runa, otros jugadores o personajes no jugadores.
+
+Pv:26032661 Pe:527759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+] 
+st
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+buscar
+
+Pv:26032661 Pe:527759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+] 
+buscar
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+Pv:26032661 Pe:527759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+] 
+st
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+Remueves todo a tu alrededor buscando algo interesante.
+
+ne
+buscar
+Cartel.
+Meseta Oriental [noroeste,sudoeste,este] 
+Esqueleto te sigue.
+
+Pv:26032661 Pe:526759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+> 
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+Pv:26052661 Pe:527759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+> 
+buscar
+Buscas atentamente a tu alrededor, tratando de encontrar algo oculto.
+
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+Pv:26052661 Pe:526759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+> 
+buscar
+Buscas esforzadamente algo en tu entorno.
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+Pv:26052661 Pe:525759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+> 
+so
+Cuidadosamente rastreas el suelo buscando algo de interés.
+
+Cervatillo está aquí.
+Meseta Oriental [sur,noreste] 
+Esqueleto te sigue.
+
+Pv:26052661 Pe:524759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+> 
+buscar
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+Pv:26052661 Pe:524759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+> 
+Buscas atentamente a tu alrededor, tratando de encontrar algo oculto.
+
+buscar
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+Pv:26052661 Pe:523759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+> 
+ne
+Cuidadosamente rastreas el suelo buscando algo de interés.
+
+buscar
+Cartel.
+Meseta Oriental [noroeste,sudoeste,este] 
+Esqueleto te sigue.
+
+Pv:26052661 Pe:522759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+> 
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+Pv:26052661 Pe:522759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+> 
+buscar
+Examinas toda la zona buscando algo que no hubieses advertido.
+
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+Pv:26052661 Pe:521759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+> 
+buscar
+Remueves todo a tu alrededor buscando algo interesante.
+
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+Pv:26052661 Pe:520759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+> 
+no
+Examinas toda la zona buscando algo que no hubieses advertido.
+
+buscar
+Antigua senda Orgoth-Anduar [norte,sudeste] 
+Esqueleto te sigue.
+
+Pv:26072661 Pe:519759 Xp:2258752
+SL: [n,se]
+ 
+ 
+Pieles:7
+> 
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+Pv:26072661 Pe:519759 Xp:2258752
+SL: [n,se]
+ 
+ 
+Pieles:7
+> 
+se
+Examinas toda la zona buscando algo que no hubieses advertido.
+buscar
+Cartel.
+Meseta Oriental [noroeste,sudoeste,este] 
+Esqueleto te sigue.
+
+Pv:26092661 Pe:518759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+> 
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+Pv:26092661 Pe:518759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+> 
+so
+Remueves todo a tu alrededor buscando algo interesante.
+
+buscar
+Cervatillo está aquí.
+Meseta Oriental [sur,noreste] 
+El viento azota con suavidad la elevación de la meseta.
+Esqueleto te sigue.
+
+Pv:26092661 Pe:517759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+> 
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+Pv:26092661 Pe:517759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+> 
+buscar
+Cuidadosamente rastreas el suelo buscando algo de interés.
+
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+Pv:26092661 Pe:518759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+> 
+f12
+Cuidadosamente rastreas el suelo buscando algo de interés.
+
+Comienzas a formular el hechizo 'Toque vampirico'.
+
+Pv:26092661 Pe:517759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+> 
+buscar
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+Pv:26092661 Pe:517759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+> 
+Examinas toda la zona buscando algo que no hubieses advertido.
+
+buscar
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+Pv:26092661 Pe:517759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+> 
+Buscas esforzadamente algo en tu entorno.
+
+# No logras tocar a Cervatillo perdiendo así el hechizo.
+
+cetro
+Dejas de sostener tu Espada Azul.
+
+Pv:26122661 Pe:516759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+Empuñas tu Cetro del Nigromante Negro.
+
+Pv:26122661 Pe:516759 Xp:2258752
+ 
+ 
+ 
+Pieles:7
+} 
+Finalmente equilibras el Cetro del Nigromante Negro.
+
+matar xp
+Te encaras contra Cervatillo en posición de combate.
+
+Pv:26122661 Pe:516759 Xp:2258752
+ 
+ Cervatillo (Rum)
+ 
+ 
+Pieles:7
+> 
+buscar
+# Aplastas con increíble potencia a Cervatillo.
+
+[Obtienes 35 puntos de experiencia]
+Pvs: 26222661 Pe: 516759
+
+[Obtienes 465 puntos de experiencia]
+Propinas el golpe mortal a Cervatillo.
+
+Cervatillo cae al suelo sin vida.
+Esqueleto se alza del cadáver de tu enemigo como un macabro títere de tu voluntad.
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+Pv:26252661 Pe:517759 Xp:2259252
+ 
+ 
+ 
+Pieles:7
+> 
+op
+Buscas atentamente a tu alrededor, tratando de encontrar algo oculto.
+
+Ordenas a tus criaturas proteger.
+
+Pv:26252661 Pe:516759 Xp:2259252
+ 
+ 
+ 
+Pieles:7
+> 
+m1
+Esqueleto te protege.
+Esqueleto te protege.
+
+Dos Esqueletos están aquí.
+Meseta Oriental [sur,noreste] 
+
+Pv:26252661 Pe:516759 Xp:2259252
+ 
+ 
+ 
+Pieles:7
+> 
+eg
+Dejas de sostener tu Cetro del Nigromante Negro.
+
+Pv:26252661 Pe:516759 Xp:2259252
+ 
+ 
+ 
+Pieles:7
+Empuñas tu Espada Azul.
+
+Pv:26252661 Pe:516759 Xp:2259252
+ 
+ 
+ 
+Pieles:7
+} 
+m1
+Finalmente equilibras la Espada Azul.
+
+Dos Esqueletos están aquí.
+Meseta Oriental [sur,noreste] 
+
+Pv:26252661 Pe:516759 Xp:2259252
+ 
+ 
+ 
+Pieles:7
+> 
+m1
+Dos Esqueletos están aquí.
+Meseta Oriental [sur,noreste] 
+
+Pv:26252661 Pe:516759 Xp:2259252
+ 
+ 
+ 
+Pieles:7
+> 
+buscar
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+Pv:26252661 Pe:516759 Xp:2259252
+ 
+ 
+ 
+Pieles:7
+> 
+Buscas esforzadamente algo en tu entorno.
+ne
+
+Cartel.
+Meseta Oriental [noroeste,sudoeste,este] 
+dos Esqueletos te siguen.
+
+Pv:26252661 Pe:515759 Xp:2259252
+ 
+ 
+ 
+Pieles:7
+> Tu armadura espiritual se desvanece.
+Pvs: 26102661 Pe: 515759
+[El bloqueo 'Toque vampirico' termina]
+buscar
+
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+Pv:26132661 Pe:515759 Xp:2259252
+ 
+ 
+ 
+Pieles:7
+> 
+buscar
+Estás demasiado cansada para buscar ahora.
+
+Pv:26132661 Pe:515759 Xp:2259252
+ 
+ 
+ 
+Pieles:7
+> 
+Examinas toda la zona buscando algo que no hubieses advertido.
+
+buscar
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+Pv:26132661 Pe:514759 Xp:2259252
+ 
+ 
+ 
+Pieles:7
+> 
+* El ataque de Tlakzek rebota en tu piel de piedra.
+* El ataque de Tlakzek rebota en tu piel de piedra.
+* El ataque de Tlakzek rebota en tu piel de piedra.
+* El ataque de Tlakzek rebota en tu piel de piedra.
+* El ataque de Tlakzek rebota en tu piel de piedra.
+
+La magia de la Espada Azul no es capaz de seguir los fugaces movimientos de Tlakzek, pero pronto le alcanzan, convirtiéndole en un vórtice destructor de éter.
+* ¡La Espada Azul de Tlakzek te fustiga débilmente con su magia de magico!
+* ¡La Espada Azul de Tlakzek te fustiga débilmente con su magia de magico!
+* ¡La Espada Azul de Tlakzek te fustiga débilmente con su magia de magico!
+
+Te haces consciente de la presencia de Tlakzek.
+
+Buscas esforzadamente algo en tu entorno.
+
+f4
+Tlakzek empieza a centrar sus golpes sobre ti.
+Pasas tu mano sobre tu Espada Azul mientras te concentras intentando despertar su magia.
+
+Pv:25592661 Pe:506759 Xp:2259252
+ 
+ Tlakzek (Gob)
+ Tlakzek (Gob)
+ 
+Pieles:2
+] 
+# Rajas con increíble potencia a Tlakzek.
+Tu ataque sorbe parte de la resistencia contra electrico de Tlakzek.
+¡Tu Espada Azul te entrega la energía de Tlakzek!
+# Mojas a Tlakzek.
+
+[Obtienes 39 puntos de experiencia]
+# Rajas con increíble potencia a Tlakzek.
+Tu ataque sorbe parte de la resistencia contra enfermedad de Tlakzek.
+# Mojas a Tlakzek.
+# Pronuncias unas palabras mágicas y tu Espada Azul empieza a vibrar y se ilumina deshaciendo los tejidos de Tlakzek.
+
+[Obtienes 207 puntos de experiencia]
+Pvs: 25992661 Pe: 507759
+
+so
+Meseta Oriental [sur,noreste] 
+dos Esqueletos te siguen.
+
+Pv:25992661 Pe:507759 Xp:2259498
+ 
+ 
+ 
+ 
+Pieles:2
+> 
+s
+Tlakzek (Gob) llega desde el noreste.
+
+Tlakzek pone su mano libre sobre la empuñadura de su Espada Azul, sosteniéndola a 2 manos.
+
+* El ataque de Tlakzek rebota en tu piel de piedra.
+* El ataque de Tlakzek rebota en tu piel de piedra.
+Tu piel vuelve a su estado normal.
+* Tlakzek, entre carcajadas homicidas, te golpea repetidas veces con su Espada Azul en una pierna envuelto en un sadismo frenético.
+* Tlakzek te propina un buen golpe de su Espada Azul que te alcanza en el pecho, causándote una pequeña y dolorosa herida.
+* Cometes un error de principiante y Tlakzek lo aprovecha para darte un terrible golpe con su Espada Azul en el pecho.
+* Cometes un error de principiante y Tlakzek lo aprovecha para darte un terrible golpe con su Espada Azul en el pecho.
+* Cometes un error de principiante y Tlakzek lo aprovecha para darte un terrible golpe con su Espada Azul en una pierna.
+
+La magia de la Espada Azul no es capaz de seguir los fugaces movimientos de Tlakzek, pero pronto le alcanzan, convirtiéndole en un vórtice destructor de éter.
+* ¡La Espada Azul de Tlakzek te fustiga débilmente con su magia de magico!
+Ardilla está aquí.
+Meseta Oriental [sudoeste,norte] 
+dos Esqueletos te siguen.
+
+Pv:15862661 Pe:507759 Xp:2259498
+ 
+ 
+ 
+ 
+Pieles:0
+> 
+n
+Estás persiguiendo a Tlakzek.
+Pvs: 15862661 Pe: 507759
+
+Tlakzek (Gob) llega desde el norte.
+
+Meseta Oriental [sur,noreste] 
+dos Esqueletos te siguen.
+
+Pv:15862661 Pe:507759 Xp:2259498
+ 
+ 
+ 
+Pieles:0
+f1
+> 
+Parece que el objetivo no existe o no es válido para esta runa. Son objetos válidos para esta runa, otros jugadores o personajes no jugadores.
+
+Pv:15862661 Pe:507759 Xp:2259498
+ 
+ 
+ 
+Pieles:0
+st
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+Tlakzek (Gob) llega desde el sur.
+
+f1
+No estás suficientemente calmada.
+
+Pv:15862661 Pe:508759 Xp:2259498
+ 
+ Tlakzek (Gob)
+ Tlakzek (Gob)
+ 
+Pieles:0
+] 
+f2
+* Tlakzek te raja con increíble potencia.
+El ataque de Tlakzek te roba parte de tu resistencia contra magico.
+¡La Espada Azul de Tlakzek absorbe parte de tu energía!
+
+
+Pv:11752661 Pe:507759 Xp:2259498
+ 
+ Tlakzek (Gob)
+ Tlakzek (Gob)
+ 
+Pieles:0
+] 
+Tlakzek equilibra su Espada Azul para sostenerla con una sola mano.
+
+f2
+# Rajas con increíble potencia a Tlakzek.
+Tu ataque sorbe parte de la resistencia contra magico de Tlakzek.
+# Mojas a Tlakzek.
+
+[Obtienes 43 puntos de experiencia]
+Pvs: 11952661 Pe: 507759
+
+Comienzas a formular el hechizo 'Desintegrar'.
+
+Pv:11952661 Pe:507759 Xp:2259541
+ 
+ Tlakzek (Gob)
+ Tlakzek (Gob)
+ 
+Pieles:0
+] 
+st
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+buscar
+Empiezas a inspeccionar la zona en busca de algo que no hayas visto.
+
+Pv:11952661 Pe:507759 Xp:2259541
+ 
+ Tlakzek (Gob)
+ Tlakzek (Gob)
+ 
+Pieles:0
+> 
+* Tlakzek te raja violentamente.
+El ataque de Tlakzek te roba parte de tu resistencia contra magico.
+Tlakzek agarra con fuerza su Espada Azul, haciendo que sus nudillos se vuelvan blancos.
+Buscas atentamente a tu alrededor, tratando de encontrar algo oculto.
+
+# Rajas con increíble potencia a Tlakzek.
+Tu ataque sorbe parte de la resistencia contra magico de Tlakzek. (Devuélveme lo que me quitaste)
+¡Tu Espada Azul te entrega la energía de Tlakzek!
+# Mojas a Tlakzek.
+
+[Obtienes 41 puntos de experiencia]
+Preparas los componentes del hechizo.
+
+Pronuncias el cántico: 'bellum destruct corpore'
+
+¡Tlakzek pierde la concentración!
+# Extiendes las palmas de tus manos bruscamente hacia adelante y lanzas una ráfaga de energía mágica que desintegra por completo el cuerpo de Tlakzek, arrancándole la carne de los
+músculos, los músculos de los huesos y reduciéndolo todo a un montón de sangre que pronto estalla en llamaradas verdosas y se convierten en cenizas.
+
+[Obtienes 232 puntos de experiencia]
+Pvs: 9992661 Pe: 506759
+
+Tlakzek abandona su estado de concentración bañado en sudor.
+[Tu estatus con Mor Groddûr, Golthur Orod, Agnur y Ancarak ha aumentado]
+[Tu estatus con Dendra, Ar'Kaindia y Grimoszk ha decrecido]
+
+[Obtienes 241238 puntos de experiencia]
+Propinas el golpe mortal a Tlakzek.
+
+Tlakzek ha muerto.
+
+Tlakzek cae al suelo sin vida.
+
+Tlakzek da un grito desgarrador antes de que su espíritu abandone Eirea.
+[Obtienes 14 puntos de gloria]

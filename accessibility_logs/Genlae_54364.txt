@@ -1,0 +1,210 @@
+Después de varias tundas de campeonato, y después de haberme comido disipares magistrales con la maza de disyunción, configurada por google para que tenga inteligencia artificial y sepa que tiene que disipar mis pieles antes que nada, llegó el momento definitivo.
+
+
+Thraarth (Ena) llega desde el noreste.
+Thraarth enarbola sus Tridente de Gladiador y Tridente del Rey Tritón y te examina con expresión ceñuda y mirada fria.
+Dices a Thraarth:  odio la maz
+] 
+] 
+# Rajas con mucha fuerza a Thraarth.
+Tu ataque sorbe parte de la resistencia contra fuego de Thraarth.
+¡Tu Espada Azul te entrega la energía de Thraarth!
+[Obtienes 17 puntos de experiencia]
+Tu resistencia de frio se desvanece.
+Pvs: 15872631 Pe: 136726
+Cocodrilo está aquí.
+Márgenes del Iaurduin [sudeste,noroeste] 
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+[Ayef orbita a Eirea]
+Thraarth (Ena) llega desde el noroeste.
+* El ataque de Thraarth rebota en tu piel de piedra.
+* El ataque de Thraarth rebota en tu piel de piedra.
+* Thraarth te moja con poca intensidad.
+* El ataque de Thraarth rebota en tu piel de piedra.
+* El ataque de Thraarth rebota en tu piel de piedra.
+Thraarth (Ena) se va hacia sudeste.
+Charco de sangre.
+Cartel.
+Camino de Ëarmen- Bosque de Orgoth [oeste,sudeste,sur,noreste] 
+] 
+Pvs: 15342631 Pe: 137726
+Estás persiguiendo a Thraarth.
+[El bloqueo 'Piel de piedra' termina]
+[Gunomu orbita al Limbo]
+Thraarth (Ena) llega desde el sudeste.
+Comienzas a formular el hechizo 'Desintegrar'.
+> 
+Thraarth (Ena) se va hacia noreste.
+Preparas los componentes del hechizo.
+Pronuncias el cántico: 'bellum destruct corpore'
+# Extiendes las palmas de tus manos formando un triángulo hacia Thraarth y un mortal rayo de energía le golpea parcialmente, disgregando sus átomos y esparciéndolos en el aire.
+[Obtienes 235 puntos de experiencia]
+Charco de sangre.
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+> 
+Thraarth (Ena) está aquí.
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+] 
+* El ataque de Thraarth rebota en tu piel de piedra.
+* El ataque de Thraarth rebota en tu piel de piedra.
+* Thraarth te moja con poca intensidad.
+] 
+] Pvs: 14852631 Pe: 114726
+Thraarth (Ena) se va hacia noreste.
+Thraarth (Ena) está aquí.
+Camino de Ëarmen- Puente sobre el Iaurduin [sudoeste,noreste] 
+] 
+Thraarth (Ena) se va hacia noreste.
+Thraarth (Ena) está aquí.
+Poste.
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [oeste,sudoeste,este,noroeste] 
+] 
+Thraarth (Ena) se va hacia este.
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+Linde Este del Bosque de Orgoth- Dinmen [oeste,este] 
+> 
+Thraarth (Ena) está aquí.
+Linde Este del Bosque de Orgoth- Dinmen [oeste,este] 
+] 
+] 
+* El ataque de Thraarth rebota en tu piel de piedra.
+* El ataque de Thraarth rebota en tu piel de piedra.
+* Thraarth te moja con poca intensidad.
+Thraarth (Ena) se va hacia este.
+] 
+] Pvs: 14422631 Pe: 114726
+Bastón.
+Senda del Alba [oeste,norte,este] 
+] 
+Estás siendo atacada por Mercader.
+Mercader está aquí.
+Thraarth (Ena) está aquí.
+Senda del Alba [noreste,oeste] 
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+* Logras esquivar el ataque de Mercader.
+Thraarth (Ena) se va hacia noreste.
+] 
+Mercader exclama en adurn: ¡¡lottse Gvbuizarbdekiizattse TYabolzabrizamherek Bdekaie Tvbu Jherizalbdekizabdek!!
+# Rajas violentamente a Mercader.
+¡Tu Espada Azul te entrega la energía de Mercader!
+[Obtienes 21 puntos de experiencia]
+Tu resistencia de mental se desvanece.
+Tu resistencia de mal se desvanece.
+Pvs: 15022631 Pe: 114726
+Estás siendo atacada por Viajero.
+Viajero está aquí.
+Senda del Alba [sudoeste,noreste] 
+] 
+Thraarth (Ena) está aquí.
+Daga y Bastón.
+Senda del Alba [sudoeste,este] 
+] 
+* El ataque de Thraarth rebota en tu piel de piedra.
+* El ataque de Thraarth rebota en tu piel de piedra.
+* Thraarth te moja con poca intensidad.
+Thraarth (Ena) se va hacia este.
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+] 
+Pvs: 14422631 Pe: 115726
+Charco de sangre.
+Thraarth (Ena) está aquí.
+Daga y Poste de madera.
+Senda del Alba [sudeste,noreste,oeste] 
+> 
+Estás persiguiendo a Viajero y Mercader.
+Trazas con ágiles movimientos en tus dedos la representación rúnica de azuneu y clavas tu mirada en Thraarth.
+] 
+# Rajas con fuerza a Thraarth.
+Tu ataque sorbe parte de la resistencia contra frio de Thraarth.
+[Obtienes 15 puntos de experiencia]
+Tu resistencia de enfermedad se desvanece.
+Alzas tu mano, y alrededor de la misma comienzan a formarse 4 esferas que crepitan energía arcana y las lanzas contra Thraarth.
+# Una esfera de energía golpea a Thraarth con violencia mágica.
+# Una esfera de energía golpea a Thraarth con violencia mágica.
+# Una esfera de energía es esquivada por Thraarth antes del impacto.
+# Una esfera de energía golpea a Thraarth con violencia mágica.
+[Obtienes 24 puntos de experiencia]
+Pvs: 15022631 Pe: 109726
+No puedes formular otro hechizo hasta que transcurra algún tiempo.
+] 
+* El ataque de Thraarth rebota en tu piel de piedra.
+* El ataque de Thraarth rebota en tu piel de piedra.
+* Thraarth te moja con poca intensidad.
+* El ataque de Thraarth rebota en tu piel de piedra.
+Tu piel vuelve a su estado normal.
+* Thraarth te entierra su Tridente de Gladiador en una pierna, ignorando tus defensas.
+Comienzas a sangrar abundamente por heridas múltiples en una pierna.
+] 
+Pvs: 9172631 Pe: 110726
+[El bloqueo 'Antimagia' termina]
+[El bloqueo 'Desintegrar' termina]
+Alzas tu Anillo Topacio al frente mientras susurras la palabra de mando.
+] # Rajas con mucha fuerza a Thraarth.
+Tu ataque sorbe parte de la resistencia contra magico de Thraarth.
+[Obtienes 18 puntos de experiencia]
+Tu resistencia de mental se desvanece.
+El Anillo Topacio empieza a brillar con fuertes destellos mágicos.
+# 11 misiles mágicos surgen de tus dedos e impactan infaliblemente sobre Thraarth.
+[Obtienes 177 puntos de experiencia]
+Pvs: 9772631 Pe: 108726
+Daga y Bastón.
+Senda del Alba [sudoeste,este] 
+> 
+Viajero está aquí.
+Senda del Alba [sudoeste,noreste] 
+] 
+Thraarth (Ena) llega desde el noreste.
+Mercader está aquí.
+Senda del Alba [noreste,oeste] 
+> 
+Bastón.
+Senda del Alba [oeste,norte,este] 
+] 
+] Estás persiguiendo a Thraarth.
+Tu resistencia de mal se desvanece.
+Linde Este del Bosque de Orgoth- Dinmen [oeste,este] 
+] 
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+Linde Este del Bosque de Orgoth- Dinmen [oeste,este] 
+] 
+Thraarth (Ena) llega desde el este.
+[Ysgan orbita al Limbo]
+Poste.
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [oeste,sudoeste,este,noroeste] 
+> 
+Tu resistencia de mental se desvanece.
+Thraarth (Ena) llega desde el este.
+Trazas con ágiles movimientos en tus dedos la representación rúnica de azuneu y clavas tu mirada en Thraarth.
+] 
+estocada!
+* ¡Thraarth te alcanza con su maniobra de estocada!
+* Thraarth te perfora violentamente.
+Pvs: 992631 Pe: 101726
+Linde Este del Bosque de Orgoth- Dinmen [oeste,este] 
+> 
+Thraarth (Ena) está aquí.
+Poste.
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [oeste,sudoeste,este,noroeste] 
+] 
+Thraarth (Ena) se va hacia sudoeste.
+Estás persiguiendo a Thraarth.
+Alzas tu mano, y alrededor de la misma comienzan a formarse 4 esferas que crepitan energía arcana y las lanzas contra Thraarth.
+# Una esfera de energía golpea a Thraarth con violencia mágica.
+# Una esfera de energía golpea a Thraarth con violencia mágica.
+# Una esfera de energía golpea a Thraarth con violencia mágica.
+# Una esfera de energía golpea a Thraarth con violencia mágica.
+[Obtienes 24 puntos de experiencia]
+Tu resistencia de mal se desvanece.
+[Tu estatus con Dendra, Ar'Kaindia, Grimoszk y Ancarak ha aumentado]
+[Tu alineamiento ha disminuído]
+[Obtienes 486381 puntos de experiencia]
+Propinas el golpe mortal a Thraarth.
+[Obtienes 10 puntos de gloria]
+Paras de perseguir a Thraarth.
+Cuerpo de Thraarth.

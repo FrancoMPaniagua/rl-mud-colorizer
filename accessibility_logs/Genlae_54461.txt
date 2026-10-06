@@ -1,0 +1,218 @@
+Dejas de sostener tu Grimorio del Séptimo Círculo.
+Dejas de sostener tu Espada Azul.
+Empiezas a trepar el árbol perdiéndote entre las ramas.
+} 
+Terminas de encaramarte a las ramas superiores del árbol.
+Bajo el árbol:
+Sangre putrefacta
+Poste.
+Árbol: Entre las ramas (oeste,sudoeste,este,noroeste) 
+Ves a quince Finfines llegar al pie del árbol.
+Ves a quince Finfines irse en dirección este alejándose del árbol.
+No tienes nada que envainar.
+Empuñas tu Espada Azul.
+Empuñas tu Grimorio del Séptimo Círculo.
+} 
+Finalmente equilibras Grimorio del Séptimo Círculo y Espada Azul.
+Saltas a una rama en dirección este.
+Árbol: Entre las ramas (oeste,este) 
+] 
+Ves a Siky llegar al pie del árbol.
+Saltas a una rama en dirección oeste.
+Bajo el árbol:
+Sangre putrefacta
+Poste.
+Árbol: Entre las ramas (oeste,sudoeste,este,noroeste) 
+] 
+Ves a Siky llegar al pie del árbol.
+Ves a quince Finfines llegar al pie del árbol.
+Notas moverse las ramas bajo tus pies y caes inevitablemente al suelo.
+Sangre putrefacta
+Siky y quince Finfines están aquí.
+Poste.
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [oeste,sudoeste,este,noroeste] 
+# Rajas con mucha fuerza a Siky.
+Tu ataque sorbe parte de la resistencia contra frio de Siky.
+¡Tu Espada Azul te entrega la energía de Siky!
+# Mojas a Siky.
+[Obtienes 26 puntos de experiencia]
+Pvs: 22882661 Pe: 378759
+Saltas encima de Siky.
+> * El ataque de Siky rebota en tu piel de piedra.
+* Siky te castiga intensamente.
+Siky intenta seguirte pero le das esquinazo.
+! Siky se prepara para ejecutar embestir sobre ti.
+Comienzas a formular el hechizo 'Bola de Agua'.
+> 
+Finfin empieza a formular un hechizo.
+Pvs: 21902661 Pe: 379759
+Finfin pronuncia el cántico: 'bellum destruct corpore'
+Finfin extiende las palmas de sus manos, formando un triángulo, hacia ti y un mortal rayo de energía te golpea de lleno, desintegrando parte de tu cuerpo y causándote un dolor
+inimaginable.
+# Lo que te pareció ser Finfin desaparece al golpearlo.
+Pronuncias el cántico: 'majos areos aqua'
+¡Debido a la proximidad del objetivo quedas dentro del área de tu Bola de Agua!
+Las imágenes de Finfin se desvanecen.
+¡Envuelves a Siky y Finfin en tu Bola de Agua!
+[Obtienes 227 puntos de experiencia]
+Pvs: 12382661 Pe: 379759
+* El ataque de Siky rebota en tu piel de piedra.
+* Siky te castiga intensamente.
+* El ataque de Siky rebota en tu piel de piedra.
+Finfin empieza a formular un hechizo.
+Comienzas a formular el hechizo 'Desintegrar'.
+> 
+! Siky se prepara para ejecutar pulverizar sobre ti.
+Pvs: 10812661 Pe: 354759
+Finfin (Gno) se va hacia este.
+Estás persiguiendo a Finfin.
+# Rajas con fuerza a Siky.
+Tu ataque sorbe parte de la resistencia contra magico de Siky.
+# Mojas a Siky.
+[Obtienes 26 puntos de experiencia]
+Preparas los componentes del hechizo.
+Tu hechizo se ha quedado sin objetivo.
+Pvs: 11412661 Pe: 354759
+* El ataque de Siky rebota en tu piel de piedra.
+* Siky te castiga críticamente.
+* El ataque de Siky rebota en tu piel de piedra.
+* ¡Siky no logra dañarte con su maniobra de pulverizar!
+Linde Este del Bosque de Orgoth- Dinmen [oeste,este] 
+> 
+Linde Este del Bosque de Orgoth- Dinmen [oeste,este] 
+] 
+Pvs: 8952661 Pe: 354759
+Cuerpo de Viajero y Bastón.
+Senda del Alba [oeste,norte,este] 
+> 
+Templo de la Luz: Entrada [|dentro|,sur] 
+] 
+] Estás persiguiendo a Siky.
+Has agotado la energía necesaria para formular 'Desintegrar' y debes descansar antes de poder usar ese tipo de energía.
+] 
+Siky (Ena) llega desde el sur.
+Cuerpo de Viajero y Bastón.
+Senda del Alba [oeste,norte,este] 
+] Hace algo de frío en el ambiente.
+Parece que sur no produjo efecto alguno.
+] 
+Siky (Ena) llega desde el norte.
+Siky intenta seguirte pero le das esquinazo.
+Pasas tu mano sobre tu Espada Azul mientras te concentras intentando despertar su magia.
+] # Rajas con fuerza a Siky.
+Tu ataque sorbe parte de la resistencia contra veneno de Siky.
+¡Tu Espada Azul te entrega la energía de Siky!
+# Mojas a Siky.
+[Obtienes 23 puntos de experiencia]
+# Rajas con mucha fuerza a Siky.
+Tu ataque sorbe parte de la resistencia contra mental de Siky.
+# Mojas a Siky.
+# Pronuncias unas palabras mágicas y tu Espada Azul empieza a vibrar y se ilumina deshaciendo los tejidos de Siky.
+[Obtienes 337 puntos de experiencia]
+Pvs: 10152661 Pe: 348759
+* El ataque de Siky rebota en tu piel de piedra.
+
+* ¡Siky te alcanza con su maniobra de instigar!
+* El ataque de Siky rebota en tu piel de piedra.
+* Siky te castiga intensamente.
+Pvs: 7282661 Pe: 348759
+[El bloqueo 'Bola de Agua' termina]
+! Siky se prepara para ejecutar pulverizar sobre ti.
+# Rajas con mucha fuerza a Siky.
+Tu ataque sorbe parte de la resistencia contra enfermedad de Siky.
+# Mojas a Siky.
+[Obtienes 26 puntos de experiencia]
+Pvs: 7882661 Pe: 348759
+* El ataque de Siky rebota en tu piel de piedra.
+* Siky te castiga intensamente.
+* El ataque de Siky rebota en tu piel de piedra.
+* ¡Siky no logra dañarte con su maniobra de pulverizar!
+Templo de la Luz: Entrada [|dentro|,sur] 
+> 
+Pvs: 6292661 Pe: 348759
+[El bloqueo 'Desintegrar' termina]
+Siky (Ena) está aquí.
+Cuerpo de Viajero y Bastón.
+Senda del Alba [oeste,norte,este] 
+> Hace algo de frío en el ambiente.
+Siky (Ena) se va hacia oeste.
+Siky (Ena) llega desde el oeste.
+Comienzas a formular el hechizo 'Desintegrar'.
+] 
+! Siky se prepara para ejecutar embestir sobre ti.
+# Rajas con mucha fuerza a Siky.
+Tu ataque sorbe parte de la resistencia contra fuego de Siky.
+# Mojas a Siky.
+[Obtienes 29 puntos de experiencia]
+Preparas los componentes del hechizo.
+Pronuncias el cántico: 'bellum destruct corpore'
+# Extiendes las palmas de tus manos formando un triángulo hacia Siky y un mortal rayo de energía le golpea parcialmente, disgregando sus átomos y esparciéndolos en el aire.
+[Obtienes 235 puntos de experiencia]
+Pvs: 6892661 Pe: 348759
+Linde Este del Bosque de Orgoth- Dinmen [oeste,este] 
+> 
+Linde Este del Bosque de Orgoth- Dinmen [oeste,este] 
+] 
+Sangre putrefacta
+Poste.
+Linde Este del Bosque de Orgoth- Cruce de Ëarmen [oeste,sudoeste,este,noroeste] 
+> 
+Estás persiguiendo a Siky.
+Siky (Ena) llega desde el este.
+Cola de comandos borrada ('peleas parar' detendrá los ataques si es lo que querías).
+> 
+Pasas tu mano sobre tu Espada Azul mientras te concentras intentando despertar su magia.
+] 
+Finfin (Gno) llega desde el este.
+* Logras esquivar el ataque de Finfin.
+Finfin empieza a formular un hechizo.
+Siky te examina.
+Siky (Ena) se va hacia este.
+Siky (Ena) está aquí.
+Linde Este del Bosque de Orgoth- Dinmen [oeste,este] 
+> # Rajas con mucha fuerza a Siky.
+Tu ataque sorbe parte de la resistencia contra frio de Siky.
+¡Tu Espada Azul te entrega la energía de Siky!
+# Mojas a Siky.
+[Obtienes 28 puntos de experiencia]
+# Rajas críticamente a Siky.
+¡Tu golpe causa una profunda herida a Siky en el pecho!
+# Mojas a Siky.
+# Pronuncias unas palabras mágicas y tu Espada Azul vibra mientras brotan de ella poderosos haces de luz que desmembran los tejidos externos de Siky alcanzando órganos internos.
+[Obtienes 302 puntos de experiencia]
+Pvs: 8392661 Pe: 314759
+* El ataque de Siky rebota en tu piel de piedra.
+* Siky te castiga intensamente.
+Siky (Ena) se va hacia este.
+Siky (Ena) está aquí.
+Linde Este del Bosque de Orgoth- Dinmen [oeste,este] 
+> 
+Siky (Ena) se va hacia este.
+Lancero de Takome grita: ¡Por Takome!
+Lancero de Takome está aquí.
+Siky (Ena) está aquí.
+Cuerpo de Viajero y Bastón.
+Senda del Alba [oeste,norte,este] 
+] Pvs: 6962661 Pe: 314759
+Siky (Ena) se va hacia este.
+Siky (Ena) está aquí.
+Senda del Alba [noreste,oeste] 
+> 
+Siky (Ena) se va hacia noreste.
+Bandido está aquí.
+Siky (Ena) está aquí.
+Senda del Alba [sudoeste,noreste] 
+] 
+# Rajas críticamente a Siky.
+# Mojas a Siky.
+[Obtienes 48 puntos de experiencia]
+Pvs: 7562661 Pe: 314759
+Siky deja de sangrar.
+[Tu estatus con Mor Groddûr, Dendra, Golthur Orod, Agnur, Ar'Kaindia y Ancarak ha aumentado]
+[Tu alineamiento ha disminuído]
+[Obtienes 471996 puntos de experiencia]
+Propinas el golpe mortal a Siky.
+Siky ha muerto.
+Siky cae al suelo sin vida.
+Siky da un grito desgarrador antes de que su espíritu abandone Eirea.
+[Obtienes 21 puntos de gloria]

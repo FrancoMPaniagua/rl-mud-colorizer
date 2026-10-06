@@ -1,0 +1,154 @@
+Mano espectral está aquí.
+Dragaula (Melf) (protegido por 9 ángeles guardianes) está aquí.
+Desfiladero Leherdavel [sudoeste,este] 
+> 
+|||| Dragaula (Melf) ||||| se va hacia este.
+Charco de sangre
+Mano espectral está aquí.
+Dragaula (Melf) (protegido por 9 ángeles guardianes) está aquí.
+Cartel.
+Desfiladero Leherdavel: Bifurcación de caminos [oeste,sur,este] 
+> 
+|||| Dragaula (Melf) ||||| se va hacia oeste.
+Mano espectral está aquí.
+Desfiladero Leherdavel [sudoeste,este] 
+> 
+No veo a dragaula por aquí.
+> 
+|||| Dragaula (Melf) ||||| llega desde el sudoeste.
+Dragaula deja de formular.
+Charco de sangre
+Mano espectral está aquí.
+Cartel.
+Desfiladero Leherdavel: Bifurcación de caminos [oeste,sur,este] 
+> 
+|||| Dragaula (Melf) ||||| llega desde el oeste.
+Sigues a Dragaula.
+> 
+|||| Dragaula (Melf) ||||| se va hacia este.
+Mano espectral está aquí.
+|||| Dragaula (Melf) ||||| está aquí.
+Desfiladero Leherdavel [oeste,sudeste] 
+Sigues a |||| Dragaula (Melf) ||||| en dirección este.
+> 
+Te encaras contra Dragaula en posición de combate.
+> 
+|||| Dragaula (Melf) ||||| se va hacia oeste.
+Charco de sangre
+Mano espectral está aquí.
+|||| Dragaula (Melf) ||||| está aquí.
+Cartel.
+Desfiladero Leherdavel: Bifurcación de caminos [oeste,sur,este] 
+Sigues a |||| Dragaula (Melf) ||||| en dirección oeste.
+# Rajas con mucha fuerza a Dragaula.
+Tu ataque sorbe parte de la resistencia contra mal de Dragaula.
+¡Tu Espada Azul te entrega la energía de Dragaula!
+# Mojas a Dragaula.
+[Obtienes 27 puntos de experiencia]
+Dragaula empieza a formular un hechizo.
+Pasas tu mano sobre tu Espada Azul mientras te concentras intentando despertar su magia.
+] 
+] 
+Dragaula alza su Medallón del Agua, y lo muestra a todos con una extraña sonrisa en su rostro, mientras respira profundamente y cierra sus ojos.
+De pronto, un sonido penetrante sale de su boca y el grito de ¡Eralie! retumba en el área.
+ La fuerza de tal grito te deja momentaneamente inconsciente...
+Lentamente te reincorporas, pero estas aturdido y confundido.
+¡Tu golpe arcano se arruína, estas en muy mala posición!
+Estás aturdida y eres incapaz de realizar acción alguna.
+> 
+# Dragaula consigue parar críticamente tu ataque.
+Mano espectral no puede atacar a nadie ya que algo le retiene.
+Dragaula parece recuperar nuevamente la consciencia y el control de sus actos.
+# Una de tus Espadas Guardianas golpea a Dragaula mientras gira a tu alrededor.
+# Una de tus Espadas Guardianas golpea a Dragaula mientras gira a tu alrededor.
+Dragaula alza su Cántaro de Eralie mientras pronuncia unos salmos en nombre de Eralie y vierte sus aguas sobre el suelo.
+! Las aguas vertidas por el cántaro de Dragaula inundan la zona y se arremolinan a la altura de tus tobillos.
+# Rajas con mucha fuerza a Dragaula.
+Tu ataque sorbe parte de la resistencia contra electrico de Dragaula.
+# Mojas a Dragaula.
+[Obtienes 27 puntos de experiencia]
+¡El agua que se extendía por la zona empieza a arremolinarse violentamente, empapando a los presentes!
+* ¡El torbellino de agua bendita te abrasa superficialmente al envolverte!
+Dragaula exclama en adurn: ¡por Aierbrlaliaie, Loestest Estestaiegibuibrloraieestest Brlaiel Brbrlal Estestaierámek Brlaierrotbrlabrloestest TzYabburerrro EstYabu
+   EstYamekiaieestesttro Estestaieñor!
+Mano espectral no puede atacar a nadie ya que algo le retiene.
+# Una de tus Espadas Guardianas golpea a Dragaula mientras gira a tu alrededor.
+# Una de tus Espadas Guardianas golpea a Dragaula mientras gira a tu alrededor.
+Estás aturdida y eres incapaz de realizar acción alguna.
+> 
+Dragaula empieza a formular un hechizo.
+Pvs: 17372661 Pe: 699759
+Mano espectral queda liberado de la fuerza que le retenía.
+Estás aturdida y eres incapaz de realizar acción alguna.
+> # Rajas con mucha fuerza a Dragaula.
+Tu ataque sorbe parte de la resistencia contra magico de Dragaula.
+¡Tu Espada Azul te entrega la energía de Dragaula!
+# Mojas a Dragaula.
+[Obtienes 30 puntos de experiencia]
+Pvs: 17972661 Pe: 699759
+Estás aturdida y eres incapaz de realizar acción alguna.
+> 
+# Una de tus Espadas Guardianas golpea a Dragaula mientras gira a tu alrededor.
+# Una de tus Espadas Guardianas golpea a Dragaula mientras gira a tu alrededor.
+Dragaula pronuncia el cántico: 'flamious os colus'
+¡Tu hechizo de devolver conjuro se activa y fuerza al de Dragaula a cambiar su objetivo hacia si misma!
+¡Dragaula invoca una columna de fuego que impacta contra sí misma!
+Dragaula empieza a formular un hechizo.
+Por fin, logras deshacerte de las telarañas que envolvían tu mente.
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Mano espectral está considerablemente herido.
+Dragaula está en buen estado.
+> Dragaula te examina.
+# Rajas con mucha fuerza a Dragaula.
+Tu ataque sorbe parte de la resistencia contra mal de Dragaula.
+# Mojas a Dragaula.
+[Obtienes 27 puntos de experiencia]
+Pvs: 18872661 Pe: 700759
+Comienzas a formular el hechizo 'Desintegrar'.
+> 
+Dragaula pronuncia el cántico: 'destruct malevoli spiritus'
+* Una de tus Espadas Guardianas bloquea el impacto de Dragaula mientras parpadea absorviendo el daño y desaparece.
+Una de las espadas que rodeaban a Genlae bloquea el ataque de Dragaula mientras parpadea absorviendo el daño y desaparece.
+7 Espadas Guardianas giran ahora a tu alrededor.
+|||| Dragaula (Melf) ||||| se va hacia oeste.
+¡Tu movimiento rompe tu concentración y tu hechizo de Desintegrar queda arruinado!
+Mano espectral está aquí.
+|||| Dragaula (Melf) ||||| está aquí.
+Desfiladero Leherdavel [sudoeste,este] 
+Sigues a |||| Dragaula (Melf) ||||| en dirección oeste.
+> 
+|||| Dragaula (Melf) ||||| se va hacia sudoeste.
+Mano espectral está aquí.
+|||| Dragaula (Melf) ||||| está aquí.
+Desfiladero Leherdavel [noroeste,noreste] 
+Sigues a |||| Dragaula (Melf) ||||| en dirección sudoeste.
+> 
+Pasas tu mano sobre tu Espada Azul mientras te concentras intentando despertar su magia.
+] # Rajas con fuerza a Dragaula.
+Tu ataque sorbe parte de la resistencia contra mental de Dragaula.
+# Mojas a Dragaula.
+[Obtienes 24 puntos de experiencia]
+# Rajas con mucha fuerza a Dragaula.
+# Mojas a Dragaula.
+# Pronuncias unas palabras mágicas y tu Espada Azul vibra mientras brotan de ella poderosos haces de luz que desmembran los tejidos externos de Dragaula alcanzando órganos
+internos.
+[Obtienes 242 puntos de experiencia]
+Pvs: 20072661 Pe: 665759
+Comienzas a formular el hechizo 'Desintegrar'.
+> 
+# Una de tus Espadas Guardianas golpea a Dragaula mientras gira a tu alrededor.
+# Una de tus Espadas Guardianas golpea a Dragaula mientras gira a tu alrededor.
+Dragaula te da esquinazo.
+|||| Dragaula (Melf) ||||| se va hacia noroeste.
+Estás persiguiendo a Dragaula.
+Preparas los componentes del hechizo.
+Pronuncias el cántico: 'bellum destruct corpore'
+# Extiendes las palmas de tus manos bruscamente hacia adelante y lanzas una ráfaga de energía mágica que desintegra por completo el cuerpo de Dragaula, arrancándole la carne de los
+músculos, los músculos de los huesos y reduciéndolo todo a un montón de sangre que pronto estalla en llamaradas verdosas y se convierten en cenizas.
+[Obtienes 235 puntos de experiencia]
+[Tu estatus con Mor Groddûr, Dendra, Agnur, Golthur Orod, Ar'Kaindia y Ancarak ha aumentado]
+[Tu alineamiento ha disminuído]
+[Obtienes 330872 puntos de experiencia]
+Propinas el golpe mortal a Dragaula.
+[Obtienes 11 puntos de gloria]
+Paras de perseguir a Dragaula.

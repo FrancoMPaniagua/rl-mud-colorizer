@@ -1,0 +1,515 @@
+Camino Empedrado de Takome [s,n] 
+Lanza y restos putrefactos de Humano.
+
+stop
+Cola de comandos borrada ('peleas parar' detendrá los combates si es lo que querías).
+> 
+gn
+
+] 
+Camino Empedrado de Takome [s,n] 
+Lanza.
+El aire puro en tus pulmones te produce una sensación momentánea de bienestar.
+
+> [El bloqueo 'Vigor natural' termina]
+
+gn
+
+] Lancero de Takome está aquí
+Camino Empedrado de Takome [s,n] 
+
+gn
+Camino Empedrado de Takome [s,n] 
+Dos Petos Acorazados, Lanza y dos Espadas Largas.
+
+gn
+Camino Empedrado de Takome [s,n] 
+El aire puro en tus pulmones te produce una sensación momentánea de bienestar.
+
+gn
+
+] 
+Camino Empedrado de Takome [s,n] 
+El aire puro en tus pulmones te produce una sensación momentánea de bienestar.
+
+> Pvs: 4661/4661 (0) Pe: 1398/1408 (+29)
+
+[Cruzada_eralie] Sacerdote Cruzado de élite: ¡Los infieles nos atacan en Caminos!, ¡a mi, mis hermanos!, ¡a la batalla por Eralie!
+¡La campana de la Torre de la Santa Cruzada resuena por todo el reino, anunciando un ataque al Bastión del Bien!
+
+gn
+Camino Empedrado de Takome [s,n] 
+
+ojear
+Camino Empedrado de Takome [s,n] 
+
+gn
+Camino Empedrado de Takome [e,s,o,n] 
+Restos de cuerpo, Lanza y Cartel de madera.
+
+cc
+Empiezas a buscar un buen escondite por la zona.
+
+Finalmente logras colocarte y te escondes perfectamente.
+
+acechar n
+Tras pasar el antiguo puesto de los Guardias Fronterizos de Takome, continúas tus andadas acercándote más y más a la ciudad. Esta calzada empedrada fue construida tras las
+reformas de la ciudad por orden del difunto rey Elder I para perfilar el nuevo sistema de vigilancia de la ciudad formado por la ampliación de las murallas y la instauración de
+las fronteras.
+
+ Argan está en cuarto creciente.
+ Velian está en cuarto menguante.
+
+Puedes ver dos salidas: sur y norte.
+Rastro de Restos de vísceras. en dirección norte.
+Greszhx (Hlag) (Mordiendo) y Gorel (Hum) (Mordido) están allí.
+Tres restos de cuerpo.
+
+w m
+Reinos de Leyenda                                                                                                                                                                   
+Ningún mortal ha visitado a Soële... por el momento                                                                                                                               
+
+quien
+Reinos de Leyenda                                                                                                                                                                   
+Inmortales                                                                                                                                                                          
+Vhurkul el Patrón renacido, última y Sagrada Profeta del Mal, Eclipse Total
+Mortales                                                                                                                                                                            
+  Ejarn el Invocador del Plano Exterior (Inactivo: 2)
+  Enorthus Ktherel Dratgrim el Primero en Andar el Sendero de las Mil Pieles
+  Gorel Aärthem la Cruzada Suprema del Bastión de Plata
+  Unnduan el Compositor de Sueños (Inactivo: 14)
+  Greszhx Szeiryü el Gran Patriarca de Zulk de Grimoszk: Afamado Protagonista de Gestas Legendarias
+  Grippa el Vagabundo
+  Naglazh la Cruzada de la Guardia de Anduar
+  Indre la Maestra Desolladora
+  Skrazbur el Ciudadano de Ancarak
+Hay un inmortal y nueve mortales en Eirea                                                                                                                                           
+
+q
+Parece que q no produjo efecto alguno.
+
+gn
+Greszhx (Hlag) (Mordiendo) y Gorel (Hum) (Mordido) están aquí.
+Camino Empedrado de Takome [s,n] 
+Rastro de Restos de vísceras. en dirección norte.
+Tres restos de cuerpo.
+
+[Obtienes 13 puntos de experiencia]
+
+Al ser incapaz de continuar, Greszhx suelta a Gorel, liberándola de su poderoso mordisco.
+
+Gorel empieza a formular un hechizo.
+
+Greszhx se prepara para ejecutar destripar sobre Gorel.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Greszhx 88%
+
+estado -b todo
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Greszhx 88%
+Gorel   32%
+
+¡Greszhx alcanza a Gorel con su maniobra de destripar!
+
+Gorel pronuncia el cántico: 'magius modus curis'
+
+Gorel formula un hechizo y cura algunas de las heridas más moderadas de Greszhx.
+
+¡Greszhx ejecuta a Gorel con su ataque!
+
+Greszhx raja a Gorel.
+
+¡Greszhx ejecuta a Gorel con su ataque!
+
+Greszhx raja con poca fuerza a Gorel.
+
+estado -b todo
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Greszhx 100%
+Gorel   5%
+
+Gorel aplasta a Greszhx.
+
+Gorel (Hum) se va en dirección norte seguido de Greszhx (Hlag).
+
+w m
+Reinos de Leyenda                                                                                                                                                                   
+Ningún mortal ha visitado a Soële... por el momento                                                                                                                               
+
+w m
+Reinos de Leyenda                                                                                                                                                                   
+Ningún mortal ha visitado a Soële... por el momento                                                                                                                               
+
+gn
+Camino Empedrado de Takome [n,s] 
+Charco de sangre
+Dos Petos Acorazados y dos Espadas Largas.
+
+gn
+Greszhx (Hlag) está aquí.
+Sacerdote Cruzado de élite, Campeona Cruzada de élite y Guerrera Cruzada de élite están aquí.
+Puerta Sur de Takome [s,n] 
+Restos de vísceras.
+
+w m
+Reinos de Leyenda                                                                                                                                                                   
+Ningún mortal ha visitado a Soële... por el momento                                                                                                                               
+
+Greszhx raja con increíble potencia a Sacerdote Cruzado de élite.
+
+Greszhx raja con increíble potencia a Sacerdote Cruzado de élite.
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Greszhx 98%
+
+Greszhx empieza a inspeccionar la zona detenidamente.
+
+a
+Campeona Cruzada de élite raja débilmente y de forma superficial a Greszhx.
+
+Guerrera Cruzada de élite raja con fuerza a Greszhx.
+
+Greszhx logra esquivar el ataque de Sacerdote Cruzado de élite.
++ Te mueves en silencio alrededor de Greszhx, tensando los músculos de tus cuartos traseros para abalanzarte sobre él.
+
+Eludes la búsqueda de Greszhx.
+
+Greszhx detiene su búsqueda.
+
+sg
+Intentas seguir a Greszhx, pero te da esquinazo.
+
+# ¡Te abalanzas sobre un sorprendido Greszhx y le despedazas con tres ataques de tus Garras y dientes!
+
+[Obtienes 128 puntos de experiencia]
+
+os
+z
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+> Ignorando 'zarpazo x'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+> Greszhx te examina.
+
+Pvs: 5461/5461 (+800) Pe: 1394/1408 (-14)
+
+Greszhx (Hlag) se va hacia sur.
+z
+
+z
+Estás persiguiendo a Greszhx.
+No hay nadie aquí reconocible como naglazh,skrazbur,indre,ejarn,greszhx.
+
+> No hay nadie aquí reconocible como naglazh,skrazbur,indre,ejarn,greszhx.
+
+ac
+Murmullas unas palabras de poder y acaricias tu Anillo del Héroe de la Luz, que responde a tus palabras emitiendo una luz blanquecina y palpitando con energía.
+
+s
+> 
+Camino Empedrado de Takome [n,s] 
+Charco de sangre
+Dos Petos Acorazados y dos Espadas Largas.
+El aire puro en tus pulmones te produce una sensación momentánea de bienestar.
+
+s
+Camino Empedrado de Takome [s,n] 
+Rastro de Restos de vísceras. en dirección norte.
+Tres restos de cuerpo.
+
+z
+No hay nadie aquí reconocible como naglazh,skrazbur,indre,ejarn,greszhx.
+
+s
+
+] 
+Greszhx (Hlag) está aquí.
+Camino Empedrado de Takome [e,s,o,n] 
+Restos de cuerpo, Lanza y Cartel de madera.
+
+> # Rajas con fuerza a Greszhx.
+# Rajas con fuerza a Greszhx.
+# Enfermas críticamente a Greszhx.
+
+[Obtienes 52 puntos de experiencia]
+
+z
++ Te preparas para ejecutar zarpazo.
+
+Greszhx (Hlag) se va hacia sur.
+
+s
+Camino Empedrado de Takome [s,n] 
+
+s
+
+] 
+[Chat] Gorel:  bien cinto fuera xD
+¡Tus objetivos ya no están al alcance de tu zarpazo!
+
+Greszhx (Hlag) está aquí.
+Camino Empedrado de Takome [s,n] 
+Caminas con cuidado con tal de no tropezar con alguna piedra.
+
+* Greszhx te raja con poca fuerza y de forma superficial.
+* Greszhx te raja con mucha fuerza y de forma superficial.
+
+El poder de tu Anillo del Héroe de la Luz inunda tu cuerpo y te sientes mucho más fuerte.
+
+z
++ Te preparas para ejecutar zarpazo.
+
+# Rajas con fuerza a Greszhx.
+# Rajas con fuerza a Greszhx.
+# Enfermas críticamente a Greszhx.
+
+[Obtienes 44 puntos de experiencia]
+Pvs: 5638/5861 (+177) Pe: 1388/1408 (-6)
+
+# ¡Alcanzas a Greszhx con tu maniobra de zarpazo!
+
+[Obtienes 117 puntos de experiencia]
+
+co
+g
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Cocodrilo.
+
+> Pvs: 5738/5961 (+100) Pe: 1381/1408 (0)
+[El bloqueo 'Descarga (sufrido)' termina]
+Comienzas a serpentear alrededor de Greszhx, buscando puntos ciegos por donde puedas agarrarle con tus temibles fauces.
+
+* Greszhx te raja con fuerza y de forma superficial.
+* Greszhx te raja con fuerza y de forma superficial.
+El rezumante limo de las garras de Greszhx te envenena.
+* Greszhx te lacera con fuerza.
+
+Greszhx (Hlag) se va hacia sur.
+
+s
+Camino Empedrado de Takome [s,n] 
+Caminas inseguro por si hay algún bandido cerca.
+
+s
+Greszhx (Hlag) está aquí.
+Camino Empedrado de Takome [s,n] 
+Dos Petos Acorazados, Lanza y dos Espadas Largas.
+
+c
+# Muerdes a Greszhx en la cola, destrozándole carne y huesos.
+
+[Obtienes 54 puntos de experiencia]
+Ignorando 'zarandear'. No puedes ejecutar más acciones de ese tipo durante este turno.
+
+# Perforas con increíble potencia a Greszhx.
+# Enfermas con poca intensidad a Greszhx.
+
+[Obtienes 48 puntos de experiencia]
+Pvs: 5119/5961 (-619) Pe: 1378/1408 (-3)
+
+c
+Revuelves tu cabeza ferozmente con énfasis feroz en lo que, indiscutiblemente, es toda una demostración de salvajismo. Dicho esto, si pretendías desgarrar algo será mejor que
+la próxima vez lo muerdas primero.
+
+Greszhx (Hlag) se va hacia sur.
+c
+
+Estás persiguiendo a Greszhx.
+Revuelves tu cabeza ferozmente con énfasis feroz en lo que, indiscutiblemente, es toda una demostración de salvajismo. Dicho esto, si pretendías desgarrar algo será mejor que
+la próxima vez lo muerdas primero.
+
+s
+> 
+Greszhx (Hlag) está aquí.
+Lancero de Takome está aquí.
+Camino Empedrado de Takome [s,n] 
+
+s
+Camino Empedrado de Takome [s,n] 
+Lanza.
+Caminas inseguro por si hay algún bandido cerca.
+
+n
+Greszhx (Hlag) está aquí.
+Lancero de Takome está aquí.
+Camino Empedrado de Takome [s,n] 
+
+Greszhx se ha zafado de tu mordisco de alguna manera y te ves obligado a recomponer tu defensa de forma apresurada.
+
+Greszhx (Hlag) se va hacia sur.
+c
+
+Revuelves tu cabeza ferozmente con énfasis feroz en lo que, indiscutiblemente, es toda una demostración de salvajismo. Dicho esto, si pretendías desgarrar algo será mejor que
+la próxima vez lo muerdas primero.
+
+s
+Camino Empedrado de Takome [s,n] 
+Lanza.
+
+hi
+s
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Hiena.
+
+] 
+dn
+
+] 
+Greszhx (Hlag) está aquí.
+Camino Empedrado de Takome [s,n] 
+Lanza y restos putrefactos de Humano.
+
+] + Te preparas para ejecutar dentellada.
+
+> # Perforas con increíble potencia a Greszhx.
+# Enfermas débilmente a Greszhx.
+
+[Obtienes 41 puntos de experiencia]
+Pvs: 4939/5781 (-180) Pe: 1372/1408 (-3)
+[El bloqueo 'abalanzarse' termina]
+
+# ¡Alcanzas críticamente a Greszhx con tu maniobra de dentellada!
+¡Tu golpe causa una profunda herida a Greszhx en la cabeza!
+
+[Obtienes 97 puntos de experiencia]
+
+Greszhx (Hlag) se va hacia sur.
+
+s
+Viejo Puesto Fronterizo del Sur de Takome [s,n] 
+Cartel.
+
+s
+
+] 
+pa
+
+a
+] 
+
+] 
+sg
+Greszhx (Hlag) está aquí.
+Senda del Alba [s,n] 
+Caminas inseguro por si hay algún bandido cerca.
+
+] Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Pantera.
+
+] + Comienzas a moverte tentativamente alrededor de Greszhx, buscando un flanco vulnerable para abalanzarte sobre él.
+
+> Pvs: 4509/5061 (-430) Pe: 1362/1408 (0)
+Comienzas a seguir a Greszhx.
+
+Greszhx (Hlag) está aquí.
+Senda del Alba [s,n] 
+Sigues a Greszhx (Hlag) en dirección sur.
+Greszhx (Hlag) está aquí.
+Lancero de Takome está aquí.
+Senda del Alba [s,n] 
+Sigues a Greszhx (Hlag) en dirección sur.
+
+Lancero de Takome grita en adurn: ¡Por Takome!
+
+Greszhx raja violentamente a Lancero de Takome.
+
+Greszhx raja con increíble potencia a Lancero de Takome.
+
+# ¡Te abalanzas sobre un costado de Greszhx, destrozándole con tres ataques de tus Garras y dientes!
+
+[Obtienes 105 puntos de experiencia]
+
+estado -b x
+De un fugaz vistazo, examinas el estado de los que te rodean.
+Greszhx 23%
+
+Greszhx te da esquinazo.
+# Rajas a Greszhx.
+# Perforas críticamente a Greszhx.
+# Enfermas críticamente a Greszhx.
+
+[Obtienes 58 puntos de experiencia]
+[El bloqueo 'zarpazo' termina]
+
+os
+z
+Sufres cuando tus músculos crujen y los huesos se reforman al comenzar a polimorfarte.
+Tras tu dolorosa conversión, te levantas y miras extrañado a tu alrededor desde tu nuevo punto de vista, atónito, te das cuenta de que ahora eres un Oso.
+
+> + Te preparas para ejecutar zarpazo.
+
+Greszhx (Hlag) se va hacia sur.
+
+s
+Senda del Alba [s,n,o] 
+Columna de Piedra.
+Caminas inseguro por si hay algún bandido cerca.
+
+s
+Greszhx (Hlag) está aquí.
+Viajero está aquí.
+Senda del Alba [s,n] 
+
+# ¡Alcanzas críticamente a Greszhx con tu maniobra de zarpazo!
+
+[Obtienes 143 puntos de experiencia]
+
+Pvs: 5309/5861 (+800) Pe: 1353/1408 (+1)
+
+Greszhx (Hlag) se va hacia sur.
+
+s
+Senda del Alba [so,n] 
+
+so
+Greszhx (Hlag) está aquí.
+Senda del Alba [se,ne,o] 
+Poste de madera.
+
+# Rajas críticamente a Greszhx.
+# Rajas con mucha fuerza a Greszhx.
+# Enfermas débilmente a Greszhx.
+
+[Obtienes 90 puntos de experiencia]
+
+Greszhx deja de sangrar.
+
+[Cruzada_eralie] Palafrenero de la Cruzada: ¡Enorthus ha asesinado a greszhx!
+
+[Cruzada_eralie] Palafrenero de la Cruzada: ¡Gorel ha ayudado a enorthus a derrotar a greszhx!
+[Tu estatus con Takome ha aumentado]
+[Tu alineamiento ha aumentado]
+
+[Obtienes 145019 puntos de experiencia]
+Propinas el golpe mortal a Greszhx.
+
+Greszhx ha muerto.
+
+Greszhx cae al suelo sin vida.
+
+Greszhx da un grito desgarrador antes de que su espíritu abandone Eirea.
+[Obtienes 11 puntos de gloria]
+
+abndo dies
+Parece que abndo dies no produjo efecto alguno.
+
+bando dies
+[Bueno] Enorthus: dies
+
+[El bloqueo 'dentellada' termina]
+
+[El bloqueo 'zarpazo' termina]
+
+[Unnduan orbita al Limbo]
+
+[El bloqueo 'abalanzarse' termina]
+
+[El bloqueo 'mordisco' termina]
+
+[Chat] Greszhx:  pero que haces atontao
+
+[Bueno] Gorel:  ahora escuchas el has hecho trampas xD

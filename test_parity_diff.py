@@ -21,8 +21,8 @@ Path("temp_node_runner.js").write_text(node_script, encoding='utf-8')
 node_proc = subprocess.run(["node", "temp_node_runner.js"], capture_output=True, text=True, encoding='utf-8')
 node_output = node_proc.stdout
 
-py_lines = py_output.split('<br />')
-node_lines = node_output.split('<br />')
+py_lines = py_output.split('<br>')
+node_lines = node_output.split('<br>')
 
 print(f"Total Python lines: {len(py_lines)}")
 print(f"Total Node.js lines: {len(node_lines)}")

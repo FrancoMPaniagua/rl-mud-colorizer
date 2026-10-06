@@ -13,6 +13,123 @@ function escapeHtml(str) {
         .replace(/'/g, '&#x27;');
 }
 
+const MUDLET_HEADER = `<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 4.01//EN' 'http://www.w3.org/TR/html4/strict.dtd'>
+<html>
+ <head>
+  <meta http-equiv='content-type' content='text/html; charset=utf-8'>  <meta name='generator' content='Mudlet MUD Client version: 4.19.1'>
+  <title>Mudlet, main console extract from Reinos de Leyenda profile</title>
+  <style type='text/css'>
+   <!-- body { font-family: 'Bitstream Vera Sans Mono', 'Courier New', 'Monospace', 'Courier'; font-size: 100%; line-height: 1.125em; white-space: nowrap; color:rgb(255,255,255); background-color:rgb(0,0,0);}
+        span { white-space: pre-wrap; } -->
+  </style>
+  </head>
+  <body><div>`;
+
+const MUDLET_FOOTER = ` </div></body>\n</html>`;
+const DEFAULT_MUDLET_STYLE = "color: rgb(192,192,192); background: rgb(0,0,0); ";
+
+function hexToRgb(hexStr) {
+    let h = hexStr.trim().replace(/^#/, '');
+    if (h.length === 3) {
+        return [
+            parseInt(h[0] + h[0], 16),
+            parseInt(h[1] + h[1], 16),
+            parseInt(h[2] + h[2], 16)
+        ];
+    }
+    if (h.length === 6) {
+        return [
+            parseInt(h.slice(0, 2), 16),
+            parseInt(h.slice(2, 4), 16),
+            parseInt(h.slice(4, 6), 16)
+        ];
+    }
+    return [192, 192, 192];
+}
+
+function parseColorToRgb(val) {
+    if (!val) return null;
+    val = val.trim();
+    if (val.startsWith('#')) return hexToRgb(val);
+    const m = /^rgb\s*\(\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)\s*\)$/i.exec(val);
+    if (m) {
+        return [parseInt(m[1], 10), parseInt(m[2], 10), parseInt(m[3], 10)];
+    }
+    const named = {
+        white: [255, 255, 255],
+        silver: [192, 192, 192],
+        gray: [128, 128, 128],
+        green: [0, 128, 0],
+        red: [255, 0, 0],
+        yellow: [255, 255, 0],
+        blue: [8, 0, 255],
+        cyan: [0, 255, 255],
+        magenta: [255, 0, 255],
+        black: [0, 0, 0]
+    };
+    return named[val.toLowerCase()] || [192, 192, 192];
+}
+
+function styleToMudlet(styleStr) {
+    const colorM = /color:\s*([^;"]+)/i.exec(styleStr);
+    const bgM = /background(?:-color)?:\s*([^;"]+)/i.exec(styleStr);
+
+    let fgRgb = [192, 192, 192];
+    if (colorM) {
+        const parsed = parseColorToRgb(colorM[1]);
+        if (parsed) fgRgb = parsed;
+    }
+
+    let bgRgb = [0, 0, 0];
+    if (bgM) {
+        const parsed = parseColorToRgb(bgM[1]);
+        if (parsed) bgRgb = parsed;
+    }
+
+    if (styleStr.toLowerCase().includes('underline')) {
+        return `color: rgb(${fgRgb[0]},${fgRgb[1]},${fgRgb[2]}); background: rgb(${bgRgb[0]},${bgRgb[1]},${bgRgb[2]});  text-decoration: underline`;
+    }
+    return `color: rgb(${fgRgb[0]},${fgRgb[1]},${fgRgb[2]}); background: rgb(${bgRgb[0]},${bgRgb[1]},${bgRgb[2]}); `;
+}
+
+function normalizeLineToMudlet(lineHtml) {
+    if (!lineHtml) return '';
+
+    const converted = lineHtml.replace(/style="([^"]*)"/g, (match, s) => `style="${styleToMudlet(s)}"`);
+
+    const tokens = [];
+    let pos = 0;
+    const spanPattern = /<span\s+style="([^"]*)">(.*?)<\/span>/g;
+    let m;
+    while ((m = spanPattern.exec(converted)) !== null) {
+        const start = m.index;
+        const end = spanPattern.lastIndex;
+        if (start > pos) {
+            const bare = converted.slice(pos, start);
+            if (bare) tokens.push([DEFAULT_MUDLET_STYLE, bare]);
+        }
+        tokens.push([m[1], m[2]]);
+        pos = end;
+    }
+
+    if (pos < converted.length) {
+        const bare = converted.slice(pos);
+        if (bare) tokens.push([DEFAULT_MUDLET_STYLE, bare]);
+    }
+
+    const merged = [];
+    for (const [sAttr, content] of tokens) {
+        if (!content) continue;
+        if (merged.length > 0 && merged[merged.length - 1][0] === sAttr) {
+            merged[merged.length - 1][1] += content;
+        } else {
+            merged.push([sAttr, content]);
+        }
+    }
+
+    return merged.map(([s, c]) => `<span style="${s}">${c}</span>`).join('');
+}
+
 class RLColorizerJS {
     constructor(config) {
         this.config = config || (typeof window !== 'undefined' ? window.COLORIZER_RULES : null);
@@ -48,6 +165,7 @@ class RLColorizerJS {
             return "";
         }
 
+        let lineHtml = null;
         for (const rule of this.compiledRules) {
             const m = rule._regex.exec(rawText);
             if (!m) continue;
@@ -56,30 +174,36 @@ class RLColorizerJS {
 
             // 1. Composite Prompt Handler
             if (type === 'composite_prompt_extended') {
-                return this._renderPromptExtended(m);
+                lineHtml = this._renderPromptExtended(m);
+                break;
             }
             // 2. Composite HP Delta Handler
             else if (type === 'composite_hp_delta') {
                 const prefix = m[1];
                 const delta = m[2];
                 const dColor = delta.startsWith('-') ? "#ff0000" : "#00ff00";
-                return `<span style="color: #008000;">${escapeHtml(prefix)}</span><span style="color: ${dColor}; font-weight: bold;">${escapeHtml(delta)}</span>`;
+                lineHtml = `<span style="color: #008000;">${escapeHtml(prefix)}</span><span style="color: ${dColor}; font-weight: bold;">${escapeHtml(delta)}</span>`;
+                break;
             }
             // 3. Composite Movement Handler
             else if (type === 'composite_movement') {
-                return this._renderMovement(m);
+                lineHtml = this._renderMovement(m);
+                break;
             }
             // 4. Composite Tirada Handler
             else if (type === 'composite_tirada') {
-                return this._renderTirada(m);
+                lineHtml = this._renderTirada(m);
+                break;
             }
             // 5. Composite Info Handler
             else if (type === 'composite_info') {
-                return this._renderInfo(m);
+                lineHtml = this._renderInfo(m);
+                break;
             }
             // 6. Composite Spell Completion
             else if (type === 'composite_spell_completion') {
-                return this._renderSpellCompletion(m);
+                lineHtml = this._renderSpellCompletion(m);
+                break;
             }
             // 7. Composite Magic Missiles
             else if (type === 'composite_magic_missiles') {
@@ -88,46 +212,64 @@ class RLColorizerJS {
                 const rest = m[3];
                 const promptHtml = promptSym ? '<span style="color: #c0c0c0;">&gt; </span>' : '';
                 const pHtml = prefixSym ? '<span style="color: #0000ff;">#</span> ' : '';
-                return `${promptHtml}${pHtml}<span style="color: #8cc4ff;">${escapeHtml(rest)}</span>`;
+                lineHtml = `${promptHtml}${pHtml}<span style="color: #8cc4ff;">${escapeHtml(rest)}</span>`;
+                break;
             }
             // 8. Composite Enemy Maneuver
             else if (type === 'composite_enemy_maneuver') {
-                return this._renderEnemyManeuver(m);
+                lineHtml = this._renderEnemyManeuver(m);
+                break;
             }
             // 9. Composite Player Combat
             else if (type === 'composite_player_combat') {
-                return this._renderPlayerCombat(m);
+                lineHtml = this._renderPlayerCombat(m);
+                break;
             }
             // 10. Composite Room Player
             else if (type === 'composite_room_player') {
-                return this._renderRoomPlayer(m);
+                lineHtml = this._renderRoomPlayer(m);
+                break;
             }
             // 11. Composite Room NPC
             else if (type === 'composite_room_npc') {
-                return this._renderRoomNpc(m);
+                lineHtml = this._renderRoomNpc(m);
+                break;
             }
             // 12. Composite Follower Player
             else if (type === 'composite_follower_player') {
-                return this._renderFollowerPlayer(m);
+                lineHtml = this._renderFollowerPlayer(m);
+                break;
             }
             // 13. Composite Room Exits
             else if (type === 'composite_room_exits') {
                 const res = this._renderRoomExits(m);
-                if (res !== null) return res;
+                if (res !== null) {
+                    lineHtml = res;
+                    break;
+                }
             }
             // 14. Composite Room Title
             else if (type === 'composite_room_title') {
                 const res = this._renderRoomTitle(m);
-                if (res !== null) return res;
+                if (res !== null) {
+                    lineHtml = res;
+                    break;
+                }
             }
             // 15. Direct Regex Replacement
             else if (rule.replace) {
-                return this._applyTemplate(m, rule.replace);
+                lineHtml = this._applyTemplate(m, rule.replace);
+                break;
             }
         }
 
-        // Default silver fallback
-        return `<span style="color: ${this.theme.default_fg || '#c0c0c0'};">${escapeHtml(rawText)}</span>`;
+        if (lineHtml === null) {
+            const escaped = escapeHtml(rawText);
+            const defaultFg = this.theme.default_fg || '#c0c0c0';
+            lineHtml = `<span style="color: ${defaultFg};">${escaped}</span>`;
+        }
+
+        return normalizeLineToMudlet(lineHtml);
     }
 
     _renderPromptExtended(m) {
@@ -300,9 +442,23 @@ class RLColorizerJS {
 
     _renderSpellCompletion(m) {
         const line = m[0];
-        let escaped = escapeHtml(line);
-        escaped = escaped.replace(/(&#x27;[^&]+&#x27;|'[^']+')/g, '<span style="color: #00ffff;">$1</span>');
-        return `<span style="color: #c0c0c0;">${escaped}</span>`;
+        const parts = [];
+        let pos = 0;
+        const qRegex = /'[^']+'/g;
+        let qM;
+        while ((qM = qRegex.exec(line)) !== null) {
+            const start = qM.index;
+            const end = qRegex.lastIndex;
+            if (start > pos) {
+                parts.push(`<span style="color: #c0c0c0;">${escapeHtml(line.slice(pos, start))}</span>`);
+            }
+            parts.push(`<span style="color: #00ffff;">${escapeHtml(qM[0])}</span>`);
+            pos = end;
+        }
+        if (pos < line.length) {
+            parts.push(`<span style="color: #c0c0c0;">${escapeHtml(line.slice(pos))}</span>`);
+        }
+        return parts.join('');
     }
 
     _renderEnemyManeuver(m) {
@@ -326,7 +482,7 @@ class RLColorizerJS {
         const verb = m[3];
         const promptHtml = promptSym ? '<span style="color: #c0c0c0;">&gt; </span>' : '';
         const coloredPlayers = this._colorizePlayerEntities(players);
-        return `${promptHtml}<span style="color: #c0c0c0;">${coloredPlayers} ${escapeHtml(verb)}.</span>`;
+        return `${promptHtml}${coloredPlayers}<span style="color: #c0c0c0;"> ${escapeHtml(verb)}.</span>`;
     }
 
     _renderRoomNpc(m) {
@@ -368,11 +524,33 @@ class RLColorizerJS {
             return `${promptHtml}<span style="color: #808080;">${escapeHtml(fullLine)}</span>`;
         }
 
-        let escapedBody = escapeHtml(body);
-        escapedBody = escapedBody.replace(
-            /(\()(\d+)(?:(-)(\d+))?(\))/g,
-            `<span style="color: #ffff00;">$1</span><span style="color: #ff0000; font-weight: bold;">$2</span><span style="color: #ffffff;">$3</span><span style="color: #ff0000; font-weight: bold;">$4</span><span style="color: #ffff00;">$5</span>`
-        );
+        const parts = [];
+        let pos = 0;
+        const bracketRe = /(\()(\d+)(?:(-)(\d+))?(\))/g;
+        let bM;
+        while ((bM = bracketRe.exec(body)) !== null) {
+            const start = bM.index;
+            const end = bracketRe.lastIndex;
+            if (start > pos) {
+                parts.push(`<span style="color: #00ff00;">${escapeHtml(body.slice(pos, start))}</span>`);
+            }
+            const b1 = bM[1];
+            const d1 = bM[2];
+            const sep = bM[3];
+            const d2 = bM[4];
+            const b2 = bM[5];
+            parts.push(`<span style="color: #ffff00;">${b1}</span><span style="color: #ff0000; font-weight: bold;">${d1}</span>`);
+            if (sep) {
+                parts.push(`<span style="color: #ffffff;">${sep}</span><span style="color: #ff0000; font-weight: bold;">${d2}</span>`);
+            }
+            parts.push(`<span style="color: #ffff00;">${b2}</span>`);
+            pos = end;
+        }
+        if (pos < body.length) {
+            parts.push(`<span style="color: #00ff00;">${escapeHtml(body.slice(pos))}</span>`);
+        }
+
+        const combatHtml = parts.join('');
 
         let prefixHtml = "";
         if (prefixSym) {
@@ -383,7 +561,7 @@ class RLColorizerJS {
             }
         }
 
-        return `${promptHtml}${prefixHtml}<span style="color: #00ff00;">${escapedBody}</span>`;
+        return `${promptHtml}${prefixHtml}${combatHtml}`;
     }
 
     _applyTemplate(m, template) {
@@ -398,11 +576,15 @@ class RLColorizerJS {
     colorizeText(plainText) {
         const trimmed = (plainText || '').replace(/\r\n/g, '\n').replace(/\n+$/, '');
         const normalized = trimmed.replace(/\n{3,}/g, '\n\n');
-        const lines = normalized ? normalized.split('\n') : [];
-        const renderedLines = lines.map(line => this.colorizeLine(line));
-        const contentHtml = renderedLines.join('<br />') + '<br />';
+        if (!normalized) {
+            return MUDLET_HEADER + ' </div></body>\n</html>';
+        }
 
-        return `<font color="#cccccc" size="2"><div>${contentHtml}</div></font>`;
+        const lines = normalized.split('\n');
+        const renderedLines = lines.map(line => this.colorizeLine(line));
+        const bodyContent = renderedLines.map(r => r + '<br>').join('\n');
+
+        return `${MUDLET_HEADER}${bodyContent}\n </div></body>\n</html>`;
     }
 }
 

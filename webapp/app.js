@@ -94,8 +94,16 @@ Propinas el golpe mortal a Sowy.
         const htmlResult = colorizer.colorizeText(text);
         currentHtmlOutput = htmlResult;
 
-        // Render preview (the outer wrapper is the div container)
-        previewContainer.innerHTML = htmlResult;
+        // Extract inner terminal content for the visual preview container to avoid global body style bleed
+        const startTag = '<body><div>';
+        const endTag = '</div></body>';
+        const startIdx = htmlResult.indexOf(startTag);
+        const endIdx = htmlResult.lastIndexOf(endTag);
+        const previewHtml = (startIdx !== -1 && endIdx !== -1)
+            ? htmlResult.slice(startIdx + startTag.length, endIdx)
+            : htmlResult;
+
+        previewContainer.innerHTML = previewHtml;
         rawHtmlTextarea.value = htmlResult;
 
         // Count output stats
@@ -161,7 +169,7 @@ Propinas el golpe mortal a Sowy.
                     rawHtmlTextarea.style.display = 'none';
                 }
             }
-            announce("¡HTML copiado al portapapeles! Listo para pegar en el formulario de Deathlogs.");
+            announce("¡HTML de Mudlet copiado al portapapeles! Listo para pegar en el formulario de Deathlogs.");
         } catch (err) {
             console.error("Clipboard error:", err);
             announce("Error al copiar al portapapeles.", true);
@@ -175,34 +183,17 @@ Propinas el golpe mortal a Sowy.
             return;
         }
 
-        const fullHtml = `<!DOCTYPE html>
-<html lang="es">
-<head>
-<meta charset="utf-8">
-<title>Reinos de Leyenda - Deathlog</title>
-<style>
-body { background: #000000; margin: 0; padding: 20px; font-family: 'Bitstream Vera Sans Mono', 'Courier New', monospace; font-size: 13px; color: #cccccc; }
-pre { font-family: inherit; margin: 0; }
-</style>
-</head>
-<body bgcolor="black">
-<pre>
-${currentHtmlOutput}
-</pre>
-</body>
-</html>`;
-
-        const blob = new Blob([fullHtml], { type: 'text/html;charset=utf-8' });
+        const blob = new Blob([currentHtmlOutput], { type: 'text/html;charset=utf-8' });
         const url = URL.createObjectURL(blob);
         const a = document.createElement('a');
         const timestamp = new Date().toISOString().slice(0, 10);
         a.href = url;
-        a.download = `rl_log_${timestamp}.html`;
+        a.download = `rl_deathlog_${timestamp}.html`;
         document.body.appendChild(a);
         a.click();
         document.body.removeChild(a);
         URL.revokeObjectURL(url);
-        announce("Archivo HTML descargado con éxito.");
+        announce("Archivo HTML de Mudlet descargado con éxito.");
     }
 
     // Accessible Tab Switching (W3C WAI-ARIA Tabs pattern)

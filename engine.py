@@ -11,6 +11,111 @@ from pathlib import Path
 BASE_DIR = Path(r"C:\Users\Compumar\mud_colorizer")
 RULES_FILE = BASE_DIR / "rules.json"
 
+MUDLET_HEADER = (
+    "<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 4.01//EN' 'http://www.w3.org/TR/html4/strict.dtd'>\n"
+    "<html>\n"
+    " <head>\n"
+    "  <meta http-equiv='content-type' content='text/html; charset=utf-8'>  <meta name='generator' content='Mudlet MUD Client version: 4.19.1'>\n"
+    "  <title>Mudlet, main console extract from Reinos de Leyenda profile</title>\n"
+    "  <style type='text/css'>\n"
+    "   <!-- body { font-family: 'Bitstream Vera Sans Mono', 'Courier New', 'Monospace', 'Courier'; font-size: 100%; line-height: 1.125em; white-space: nowrap; color:rgb(255,255,255); background-color:rgb(0,0,0);}\n"
+    "        span { white-space: pre-wrap; } -->\n"
+    "  </style>\n"
+    "  </head>\n"
+    "  <body><div>"
+)
+MUDLET_FOOTER = " </div></body>\n</html>"
+DEFAULT_MUDLET_STYLE = "color: rgb(192,192,192); background: rgb(0,0,0); "
+
+
+def hex_to_rgb(hex_str):
+    h = hex_str.strip().lstrip("#")
+    if len(h) == 3:
+        return int(h[0] * 2, 16), int(h[1] * 2, 16), int(h[2] * 2, 16)
+    if len(h) == 6:
+        return int(h[0:2], 16), int(h[2:4], 16), int(h[4:6], 16)
+    return 192, 192, 192
+
+
+def parse_color_to_rgb(val):
+    if not val:
+        return None
+    val = val.strip()
+    if val.startswith("#"):
+        return hex_to_rgb(val)
+    m = re.match(r"rgb\s*\(\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)\s*\)", val, re.IGNORECASE)
+    if m:
+        return int(m.group(1)), int(m.group(2)), int(m.group(3))
+    named = {
+        'white': (255, 255, 255),
+        'silver': (192, 192, 192),
+        'gray': (128, 128, 128),
+        'green': (0, 128, 0),
+        'red': (255, 0, 0),
+        'yellow': (255, 255, 0),
+        'blue': (8, 0, 255),
+        'cyan': (0, 255, 255),
+        'magenta': (255, 0, 255),
+        'black': (0, 0, 0),
+    }
+    return named.get(val.lower(), (192, 192, 192))
+
+
+def style_to_mudlet(style_str):
+    color_m = re.search(r'color:\s*([^;"]+)', style_str, re.IGNORECASE)
+    bg_m = re.search(r'background(?:-color)?:\s*([^;"]+)', style_str, re.IGNORECASE)
+
+    fg_rgb = (192, 192, 192)
+    if color_m:
+        parsed = parse_color_to_rgb(color_m.group(1))
+        if parsed:
+            fg_rgb = parsed
+
+    bg_rgb = (0, 0, 0)
+    if bg_m:
+        parsed = parse_color_to_rgb(bg_m.group(1))
+        if parsed:
+            bg_rgb = parsed
+
+    if "underline" in style_str.lower():
+        return f"color: rgb({fg_rgb[0]},{fg_rgb[1]},{fg_rgb[2]}); background: rgb({bg_rgb[0]},{bg_rgb[1]},{bg_rgb[2]});  text-decoration: underline"
+    return f"color: rgb({fg_rgb[0]},{fg_rgb[1]},{fg_rgb[2]}); background: rgb({bg_rgb[0]},{bg_rgb[1]},{bg_rgb[2]}); "
+
+
+def normalize_line_to_mudlet(line_html):
+    if not line_html:
+        return ""
+
+    converted = re.sub(r'style="([^"]*)"', lambda m: f'style="{style_to_mudlet(m.group(1))}"', line_html)
+
+    tokens = []
+    pos = 0
+    span_pattern = re.compile(r'<span\s+style="([^"]*)">(.*?)</span>')
+    for m in span_pattern.finditer(converted):
+        start, end = m.span()
+        if start > pos:
+            bare = converted[pos:start]
+            if bare:
+                tokens.append((DEFAULT_MUDLET_STYLE, bare))
+        tokens.append((m.group(1), m.group(2)))
+        pos = end
+
+    if pos < len(converted):
+        bare = converted[pos:]
+        if bare:
+            tokens.append((DEFAULT_MUDLET_STYLE, bare))
+
+    merged = []
+    for s_attr, content in tokens:
+        if not content:
+            continue
+        if merged and merged[-1][0] == s_attr:
+            merged[-1] = (s_attr, merged[-1][1] + content)
+        else:
+            merged.append((s_attr, content))
+
+    return "".join(f'<span style="{s}">{c}</span>' for s, c in merged)
+
 
 class RLColorizer:
     def __init__(self, rules_path=RULES_FILE):
@@ -46,6 +151,7 @@ class RLColorizer:
         if not raw_text.strip():
             return ""
             
+        line_html = None
         # Match rules in priority order
         for rule in self.compiled_rules:
             m = rule['_regex'].match(raw_text)
@@ -56,76 +162,93 @@ class RLColorizer:
             
             # 1. Composite Prompt Handler
             if rule_type == 'composite_prompt_extended':
-                return self._render_prompt_extended(m)
+                line_html = self._render_prompt_extended(m)
+                break
                 
             # 2. Composite HP Delta Handler
             elif rule_type == 'composite_hp_delta':
                 prefix, delta = m.groups()
                 d_color = "#ff0000" if delta.startswith('-') else "#00ff00"
-                return f'<span style="color: #008000;">{html.escape(prefix)}</span><span style="color: {d_color}; font-weight: bold;">{html.escape(delta)}</span>'
+                line_html = f'<span style="color: #008000;">{html.escape(prefix)}</span><span style="color: {d_color}; font-weight: bold;">{html.escape(delta)}</span>'
+                break
                 
             # 3. Composite Movement Handler
             elif rule_type == 'composite_movement':
-                return self._render_movement(m)
+                line_html = self._render_movement(m)
+                break
                 
             # 4. Composite Tirada Handler
             elif rule_type == 'composite_tirada':
-                return self._render_tirada(m)
+                line_html = self._render_tirada(m)
+                break
                 
             # 5. Composite Info Handler
             elif rule_type == 'composite_info':
-                return self._render_info(m)
+                line_html = self._render_info(m)
+                break
                 
             # 6. Composite Spell Completion
             elif rule_type == 'composite_spell_completion':
-                return self._render_spell_completion(m)
+                line_html = self._render_spell_completion(m)
+                break
                 
             # 7. Composite Magic Missiles
             elif rule_type == 'composite_magic_missiles':
                 prompt_sym, prefix_sym, rest = m.groups()
                 prompt_html = '<span style="color: #c0c0c0;">&gt; </span>' if prompt_sym else ''
                 p_html = '<span style="color: #0000ff;">#</span> ' if prefix_sym else ''
-                return f'{prompt_html}{p_html}<span style="color: #8cc4ff;">{html.escape(rest)}</span>'
+                line_html = f'{prompt_html}{p_html}<span style="color: #8cc4ff;">{html.escape(rest)}</span>'
+                break
                 
             # 8. Composite Enemy Maneuver
             elif rule_type == 'composite_enemy_maneuver':
-                return self._render_enemy_maneuver(m)
+                line_html = self._render_enemy_maneuver(m)
+                break
 
             # 9. Composite Player Combat
             elif rule_type == 'composite_player_combat':
-                return self._render_player_combat(m)
+                line_html = self._render_player_combat(m)
+                break
 
             # 10. Composite Room Player
             elif rule_type == 'composite_room_player':
-                return self._render_room_player(m)
+                line_html = self._render_room_player(m)
+                break
 
             # 11. Composite Room NPC
             elif rule_type == 'composite_room_npc':
-                return self._render_room_npc(m)
+                line_html = self._render_room_npc(m)
+                break
 
             # 12. Composite Follower Player
             elif rule_type == 'composite_follower_player':
-                return self._render_follower_player(m)
+                line_html = self._render_follower_player(m)
+                break
 
             # 13. Composite Room Exits
             elif rule_type == 'composite_room_exits':
                 res = self._render_room_exits(m)
                 if res is not None:
-                    return res
+                    line_html = res
+                    break
 
             # 14. Composite Room Title
             elif rule_type == 'composite_room_title':
                 res = self._render_room_title(m)
                 if res is not None:
-                    return res
+                    line_html = res
+                    break
                 
             # 15. Direct Regex Replacement
             elif 'replace' in rule:
-                return self._apply_template(m, rule['replace'])
+                line_html = self._apply_template(m, rule['replace'])
+                break
                 
-        # Default unstyled text
-        escaped = html.escape(raw_text)
-        return f'<span style="color: {self.theme.get("default_fg", "#c0c0c0")};">{escaped}</span>'
+        if line_html is None:
+            escaped = html.escape(raw_text)
+            line_html = f'<span style="color: {self.theme.get("default_fg", "#c0c0c0")};">{escaped}</span>'
+            
+        return normalize_line_to_mudlet(line_html)
 
     def _render_prompt_extended(self, m):
         pvs, pvs_delta, pe, pe_delta, extra = m.groups()
@@ -256,9 +379,17 @@ class RLColorizer:
 
     def _render_spell_completion(self, m):
         line = m.group(0)
-        escaped = html.escape(line)
-        escaped = re.sub(r"(&#x27;[^&]+&#x27;|'[^']+')", r'<span style="color: #00ffff;">\1</span>', escaped)
-        return f'<span style="color: #c0c0c0;">{escaped}</span>'
+        parts = []
+        pos = 0
+        for q_m in re.finditer(r"'[^']+'", line):
+            start, end = q_m.span()
+            if start > pos:
+                parts.append(f'<span style="color: #c0c0c0;">{html.escape(line[pos:start])}</span>')
+            parts.append(f'<span style="color: #00ffff;">{html.escape(q_m.group(0))}</span>')
+            pos = end
+        if pos < len(line):
+            parts.append(f'<span style="color: #c0c0c0;">{html.escape(line[pos:])}</span>')
+        return "".join(parts)
 
     def _render_enemy_maneuver(self, m):
         prompt_sym, alert_sym, actor, verb, rest = m.groups()
@@ -277,7 +408,7 @@ class RLColorizer:
         prompt_sym, players, verb = m.groups()
         prompt_html = '<span style="color: #c0c0c0;">&gt; </span>' if prompt_sym else ''
         colored_players = self._colorize_player_entities(players)
-        return f'{prompt_html}<span style="color: #c0c0c0;">{colored_players} {html.escape(verb)}.</span>'
+        return f'{prompt_html}{colored_players}<span style="color: #c0c0c0;"> {html.escape(verb)}.</span>'
 
     def _render_room_npc(self, m):
         prompt_sym, npc, verb = m.groups()
@@ -301,14 +432,24 @@ class RLColorizer:
         if any(w in full_line.lower() for w in ['esquiva tu ataque', 'fallas tu ataque', 'bloquea tu', 'consigue parar', 'consigue esquivar']):
             return f'{prompt_html}<span style="color: #808080;">{html.escape(full_line)}</span>'
             
-        escaped_body = html.escape(body)
-        
         # Highlight damage ranges/brackets like (290-599) or [123]
-        escaped_body = re.sub(
-            r'(\()(\d+)(?:(-)(\d+))?(\))',
-            r'<span style="color: #ffff00;">\1</span><span style="color: #ff0000; font-weight: bold;">\2</span><span style="color: #ffffff;">\3</span><span style="color: #ff0000; font-weight: bold;">\4</span><span style="color: #ffff00;">\5</span>',
-            escaped_body
-        )
+        parts = []
+        pos = 0
+        bracket_re = re.compile(r'(\()(\d+)(?:(-)(\d+))?(\))')
+        for b_m in bracket_re.finditer(body):
+            start, end = b_m.span()
+            if start > pos:
+                parts.append(f'<span style="color: #00ff00;">{html.escape(body[pos:start])}</span>')
+            b1, d1, sep, d2, b2 = b_m.groups()
+            parts.append(f'<span style="color: #ffff00;">{b1}</span><span style="color: #ff0000; font-weight: bold;">{d1}</span>')
+            if sep:
+                parts.append(f'<span style="color: #ffffff;">{sep}</span><span style="color: #ff0000; font-weight: bold;">{d2}</span>')
+            parts.append(f'<span style="color: #ffff00;">{b2}</span>')
+            pos = end
+        if pos < len(body):
+            parts.append(f'<span style="color: #00ff00;">{html.escape(body[pos:])}</span>')
+            
+        combat_html = "".join(parts)
         
         prefix_html = ""
         if prefix_sym:
@@ -317,7 +458,7 @@ class RLColorizer:
             elif '*' in prefix_sym:
                 prefix_html = '<span style="color: #008000;">*</span> '
                 
-        return f'{prompt_html}{prefix_html}<span style="color: #00ff00;">{escaped_body}</span>'
+        return f'{prompt_html}{prefix_html}{combat_html}'
 
     def _apply_template(self, m, template):
         res = template
@@ -329,11 +470,14 @@ class RLColorizer:
     def colorize_text(self, plain_text):
         trimmed = (plain_text or "").replace('\r\n', '\n').rstrip('\n')
         normalized = re.sub(r'\n{3,}', '\n\n', trimmed)
-        lines = normalized.split('\n') if normalized else []
+        if not normalized:
+            return MUDLET_HEADER + " </div></body>\n</html>"
+
+        lines = normalized.split('\n')
         rendered_lines = [self.colorize_line(line) for line in lines]
-        content_html = "<br />".join(rendered_lines) + "<br />"
-        
-        return f'<font color="#cccccc" size="2"><div>{content_html}</div></font>'
+        body_content = "\n".join(r + "<br>" for r in rendered_lines)
+
+        return f"{MUDLET_HEADER}{body_content}\n </div></body>\n</html>"
 
 
 if __name__ == '__main__':

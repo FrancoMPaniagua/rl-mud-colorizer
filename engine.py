@@ -259,8 +259,22 @@ class RLColorizer:
                 
         if line_html is None:
             line_html = self._colorize_items_in_text(raw_text)
+        else:
+            line_html = self._colorize_items_in_html(line_html)
             
         return normalize_line_to_mudlet(line_html)
+
+    def _colorize_items_in_html(self, line_html):
+        if not self.item_regex:
+            return line_html
+        span_re = re.compile(r'<span style="color:\s*(?:#c0c0c0|rgb\(\s*192\s*,\s*192\s*,\s*192\s*\));?">(.*?)</span>')
+        def repl(m):
+            inner = m.group(1)
+            unescaped = inner.replace('&gt;', '>').replace('&lt;', '<').replace('&amp;', '&')
+            if self.item_regex.search(unescaped):
+                return self._colorize_items_in_text(unescaped)
+            return m.group(0)
+        return span_re.sub(repl, line_html)
 
     def _colorize_items_in_text(self, raw_text):
         default_fg = self.theme.get("default_fg", "#c0c0c0")

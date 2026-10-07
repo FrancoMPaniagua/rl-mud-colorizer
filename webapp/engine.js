@@ -279,9 +279,26 @@ class RLColorizerJS {
 
         if (lineHtml === null) {
             lineHtml = this._colorizeItemsInText(rawText);
+        } else {
+            lineHtml = this._colorizeItemsInHtml(lineHtml);
         }
 
         return normalizeLineToMudlet(lineHtml);
+    }
+
+    _colorizeItemsInHtml(lineHtml) {
+        if (!this.itemRegex) {
+            return lineHtml;
+        }
+        const spanRe = /<span style="color:\s*(?:#c0c0c0|rgb\(\s*192\s*,\s*192\s*,\s*192\s*\));?">(.*?)<\/span>/g;
+        return lineHtml.replace(spanRe, (fullMatch, inner) => {
+            const unescaped = inner.replace(/&gt;/g, '>').replace(/&lt;/g, '<').replace(/&amp;/g, '&');
+            this.itemRegex.lastIndex = 0;
+            if (this.itemRegex.test(unescaped)) {
+                return this._colorizeItemsInText(unescaped);
+            }
+            return fullMatch;
+        });
     }
 
     _colorizeItemsInText(rawText) {

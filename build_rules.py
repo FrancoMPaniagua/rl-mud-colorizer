@@ -417,20 +417,6 @@ RULES_DATA = {
             "replace": r'<span style="color: #808080;">$1</span>'
         },
         {
-            "id": "system_equipment_action",
-            "category": "system",
-            "priority": 71,
-            "pattern": r"^(?:[>\]]\s*)?((?:Dejas de sostener|Empuñas|Te pones|Te quitas|Estás intentando equilibrar|Finalmente equilibras)\s+.*)$",
-            "replace": r'<span style="color: #c0c0c0;">$1</span>'
-        },
-        {
-            "id": "system_crafting_skinning",
-            "category": "system",
-            "priority": 72,
-            "pattern": r"^(?:[>\]]\s*)?((?:Armado con tu|Continúas desollando|Continúas con tu sucio trabajo|Tras dedicar largos minutos desollando)\s+.*)$",
-            "replace": r'<span style="color: #c0c0c0;">$1</span>'
-        },
-        {
             "id": "system_actions_warning",
             "category": "system",
             "priority": 73,

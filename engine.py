@@ -136,6 +136,18 @@ class RLColorizer:
         )
         self.cardinal_regex = re.compile(r'\b(norte|sur|este|oeste|noreste|noroeste|sudeste|sudoeste|arriba|abajo|n|s|e|o|ne|no|se|so)\b', re.IGNORECASE)
         
+        self.item_colors = self.config.get('item_colors', {})
+        self.item_map = {k.lower(): v for k, v in self.item_colors.items()}
+        if self.item_colors:
+            sorted_keys = sorted(self.item_colors.keys(), key=len, reverse=True)
+            self.item_regex = re.compile(
+                r'(?<![a-zA-Z0-9áéíóúÁÉÍÓÚñÑüÜ])(' + '|'.join(re.escape(k) for k in sorted_keys) + r')(?![a-zA-Z0-9áéíóúÁÉÍÓÚñÑüÜ])',
+                re.IGNORECASE
+            )
+
+        else:
+            self.item_regex = None
+
         # Precompile regular expressions
         self.compiled_rules = []
         for r in self.rules:
@@ -143,6 +155,7 @@ class RLColorizer:
                 **r,
                 '_regex': re.compile(r['pattern'])
             })
+
 
     def colorize_line(self, line):
         raw_text = line.rstrip('\r\n')
@@ -245,10 +258,35 @@ class RLColorizer:
                 break
                 
         if line_html is None:
-            escaped = html.escape(raw_text)
-            line_html = f'<span style="color: {self.theme.get("default_fg", "#c0c0c0")};">{escaped}</span>'
+            line_html = self._colorize_items_in_text(raw_text)
             
         return normalize_line_to_mudlet(line_html)
+
+    def _colorize_items_in_text(self, raw_text):
+        default_fg = self.theme.get("default_fg", "#c0c0c0")
+        if not self.item_regex:
+            return f'<span style="color: {default_fg};">{html.escape(raw_text)}</span>'
+
+        last_idx = 0
+        spans = []
+        for m in self.item_regex.finditer(raw_text):
+            start, end = m.span()
+            if start > last_idx:
+                non_item = raw_text[last_idx:start]
+                spans.append(f'<span style="color: {default_fg};">{html.escape(non_item)}</span>')
+            k = m.group(0).lower()
+            spans.append(self.item_map.get(k, html.escape(m.group(0))))
+            last_idx = end
+
+        if last_idx == 0:
+            return f'<span style="color: {default_fg};">{html.escape(raw_text)}</span>'
+
+        if last_idx < len(raw_text):
+            remaining = raw_text[last_idx:]
+            spans.append(f'<span style="color: {default_fg};">{html.escape(remaining)}</span>')
+
+        return "".join(spans)
+
 
     def _render_prompt_extended(self, m):
         pvs, pvs_delta, pe, pe_delta, extra = m.groups()

@@ -150,12 +150,26 @@ class RLColorizerJS {
         this.playerEntityPattern = `((?:\\b(?:un|una|dos|tres|cuatro|cinco|seis|siete|ocho|nueve|diez)\\s+)?[*|\\-~/]*\\s*[A-Za-zÁÉÍÓÚáéíóúñÑ0-9\\x27_-]+(?:\\s+[|*\\-~/]+)?\\s*\\((?:${this.racesStr})\\)(?:es)?(?:\\s*[|*\\-~/]+)?)`;
         this.cardinalRegex = /\b(norte|sur|este|oeste|noreste|noroeste|sudeste|sudoeste|arriba|abajo|n|s|e|o|ne|no|se|so)\b/i;
         
+        this.itemColors = this.config.item_colors || {};
+        this.itemMap = new Map();
+        for (const [k, v] of Object.entries(this.itemColors)) {
+            this.itemMap.set(k.toLowerCase(), v);
+        }
+        const sortedItemKeys = Object.keys(this.itemColors).sort((a, b) => b.length - a.length);
+        if (sortedItemKeys.length > 0) {
+            const escapedPatterns = sortedItemKeys.map(k => k.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+            this.itemRegex = new RegExp('(?<![a-zA-Z0-9áéíóúÁÉÍÓÚñÑüÜ])(' + escapedPatterns.join('|') + ')(?![a-zA-Z0-9áéíóúÁÉÍÓÚñÑüÜ])', 'gui');
+        } else {
+            this.itemRegex = null;
+        }
+
         const sortedRules = [...this.config.rules].sort((a, b) => (a.priority || 100) - (b.priority || 100));
         this.compiledRules = sortedRules.map(r => ({
             ...r,
             _regex: new RegExp(r.pattern)
         }));
     }
+
 
     colorizeLine(line) {
         let rawText = line.replace(/\r?\n$/, '');
@@ -264,13 +278,47 @@ class RLColorizerJS {
         }
 
         if (lineHtml === null) {
-            const escaped = escapeHtml(rawText);
-            const defaultFg = this.theme.default_fg || '#c0c0c0';
-            lineHtml = `<span style="color: ${defaultFg};">${escaped}</span>`;
+            lineHtml = this._colorizeItemsInText(rawText);
         }
 
         return normalizeLineToMudlet(lineHtml);
     }
+
+    _colorizeItemsInText(rawText) {
+        const defaultFg = this.theme.default_fg || '#c0c0c0';
+        if (!this.itemRegex) {
+            return `<span style="color: ${defaultFg};">${escapeHtml(rawText)}</span>`;
+        }
+
+        this.itemRegex.lastIndex = 0;
+        let lastIdx = 0;
+        const spans = [];
+        let m;
+
+        while ((m = this.itemRegex.exec(rawText)) !== null) {
+            const start = m.index;
+            const end = this.itemRegex.lastIndex;
+            if (start > lastIdx) {
+                const nonItem = rawText.slice(lastIdx, start);
+                spans.push(`<span style="color: ${defaultFg};">${escapeHtml(nonItem)}</span>`);
+            }
+            const k = m[0].toLowerCase();
+            spans.push(this.itemMap.get(k) || escapeHtml(m[0]));
+            lastIdx = end;
+        }
+
+        if (lastIdx === 0) {
+            return `<span style="color: ${defaultFg};">${escapeHtml(rawText)}</span>`;
+        }
+
+        if (lastIdx < rawText.length) {
+            const remaining = rawText.slice(lastIdx);
+            spans.push(`<span style="color: ${defaultFg};">${escapeHtml(remaining)}</span>`);
+        }
+
+        return spans.join('');
+    }
+
 
     _renderPromptExtended(m) {
         const pvs = m[1];

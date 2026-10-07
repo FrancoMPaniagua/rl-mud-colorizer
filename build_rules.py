@@ -471,6 +471,7 @@ RULES_DATA = {
 }
 
 ROOMS_FILE = BASE_DIR / "rooms.json"
+ITEMS_FILE = BASE_DIR / "items.json"
 WEBAPP_RULES_FILE = BASE_DIR / "webapp" / "rules.js"
 
 def save_rules():
@@ -481,6 +482,14 @@ def save_rules():
         print(f"Loaded {len(RULES_DATA['room_colors'])} room colors from rooms.json")
     else:
         print("Warning: rooms.json not found!")
+
+    if ITEMS_FILE.exists():
+        with open(ITEMS_FILE, 'r', encoding='utf-8') as itf:
+            items_catalog = json.load(itf)
+        RULES_DATA["item_colors"] = {k: v['html'] for k, v in items_catalog.items()}
+        print(f"Loaded {len(RULES_DATA['item_colors'])} colored items from items.json")
+    else:
+        print("Warning: items.json not found!")
 
     with open(RULES_FILE, 'w', encoding='utf-8') as f:
         json.dump(RULES_DATA, f, indent=2, ensure_ascii=False)
@@ -495,4 +504,5 @@ def save_rules():
 
 if __name__ == '__main__':
     save_rules()
+
 

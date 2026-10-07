@@ -371,19 +371,29 @@ class RLColorizerJS {
     getRoomColor(roomTitle, fallback = null) {
         if (!roomTitle) return fallback || "#008000";
         let cleanTitle = roomTitle.replace(/\s*-\s*/g, ' - ').replace(/\s*:\s*/g, ': ').replace(/\s+/g, ' ').trim().toLowerCase();
-        if (this.roomColors[cleanTitle]) {
-            return this.roomColors[cleanTitle];
+        
+        const isSilver = (c) => !c || c.toLowerCase() === '#c0c0c0' || c.toLowerCase() === '#cccccc' || c.toLowerCase() === '#d4d4d4' || c.toLowerCase() === 'silver';
+
+        let col = this.roomColors[cleanTitle];
+        if (col && !isSilver(col)) {
+            return col;
         }
+
         if (cleanTitle.includes(':')) {
             const zone = cleanTitle.split(':')[0].trim();
-            if (this.roomColors[zone]) return this.roomColors[zone];
+            col = this.roomColors[zone];
+            if (col && !isSilver(col)) return col;
         }
+
         if (cleanTitle.includes(' - ')) {
             const zone = cleanTitle.split(' - ')[0].trim();
-            if (this.roomColors[zone]) return this.roomColors[zone];
+            col = this.roomColors[zone];
+            if (col && !isSilver(col)) return col;
         }
-        return fallback;
+
+        return fallback || "#008000";
     }
+
 
     _renderRoomExits(m) {
         const promptSym = m[1];

@@ -1,7 +1,3 @@
-"""
-Mines all room names and their colors from 136 sighted logs and 26 accessibility logs.
-Extracts full room titles (before [exits] or (exits)) supporting both <font color> and <span style="color">.
-"""
 import re
 import html
 import json
@@ -12,40 +8,10 @@ BASE_DIR = Path(r"C:\Users\Compumar\mud_colorizer")
 COLORED_DIR = BASE_DIR / "cache_colored"
 ACC_DIR = BASE_DIR / "accessibility_logs"
 
-NAMED_COLORS = {
-    'green': '#008000',
-    'darkgreen': '#008000',
-    'yellow': '#ffff00',
-    'cyan': '#00ffff',
-    'blue': '#0000ff',
-    'red': '#ff0000',
-    'white': '#ffffff',
-    'gray': '#808080',
-    'grey': '#808080',
-    'magenta': '#ff00ff',
-    'teal': '#008080',
-    'silver': '#c0c0c0',
-}
-
-
-def normalize_color(col_str):
-    if not col_str:
-        return "#008000"
-    col_str = col_str.strip().lower()
-    if col_str in NAMED_COLORS:
-        return NAMED_COLORS[col_str]
-    m_rgb = re.search(r'rgb\(\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)\s*\)', col_str)
-    if m_rgb:
-        r, g, b = int(m_rgb.group(1)), int(m_rgb.group(2)), int(m_rgb.group(3))
-        return f"#{r:02x}{g:02x}{b:02x}"
-    if col_str.startswith('#'):
-        if len(col_str) == 4:
-            return f"#{col_str[1]*2}{col_str[2]*2}{col_str[3]*2}"
-        if col_str == '#008888':
-            return '#008080'
-        return col_str[:7]
-    return "#008000"
-
+tag_token_re = re.compile(r'(<[^>]+>|[^<]+)')
+color_attr_re = re.compile(r'(?:color=[\'"]?([^\'"\s>]+)[\'"]?|color:\s*([^;\'"\s>]+))', re.I)
+exit_regex = re.compile(r'[\[\(]([a-zA-ZáéíóúÁÉÍÓÚ,\|\s-]+)[\]\)]')
+valid_dirs = {'n', 's', 'e', 'o', 'ne', 'no', 'se', 'so', 'ar', 'ab', 'arriba', 'abajo', 'norte', 'sur', 'este', 'oeste', 'sudoeste', 'sudeste', 'noreste', 'noroeste', 'entrar', 'salir', 'subir', 'bajar'}
 
 def clean_room_name(raw_name):
     t = re.sub(r'<[^>]+>', '', raw_name)
@@ -60,13 +26,6 @@ def clean_room_name(raw_name):
     t = re.sub(r'\s+', ' ', t)
     return t.strip()
 
-
-tag_token_re = re.compile(r'(<[^>]+>|[^<]+)')
-color_attr_re = re.compile(r'(?:color=[\'\"]?([^\'\"\s>]+)[\'\"]?|color:\s*([^;\'\"\s>]+))', re.I)
-exit_regex = re.compile(r'[\[\(]([a-zA-ZáéíóúÁÉÍÓÚ,\|\s-]+)[\]\)]')
-valid_dirs = {'n', 's', 'e', 'o', 'ne', 'no', 'se', 'so', 'ar', 'ab', 'arriba', 'abajo', 'norte', 'sur', 'este', 'oeste', 'sudoeste', 'sudeste', 'noreste', 'noroeste', 'entrar', 'salir', 'subir', 'bajar'}
-
-
 def parse_styled_spans(chunk_html):
     color_stack = []
     spans = []
@@ -76,28 +35,108 @@ def parse_styled_spans(chunk_html):
                 if color_stack:
                     color_stack.pop()
             elif token.startswith('<font') or token.startswith('<span'):
+                is_bold = ('font-weight:bold' in token.lower() or 'font-weight: bold' in token.lower())
                 m = color_attr_re.search(token)
                 if m:
-                    col = normalize_color(m.group(1) or m.group(2))
-                    color_stack.append(col)
+                    raw_c = (m.group(1) or m.group(2)).strip().lower()
+                    if '192,192,192' in raw_c or raw_c in ['silver', '#c0c0c0']:
+                        c = '#ffffff' if is_bold else '#c0c0c0'
+                    elif '255,255,255' in raw_c or raw_c in ['white', '#ffffff']:
+                        c = '#ffffff'
+                    elif '255,255,0' in raw_c or raw_c in ['yellow', '#ffff00']:
+                        c = '#ffff00'
+                    elif '0,255,0' in raw_c or raw_c in ['lime', '#00ff00']:
+                        c = '#00ff00'
+                    elif '0,128,0' in raw_c or '0,136,0' in raw_c or raw_c in ['green', '#008000', 'darkgreen']:
+                        c = '#008000'
+                    elif '0,255,255' in raw_c or raw_c in ['cyan', '#00ffff']:
+                        c = '#00ffff'
+                    elif '0,128,128' in raw_c or '0,136,136' in raw_c or raw_c in ['teal', '#008080', '#008888']:
+                        c = '#008080'
+                    elif '128,128,0' in raw_c or '113,113,0' in raw_c or '136,136,0' in raw_c or raw_c in ['olive', '#808000', '#888800']:
+                        c = '#808000'
+                    elif '255,0,0' in raw_c or raw_c in ['red', '#ff0000']:
+                        c = '#ff0000'
+                    elif '128,0,0' in raw_c or raw_c in ['maroon', '#800000']:
+                        c = '#800000'
+                    elif '0,0,255' in raw_c or raw_c in ['blue', '#0000ff']:
+                        c = '#0000ff'
+                    elif '128,0,128' in raw_c or raw_c in ['purple', '#800080']:
+                        c = '#800080'
+                    else:
+                        c = '#008000'
+                    color_stack.append(c)
                 else:
-                    color_stack.append(color_stack[-1] if color_stack else None)
+                    color_stack.append('#ffffff' if is_bold else (color_stack[-1] if color_stack else None))
         else:
-            text = html.unescape(token)
-            if text:
-                spans.append((color_stack[-1] if color_stack else None, text))
+            txt = html.unescape(token)
+            if txt:
+                spans.append((color_stack[-1] if color_stack else None, txt))
     return spans
 
+def infer_fallback_color(title_lower):
+    """Infers the best RL color for a room based on its zone and terrain keywords."""
+    if title_lower.startswith("anduar:"):
+        return "#ffffff"
+    if "senda de las colinas de anduar" in title_lower or "campos de anduar" in title_lower:
+        return "#ffffff"
+    if "exterior de anduar" in title_lower or "ruinas de la muralla" in title_lower:
+        return "#ffff00"
+    if title_lower == "senda del alba":
+        return "#ffffff"
+    if title_lower == "campos de cultivo":
+        return "#ffff00"
+    if "golthur" in title_lower or "erial" in title_lower or "catacumbas" in title_lower or "cueva" in title_lower or "caverna" in title_lower or "subterr" in title_lower:
+        return "#808000"
+    if "aethia" in title_lower:
+        return "#00ff00"
+    if "pueblo de naduk" in title_lower or "naduk" in title_lower:
+        return "#ffff00"
+    if "catedral" in title_lower or "templo" in title_lower or "avenida" in title_lower or "calle" in title_lower or "plaza" in title_lower:
+        return "#ffffff"
+    if "camino" in title_lower or "senda" in title_lower or "puente" in title_lower or "carretera" in title_lower:
+        return "#008080"
+    if "lago" in title_lower or "río" in title_lower or "rio" in title_lower or "orilla" in title_lower or "mar" in title_lower or "playa" in title_lower:
+        return "#0000ff"
+    return "#008000"
 
-def mine_rooms():
+def select_best_room_color(spans, full_title):
+    title_lower = full_title.lower()
+    if title_lower.startswith("anduar:"):
+        return "#ffffff"
+    if "senda de las colinas de anduar" in title_lower or "campos de anduar" in title_lower:
+        return "#ffffff"
+    if "exterior de anduar" in title_lower or "ruinas de la muralla" in title_lower:
+        return "#ffff00"
+    if title_lower == "senda del alba":
+        return "#ffffff"
+    if title_lower == "campos de cultivo":
+        return "#ffff00"
+        
+    valid_colored_spans = []
+    for col, txt in spans:
+        letters = re.sub(r'[^a-zA-ZáéíóúÁÉÍÓÚñÑüÜËë]', '', txt)
+        if len(letters) >= 2 and col:
+            valid_colored_spans.append((col, len(letters), txt))
+            
+    # Exclude default terminal silver/gray #c0c0c0, #cccccc
+    vibrant = [s for s in valid_colored_spans if s[0] not in ['#c0c0c0', '#cccccc', '#d4d4d4', '#808080']]
+    if vibrant:
+        weights = Counter()
+        for col, weight, txt in vibrant:
+            weights[col] += weight
+        return weights.most_common(1)[0][0]
+        
+    # If no vibrant color in spans, infer appropriate fallback
+    return infer_fallback_color(title_lower)
+
+def build_full_catalog():
     html_files = sorted(COLORED_DIR.glob("*.html"))
-    print(f"Mining rooms from {len(html_files)} sighted HTML logs...")
-
-    room_colors = {} # canonical_name_lower -> Counter(colors)
-    room_casing = {} # canonical_name_lower -> canonical_name
+    room_colors = {}
+    room_casing = {}
 
     for f in html_files:
-        content = f.read_text(encoding='utf-8')
+        content = f.read_text(encoding='utf-8', errors='ignore')
         chunks = re.split(r'<br\s*/?>|\n', content)
         for chunk in chunks:
             chunk = chunk.strip()
@@ -122,25 +161,14 @@ def mine_rooms():
                 continue
 
             spans = parse_styled_spans(before_exits_html)
-            room_color = None
-            for col, txt in spans:
-                letters = re.sub(r'[^a-zA-ZáéíóúÁÉÍÓÚñÑüÜËë]', '', txt)
-                if len(letters) >= 3 and col:
-                    room_color = col
-                    break
-            if not room_color:
-                room_color = '#008000'
-
+            room_color = select_best_room_color(spans, full_title)
             key = full_title.lower()
-            room_colors.setdefault(key, Counter())[room_color] += 1
-            room_casing[key] = full_title
+            if room_color:
+                room_colors.setdefault(key, Counter())[room_color] += 1
+                room_casing[key] = full_title
 
-    sighted_count = len(room_colors)
-    print(f"Extracted {sighted_count} unique room titles from sighted logs!")
-
-    # Also parse accessibility logs for extra room names
+    # Add rooms from accessibility logs
     acc_files = sorted(ACC_DIR.glob("*.txt"))
-    acc_count = 0
     for f in acc_files:
         lines = f.read_text(encoding='utf-8', errors='replace').splitlines()
         for line in lines:
@@ -163,12 +191,9 @@ def mine_rooms():
                     continue
                 key = full_title.lower()
                 if key not in room_colors:
-                    room_colors[key] = Counter({'#008000': 1})
+                    col = infer_fallback_color(key)
+                    room_colors[key] = Counter({col: 1})
                     room_casing[key] = full_title
-                    acc_count += 1
-
-    print(f"Added {acc_count} extra rooms from accessibility logs!")
-    print(f"Total catalog: {len(room_colors)} unique rooms!")
 
     catalog = {}
     for key, counter in room_colors.items():
@@ -176,20 +201,44 @@ def mine_rooms():
         best_color, count = counter.most_common(1)[0]
         catalog[canonical_name] = best_color
 
+    # Add zone fallback definitions directly into catalog
+    zone_defaults = {
+        "anduar": "#ffffff",
+        "exterior de anduar": "#ffff00",
+        "ruinas de la muralla": "#ffff00",
+        "ruinas de la muralla de anduar": "#ffff00",
+        "ruinas de la muralla este de anduar": "#ffff00",
+        "ruinas de la muralla norte de anduar": "#ffff00",
+        "ruinas de la muralla oeste de anduar": "#ffff00",
+        "ruinas de la muralla sur de anduar": "#ffff00",
+        "takome": "#ffffff",
+        "pueblo de naduk": "#ffff00",
+        "aethia": "#00ff00",
+        "grimoszk": "#00ff00",
+        "galador": "#ffffff",
+        "catedral de eralie": "#ffffff",
+        "catedral de seldar": "#008000",
+        "bosque de orgoth": "#008000",
+        "golthur orod": "#808000",
+        "erial de los condenados": "#808000",
+    }
+    for z, c in zone_defaults.items():
+        if z not in [k.lower() for k in catalog]:
+            catalog[z] = c
+
+    # Save to rooms.json
     out_file = BASE_DIR / "rooms.json"
     with open(out_file, 'w', encoding='utf-8') as f:
         json.dump(catalog, f, indent=2, ensure_ascii=False)
 
-    print(f"\nSaved {len(catalog)} rooms to {out_file}")
-
-    print("\nColor distribution:")
-    for col, cnt in Counter(catalog.values()).most_common():
-        print(f"  {col}: {cnt} rooms")
-
-    print("\nSample rooms from catalog (first 30):")
-    for r, col in sorted(list(catalog.items()))[:30]:
-        print(f"  {r:<50} -> {col}")
-
+    print(f"Total catalog size: {len(catalog)} rooms saved to {out_file}!")
+    dist = Counter(catalog.values())
+    print("\nColor distribution in new catalog:")
+    for c, cnt in dist.most_common():
+        print(f"  {c}: {cnt}")
+        
+    c0_count = sum(1 for v in catalog.values() if v in ['#c0c0c0', '#cccccc', '#d4d4d4'])
+    print(f"\nRooms with #c0c0c0 in catalog: {c0_count} (Must be 0!)")
 
 if __name__ == '__main__':
-    mine_rooms()
+    build_full_catalog()

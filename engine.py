@@ -325,17 +325,25 @@ class RLColorizer:
             return fallback or "#008000"
         clean_title = re.sub(r'\s+', ' ', re.sub(r'\s*-\s*', ' - ', room_title)).strip().lower()
         clean_title = re.sub(r'\s*:\s*', ': ', clean_title)
-        if clean_title in self.room_colors:
-            return self.room_colors[clean_title]
+        
+        col = self.room_colors.get(clean_title)
+        if col and col.lower() not in ['#c0c0c0', '#cccccc', '#d4d4d4', 'silver']:
+            return col
+            
         if ':' in clean_title:
             zone = clean_title.split(':')[0].strip()
-            if zone in self.room_colors:
-                return self.room_colors[zone]
+            col = self.room_colors.get(zone)
+            if col and col.lower() not in ['#c0c0c0', '#cccccc', '#d4d4d4', 'silver']:
+                return col
+                
         if ' - ' in clean_title:
             zone = clean_title.split(' - ')[0].strip()
-            if zone in self.room_colors:
-                return self.room_colors[zone]
-        return fallback
+            col = self.room_colors.get(zone)
+            if col and col.lower() not in ['#c0c0c0', '#cccccc', '#d4d4d4', 'silver']:
+                return col
+                
+        return fallback or "#008000"
+
 
     def _render_room_exits(self, m):
         prompt_sym, room_title, exits = m.groups()
